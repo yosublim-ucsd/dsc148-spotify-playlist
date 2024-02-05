@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: NOVELISTS",
-  "num_followers": 650478,
+  "num_followers": 650296,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjg2MDNhY2RmYThmMmI3N2QyMDIyZjI3ZDk3ZDZiYjQ0Njk4MTdi",
+  "snapshot_id": "MCw0YWFjZTBkYjhmY2UwZTAyOGU2YzljNDc0NjczM2JjNmIwYmM0ZTAw",
   "tracks": [
     {
       "added_at": "2023-09-15 12:26:41",
@@ -575,22 +575,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
-        "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
       "artists": [
         {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        },
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
         }
       ],
-      "duration_ms": 148500,
-      "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
-      "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -611,18 +607,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+        "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
+        "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
       "artists": [
         {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        },
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
+      "duration_ms": 148500,
+      "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
+      "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
         "name": "MY MASOCHISTIC MIND",
         "url": "https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 116750,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0LIKFnTpKGhbxZUIRzsZ5G"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Tsunami (11:11)",
+        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 188823,
+      "name": "Tsunami (11:11)",
+      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Tsunami (11:11)",
-        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 188823,
-      "name": "Tsunami (11:11)",
-      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
+    },
+    {
+      "added_at": "2023-09-15 12:26:41",
+      "album": {
         "name": "Cover You",
         "url": "https://open.spotify.com/album/0R2eg8Lp8Pp80Aa9KTJaQ3"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 181853,
       "name": "Cover You",
       "url": "https://open.spotify.com/track/2WEMin1qNkcJUtYiviSIka"
-    },
-    {
-      "added_at": "2023-09-15 12:26:41",
-      "album": {
-        "name": "Pigs",
-        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
-      },
-      "artists": [
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Pigs",
-      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     },
     {
       "added_at": "2023-09-15 12:26:41",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-09-15 12:26:41",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
+        "name": "Pigs",
+        "url": "https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva"
+      "duration_ms": 233000,
+      "name": "Pigs",
+      "url": "https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV"
     },
     {
       "added_at": "2023-09-15 12:26:41",

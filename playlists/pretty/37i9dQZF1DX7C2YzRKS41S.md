@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,320 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,386 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 56 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
 | 57 | [Meant For Me](https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Along The Way](https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ) | 3:15 |
 | 58 | [Telefonía](https://open.spotify.com/track/7zSBOSD4w5LGv1bIblkVFp) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:04 |
-| 59 | [Long Time Ago](https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt) | 3:02 |
-| 60 | [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 |
+| 59 | [Certeza \- Acústico](https://open.spotify.com/track/1GK98aTl2dzvvHqpFw0euo) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Certeza](https://open.spotify.com/album/6x8Xo3rloxQEy8xIBumNvC) | 2:48 |
+| 60 | [Long Time Ago](https://open.spotify.com/track/5KkaczeDlUwo6cDTVaR6ca) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/1SIKqNL4h5Pq6fvnDOlfdt) | 3:02 |
 
-Snapshot ID: `MCwyYWRkZmIzNGM3NWZhYWQ2YmUxYmE4MDA1NjhhNmQ1ZGQxZWE0N2Vl`
+Snapshot ID: `MCw0YjIxYzUyZGI3N2U3NzhlNDQxMmE5OWUyN2ZmYmZjNGQxNmIwYzM2`

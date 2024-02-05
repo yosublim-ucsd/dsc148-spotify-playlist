@@ -1462,10 +1462,28 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 424532,
       "name": "Casket of Rust",
       "url": "https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD"
+    },
+    {
+      "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424532,
+      "name": "Casket of Rust",
+      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
     },
     {
       "album": {
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 203706,
       "name": "Into the Abyss",
       "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
@@ -5226,6 +5244,28 @@
       "duration_ms": 326256,
       "name": "King Of Ruination",
       "url": "https://open.spotify.com/track/1eRZe6B0f1HZXqcWPF3z4K"
+    },
+    {
+      "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+        }
+      ],
+      "date_added": "2024-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326256,
+      "name": "King of Ruination",
+      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
     },
     {
       "album": {

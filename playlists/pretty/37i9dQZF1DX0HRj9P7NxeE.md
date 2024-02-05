@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,890 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,558 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 5 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
 | 6 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 7 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
-| 8 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 |
-| 9 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 8 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
+| 9 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 |
 | 10 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 |
 | 11 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
 | 12 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
 | 50 | [I Can't Stop \(Big Boss Vette & Omah Lay\)](https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:13 |
 
-Snapshot ID: `MCxjMjk0NWEyYTRhYzdhOGIwODU2MWVjMGM1MjVkODRiMDhlOTZlNDk3`
+Snapshot ID: `MCxmMDA4MjI5MjVmNjUwNzVjNGVjNTJkNmY4N2JiZDg2MzIxMTlkOTRj`

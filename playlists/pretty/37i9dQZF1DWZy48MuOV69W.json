@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73767,
+  "num_followers": 73751,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFmZDJiMjkwYjk5NDY4Y2RlN2M5MmU3YTFlOWU3YjlhZDNjMjMw",
+  "snapshot_id": "MCwyZWNjMjRhNmNhYzk2OWFjOWUzMWVkOGZkMWM1NTFmN2JjYTVlOTZl",
   "tracks": [
     {
       "added_at": "2023-12-19 12:10:20",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "Bing's Gold Records - The Original Decca Recordings",
+        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Christmas With The Andrews Sisters",
         "url": "https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 192800,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "Bing's Gold Records - The Original Decca Recordings",
-        "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
+        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "The First Snowfall",
+      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 300586,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "The Voice Of Christmas - The Complete Decca Christmas Songbook",
-        "url": "https://open.spotify.com/album/2FQOz20SAkrmTXtce20DFA"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "The First Snowfall",
-      "url": "https://open.spotify.com/track/5RIh3Tsq9U7CAvivB2iB7q"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
       },
@@ -763,26 +779,6 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "Pretty Swingin' Christmas",
-        "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
-      },
-      "artists": [
-        {
-          "name": "David Tobin",
-          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
-        },
-        {
-          "name": "Jeff Meegan",
-          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
-        }
-      ],
-      "duration_ms": 129042,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
         "name": "Season's Greetings",
         "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
       },
@@ -811,6 +807,26 @@
       "duration_ms": 178613,
       "name": "Christmas Morning",
       "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
+        "name": "Pretty Swingin' Christmas",
+        "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
+      },
+      "artists": [
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        },
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        }
+      ],
+      "duration_ms": 129042,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -935,34 +951,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3"
-      },
-      "artists": [
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Canterbury Cathedral Girls' Choir",
+          "url": "https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4"
         }
       ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL"
+      "duration_ms": 248746,
+      "name": "Rest in Peace",
+      "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-82 songs - 13 hr 59 min
+83 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Edumare Soro Mi Dayo](https://open.spotify.com/track/4pEkHTDnQCL8ZueyeUytzL) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Board Members](https://open.spotify.com/album/1AjpzZFOINVgNGQT9FmEG5) | 18:51 | 2021-12-28 |  |
 | [Egba \(Juju Yoruba\)](https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:24 | 2021-12-28 |  |
 | [Eni Duro Railway Medle \(Part 2\)](https://open.spotify.com/track/2NSXDpuRC58pOaKp5rY8WG) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Eni Duro Railway](https://open.spotify.com/album/1QAKz6PEAUnkIcDNib6Z9B) | 19:38 | 2024-01-21 | 2024-02-03 |
+| [Eni Rin Nkan He](https://open.spotify.com/track/0V6qPfxP4BbTzT66FYDG7n) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 2](https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95) | 19:58 | 2024-02-04 |  |
 | [Eni to Ba Mbe Laye Medley \(Part 1\)](https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Victory](https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX) | 17:25 | 2022-09-22 |  |
 | [Enia Lasan](https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:10 | 2021-12-28 |  |
 | [Ero Mi Ko Lonso](https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |
@@ -84,7 +85,7 @@
 | [Ota Mi Dehin Lehin Mi Medley \(Part 1\)](https://open.spotify.com/track/2I10fPjb0qae4IMDVBs7gk) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ota Mi Dehin Lehin Mi](https://open.spotify.com/album/67vvBba9qbOa5L7pXttWy5) | 19:02 | 2021-12-28 |  |
 | [Owolo Laiye Mo](https://open.spotify.com/track/3ZK6KFVAPvpgpYAR4YAkRy) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 3:03 | 2021-12-28 |  |
 | [Palongo](https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 2:51 | 2021-12-28 | 2024-01-25 |
-| [Pegan Pegan](https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 2:58 | 2021-12-28 |  |
+| [Pegan Pegan](https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 2:58 | 2021-12-28 | 2024-02-05 |
 | [Sanu Olu](https://open.spotify.com/track/76dQXmWk18oZ5bc8lu8YZe) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:51 | 2022-03-22 | 2022-04-26 |
 | [Tajudeen Onigbanjo](https://open.spotify.com/track/1JOyGXpmFTu9FGhKhOO1Wp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 4:28 | 2021-12-28 | 2023-12-24 |
 | [The Horse, The Man & The Son](https://open.spotify.com/track/281tnU6RD0BZbn33n6CbzQ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 19:33 | 2021-12-28 | 2023-08-26 |

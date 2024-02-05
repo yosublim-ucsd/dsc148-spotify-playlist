@@ -1,12 +1,12 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 307264,
+  "num_followers": 307282,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2VmMTkxZmRmYjVlYTE5MzdiOTFlYzk0YzVkNmQ4ZWViN2RkNTUx",
+  "snapshot_id": "MCwyNmQ1Nzc2YTU2Njg3MWI1ZjBmMDBlOWI0YzdmMzgwNDU2NzA5ZWYx",
   "tracks": [
     {
       "added_at": "2022-07-12 10:53:53",
@@ -815,18 +815,22 @@
     {
       "added_at": "2022-07-12 10:53:53",
       "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
         {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 151133,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9"
+      "duration_ms": 262521,
+      "name": "Say It (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
     }
   ],
   "unique_name": "Aussie BBQ",

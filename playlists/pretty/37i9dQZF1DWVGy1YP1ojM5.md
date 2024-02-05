@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,892 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045,872 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 39 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
 | 40 | [Water](https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:02 |
 | 41 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
-| 42 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
-| 43 | [Moonlight](https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:40 |
+| 42 | [Moonlight](https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases III \- EP](https://open.spotify.com/album/1bLdis3p35wB1HX2ODuKhO) | 2:40 |
+| 43 | [Stretch You Out \(feat\. A Boogie wit da Hoodie\)](https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 |
 | 44 | [Come Over \(feat\. Tank\)](https://open.spotify.com/track/28RaFrB9gSS48XXumZMobc) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 3:55 |
 | 45 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
 | 46 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 64 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 65 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
 | 66 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
-| 67 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 68 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
+| 67 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
+| 68 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 69 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 70 | [Best Ever \(feat\. Maeta\)](https://open.spotify.com/track/3bBJwS2VX6G0L4wnOtrYUS) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [11:11](https://open.spotify.com/album/0CvhgTLytPcvNQ8IpMHRwL) | 2:32 |
 | 71 | [Moan](https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 74 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 75 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
 
-Snapshot ID: `MCwxNzZhNTVmNjAyYzBmMWQ5NGIwMDBjZTk3MTg5M2JlY2Y5Mzk2YzM3`
+Snapshot ID: `MCxhYjAzOWRjMmNhZGFhZTc5NzI5NjFjNDcxMWY5NTQzNjhhZWI1YzVi`

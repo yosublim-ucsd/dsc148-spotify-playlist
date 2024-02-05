@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,877 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,824 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 7 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
 | 8 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 9 | [SANTOBELLAKO](https://open.spotify.com/track/1CbyWChnprjBBbPFAQXllE) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [SANTOBELLAKO](https://open.spotify.com/album/41HE8taCCJIQEysYp0nEzd) | 2:36 |
-| 10 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
+| 10 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
 | 11 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
 | 12 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 |
 | 13 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 20 | [estrella$ en el techo](https://open.spotify.com/track/09RdJb9LlrVyNDyaSr2yF8) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [estrella$ en el techo](https://open.spotify.com/album/77BE6SvUOdy6ICjDpBKGqK) | 2:20 |
 | 21 | [Kafka](https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Kafka](https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7) | 2:33 |
 | 22 | [ESPEJO](https://open.spotify.com/track/78ivlNgBz1rX1Cuyxe4nuB) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [YOUNG LEGEND \(UNC\)](https://open.spotify.com/album/2Gv1mcWtKVPCKiiyLBmfJv) | 2:25 |
-| 23 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
+| 23 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 24 | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5) | 3:19 |
 | 25 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 |
 | 26 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 84 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 |
 | 85 | [El Último Beso](https://open.spotify.com/track/2HZZfwzwvd6e8FzhSRm6rF) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 3:17 |
 | 86 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
-| 87 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 |
-| 88 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
+| 87 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 |
+| 88 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 |
 | 89 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 90 | [La Verde](https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Verde](https://open.spotify.com/album/05d4pEdbkJIdAtMy9xIokx) | 3:01 |
 | 91 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 100 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 |
 
-Snapshot ID: `MCwwNWFmM2ZlZjAzNTMwMWU0ODU4ZDcxOTdkNmIyNmNmZGU0M2I0NGE4`
+Snapshot ID: `MCxjN2JmN2MxMTEwNmU4MjE4NjBmMTFjN2UyNGFjYzcxMjgyNzIwZjVm`

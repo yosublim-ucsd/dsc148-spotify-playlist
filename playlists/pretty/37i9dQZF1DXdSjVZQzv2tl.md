@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: George Henrique & Rodrigo, Guilherme & Benuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,649,316 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,644,037 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo\)](https://open.spotify.com/album/14GC6d6HNAE3AZEItOG0kc) | 2:24 |
 | 50 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
 
-Snapshot ID: `MCw4ZjcxNjk5OTg4YmU1ODZmZGI4NGQ0YjQ5MDJjMjgwOTc1YzAzMTEy`
+Snapshot ID: `MCw1MjNiODQ4Mjk5OTkwZTFjYTUxMTM1MWI0ZDExM2MwZWVjYjM0ZjJj`

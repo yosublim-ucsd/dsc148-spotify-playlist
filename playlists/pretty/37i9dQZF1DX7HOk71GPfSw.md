@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,524 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,551 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 34 | [How Bout That?](https://open.spotify.com/track/54riuKMI3vMNM3nZX8Jlb2) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [coma](https://open.spotify.com/album/6Oku0pq5fPkyexioJMD6pG) | 1:47 |
 | 35 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 36 | [if you didnt want me](https://open.spotify.com/track/50TTdw1ApYVu93RW0gKq1e) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [if you didnt want me](https://open.spotify.com/album/5X0wn04hB2EQxTmPKYVdKu) | 2:34 |
-| 37 | [Cyberia](https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Cyberia](https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T) | 2:41 |
+| 37 | [Cyberia](https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:41 |
 | 38 | [roll it down](https://open.spotify.com/track/60YXipkRAfg54PRGVPyBmp) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [roll it down](https://open.spotify.com/album/1GvPMBHnPFLOFPldATe7wQ) | 2:57 |
 | 39 | [blue](https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [sport 2.0](https://open.spotify.com/album/6fwu1wQfVbGrwrcCJgRQ85) | 1:56 |
 | 40 | [two am](https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [a night in virginia](https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG) | 1:53 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 74 | [Poster Girl](https://open.spotify.com/track/0uMuqJ8C94se50maCXGS1q) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Poster Girl](https://open.spotify.com/album/3ntPrJhjhD6pjmhw3OSNtP) | 3:43 |
 | 75 | [amends](https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [amends](https://open.spotify.com/album/4eVKslgPopgYARIH7TiSPX) | 2:38 |
 | 76 | [NO SOY BLADEE](https://open.spotify.com/track/1X5p1jbnc7GJcz5pUGbWSH) | [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [LA ESKINA DEL ESTANKE](https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF) | 1:14 |
-| 77 | [Mantis](https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Mantis](https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD) | 2:31 |
+| 77 | [Mantis](https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:31 |
 | 78 | [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/track/25NKkvS9TA1Ftvm6YgcyJu) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [New Beginning \(Water From Your Eyes Remix\)](https://open.spotify.com/album/7ibRuWSlOgG0pA7c6cs1qN) | 3:11 |
 | 79 | [babytooth](https://open.spotify.com/track/5efEKdV6428nEodNHEM7oT) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [dy.wsh](https://open.spotify.com/artist/2I8vJYpHksVmKlGheUOux7) | [babytooth](https://open.spotify.com/album/0MwPVSKBHX6CEM47FgRZrY) | 3:19 |
 | 80 | [ROTTEN](https://open.spotify.com/track/6se5Ti2TLMi7wO7AolPF1B) | [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [ROTTEN](https://open.spotify.com/album/4QOHx2nwkcal8aWhL3LNhf) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 100 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCwxZWE1MzVkZDEwYmFiNTA2YWI0ZDQ5ZjdjOGVjMDUwNzU4ZDQ3OThi`
+Snapshot ID: `MCwyZGRlYWY5NTZhMjdiMDIwYjNlOWFhYmExYzRhMTQwYjhhOWRkNDVk`

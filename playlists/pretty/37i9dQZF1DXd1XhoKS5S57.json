@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 12237,
+  "num_followers": 12244,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjEwYjJmYTMxY2JiM2JmNjUxZjFiNjgwN2NlNGQxZTYwYjhmZGM1",
+  "snapshot_id": "MCw3NGQ5NmZkZjFkZDg0M2E5ZjZiZTUzMWEwZTA3YWFmYTdjOTAyYTQ3",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -99,22 +99,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -247,22 +247,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "My Immortal",
-      "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "My Immortal",
+      "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
     },
     {
       "added_at": "2020-10-27 12:12:52",

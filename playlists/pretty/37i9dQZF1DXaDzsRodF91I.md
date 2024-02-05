@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,696 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,737 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 30 | [Drops of Jupiter](https://open.spotify.com/track/32tZzOvxYJCdWldAiPp6Ru) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Drops of Jupiter](https://open.spotify.com/album/2PageYu8AaaivgbJzwCvuj) | 4:04 |
 | 31 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 | 32 | [Stay](https://open.spotify.com/track/6xoWFSJYtBP9wemRCXbnFg) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Stay](https://open.spotify.com/album/4oNC3ZIGRHUP4Jhj3szhGh) | 2:18 |
-| 33 | [Given Up](https://open.spotify.com/track/3tngL99r8ngDuEUBlTWgPk) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Given Up](https://open.spotify.com/album/3yOPXQIb16Hh0JPABumxy7) | 3:21 |
-| 34 | [Can’t Feel My Face](https://open.spotify.com/track/2TZu0eg6gBNwbqPyzSDqnf) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:21 |
+| 33 | [Can’t Feel My Face](https://open.spotify.com/track/2TZu0eg6gBNwbqPyzSDqnf) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:21 |
+| 34 | [Given Up](https://open.spotify.com/track/3tngL99r8ngDuEUBlTWgPk) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Songs That Saved My Life](https://open.spotify.com/artist/5iSHjwO8V2QSAerrusSe3i) | [Given Up](https://open.spotify.com/album/3yOPXQIb16Hh0JPABumxy7) | 3:21 |
 | 35 | [Save That Shit](https://open.spotify.com/track/7xsP4KbYxGu47YKaQAsQhs) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Save That Shit](https://open.spotify.com/album/2ye7jsAZu0DuUHjrG5bUY9) | 3:36 |
 | 36 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
 | 37 | [My Own Worst Enemy](https://open.spotify.com/track/28DVBHTfrD0pFK5EpcwevN) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:00 |
 | 38 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 |
-| 39 | [XO Tour Llif3](https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [XO Tour Llif3](https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR) | 3:00 |
-| 40 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 |
+| 39 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 |
+| 40 | [XO Tour Llif3](https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [XO Tour Llif3](https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR) | 3:00 |
 | 41 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 42 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 |
 | 43 | [Closer](https://open.spotify.com/track/2Mfg9VKNW2txe2gNjIi1Az) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 4:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 45 | [The kids aren't alright](https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Kill us all](https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF) | 3:00 |
 | 46 | [Hot Girl Bummer](https://open.spotify.com/track/4NFUmJY3lp5pCk5UB3nLdK) | [ANSON](https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 3:26 |
 | 47 | [Look What You Made Me Do](https://open.spotify.com/track/2z7EQG8IckuFX0vRCiW0kk) | [Keeping Secrets](https://open.spotify.com/artist/2Gp5P3qR66AP7AJ7firOB8) | [Look What You Made Me Do](https://open.spotify.com/album/3i61YI0if4khSlVvMdp8BE) | 3:35 |
-| 48 | [I Want You Back](https://open.spotify.com/track/6N3HXCGF9y76A9l5zJYeJe) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [I Want You Back](https://open.spotify.com/album/7EzaGbmp7UEWJUutJgatjz) | 2:49 |
-| 49 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 |
+| 48 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 |
+| 49 | [I Want You Back](https://open.spotify.com/track/6N3HXCGF9y76A9l5zJYeJe) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [I Want You Back](https://open.spotify.com/album/7EzaGbmp7UEWJUutJgatjz) | 2:49 |
 | 50 | [All Too Well](https://open.spotify.com/track/0N1vWuNWIbUsPp9gK9kwhv) | [Dan Campbell](https://open.spotify.com/artist/0Sq6ZIWDzx9P76abl8svUr) | [All Too Well](https://open.spotify.com/album/1v1IprTRlmXdlb2B79A2ch) | 4:55 |
 | 51 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
 | 52 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 74 | [Here with Me](https://open.spotify.com/track/4P1bWG46ggUx3kOdnDEAfs) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 2:29 |
 | 75 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 |
 | 76 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
-| 77 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
-| 78 | [Watermelon Sugar](https://open.spotify.com/track/3RAzJMkJ8CfcYKhBd4jkBd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Watermelon Sugar](https://open.spotify.com/album/2UIqSGy3mJrKvAynN2y3Lj) | 3:51 |
+| 77 | [Watermelon Sugar](https://open.spotify.com/track/3RAzJMkJ8CfcYKhBd4jkBd) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Watermelon Sugar](https://open.spotify.com/album/2UIqSGy3mJrKvAynN2y3Lj) | 3:51 |
+| 78 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
 | 79 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
 | 80 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
 | 81 | [Two Tickets To Paradise \(2006\)](https://open.spotify.com/track/4m9sbj1CNZw5ANg1YTflH4) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:15 |
-| 82 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 83 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
+| 82 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
+| 83 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 84 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 85 | [A.M\. 180](https://open.spotify.com/track/0t3Cq3PPfh4iiGgl9nqqIl) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/1ScSdROUF5jqyEUWzS1mjR) | 3:03 |
 | 86 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 100 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
 
-Snapshot ID: `MCxkYzQ1ZGI2ZjU5Mjk1ZmM0NzU3ZThlNjBmMjJlMDRmNzdhMjNiYTkx`
+Snapshot ID: `MCxkZTgzM2I0MmIwOTIxNTk3ODNhNjEwMDBhZGUxY2IyOTU3NzI0OGI5`

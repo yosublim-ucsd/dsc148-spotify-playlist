@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,074 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,122 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 5 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
 | 6 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 |
 | 7 | [Let Go](https://open.spotify.com/track/6sxBh5RVUA3IP5i93WLIDn) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Let Go](https://open.spotify.com/album/3qnowTLuRg2RxHRztC22DG) | 2:41 |
-| 8 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
+| 8 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 9 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 10 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 | 11 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 |
-| 12 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
+| 12 | [Love is All](https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [The Wild Hunt](https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco) | 4:15 |
 | 13 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 |
 | 14 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 15 | [Brick by Brick](https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN) | [August Green](https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu) | [Brick by Brick](https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz) | 3:38 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 26 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 27 | [Elver](https://open.spotify.com/track/7JFl6iRLynsTPvxWtLswVl) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Elver](https://open.spotify.com/album/00meFMAVQIUMGv8eHp55uG) | 4:27 |
 | 28 | [Never Gonna Walk Away](https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Never Gonna Walk Away](https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI) | 4:18 |
-| 29 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 29 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
 | 30 | [Meet Me In The Forest](https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Songs From The Woods](https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV) | 6:06 |
-| 31 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
+| 31 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
 | 32 | [Skuggor av oss](https://open.spotify.com/track/7mLnXV14Oqu0H4Svh1DWvG) | [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T), [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skuggor av oss](https://open.spotify.com/album/68Z3DsQCy4w1vTHHCB5E3x) | 3:09 |
 | 33 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
 | 34 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 41 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
 | 42 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
 | 43 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 44 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
-| 45 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 44 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
+| 45 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 46 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
 | 47 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 48 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
 | 49 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
 | 50 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:48 |
-| 51 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
-| 52 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 |
-| 53 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
+| 51 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
+| 52 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
+| 53 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 |
 | 54 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
 | 55 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 |
 | 56 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 60 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
 
-Snapshot ID: `MCwxZWM1ZjA3MzQwNDU2ZWZlYTgyYTRjMDI5NmU3Nzk0YjNlNjFhNjE0`
+Snapshot ID: `MCwwMWVmOGRhMDk4NjU4OTE3MTljOWQwMGMyOTI0YWFiOThmZTI4OTVl`

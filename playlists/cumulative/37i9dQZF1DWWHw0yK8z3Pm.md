@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Allison Russell
 
-400 songs - 1 day 0 hr 36 min
+401 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2023-04-21 |  |
 | [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 | 2022-09-09 | 2023-04-22 |
 | [Empty Hands](https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Empty Hands](https://open.spotify.com/album/6z88uxD3m9LV5nEpsJATG3) | 4:21 | 2022-11-11 | 2023-04-22 |
-| [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-08-25 |  |
+| [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-08-25 | 2024-02-05 |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 |  |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-24 |  |
@@ -288,6 +288,7 @@
 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-02 | 2023-08-04 |
 | [Pretending](https://open.spotify.com/track/5sv88ka8oK6lBuhf1hXobI) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 5:39 | 2023-09-22 | 2023-10-22 |
 | [Pretending](https://open.spotify.com/track/7CE2zBO7SCA3416Id6Pzf6) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 5:39 | 2023-10-13 | 2024-01-25 |
+| [Pretending](https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 5:39 | 2024-02-02 |  |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
 | [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 | 2023-04-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,589 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,881 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 15 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 |
 | 16 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 |
 | 17 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
-| 18 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
-| 19 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 18 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 19 | [La Pelinegra](https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Pelinegra](https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO) | 2:35 |
 | 20 | [La Fresa](https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu) | 2:54 |
 | 21 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 |
 | 22 | [Se Habla de un Muchacho](https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Se Habla de un Muchacho](https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD) | 2:57 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 |
 | 51 | [El Rompecabezas](https://open.spotify.com/track/760hkUGHyd0qXtkdogng2Y) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Encienden Las Turbinas](https://open.spotify.com/album/09gKmFiet9HRjZDjRmJ2yB) | 2:56 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmOTk5ZDA2YjEzNTIwN2U0MDcwN2MyNTQyZmJhY2JlYg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA1MmEyZjFjNTNlYjQ1NTdhZjI2ZjkwNzY5MWQ2NzZmOA==`

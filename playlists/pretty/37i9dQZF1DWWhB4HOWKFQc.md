@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Henry Moodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,674 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,190 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
 | 2 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 |
-| 3 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
+| 3 | [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 |
 | 4 | [Cinderella](https://open.spotify.com/track/3nWlfhNCcDhAxlsHmcggEG) | [Radja](https://open.spotify.com/artist/2f1AZeW1r6TUVLagZaRXO5) | [Langkah Baru](https://open.spotify.com/album/6wms9n1gWJVTXIzXL0SzIR) | 3:32 |
 | 5 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 |
 | 6 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 |
 | 75 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 |
 
-Snapshot ID: `MCw1MTMyNjBlYTYzYzc0NWM0YTI1ZjE2ODA0MmY4NjU5OTQ2MDNlYjZh`
+Snapshot ID: `MCxiYjlmN2U2MjFkNGUyOWQ0MWY4ZGFmZDMyMzEyNWQ5YTg0OTZiYWQ5`

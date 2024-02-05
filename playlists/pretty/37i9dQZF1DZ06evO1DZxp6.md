@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,637 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,643 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 44 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
 | 45 | [Si ella me faltara alguna vez \(feat\. Julieta Venegas\)](https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 2:56 |
 | 46 | [Saudade](https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Certa Manha Acordei De Sonhos Intranquilos](https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK) | 3:23 |
-| 47 | [Tu Historia](https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:25 |
-| 48 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
-| 49 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
-| 50 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
-| 51 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
+| 47 | [Debajo de Mi Lengua](https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otra Cosa](https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO) | 2:38 |
+| 48 | [Tu Historia](https://open.spotify.com/track/6iLYRz5jMXoLIqd5YE3uNh) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:25 |
+| 49 | [Suavecito](https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Suavecito](https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz) | 3:03 |
+| 50 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 |
+| 51 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA0NjAyZTgwMzk1N2ZlMTgxNzQyNzYyOGNkMDY3MTZlMw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAwZDAxYmYyMjM0ZjA3ZDNlN2I2YTNjM2FiYzRmZDBjNw==`

@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-587 songs - 1 day 6 hr 38 min
+588 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 | 2023-02-10 | 2023-03-18 |
 | [Must Be Nice \(feat\. Masego\)](https://open.spotify.com/track/2aruTLKMWUxWKHGSncjb5D) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 3:35 | 2021-12-15 | 2022-07-22 |
 | [Must Be Something](https://open.spotify.com/track/3gEeg3lRnlBYbC5lwG8C7R) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Just Called to Say](https://open.spotify.com/album/69MhDrxXT730rSnZ6nmXpt) | 2:34 | 2021-12-15 | 2022-05-16 |
+| [My Luv Freestyle](https://open.spotify.com/track/45V6vfnJyC6Pmi1H4jFPZU) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [S2ML](https://open.spotify.com/album/1G51luYDLyckmDyBuntQdL) | 3:46 | 2022-11-18 |  |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-15 | 2022-07-24 |
 | [Needs & Wants](https://open.spotify.com/track/0X0bYJxGG2NBLH93PQvOi3) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Needs & Wants](https://open.spotify.com/album/0zkjSOELuXwL9w41jcf2WA) | 3:05 | 2023-09-29 |  |
 | [New Nigga](https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 2:29 | 2023-02-24 |  |
@@ -488,7 +489,7 @@
 | [Split](https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Split](https://open.spotify.com/album/252FXpscMwNO4FXh194pf3) | 2:41 | 2023-09-08 | 2023-10-07 |
 | [Stand By Me](https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:03 | 2023-08-25 |  |
 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 | 2023-09-09 |
-| [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 |  |
+| [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 | 2024-02-05 |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Step 2 Me](https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Soulection](https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft) | [Soulection Takeover: 2K23 Edition](https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1) | 1:50 | 2023-01-27 |  |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-12-15 | 2022-07-26 |

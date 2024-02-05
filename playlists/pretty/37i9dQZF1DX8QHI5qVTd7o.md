@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,478 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,486 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 5 | [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 |
 | 6 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
 | 7 | [Five Hours](https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za) | 5:26 |
-| 8 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
-| 9 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
+| 8 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
+| 9 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
 | 10 | [WOW](https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH) | 2:28 |
 | 11 | [Rattle](https://open.spotify.com/track/3uXzBSx2eMKRTEP46SZ2fC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Rattle](https://open.spotify.com/album/6jHJiiVYGWSPI87BFFkpSe) | 4:47 |
 | 12 | [Resurrection \- Axwell's Recut Radio Version](https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Resurrection](https://open.spotify.com/album/57LJYj1EAJ6DmWaRbYZvVA) | 2:46 |
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 30 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
 | 31 | [Yottabyte](https://open.spotify.com/track/1PYsy4cGp3egbeaQDjIGIa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:30 |
 | 32 | [We Like to Party \- Radio Edit](https://open.spotify.com/track/5zBIpQdBLku4dwqtptiNgs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [We Like to Party](https://open.spotify.com/album/4uMuXdihVpcYnO8LF6GbXx) | 3:28 |
-| 33 | [Ocarina](https://open.spotify.com/track/52zeJeJrFqKmJBc4FK6767) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox) | [Ocarina](https://open.spotify.com/album/6Zx2x056mvHEI6A48g72Jp) | 4:54 |
+| 33 | [The Hum](https://open.spotify.com/track/0h1yorZXMX1sRRLfq0aOAK) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Festival Favorites 2015 \- Armada Music](https://open.spotify.com/album/6bhnNR98I84d01XZmIzaJ1) | 3:31 |
 | 34 | [Golden Pineapple](https://open.spotify.com/track/2hNzhAJqtVIHlcTwmPJFf0) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Golden Pineapple](https://open.spotify.com/album/67eeCJWRKbaRuT57iuRdhd) | 3:08 |
 | 35 | [Again & Again](https://open.spotify.com/track/5FUNk47hbkiL7mxLOo5CYc) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Live Tonight](https://open.spotify.com/album/3hOBPmTdfmrdcLOMAzw5xl) | 3:01 |
 | 36 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
 | 37 | [Retrograde](https://open.spotify.com/track/1nXvZ5578J8AIpGHZJLvGs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde](https://open.spotify.com/album/1cVZdiZBMiSv4WtqqpiFRp) | 4:11 |
-| 38 | [The Hum](https://open.spotify.com/track/0h1yorZXMX1sRRLfq0aOAK) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Festival Favorites 2015 \- Armada Music](https://open.spotify.com/album/6bhnNR98I84d01XZmIzaJ1) | 3:31 |
+| 38 | [Ocarina](https://open.spotify.com/track/52zeJeJrFqKmJBc4FK6767) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox) | [Ocarina](https://open.spotify.com/album/6Zx2x056mvHEI6A48g72Jp) | 4:54 |
 | 39 | [Raise Your Hands](https://open.spotify.com/track/6Jv5h8M5w6bKi13W9TpFDS) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands](https://open.spotify.com/album/53W9iQ5nOIFCTWb2lVwpe5) | 4:26 |
 | 40 | [Wizard](https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:41 |
 | 41 | [Snake](https://open.spotify.com/track/5VNzNv5Yh9Tw6cBs3VdC4J) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Snake](https://open.spotify.com/album/6lVSAkADWMNdSKSOi56cDL) | 5:11 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 47 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
 
-Snapshot ID: `MCw0MjdjODdmZTRiNDg3MDk3MGZjOWQ0NTUyZGI0NDc1YmYwZGEwZWUw`
+Snapshot ID: `MCwzZDkxZDNlN2FkYzM2OGZjZDdiYzUwYTQ2ODJkNDA0NThlYmNiMDMw`

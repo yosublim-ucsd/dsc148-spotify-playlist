@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 39,372 likes - 207 songs - 9 hr 44 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 39,339 likes - 207 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 8 | [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 |
 | 9 | [She Don't Play](https://open.spotify.com/track/07DzN4K6A7nP9ObnBRQAcO) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [She Don't Play](https://open.spotify.com/album/61KEWoaBDNP6xKMFuSBW2y) | 2:20 |
 | 10 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
-| 11 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 11 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 12 | [No Love](https://open.spotify.com/track/0UlAxLlUGzB6MMd5tpXvQh) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp) | [No Love](https://open.spotify.com/album/71NR9WGF9Ke6ziA6OKYiLc) | 2:30 |
 | 13 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
 | 14 | [No Belt](https://open.spotify.com/track/4xWJhJVD2QSrbkcfOeArc2) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Yung Bans Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:38 |

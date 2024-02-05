@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,088 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,669 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 |
 | 50 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
 
-Snapshot ID: `MCxlNzJiNTNkYTU4YTY5YWZlYWQ0YjUzZTgzMGZkOGE0MGY5NjI4OGI1`
+Snapshot ID: `MCxhODIzM2NkMzI1YmMxNTQ0N2U5MTBlZjk5NzU5NjYzZjFiY2QxMGQ0`

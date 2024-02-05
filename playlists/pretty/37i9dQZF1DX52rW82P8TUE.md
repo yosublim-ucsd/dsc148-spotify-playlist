@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,744 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,751 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Por Dentro, Fora, Alto, Embaixo](https://open.spotify.com/track/5zuOwjPMZkCfzTa9mE8I87) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [3 Palavrinhas, Vol\. 3](https://open.spotify.com/album/4Aw3KlIumWtvdpamB7DMsU) | 1:57 |
 | 2 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 |
 | 3 | [Aos Olhos do Pai](https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 4:32 |
-| 4 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
-| 5 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
+| 4 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
+| 5 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
 | 6 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
 | 7 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
-| 8 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
-| 9 | [Eu Canto pra Jesus](https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ) | 3:01 |
+| 8 | [Eu Canto pra Jesus](https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ) | 3:01 |
+| 9 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
 | 10 | [O Amor do Nosso Deus](https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 5:10 |
 | 11 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 12 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
-| 13 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
-| 14 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
+| 13 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
+| 14 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
 | 15 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 16 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 17 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 50 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 
-Snapshot ID: `MCw3YzE1MDA3OThlNWRiY2Q3Yjg4YzRlY2Q0MmY5YTMwZTZjZjIwNTVj`
+Snapshot ID: `MCxjM2FhZGRiZWZjMjA5MTdjMzczM2E4NTQ5ZjIwMDMyYzAwOWZmY2Yz`

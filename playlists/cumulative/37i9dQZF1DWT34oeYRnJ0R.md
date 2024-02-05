@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Hamilton
 
-387 songs - 20 hr 8 min
+388 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 | 2022-05-09 | 2022-09-07 |
 | [Ex\-cuchame](https://open.spotify.com/track/0ylhkGZlEb7voUCtImnBCp) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [Ex\-cuchame](https://open.spotify.com/album/6F9ccz0Yg3oKp4BvtoqKL1) | 2:36 | 2022-03-21 | 2022-07-28 |
 | [EX\-CUCHAME](https://open.spotify.com/track/3PZqZblMEUrdNFfIpMnbEe) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [EX\-CUCHAME](https://open.spotify.com/album/4IBp5uFdjpBJoQyWCWvwed) | 2:36 | 2022-07-26 | 2022-09-07 |
+| [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 | 2024-02-02 |  |
 | [f\*ck$](https://open.spotify.com/track/3pnbSKQuNUIv4ZrMmvfyFq) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [f\*ck$](https://open.spotify.com/album/1cg3qNkTchGVMNp1jfnQEw) | 2:55 | 2023-10-06 | 2023-12-22 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-03-21 | 2022-09-07 |
 | [Falso Amigo](https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Paulino Rey](https://open.spotify.com/artist/6r8AR7aYfjCbNNkugkHXOF), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Falso Amigo](https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn) | 4:14 | 2023-02-24 | 2023-06-22 |
@@ -163,7 +164,7 @@
 | [Hace Un Mes](https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:53 | 2023-09-08 |  |
 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 | 2022-09-06 | 2024-01-06 |
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2023-04-09 |  |
-| [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-08 |  |
+| [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-08 | 2024-02-05 |
 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 | 2022-03-21 | 2022-09-07 |
 | [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-03-21 | 2022-09-07 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-03-21 | 2022-09-07 |

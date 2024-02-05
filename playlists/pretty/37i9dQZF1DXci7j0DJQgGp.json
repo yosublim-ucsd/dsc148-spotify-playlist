@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1778943,
+  "num_followers": 1777929,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTUzNjlhOTU5ZjNhNWI2NWFhYzc5OTY5OTE2YWIxZmQ2ZGRlZWE0",
+  "snapshot_id": "MCw5YTE3NTBlM2JkMDExOWM5NzU5N2Q3ZTk0YzI4Nzk4NzczYTg3YjU1",
   "tracks": [
     {
       "added_at": "2024-01-16 15:05:04",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "The Tower",
-      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Espe",
-          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "Only Time",
+        "url": "https://open.spotify.com/album/7GsStYh3eGaa8PYiZPnkMD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Espe",
+          "url": "https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Only Time",
+      "url": "https://open.spotify.com/track/6QXolVfFVjUHPp5TVzsjIF"
     },
     {
       "added_at": "2024-01-16 15:05:04",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-16 15:05:04",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2024-01-16 15:05:04",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2024-01-16 15:05:04",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2024-01-16 15:05:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,522 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,152 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 53 | [Do It Again](https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Do It Again](https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ) | 2:55 |
 | 54 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
 | 55 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
-| 56 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
-| 57 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 |
+| 56 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 |
+| 57 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 |
 | 58 | [Feel Alive](https://open.spotify.com/track/0tb0RHrF4IpwPJOKYxnxxe) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Feel Alive](https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP) | 2:28 |
 | 59 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 |
 | 60 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 69 | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6) | 2:43 |
 | 70 | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/4idV4UhKatC5h4Na8dhBQo) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Coming Home \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/3NVn8xsuoWREk1RCnNNHGo) | 2:16 |
 | 71 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
-| 72 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
-| 73 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 |
+| 72 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 |
+| 73 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 |
 | 74 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 | 75 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 |
 | 76 | [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 89 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
 | 90 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 |
 
-Snapshot ID: `MCxjN2Y4Y2NhZjM5NjhkZGYzODZmNmEwZTA1OGE3ZWVjZjkxN2UxNjZl`
+Snapshot ID: `MCxjMTQ4ODk4MTI4ZjYxMjYzMzU3N2M4MWE2NWE5ZDYxNmEyYzFmZTc0`

@@ -6103,6 +6103,28 @@
     },
     {
       "album": {
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/2t58D28R7rxDAYXJ4Pqqqd"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0uLNQ37cxlLaPBsbcgIpF3"
+    },
+    {
+      "album": {
         "name": "Mind & Body",
         "url": "https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh"
       },
@@ -10230,7 +10252,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 153600,
       "name": "The Nightrider",
       "url": "https://open.spotify.com/track/2GZbfF3FiDAdsd25jMRdrF"

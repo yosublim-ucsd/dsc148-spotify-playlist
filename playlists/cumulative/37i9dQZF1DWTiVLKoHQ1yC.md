@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-117 songs - 8 hr 57 min
+118 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Just To Hear You Say](https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 3:33 | 2022-01-14 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2022-01-14 |  |
 | [List](https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [List \(Hosini Remix\)](https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4) | 4:23 | 2022-01-14 | 2022-11-26 |
+| [Lofthaus](https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Lofthaus](https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE) | 3:07 | 2024-02-02 |  |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2022-11-25 |  |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/18XoiSzpBYBGBhDb52acQw) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/0auupn5v493j5uMF0ozK97) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 | 2022-01-14 | 2023-07-24 |
@@ -94,7 +95,7 @@
 | [Seasons](https://open.spotify.com/track/3pBKCrXi2C5T1hBZCHz3Bl) | [Ben Malone](https://open.spotify.com/artist/2zOgqOWn43vcjNdEnxsC6f), [Tobeck](https://open.spotify.com/artist/3VyP9qJOk2XwM1quoyejOU) | [Armada Electronic Elements Synesthesia II](https://open.spotify.com/album/1AGWV3HfeyMZNmNb9pBdCj) | 3:40 | 2022-01-14 | 2022-07-29 |
 | [Selbst](https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Home](https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP) | 5:23 | 2022-01-14 |  |
 | [Shimmer](https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Shimmer](https://open.spotify.com/album/3fuaGLXhZvnGJKd2HfOLev) | 3:10 | 2022-01-14 | 2023-04-16 |
-| [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 | 2022-01-14 |  |
+| [Shizumu](https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Shizumu](https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj) | 3:51 | 2022-01-14 | 2024-02-05 |
 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 | 2022-01-14 |  |
 | [Some Good Here \- John Monkman Remix](https://open.spotify.com/track/2kH7Ql0mFf5IqyEdS94PfM) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Anaphase](https://open.spotify.com/artist/6JqmJMb21MmVH1UozFIvnv), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Some Good Here \(John Monkman Remix\)](https://open.spotify.com/album/3qSmczA053XrirG9i0DWvj) | 6:59 | 2022-01-14 | 2022-11-26 |
 | [Spaces](https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Spaces](https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB) | 3:44 | 2022-01-14 |  |

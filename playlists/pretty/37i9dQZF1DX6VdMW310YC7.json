@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3693948,
+  "num_followers": 3693058,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWYwZjUxN2FkMWVmMDMzM2Y1NjlhMGM0OThiMzU4Mzg0ODEyNjAy",
+  "snapshot_id": "MCxlMGMyMGNmY2FlOWVmNTA2OGYxZTgyNWJkNTI1Yzc3ZGZlMjIzYjFi",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 243176,
       "name": "Demons - Massane Remix",
       "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Tears In Paradise",
+        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "One Last Call",
         "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Tears In Paradise",
-        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Another You",
-      "url": "https://open.spotify.com/track/0GZ6PpNaMiViu3J0MDZztp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 255778,
       "name": "Believer - Marsh's Guatape Remix",
       "url": "https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 239334,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Beyond Beliefs",
+        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 313586,
+      "name": "Beyond Beliefs",
+      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Beyond Beliefs",
-        "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 313586,
-      "name": "Beyond Beliefs",
-      "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Love Like We're Dying",
         "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 193548,
       "name": "Waiting All My Life",
       "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1371,6 +1371,42 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Why Does My Heart",
         "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
       },
@@ -1403,54 +1439,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
         },
         {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 220383,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
+          "name": "Plaha",
+          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
+        },
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         }
       ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "The Chase (Edit)",
-        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "The Chase (Edit)",
-      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+      "duration_ms": 178604,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1475,6 +1483,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "The Chase (Edit)",
+        "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "The Chase (Edit)",
+      "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Nothing To Lose (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
@@ -1491,30 +1515,6 @@
       "duration_ms": 258284,
       "name": "Nothing To Lose (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
-      },
-      "artists": [
-        {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        },
-        {
-          "name": "Plaha",
-          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rule The World",
-        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
-      },
-      "artists": [
-        {
-          "name": "ricky retro",
-          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
-        },
-        {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
-        }
-      ],
-      "duration_ms": 176341,
-      "name": "Rule The World",
-      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 198574,
       "name": "Before Dawn",
       "url": "https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
+      },
+      "artists": [
+        {
+          "name": "ricky retro",
+          "url": "https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8"
+        },
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        }
+      ],
+      "duration_ms": 176341,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Manzanita",
-        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 164433,
-      "name": "Manzanita",
-      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 316107,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/6mxNpsWOeIXwL64D9hyinr"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Manzanita",
+        "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 164433,
+      "name": "Manzanita",
+      "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
@@ -1911,22 +1931,6 @@
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     }
   ],
   "unique_name": "Chill Tracks",

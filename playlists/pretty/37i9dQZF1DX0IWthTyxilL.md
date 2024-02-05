@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,981 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,002 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 40 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 |
 | 41 | [Crickets and Forest Sounds for Sleeping Babies](https://open.spotify.com/track/65mac5I0YkFdISbdKyfXGk) | [Sleep Baby Sleep](https://open.spotify.com/artist/6e5ygqf81ECK33tTPpbLLq) | [Nature Sounds Music for Sleeping Babies](https://open.spotify.com/album/7sAInasf6UecwfxUZQycXd) | 2:05 |
 | 42 | [Warm Forest At Night](https://open.spotify.com/track/47fWPgl0tDke4qcAQFc4zd) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:40 |
-| 43 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
-| 44 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
+| 43 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
+| 44 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
 | 45 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
 | 46 | [Afternoon Bird Chorus](https://open.spotify.com/track/0rxCggh9HxS2NVDqKuioPu) | [Forest Soundscapes](https://open.spotify.com/artist/3afxrYkVNCaNbMqJbfThUy) | [Forest Soundscapes](https://open.spotify.com/album/69JfteEShbXv4Lh1NdL2pW) | 3:35 |
 | 47 | [Therapy Forest](https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U) | [Sardinia Sleep](https://open.spotify.com/artist/4fn3LJKl7imj3vKRqYS4cN) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:36 |
 | 48 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
 | 49 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
-| 50 | [4am Rain Forest Birds](https://open.spotify.com/track/4U4iuHAFtmSfsnscPtsBES) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Thunder, Birds and Rain](https://open.spotify.com/album/5poU2ZGDPQjYdHR7swuqkw) | 2:44 |
+| 50 | [Summer Night](https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:18 |
 
-Snapshot ID: `MCwxODY1MmE2ZmY3NmE0OWYxOTFhYzBmZDhhMzBlNjgyYTMzYjkzOGZm`
+Snapshot ID: `MCw4NDEzZDhjYjRkZGI2MGNlNmY2MjZkMzg3NDI5Y2VkMzE3MDYwZjU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,107 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,078 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 12 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 | 13 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 |
 | 14 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
-| 15 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
-| 16 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 |
+| 15 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 |
+| 16 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
 | 17 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
 | 18 | [Kids](https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Kids](https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv) | 2:09 |
 | 19 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Tokyo Drift](https://open.spotify.com/track/2pnv23jwKKBqqlZuNjharT) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Tokyo Drift](https://open.spotify.com/album/0kxFjzNvxor4j4WuehCa7j) | 2:43 |
 | 50 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 |
 
-Snapshot ID: `MCwxMmJmMGJiNDlhNTJkOTk5MTlkMDQ2NjRjMDlkNjEyNjNiMzQwMzBm`
+Snapshot ID: `MCw3YTY0NGYyZWM0NTkwYWU5ZWZhYzc0ZWY5OGRiY2YyMmYyMzc3MmFk`

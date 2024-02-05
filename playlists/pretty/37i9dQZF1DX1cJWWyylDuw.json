@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: Humanity's Last Breath",
-  "num_followers": 184468,
+  "num_followers": 184674,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTEyOTE4ODk3MjA4MTkxNmU4MDY1MWMxYWI3Y2ZhYjVjMzM0YWZk",
+  "snapshot_id": "MCxjN2Y3YjFmNzEzNWExYjMxODIzZjg1YWVhY2JjNjY4MTdkYzBhYjA4",
   "tracks": [
     {
       "added_at": "2024-01-30 15:19:18",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Caved In",
+      "url": "https://open.spotify.com/track/1KKuUsADKAdwE90zxrvwuE"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Recreant",
         "url": "https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 268871,
       "name": "Recreant",
       "url": "https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Dedication To Flesh",
-        "url": "https://open.spotify.com/album/5g8OeROCewoYawxiNCmFXU"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Caved In",
-      "url": "https://open.spotify.com/track/1KKuUsADKAdwE90zxrvwuE"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "GRAVESIDE CONFESSIONS",
+        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 261252,
+      "name": "SLIT WRIST SAVIOR - Graveside Edition",
+      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "What Slept Beneath Tarvos",
         "url": "https://open.spotify.com/album/3gKiMXLCkU1X6RCQWeDsDm"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 200243,
       "name": "What Slept Beneath Tarvos",
       "url": "https://open.spotify.com/track/7B7rFrceWYUlWd6sbOSfH4"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "GRAVESIDE CONFESSIONS",
-        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        }
-      ],
-      "duration_ms": 261252,
-      "name": "SLIT WRIST SAVIOR - Graveside Edition",
-      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Casket of Rust",
-        "url": "https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 424532,
-      "name": "Casket of Rust",
-      "url": "https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Zwielicht",
         "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
       },
@@ -1319,6 +1303,26 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Aeons of Oblivion",
+        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Adam Warren",
+          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
+        }
+      ],
+      "duration_ms": 221446,
+      "name": "Aeons of Oblivion",
+      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "D.N.R.",
         "url": "https://open.spotify.com/album/3Jb26tZv6zc3zRwyWi4dKG"
       },
@@ -1339,26 +1343,6 @@
       "duration_ms": 212813,
       "name": "D.N.R.",
       "url": "https://open.spotify.com/track/3vckmBdhTb0QdZQ1vZXgVr"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Aeons of Oblivion",
-        "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Adam Warren",
-          "url": "https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr"
-        }
-      ],
-      "duration_ms": 221446,
-      "name": "Aeons of Oblivion",
-      "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1743,26 +1727,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Plague Bringer (Inhuman Rework)",
-        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
-      },
-      "artists": [
-        {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        },
-        {
-          "name": "INHUMAN",
-          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
-        }
-      ],
-      "duration_ms": 205562,
-      "name": "Plague Bringer - Inhuman Rework",
-      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "I Hope We Make It Out of This Alive",
         "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
       },
@@ -1779,6 +1743,26 @@
       "duration_ms": 384285,
       "name": "For Whom the Banshee Cries",
       "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Plague Bringer (Inhuman Rework)",
+        "url": "https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "INHUMAN",
+          "url": "https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe"
+        }
+      ],
+      "duration_ms": 205562,
+      "name": "Plague Bringer - Inhuman Rework",
+      "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -1879,26 +1863,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Death Below",
-        "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "JT Cavey",
-          "url": "https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N"
-        }
-      ],
-      "duration_ms": 274826,
-      "name": "The Abyss",
-      "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Rot With Me",
         "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
@@ -1927,6 +1891,26 @@
       "duration_ms": 209034,
       "name": "The Soil",
       "url": "https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Death Below",
+        "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "JT Cavey",
+          "url": "https://open.spotify.com/artist/61VGyKqHM3JViWq8oZE33N"
+        }
+      ],
+      "duration_ms": 274826,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2143,6 +2127,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Death Magick",
+        "url": "https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "duration_ms": 427513,
+      "name": "Death Magick",
+      "url": "https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
       },
@@ -2155,6 +2155,22 @@
       "duration_ms": 199741,
       "name": "Survival",
       "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "What I Would Give",
+      "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2195,38 +2211,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "What I Would Give",
-      "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Death Magick",
-        "url": "https://open.spotify.com/album/1wU3JkqJnu6jj3AnTas0Tq"
-      },
-      "artists": [
-        {
-          "name": "Enterprise Earth",
-          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
-        }
-      ],
-      "duration_ms": 427513,
-      "name": "Death Magick",
-      "url": "https://open.spotify.com/track/0XcyTZVnvgnvgDIQEIb1S6"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Dying Life",
         "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Death Whistle",
+        "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 353138,
+      "name": "Death Whistle",
+      "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2275,18 +2275,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Death Whistle",
-        "url": "https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8"
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
         }
       ],
-      "duration_ms": 353138,
-      "name": "Death Whistle",
-      "url": "https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg"
+      "duration_ms": 326256,
+      "name": "King of Ruination",
+      "url": "https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2323,22 +2327,6 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 234294,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
         "name": "Axe Of Kindness",
         "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
@@ -2351,6 +2339,22 @@
       "duration_ms": 248600,
       "name": "Axe of Kindness",
       "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 234294,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
     },
     {
       "added_at": "2024-01-30 15:19:18",
@@ -2439,6 +2443,22 @@
     {
       "added_at": "2024-01-30 15:19:18",
       "album": {
+        "name": "Death: An Anthology",
+        "url": "https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "duration_ms": 424532,
+      "name": "Casket of Rust",
+      "url": "https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP"
+    },
+    {
+      "added_at": "2024-01-30 15:19:18",
+      "album": {
         "name": "Empress",
         "url": "https://open.spotify.com/album/4r1h70lXgPiGJCvGqjAvlM"
       },
@@ -2499,22 +2519,6 @@
       "duration_ms": 266908,
       "name": "Necromanteum",
       "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
-    },
-    {
-      "added_at": "2024-01-30 15:19:18",
-      "album": {
-        "name": "Into the Abyss",
-        "url": "https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Into the Abyss",
-      "url": "https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw"
     },
     {
       "added_at": "2024-01-30 15:19:18",

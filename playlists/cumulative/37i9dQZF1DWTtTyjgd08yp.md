@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-219 songs - 14 hr 44 min
+220 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,8 +183,9 @@
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-03-03 |  |
 | [The Cage](https://open.spotify.com/track/0R5O9w8Oyq1aq43AHvLcLD) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:40 | 2021-10-08 | 2024-01-27 |
-| [The Cage](https://open.spotify.com/track/1XhQ1ssJSxUGeWbBW6heie) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:40 | 2023-09-15 |  |
+| [The Cage](https://open.spotify.com/track/1XhQ1ssJSxUGeWbBW6heie) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:40 | 2023-09-15 | 2024-02-05 |
 | [The Cage](https://open.spotify.com/track/2K2mYJv6SOcIiAYHFAqiDO) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:40 | 2021-10-08 | 2022-10-17 |
+| [The Cage](https://open.spotify.com/track/2lakxW3dqIsLkabpfUNSRU) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/7L34N3XXZnO92a5xxn6zox) | 4:40 | 2023-09-15 |  |
 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 | 2021-10-08 |  |
 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 | 2021-10-08 | 2023-03-04 |
 | [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/6X0F53XRWhmVKAaQsnuRDL) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:23 | 2023-11-20 |  |

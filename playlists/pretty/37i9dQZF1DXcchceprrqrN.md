@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,459 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,481 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 30 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 31 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 |
 | 32 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
-| 33 | [A Mistake](https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:56 |
-| 34 | [Cut](https://open.spotify.com/track/1EUX3YDS5kbgejgMJSuAgn) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:14 |
+| 33 | [Cut](https://open.spotify.com/track/1EUX3YDS5kbgejgMJSuAgn) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:14 |
+| 34 | [A Mistake](https://open.spotify.com/track/0w7XPnFp1jA7w7C8t89zJi) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:56 |
 | 35 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
 | 36 | [Cop Car](https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cop Car](https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd) | 3:03 |
 | 37 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
 | 50 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
 
-Snapshot ID: `MCw2ZGQxNjkyNmQ5YmRlYWE1YWMyNTliZTYwMzU2NjQwNTZmZjMyNGIy`
+Snapshot ID: `MCwyODRiZTVjNjVkMWQ1NzYzYmUyODliMmI3Zjg0ZDVhNGJiZjE1MGMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,056 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,080 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 5 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
 | 6 | [The Hell Song](https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:18 |
 | 7 | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:29 |
-| 8 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 |
-| 9 | [No Reason](https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:04 |
+| 8 | [No Reason](https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:04 |
+| 9 | [Rise Up](https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Rise Up](https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7) | 3:16 |
 | 10 | [Over My Head \(Better Off Dead\)](https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:29 |
 | 11 | [Motivation](https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:49 |
 | 12 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 23 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 24 | [Best Of Me](https://open.spotify.com/track/0vKGvQdkbesI7RGKX3tRyk) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:25 |
 | 25 | [Open Your Eyes](https://open.spotify.com/track/3wl4ZUBsuH7n2lsW4WjU05) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 2:44 |
-| 26 | [Handle This](https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:37 |
-| 27 | [Makes No Difference](https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 3:10 |
+| 26 | [Makes No Difference](https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 3:10 |
+| 27 | [Handle This](https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:37 |
 | 28 | [Thanks For Nothing](https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:04 |
 | 29 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
 | 30 | [Turning Away](https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 38 | [My Direction](https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:02 |
 | 39 | [Speak Of The Devil](https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:58 |
 | 40 | [Fake My Own Death](https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:14 |
-| 41 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
-| 42 | [Heads Will Roll](https://open.spotify.com/track/2YIbk9mnCHCR83YPhqshaJ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
+| 41 | [Heads Will Roll](https://open.spotify.com/track/2YIbk9mnCHCR83YPhqshaJ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
+| 42 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
 | 43 | [Blood In My Eyes](https://open.spotify.com/track/6sfU2LwBKxjbukPZnUbGtt) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 4:16 |
 | 44 | [Breaking The Chain](https://open.spotify.com/track/6pFBYVdgexmt3zLLJUhhvy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:03 |
 | 45 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [The Fall And The Rise](https://open.spotify.com/track/6wLrF0L1MAdJDPTwbIIEaE) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:09 |
 | 50 | [God Save Us All \(Death to POP\)](https://open.spotify.com/track/20Pa8HCMi8ouYheMZHOjq7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:53 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAwZWMxNjAzMzhlMzdjZTM3YjdjOThkOGMzM2FhZTFmZQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAyYWYyY2EwMzdkN2QzNzhjMWIyYWFhMzE2MTExYmE1OQ==`

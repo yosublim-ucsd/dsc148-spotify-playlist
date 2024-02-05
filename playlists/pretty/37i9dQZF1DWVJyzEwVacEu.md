@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 
 > Hits, hits hits van afgelopen tijd..\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,099 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,121 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 | 2 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 |
 | 3 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
 | 4 | [Break My Heart](https://open.spotify.com/track/2PwqZgaeEsJ1SAPF6RmMmm) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Break My Heart](https://open.spotify.com/album/15hXWoOGHJ59KPpFQjwuCU) | 3:09 |
-| 5 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
+| 5 | [Layla](https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R) | [Artidox](https://open.spotify.com/artist/4WWh35kZbEtVmBQRT3khnE), [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7), [keremrxd](https://open.spotify.com/artist/7wsx4sDyMTp2HyXw50iJGV) | [Layla](https://open.spotify.com/album/53xBYPf2oUgNsOlw56PdqZ) | 2:45 |
 | 6 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 7 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 |
 | 8 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 | 99 | [Shut Off The Lights](https://open.spotify.com/track/6Dcz7Zg0I9Zu88QCQfQmmO) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 3:07 |
 | 100 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 
-Snapshot ID: `MCxhMTQyZTE0NTk0YWJkNWI2NjMyNzljZDkwMWNmNzBmZDEzNzE5ZWI2`
+Snapshot ID: `MCw4YzFiYjZkMmI5ODU4ODZiMjdiNWMzNmM2Y2YxZmRkYjg4OGI2MGNi`

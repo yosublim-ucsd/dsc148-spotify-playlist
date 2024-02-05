@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Paul Russell",
-  "num_followers": 5960,
+  "num_followers": 5972,
   "original_name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzNlZDYxNWIwYzJmYmEzOGMxMTVmYTRhMzFhOTVkOGI1Y2MxMGMx",
+  "snapshot_id": "MCxhNzU2NDI0N2MyYjIxZDJlOTc5YmM5MzQ1N2RiMWUzZGI3OWJmNzg4",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -819,30 +819,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -855,6 +831,22 @@
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-02-01 15:00:00",

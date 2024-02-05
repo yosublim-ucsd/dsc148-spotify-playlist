@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: 1nonly
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,725 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,383 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [TOMORROW WILL NOT COME](https://open.spotify.com/track/2sZhfLsWitSKU8KbfevhLx) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/5nXi1IXpVut7BP22kxmtKf) | 2:37 |
 | 100 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 |
 
-Snapshot ID: `MCw4NGU2YzhkNjIwMTAwNmY5NjczNzY1ZWQ5NjdjYzUxNjVlMWU1NzZi`
+Snapshot ID: `MCw4YzI2MDg5MDljM2M0YmQyNWE5OGNiZmJjZjQ3MmUwOTQyNTAwYWQy`

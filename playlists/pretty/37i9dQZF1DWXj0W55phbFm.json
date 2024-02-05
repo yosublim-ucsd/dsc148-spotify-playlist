@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 46593,
+  "num_followers": 46668,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmVjYzNiMDkzMDc1YzMxZGQwY2ZkNGE1NDg4NDRmNjVhNmJjMzIw",
+  "snapshot_id": "MCw3NGEyNjhiNzIzNDlhOTljNmJkZWE3NWEwMGZlY2EzOGQxNjVkMGZm",
   "tracks": [
     {
       "added_at": "2024-02-01 14:36:47",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Jumpin' With Jonah",
-        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
-      },
-      "artists": [
-        {
-          "name": "Jonah Jones",
-          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Moten Swing - Remastered",
-      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Marsalis Standard Time - Volume I",
         "url": "https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 385733,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Jumpin' With Jonah",
+        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
+      },
+      "artists": [
+        {
+          "name": "Jonah Jones",
+          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Moten Swing - Remastered",
+      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
         }
       ],
-      "duration_ms": 336266,
-      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
         "name": "Star Bright",
         "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
-      },
-      "artists": [
-        {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Byrd In Hand",
         "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
       },
@@ -1159,6 +1159,30 @@
       "duration_ms": 509373,
       "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
       "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
+        "url": "https://open.spotify.com/album/01az1OLEIgEIRt7bi5Hfnj"
+      },
+      "artists": [
+        {
+          "name": "Tom Delaney",
+          "url": "https://open.spotify.com/artist/6aZWicxqUeSZN0IcbRwv74"
+        },
+        {
+          "name": "Bix Beiderbecke",
+          "url": "https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7"
+        },
+        {
+          "name": "Bix Beiderbecke Gang",
+          "url": "https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/7sI3nlaf4N15kPeJnqf01s"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1191,30 +1215,6 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
-        "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
-        "url": "https://open.spotify.com/album/01az1OLEIgEIRt7bi5Hfnj"
-      },
-      "artists": [
-        {
-          "name": "Tom Delaney",
-          "url": "https://open.spotify.com/artist/6aZWicxqUeSZN0IcbRwv74"
-        },
-        {
-          "name": "Bix Beiderbecke",
-          "url": "https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7"
-        },
-        {
-          "name": "Bix Beiderbecke Gang",
-          "url": "https://open.spotify.com/artist/6c0g5bgaTZuztsFItdH0wi"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/7sI3nlaf4N15kPeJnqf01s"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
         "name": "Cat's in the Alley",
         "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192626,
       "name": "You're the Cream in My Coffee",
       "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2024-02-01 14:36:47",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-01 14:36:47",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+    },
+    {
+      "added_at": "2024-02-01 14:36:47",
+      "album": {
         "name": "Booker Little",
         "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
-    },
-    {
-      "added_at": "2024-02-01 14:36:47",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
-      },
-      "artists": [
-        {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2024-02-01 14:36:47",

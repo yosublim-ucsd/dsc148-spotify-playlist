@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 401316,
+  "num_followers": 401206,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmJlMDk4YzQ3ZDJjNDgxMzdlZTM3ZjdlYTA1NTRkM2Y0OTZlM2Ni",
+  "snapshot_id": "MCwxNzdjMzVjMzFjMDgyMjVjNTZhOGZmYjU3MjIxODMzNmQ2MTgxMWMw",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -723,18 +723,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Alumbras Mi Vida",
-        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
       },
       "artists": [
         {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 182857,
-      "name": "T\u00fa Eres Mi Gozo",
-      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
+      "duration_ms": 234399,
+      "name": "Soy Tu Dios",
+      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
         }
       ],
-      "duration_ms": 234399,
-      "name": "Soy Tu Dios",
-      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
+      "duration_ms": 182857,
+      "name": "T\u00fa Eres Mi Gozo",
+      "url": "https://open.spotify.com/track/2SVhGun9Yxilg54n0r6MVb"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -839,26 +839,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 238710,
-      "name": "Yo Soy As\u00ed",
-      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "GOZO",
         "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 402626,
       "name": "Jesus En El Centro - Live",
       "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 238710,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/7c94XZyfKWQZbkAnPK3FLs"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 333120,
       "name": "Incontrolable Amor",
       "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
     },
     {
       "added_at": "2021-05-21 19:19:27",

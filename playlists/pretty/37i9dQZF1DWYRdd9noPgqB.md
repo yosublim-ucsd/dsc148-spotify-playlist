@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,547 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,445 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 |
 | 50 | [Diamond](https://open.spotify.com/track/5utqrfDA2ve8iICTFyr9ZR) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Magic](https://open.spotify.com/album/0vianSZIqgQJmYZJBHMwLt) | 3:19 |
 
-Snapshot ID: `MCxjYzYxYzAxYTllYmZkZTc2NThlZjg1OGEzNTNlZWI0MWEyNzI2NThh`
+Snapshot ID: `MCwyZGZiMDU4YzY3MzdkNzNmZjY0NWVmNzJmZWUyNzMyM2Q4ZjJjNDkx`

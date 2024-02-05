@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,705 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,075 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 39 | [Happy](https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 |
 | 40 | [Roadtrip](https://open.spotify.com/track/4wFE8vB2CyWfTAd5XcMs7M) | [Black Nail Cabaret](https://open.spotify.com/artist/1PT6vR9L8YA8qKymXfAnRl) | [Roadtrip](https://open.spotify.com/album/5z4MOdUTaUvKfVtEleiCDe) | 4:00 |
 | 41 | [Youth Cults](https://open.spotify.com/track/28to6BkzNlG24H6yJOxrJK) | [Traitrs](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Rites and Ritual](https://open.spotify.com/album/4NDIlGZ27FqVY5zxe3tttf) | 2:52 |
-| 42 | [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 |
+| 42 | [Give Me a Reason](https://open.spotify.com/track/4s2JGLY3tPJiVM7GCq24Dt) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv) | 4:25 |
 | 43 | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu) | [Zooey Celeste](https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy), [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Big Trouble \(with Tei Shi\)](https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3) | 3:50 |
 | 44 | [Weak In Your Light](https://open.spotify.com/track/4odb2UIgc0u22MNV7p4iQq) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Strange Disciple](https://open.spotify.com/album/1VDxaxECCJJh4of5htFnmK) | 4:15 |
 | 45 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 109 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 110 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCw0Y2U2ZTI5NzY3NWRkNjhjN2Y2ODlmNjcyMDA4OGU1NTZkZmRhNzYy`
+Snapshot ID: `MCxhMGIzMzFiMjVlNDZiYzk2ZjMxYWRkYWM3Y2RmNjE3YWRkMjE2YzZl`

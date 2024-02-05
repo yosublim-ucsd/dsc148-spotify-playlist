@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンの名曲を一つのプレイリストに。cover: Tones And I
 
-280 songs - 14 hr 16 min
+281 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-11 |  |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-03-16 | 2023-08-26 |
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-12 | 2023-11-10 |
-| [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-07-20 |  |
+| [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-07-20 | 2024-02-05 |
 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 | 2023-06-15 | 2023-06-30 |
 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 | 2024-01-25 |  |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-26 | 2024-01-12 |
@@ -172,6 +172,7 @@
 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-26 | 2023-06-02 |
 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 | 2023-09-08 |
 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-02-01 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-14 | 2023-12-19 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-14 | 2024-01-12 |
 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 | 2023-03-16 | 2023-03-31 |

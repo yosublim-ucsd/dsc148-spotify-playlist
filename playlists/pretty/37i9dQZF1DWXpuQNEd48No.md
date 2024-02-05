@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,684 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,715 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 57 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 |
 | 58 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
 | 59 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 |
-| 60 | [Jaat Warrior's 2](https://open.spotify.com/track/0lP4CU1KyUr4kKdrRlJHC4) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/31bWRAyu7Gv5sBgE6c5cwY) | 3:13 |
-| 61 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
+| 60 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
+| 61 | [Jaat Warrior's 2](https://open.spotify.com/track/0lP4CU1KyUr4kKdrRlJHC4) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warrior's 2](https://open.spotify.com/album/31bWRAyu7Gv5sBgE6c5cwY) | 3:13 |
 | 62 | [Up\-14 J & G](https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Up\-14 J & G](https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm) | 2:17 |
 | 63 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 |
 | 64 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 |
 | 65 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 |
 | 66 | [Dil](https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ) | [Raju Punjabi](https://open.spotify.com/artist/5RnjdaS0Pqb4KgWvCoohs8), [Ishu Kaswan](https://open.spotify.com/artist/6rZtEdypx0YSD2uXa3v2ib) | [Dil](https://open.spotify.com/album/3XMFgKKrzGdhiJRn8RyjD3) | 2:46 |
 | 67 | [Jigre](https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Jigre](https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d) | 3:52 |
-| 68 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 |
+| 68 | [Jaat Warriors](https://open.spotify.com/track/1E5SpFdgagizib8E8P2JZe) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/1Hw6Cz0PhxKttlmuVeggNm) | 2:43 |
 | 69 | [DEKH TERA BHAI](https://open.spotify.com/track/0KIPfwLB8gi4naTsCFFZ2h) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [DEKH TERA BHAI](https://open.spotify.com/album/1WjVedTEdYqwrzjzW1sh25) | 3:09 |
-| 70 | [Jaat Warriors](https://open.spotify.com/track/1E5SpFdgagizib8E8P2JZe) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/1Hw6Cz0PhxKttlmuVeggNm) | 2:43 |
+| 70 | [Sarpanchi](https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sarpanchi](https://open.spotify.com/album/6wRtFnB9JX7iH2NHgPiCNS) | 3:30 |
 | 71 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 |
 | 72 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 |
 | 73 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 |
 | 74 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 |
-| 75 | [Bliss \- From "Jimmy"](https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Dada Sadhu](https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy) | [Bliss \(From "Jimmy"\)](https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh) | 2:33 |
+| 75 | [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 |
 
-Snapshot ID: `MCxjMzE5MThjOTkxYjUwNDFlZjNiMzFiODZmM2U3ODAwNTQ3YTYwOGZl`
+Snapshot ID: `MCxlNTdjNDlmMmU4ODMwNTdhNWQwZTdlMWY1ODAyZDFkYjdlYzlkZmI3`

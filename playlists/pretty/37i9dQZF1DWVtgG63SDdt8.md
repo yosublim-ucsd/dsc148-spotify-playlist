@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,076 likes - 95 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,081 likes - 95 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [hollow](https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [hollow](https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf) | 2:32 |
 | 19 | [Blessing](https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Blessing](https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z) | 3:04 |
 | 20 | [BROLL](https://open.spotify.com/track/4gdNa7be2gJI8FOmVfzPqH) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [BROLL](https://open.spotify.com/album/0AG0b42G2Rs8dwgyLau6Xr) | 2:07 |
-| 21 | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 |
+| 21 | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J) | 1:42 |
 | 22 | [Do It Too](https://open.spotify.com/track/2xkmPH3n7zDRiAASWP0ocj) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Do It Too](https://open.spotify.com/album/6YmKl45pUsx5MjKYuFtPf6) | 2:21 |
 | 23 | [Deliver Me](https://open.spotify.com/track/1OdUajD83Dkebt8xdqOiaX) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Deliver Me](https://open.spotify.com/album/4XT1nhhMHafQF4vJQDD0Nl) | 2:18 |
 | 24 | [Living Water](https://open.spotify.com/track/1TrEeQBS8mcueFC3gJ6B92) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Living Water](https://open.spotify.com/album/540vK5Dsx5DxFaxtnKj9pa) | 2:30 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 94 | [Maybe The Miracle](https://open.spotify.com/track/3qejYy8TQRliyPGkJ7VoWb) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Maybe The Miracle](https://open.spotify.com/album/56eBR2KZileFy5Y6pPzozQ) | 4:12 |
 | 95 | [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 |
 
-Snapshot ID: `MCwwZTJlZDRhNjk2YjdjNWRiZmJjMjFiZDkwZTAxYmIyZWMyYjFhODBl`
+Snapshot ID: `MCxmZjE3ZGM2MDgwY2M5NGM2NjE2MTQ2YWQ1ZWI5ZmQ0YWE3ZWY5YWY2`

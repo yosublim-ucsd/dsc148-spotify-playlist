@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107821,
+  "num_followers": 107810,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjA2MDg2YjBlZjg1MjBlZWIxYzQ4MDBkZWQwMWZjODZjZmJhM2Ey",
+  "snapshot_id": "MCwxYTNjOGE3MzAzMzc0NWJjYzE1MDgzYWI1NmM1OTVlODAxMjM4NTZh",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Juntos a la Par",
         "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 146834,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "2017 (#Veintediecisiete)",
-        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Klan",
-          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
-        }
-      ],
-      "duration_ms": 278673,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+        "name": "2017 (#Veintediecisiete)",
+        "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
       },
       "artists": [
         {
-          "name": "Latam Sonora",
-          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+          "name": "Nuevo Klan",
+          "url": "https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u"
         }
       ],
-      "duration_ms": 170562,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
+      "duration_ms": 278673,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
     },
     {
       "added_at": "2022-05-06 18:26:25",

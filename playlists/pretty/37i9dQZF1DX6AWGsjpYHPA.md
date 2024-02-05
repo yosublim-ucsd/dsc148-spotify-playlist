@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,346 likes - 75 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,421 likes - 75 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 18 | [Water No Get Enemy](https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best of the Black President](https://open.spotify.com/album/7I42wZ3TW926k1DXrotD1M) | 9:51 |
 | 19 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
 | 20 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
-| 21 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
-| 22 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
+| 21 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 |
+| 22 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
 | 23 | [I Won't Hurt You](https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 2:24 |
 | 24 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 25 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 46 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
 | 47 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
 | 48 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
-| 49 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
-| 50 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 |
+| 49 | [Gun Metal Grey](https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Long in the Tooth](https://open.spotify.com/album/0G6lfCljZy9MEIrlFMhlEf) | 3:16 |
+| 50 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 51 | [Jazz, Vol\. 1](https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Jazz, Vol\. 1](https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA) | 6:37 |
 | 52 | [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 |
 | 53 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 61 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
 | 62 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
 | 63 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
-| 64 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
-| 65 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
+| 64 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
+| 65 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
 | 66 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
 | 67 | [Revelation Dub](https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Café del Mar Ibiza Chillout Mix III \(DJ Mix\)](https://open.spotify.com/album/5f5vs2Qy77gDyDVhn5tYIm) | 3:35 |
 | 68 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Before](https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Before](https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE) | 4:47 |
 | 75 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |
 
-Snapshot ID: `MCxmNTNkN2I3ZTIxOTg4OWIwNTNkMWNkMDM1YTliOWFlZTJjZDE1NWNh`
+Snapshot ID: `MCxhODY4NzAzNDMzMTc3MGRkYThiM2FiODU1MjEzMGE3ZDQ1ZGE5ODRm`

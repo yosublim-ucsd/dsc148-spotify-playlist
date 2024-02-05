@@ -1,12 +1,12 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1406458,
+  "num_followers": 1406473,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDYyMWRlNmNkYTI2OTIwNGYyZjNlZGFmMTcxZTQ2ZmQ2YWJkYzQ1",
+  "snapshot_id": "MCw3MjRlNDQxOThlYTUwMzFlZTVmMjA3MzhhOGM0MTU2ODI4MDQwNmQz",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -207,6 +207,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -271,22 +271,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "21 Reasons (feat. Ella Henderson)",
-        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 155253,
-      "name": "21 Reasons (feat. Ella Henderson)",
-      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "21 Reasons (feat. Ella Henderson)",
+        "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 155253,
+      "name": "21 Reasons (feat. Ella Henderson)",
+      "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "All Night (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 197763,
+      "name": "All Night (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "All Night (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 197763,
-      "name": "All Night (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa"
     }
   ],
   "unique_name": "Pumped Pop",

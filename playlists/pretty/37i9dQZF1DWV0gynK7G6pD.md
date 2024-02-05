@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Renaud Capuçon
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,923 likes - 89 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,698 likes - 89 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Concert Royal No\. 4 in E: Courante à l'italienne\. Gaiement \(Version for 2 Harpsichords\)](https://open.spotify.com/track/0jvSXVlTsmtGGgnrCrCieE) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Pierre Gallon](https://open.spotify.com/artist/013FtnNjAFCdmm3cqSv4ET), [Matthieu Boutineau](https://open.spotify.com/artist/1I9q7TqG5WYe1qIIydLjLN) | [Couperin: Concert Royal No\. 4 in E: Courante à l'italienne \(Version for 2 Harpsichords\)](https://open.spotify.com/album/2KSo6VKzP16BNJbFXtUaG9) | 2:56 |
 | 89 | [Midnight Sun Variations](https://open.spotify.com/track/37vWYioKTfL7HywvubCqMc) | [Outi Tarkiainen](https://open.spotify.com/artist/4jEDAYIuuqs37w8xLpkuPQ), [Finnish Radio Symphony Orchestra](https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Outi Tarkiainen: Midnight Sun Variations & Other Orchestral Works](https://open.spotify.com/album/1hbtTGIXfXPNpcNjshFwfY) | 10:27 |
 
-Snapshot ID: `MCxhNzUxYzljODVkNDcwZjI3Mzc5NDZjZGEwN2QyYmVkZGU4ZTVkNTU2`
+Snapshot ID: `MCxiZjE0NDQyYzQ4ODczNGY3NDEwYTA3M2ZjYzI5ZGIzMDQ3NGFjYjI3`

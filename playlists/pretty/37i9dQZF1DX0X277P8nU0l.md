@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,553 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,547 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 |
 | 50 | [Differences Aside](https://open.spotify.com/track/0olICfJFNxKfPeZtNgPa7G) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Differences Aside](https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg) | 3:55 |
 
-Snapshot ID: `MCw2YjUzNDg3YzE1OWU4N2FhMzM1MWFlN2E2ZTAyMzc5MDAyZDQwNmMy`
+Snapshot ID: `MCwxMjMxZmM2NmE3MjcxNTE1ZGNhOWViNzU5YmRhZmQzZjJlMGI4OGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,007 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,026 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 29 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
 | 30 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
 | 31 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
-| 32 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
-| 33 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
+| 32 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
+| 33 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 |
 | 34 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 35 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
 | 36 | [Belong](https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:38 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 48 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 | 49 | [Fear](https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 2:41 |
 | 50 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
-| 51 | [forever, now](https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 4:48 |
-| 52 | [WASTELAND](https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:08 |
+| 51 | [WASTELAND](https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 3:08 |
+| 52 | [forever, now](https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 4:48 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAxODQ2MGMyOGU2MzFhMmNkZWJiOTVkMjgzMDMyNGRkYg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBhYmZmNGE5N2FjYjE4MjJlZGQ0YWVkNTQwNDNlZjA2Yg==`

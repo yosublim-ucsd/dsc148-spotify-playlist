@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,783 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375,635 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
 | 50 | [Guts Over Fear](https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [SHADYXV](https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU) | 5:01 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA0NmRmMTFkN2JkYWZhOWJhZWUwNmYzN2E2MTU5ZmYzNw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA5OGZjZjk3OWNkZTdiMjNiYjZkYjY1MTQ3NzE0NjFjMQ==`

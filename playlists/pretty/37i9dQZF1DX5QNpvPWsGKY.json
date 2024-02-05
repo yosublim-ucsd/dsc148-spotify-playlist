@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 112605,
+  "num_followers": 112713,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTkyYWRhNDIxOGRjZmViYzdjYTA4M2UxMTczZTFlMzlhYTI1MjQw",
+  "snapshot_id": "MCw4Y2M3MWQ0NjRlZDlhMGNiMmZmZWVhYjRiZGM2ODQ3MTY0MzYyNDBj",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Linea De Oro Contigo O Sin Ti",
         "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190560,
       "name": "Amor Se Escribe Con Llanto",
       "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
-        }
-      ],
-      "duration_ms": 71893,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Agua De Vida",
         "url": "https://open.spotify.com/album/7I9KOeQ3uj3CMRcRg5Sf2l"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF"
+        }
+      ],
+      "duration_ms": 71893,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 199807,
-      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
-      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Serie Sensacional: Tropicalisimo Apache",
         "url": "https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 186733,
       "name": "La Hierba Se Mov\u00eda",
       "url": "https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 199807,
+      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/7aVTI1LZJvL1apJ4c0g7tC"
-    },
-    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
@@ -1603,6 +1587,22 @@
       "duration_ms": 177360,
       "name": "Dejenla Que Baile",
       "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/7aVTI1LZJvL1apJ4c0g7tC"
     },
     {
       "added_at": "2022-01-25 19:05:16",

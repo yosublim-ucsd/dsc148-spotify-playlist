@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,870 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,867 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 72 | [I Want It \(Danny DeVito\)](https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I Want It \(Danny DeVito\)](https://open.spotify.com/album/3WjI8Rip86vK7b1XwvrZ4D) | 2:14 |
 | 73 | [Hands Of Addiction](https://open.spotify.com/track/34Cx2wVzQzhsBfZtS3CCqo) | [Jada Weazel](https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm) | [Hands Of Addiction](https://open.spotify.com/album/34sufI3Lc99RQMYdXQ07Vl) | 3:26 |
 | 74 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 |
-| 75 | [Headlights](https://open.spotify.com/track/6nRzf6wHopbJ55QtoquiFE) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Headlights](https://open.spotify.com/album/6e5NpIfiFm93UrLn0O33Gd) | 3:24 |
+| 75 | [Headlights](https://open.spotify.com/track/6k793Z8lIsDHmJ1goVLZ2X) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:24 |
 | 76 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 77 | [NIGHTS LIKE THIS](https://open.spotify.com/track/5O4M1IKBXrjbLOV5GYUvIF) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [NIGHTS LIKE THIS](https://open.spotify.com/album/5MRrj25dOkNmXrQc0lLsBX) | 3:03 |
 | 78 | [Dance With You](https://open.spotify.com/track/1W31EFF8SpZX8sY1JIkUxw) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [King Clown](https://open.spotify.com/album/5ruCuWl2zADdyMIHE7wAYn) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Terrified](https://open.spotify.com/track/7aTvaulf2N3Auq30e2r0fm) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Terrified](https://open.spotify.com/album/1rEhkU73zVvCzbBrMHvXWz) | 3:01 |
 | 100 | [Spring to Life](https://open.spotify.com/track/0GzPoR4Q0ik9kfPk01mfdd) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Spring to Life](https://open.spotify.com/album/0qG6DPGDmFKM36zz5KAg1E) | 2:38 |
 
-Snapshot ID: `MCxhYWFmYzM1YzFiMTIwNDVlZjEzNDMzZTEyZmZjZTZiMzFkYTY2ODkz`
+Snapshot ID: `MCw3OTVlM2I4MWE2MDVkOWRjOWMyOTA3YWUxZWU1ZTdmMWQxYmI4NDZl`

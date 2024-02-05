@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,202 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,400 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 46 | [Soy De La Calle \- En Vivo](https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:04 |
 | 47 | [Si Te Pudiera Mentir \- En Vivo](https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:03 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhYzkxYmVkY2U0NzBhODcxN2QxNzk1NDY5ODZhMGIwZQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4ZmMyNmIyYjIyN2FlYTFhNDBlOTZmYTRmMjU3NzMwZA==`

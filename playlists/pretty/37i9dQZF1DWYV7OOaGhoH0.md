@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836,834 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,163 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 99 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 |
 | 100 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 |
 
-Snapshot ID: `MCw0NWZhN2UxYzllMDFkOGViZWVmMjNiYmQ4NWY5M2YwM2U4NGQzZGZi`
+Snapshot ID: `MCw1MWY1ZTAzNmQ4Y2NiZDMzZGQxNTA4MzJhNWMzNGU4MGExMjkxMTEz`

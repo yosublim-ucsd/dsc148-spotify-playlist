@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-531 songs - 1 day 5 hr 20 min
+532 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 | 2023-03-29 |
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2023-05-31 | 2023-08-21 |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
-| [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2023-11-27 |  |
+| [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2023-11-27 | 2024-02-05 |
 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 | 2022-10-07 | 2023-06-08 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 | 2022-08-18 |
 | [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 | 2022-11-22 |
@@ -287,6 +287,7 @@
 | [Love Is Mystical](https://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Love Is Mystical](https://open.spotify.com/album/5gmi6GYczChNiZSBdwtjBo) | 3:34 | 2022-03-11 | 2022-04-14 |
 | [Loveblood \- EP Version](https://open.spotify.com/track/2XfUjv7NEpUhOkpuiLCGZq) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [EP I](https://open.spotify.com/album/4GbJxHFVaQqyLIG7jH1sFX) | 4:04 | 2022-03-11 | 2022-04-18 |
 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 | 2023-11-27 |  |
+| [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2024-01-12 |  |
 | [Make U Mine](https://open.spotify.com/track/3emFKAQ8FVcOKqQZrkMCMN) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Make U Mine](https://open.spotify.com/album/7CKj9cT8SCH56bQCU0E9mW) | 2:25 | 2023-09-15 | 2023-10-14 |
 | [Malibu](https://open.spotify.com/track/10QrzyQVmkvx8BfnbiP41s) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/5MoZD1SHXuO11cZRqfB3C1) | 4:27 | 2022-10-07 | 2023-01-13 |
 | [Malibu](https://open.spotify.com/track/5oWqt7bB2RfNdRXLAweBKk) | [DD WALKER](https://open.spotify.com/artist/0jE6H7j0DI1nIQI4mM6BrS) | [Malibu](https://open.spotify.com/album/1kixbq1b85DJOqAk9p1l3X) | 4:27 | 2021-03-10 | 2022-07-29 |

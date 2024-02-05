@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Listen to the hottest songs from LGBTQIA+ artists\. Cover: Gioli & Assia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,554 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,234 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [SELF\-MADE](https://open.spotify.com/track/6OP2d5NErNuutQOEKqIUjx) | [Miss Petty](https://open.spotify.com/artist/6i7HuCW2HqaDIrw9DXDQAc) | [SELF\-MADE](https://open.spotify.com/album/42dtF2C7tfRHM6nTG8ZCO4) | 3:57 |
 | 50 | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/track/6tuT64s0ZkQAkc5KTH9tWt) | [Cutter Cute](https://open.spotify.com/artist/72z72JMenShm382u8BgMLt) | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/album/6BHvlgg6rHQVeFV86NpjC0) | 2:38 |
 
-Snapshot ID: `MCwwNTdhMzQxMDQxMGYyNTg5MDQ0ZDlmODU5YzEzNDBiM2E3ZmUwZjIw`
+Snapshot ID: `MCxiZGEyNDA2MWQ0ZGUyNzViODRkM2M3Yjk5M2M1NDBiMGMyNGExYjk3`

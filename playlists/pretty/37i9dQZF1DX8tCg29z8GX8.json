@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 13391,
+  "num_followers": 13401,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTZjOTk1MmZjZTcyYzc3M2FlYjA0MGM2M2E3NjQ2NTA3NWI4NDJm",
+  "snapshot_id": "MCxhNTEzZjMwMDU0N2YyYzQyNDRlNjg3MDM2NjUzNzA2NTAyNGU2NzAy",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:59",
@@ -651,22 +651,18 @@
     {
       "added_at": "2024-02-02 06:01:59",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+      "duration_ms": 186000,
+      "name": "Obaa Sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2024-02-02 06:01:59",
@@ -807,18 +803,22 @@
     {
       "added_at": "2024-02-02 06:01:59",
       "album": {
-        "name": "Outside / Obaa Sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Obaa Sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
     },
     {
       "added_at": "2024-02-02 06:01:59",

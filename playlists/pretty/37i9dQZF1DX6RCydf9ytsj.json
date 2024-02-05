@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 603976,
+  "num_followers": 604107,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJhNDI5NjhjZWFiNzZkOTgxMDE4OWE4MDEyZmY2MzQyNWQyMjlm",
+  "snapshot_id": "MCw5MTA4ODI1Y2I2NTM1MzUxZjk0NzA5M2ZmNmI5YWI3ODZjNDQ5ZmZl",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 223613,
       "name": "Two Dozen Roses",
       "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Friday Night Blues",
-        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
+        "name": "The Bocephus Box Set",
+        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Friday Night Blues",
-      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+      "duration_ms": 255000,
+      "name": "A Country Boy Can Survive",
+      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Bocephus Box Set",
-        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
+        "name": "Friday Night Blues",
+        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 255000,
-      "name": "A Country Boy Can Survive",
-      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
+      "duration_ms": 198453,
+      "name": "Friday Night Blues",
+      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Best Of Eddy Raven",
         "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 146466,
       "name": "I Got Mexico",
       "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
         }
       ],
-      "duration_ms": 240373,
-      "name": "All My Rowdy Friends (Have Settled Down)",
-      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1463,6 +1463,22 @@
       "duration_ms": 218293,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "All My Rowdy Friends (Have Settled Down)",
+      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "West By West",
         "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
@@ -1591,18 +1575,34 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
+      "duration_ms": 222400,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/30upl1YT1suEgSDpIopSky"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1699,6 +1699,22 @@
       "duration_ms": 185573,
       "name": "My Favorite Memory",
       "url": "https://open.spotify.com/track/7FsM2MPjPCdgYld4NsvO0f"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1843,22 +1843,6 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "35 Biggest Hits",
-        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 164653,
-      "name": "Born To Boogie",
-      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
+        "name": "35 Biggest Hits",
+        "url": "https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5"
       },
       "artists": [
         {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
+      "duration_ms": 164653,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1963,34 +1947,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
       },
       "artists": [
         {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
         }
       ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2011,6 +1979,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 196173,
       "name": "She Got the Goldmine (I Got the Shaft)",
       "url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
-        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
-      },
-      "artists": [
-        {
-          "name": "K.T. Oslin",
-          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "Do Ya'",
-      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Forester Sisters",
         "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 170146,
       "name": "Mama's Never Seen Those Eyes",
       "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
+        "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
+      },
+      "artists": [
+        {
+          "name": "K.T. Oslin",
+          "url": "https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b"
+        }
+      ],
+      "duration_ms": 245733,
+      "name": "Do Ya'",
+      "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
     },
     {
       "added_at": "2023-08-21 19:29:52",

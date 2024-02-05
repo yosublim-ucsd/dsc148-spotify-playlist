@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de los patrones. Markitos Toys, Pantera de Culiac\u00e1n en portada.",
-  "num_followers": 209406,
+  "num_followers": 209531,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWJkNDlkMDczZTU0MmMxMzIwZGMyNDFhYjk3OTBlMjI2MjcwZjY5",
+  "snapshot_id": "MCwzNjFiMDFiZDk5YjY5YWZmOWYzOTBiMTk5MWVhMmQ4MTQ0Yjk5NzUx",
   "tracks": [
     {
       "added_at": "2024-01-26 06:00:00",
@@ -447,6 +447,30 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Haganse A Un Lado",
+        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 156223,
+      "name": "Haganse A Un Lado",
+      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 161733,
       "name": "El Mago Merl\u00edn",
       "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Haganse A Un Lado",
-        "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 156223,
-      "name": "Haganse A Un Lado",
-      "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "El Baleado",
-        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 219264,
-      "name": "El Baleado",
-      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Casco Negro",
         "url": "https://open.spotify.com/album/1yzh8zVFIwMsgSvwWsAh9L"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 178049,
       "name": "Casco Negro",
       "url": "https://open.spotify.com/track/4d8WGxeUE2qRNUazqzWlJg"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
+      "duration_ms": 123013,
+      "name": "Nene Zambada",
+      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 123013,
-      "name": "Nene Zambada",
-      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "Jerry",
+      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
         "name": "El Corrido Del MC",
         "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "Jerry",
-      "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
     },
     {
       "added_at": "2024-01-26 06:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-26 06:00:00",
       "album": {
-        "name": "19x O La Perris",
-        "url": "https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 203871,
-      "name": "19x O La Perris",
-      "url": "https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR"
-    },
-    {
-      "added_at": "2024-01-26 06:00:00",
-      "album": {
         "name": "Vida Recia (En Vivo)",
         "url": "https://open.spotify.com/album/44VBDrpn41Vy7FDceUSrsy"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 268434,
       "name": "Vida Recia (En Vivo)",
       "url": "https://open.spotify.com/track/1N6SIgC4ewG3FneF13z20a"
+    },
+    {
+      "added_at": "2024-01-26 06:00:00",
+      "album": {
+        "name": "19x O La Perris",
+        "url": "https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 203871,
+      "name": "19x O La Perris",
+      "url": "https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR"
     },
     {
       "added_at": "2024-01-26 06:00:00",

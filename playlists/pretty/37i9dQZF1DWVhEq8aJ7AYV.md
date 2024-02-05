@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,847 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,849 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 22 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 |
 | 23 | [Wipe Out](https://open.spotify.com/track/2h83AMl3afIAWks8Z3Sn9C) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Play](https://open.spotify.com/album/42JQLLWxQEO4FWNUIF5etd) | 2:13 |
 | 24 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 |
-| 25 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
+| 25 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
 | 26 | [Walk, Don't Run](https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run \- All\-Time Greatest Hits](https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ) | 2:06 |
 | 27 | [Surf Mongol](https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:37 |
-| 28 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
+| 28 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
 | 29 | [Psycho for Your Love](https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Lost Album](https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw) | 2:53 |
 | 30 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 |
 | 31 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 36 | [¡Pum\-Pum! ¡Bang\-Bang!](https://open.spotify.com/track/0at4CKnxtYgZ7epJjomd30) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 3:52 |
 | 37 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
 | 38 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 |
-| 39 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
-| 40 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
-| 41 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
-| 42 | [Apache \- Stereo](https://open.spotify.com/track/0iZ7IbC5eHHeEVIadW61rT) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Play Telstar, The Lonely Bull & Others](https://open.spotify.com/album/39ihYe9wjorVed79RQqZ0S) | 3:11 |
+| 39 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
+| 40 | [Farewell to Monster Island](https://open.spotify.com/track/4L84ElkLcocqS6iuQjbL9m) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 8:26 |
+| 41 | [Apache \- Stereo](https://open.spotify.com/track/0iZ7IbC5eHHeEVIadW61rT) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Play Telstar, The Lonely Bull & Others](https://open.spotify.com/album/39ihYe9wjorVed79RQqZ0S) | 3:11 |
+| 42 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
 | 43 | [Tiki Surf](https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 1:56 |
 | 44 | [Third Stone from the Sun](https://open.spotify.com/track/5aqZp6mHibX1qaPFabgDe2) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Calling Up Spirits](https://open.spotify.com/album/51KwH3TBjlgo5JE7FK6Fux) | 6:32 |
 | 45 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 |
 | 75 | [El Bikini de la Chica Popof](https://open.spotify.com/track/6XMx1sjG5glE19x87YDew3) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:21 |
 
-Snapshot ID: `MCxmZmQyMzMyMTUxMTdhNTE3NWMxODNjZmVhZTYyMDU4ZjEyMzE4MDZl`
+Snapshot ID: `MCxkZWUxOGUzOThkY2ViYzIxNGNhYWYwMWJiYzExYWY2NWU1ODUyNzdl`

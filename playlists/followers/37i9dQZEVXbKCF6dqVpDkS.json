@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 909805,
+  "2024-02-05": 909369,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -4205,7 +4205,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 153750,
       "name": "CALL ME",
       "url": "https://open.spotify.com/track/2jIPVp1oVgpKuq3OAEj3xt"
@@ -9786,6 +9786,24 @@
     },
     {
       "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169051,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
+    },
+    {
+      "album": {
         "name": "Grijs",
         "url": "https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70"
       },
@@ -11037,6 +11055,28 @@
       "duration_ms": 212358,
       "name": "Hoofdpijn",
       "url": "https://open.spotify.com/track/66hfVsoqLdDIykC9FNwJPm"
+    },
+    {
+      "album": {
+        "name": "Hoog Staan",
+        "url": "https://open.spotify.com/album/084kEsnvRcomeA5aNj7VLP"
+      },
+      "artists": [
+        {
+          "name": "Yurmaine",
+          "url": "https://open.spotify.com/artist/7LK9Y1esYppZ5ag5BFWooi"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Hoog Staan",
+      "url": "https://open.spotify.com/track/7cmPD7aD3RHEOnYTlE2mX3"
     },
     {
       "album": {
@@ -17019,7 +17059,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 231744,
       "name": "Nickel For Goodbye",
       "url": "https://open.spotify.com/track/0mozpacigd082TTRqi5IZc"
@@ -17541,7 +17581,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
@@ -19939,7 +19979,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -24722,6 +24762,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "album": {
         "name": "De singles: A & B Kanten 1956-1969",
         "url": "https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C"
       },
@@ -27631,6 +27689,24 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/5cW90rGxu6denjf08pebZw"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "\u00c9galit\u00e9",
+      "url": "https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKCF6dqVpDkS"

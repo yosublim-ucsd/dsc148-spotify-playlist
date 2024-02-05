@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Azzy, Luiz Lins, MC Cabelinho, Slipmami, Mc Poze do Rodo, Chefin, Oruam, MC Hariel, JayA Luuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,755 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,738 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Contratei o Tempo](https://open.spotify.com/track/1NHafgaylnQjnnEhyJbqdz) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Doodex](https://open.spotify.com/artist/0mosiC3wRtekSkMSEuKcSz), [Pena](https://open.spotify.com/artist/2l5klhDlUOtuM0DuvYOgva) | [Contratei o Tempo](https://open.spotify.com/album/5KTiTNaCP6cZjwxlgMf4v0) | 3:36 |
 | 75 | [Pede pra Ficar](https://open.spotify.com/track/1wkeJrOp8NiCrze5KrwgXM) | [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT) | [Pede pra Ficar](https://open.spotify.com/album/2SproejOjeYG5lnBTlU6p8) | 2:55 |
 
-Snapshot ID: `MCxkNmJmZWNiODM1OTE5OWQzM2NjMDhiMzRkY2RlMDhkMDJkNGNjZmNl`
+Snapshot ID: `MCw0YzhjMzVlMmM2OTQ1MTVjZWVjMjI4YTYxZjJlMDEyNDkzZGY5YjEy`

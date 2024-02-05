@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
         "name": "Like You Do",
         "url": "https://open.spotify.com/album/2jxyIfyUY0yhPANWWrwnca"
       },
@@ -3068,7 +3086,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 285159,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5"
@@ -4482,7 +4500,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -5370,7 +5388,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 282693,
       "name": "Everglow",
       "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
@@ -8348,7 +8366,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -9996,7 +10014,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -12266,7 +12284,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -20196,7 +20214,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 200000,
       "name": "\u5b57\u5b57\u53e5\u53e5",
       "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"

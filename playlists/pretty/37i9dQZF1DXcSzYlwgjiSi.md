@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,756 likes - 153 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,737 likes - 153 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 34 | [Something To Dance To](https://open.spotify.com/track/15wjZVpG5krE8khXtQq7Cu) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC) | 2:32 |
 | 35 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
 | 36 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 |
-| 37 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 |
+| 37 | [Fishin' in the Dark](https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/0nFyIqvzHgoHPnIuDNbh0O) | 3:21 |
 | 38 | [This Is How We Roll](https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:40 |
 | 39 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 40 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 152 | [Somebody Like That](https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love,Heartbreak, & Everything in Between](https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx) | 3:18 |
 | 153 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 |
 
-Snapshot ID: `MCwxMjdmYzQ2ZjBmODg5NGM3NWFiYWQ1NDNlNjM3NzUzMzdkNWQ4YjIy`
+Snapshot ID: `MCwxMTE3MjZhMDJhOTlhODliYTVjZjBmNjA1ZTBhOWU1MGFiMDQ1NjUw`

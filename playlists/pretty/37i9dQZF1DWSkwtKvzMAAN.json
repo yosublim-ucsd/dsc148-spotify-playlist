@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 5823,
+  "num_followers": 5828,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmIzODNjNWUyOTFiZDFlMjYzNGVkZDk5ZTA5NzQ0MmQxNGY3NDY2",
+  "snapshot_id": "MCw1Y2ZmM2ViYzRjNDliMmI3NjNiMjQwNjA0ODk3ODhjMjdlZWViMjgx",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Haven't Been Funked Enough",
+        "url": "https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR"
+      },
+      "artists": [
+        {
+          "name": "King Sporty & The Ex Tras",
+          "url": "https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7"
+        }
+      ],
+      "duration_ms": 402105,
+      "name": "Haven't Been Funked Enough",
+      "url": "https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Prelude Mastermixes, Vol.3",
         "url": "https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 686266,
       "name": "Mega-Mix \"Prelude #1\" - Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train (Dub) & Body Music",
       "url": "https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Haven't Been Funked Enough",
-        "url": "https://open.spotify.com/album/27gP8Ctl9VZrBsAeb7EghR"
-      },
-      "artists": [
-        {
-          "name": "King Sporty & The Ex Tras",
-          "url": "https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7"
-        }
-      ],
-      "duration_ms": 402105,
-      "name": "Haven't Been Funked Enough",
-      "url": "https://open.spotify.com/track/7cK9wftkiEx2ZXzu9VoPc0"
     },
     {
       "added_at": "2020-08-28 18:46:05",

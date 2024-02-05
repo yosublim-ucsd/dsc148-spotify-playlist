@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
-  "num_followers": 525718,
+  "num_followers": 525790,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjcwMjJmYjc0NmJiNjEyNjU1YjliNmM1N2NhMTJlNDYzMWI0ODA2",
+  "snapshot_id": "MCwyNmE2MDQxMjBjN2E0NTExOWYzMDRlNzg3NTYyZWY2NjQ1YzIyNzI3",
   "tracks": [
     {
       "added_at": "2024-02-02 18:53:38",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-02 18:53:38",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
-    },
-    {
-      "added_at": "2024-02-02 18:53:38",
-      "album": {
         "name": "Lado de C\u00e1",
         "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 171594,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
+    },
+    {
+      "added_at": "2024-02-02 18:53:38",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2024-02-02 18:53:38",

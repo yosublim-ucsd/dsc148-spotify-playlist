@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 706972,
+  "num_followers": 707120,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWQ4YzIxMjFkOTUwZTE2ZmE1ODdjYjUyNDc1MTRjNWVjNmE3YTdh",
+  "snapshot_id": "MCxkMGJlODdmNDg4NDZkNWU0NWM0MWZlN2E4YWY5YzJhMzYwNjI3NGIz",
   "tracks": [
     {
       "added_at": "2023-12-21 21:10:20",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 146813,
       "name": "If You Don't Want My Love",
       "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Officer of Love",
-        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 239805,
-      "name": "Officer of Love",
-      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Officer of Love",
+        "url": "https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 239805,
+      "name": "Officer of Love",
+      "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Water Your Garden",
-        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
-      },
-      "artists": [
-        {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Water Your Garden",
-      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -927,18 +907,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+        "name": "Water Your Garden",
+        "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
       "artists": [
         {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+      "duration_ms": 169333,
+      "name": "Water Your Garden",
+      "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -955,6 +939,22 @@
       "duration_ms": 343426,
       "name": "Girlfriend Is Better - 2005 Remaster",
       "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Dark Days [Feat. Sylvan Esso]",
         "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 181212,
       "name": "Dark Days [Feat. Sylvan Esso]",
       "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
+      "added_at": "2024-01-31 00:14:02",
+      "album": {
+        "name": "Cry To Me-The Best Of Freddie Scott",
+        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
+      },
+      "artists": [
+        {
+          "name": "Freddie Scott",
+          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "(You) Got What I Need",
+      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
+    },
+    {
       "added_at": "2023-12-21 21:10:20",
       "album": {
         "name": "The Dandelion",
@@ -1087,22 +1103,6 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
-    },
-    {
-      "added_at": "2024-01-31 00:14:02",
-      "album": {
-        "name": "Cry To Me-The Best Of Freddie Scott",
-        "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
-      },
-      "artists": [
-        {
-          "name": "Freddie Scott",
-          "url": "https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "(You) Got What I Need",
-      "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Under The Blacklight (Standard Version)",
         "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
         }
       ],
-      "duration_ms": 189706,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+      "duration_ms": 169466,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Best Worst Year",
+        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
+      },
+      "artists": [
+        {
+          "name": "STRABE",
+          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
+        }
+      ],
+      "duration_ms": 278082,
+      "name": "Best Worst Year",
+      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Best Worst Year",
-        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
-      },
-      "artists": [
-        {
-          "name": "STRABE",
-          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
-        }
-      ],
-      "duration_ms": 278082,
-      "name": "Best Worst Year",
-      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 390200,
       "name": "Changes, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "honey thighs",
-        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 284441,
-      "name": "honey thighs",
-      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1527,6 +1511,22 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "honey thighs",
+        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 284441,
+      "name": "honey thighs",
+      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/2NCpqUoUNjA1lUi8ROrexY"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-12-21 21:10:20",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-12-21 21:10:20",
       "album": {
+        "name": "Autoflower",
+        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Woods",
+          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
+        }
+      ],
+      "duration_ms": 184983,
+      "name": "Smoke Machine",
+      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
+    },
+    {
+      "added_at": "2023-12-21 21:10:20",
+      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
-    },
-    {
-      "added_at": "2023-12-21 21:10:20",
-      "album": {
-        "name": "Autoflower",
-        "url": "https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ"
-      },
-      "artists": [
-        {
-          "name": "Jesse Woods",
-          "url": "https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei"
-        }
-      ],
-      "duration_ms": 184983,
-      "name": "Smoke Machine",
-      "url": "https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq"
     },
     {
       "added_at": "2023-12-21 21:10:20",

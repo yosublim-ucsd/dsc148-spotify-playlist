@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-422 songs - 1 day 1 hr 11 min
+423 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 | 2022-12-07 |  |
 | [Dale Don Dale](https://open.spotify.com/track/7zK02QSoQlMO0RAVqN0CI7) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Obsesión Latina](https://open.spotify.com/album/1qAvdZ9qvDBNEwzAJkZ68V) | 3:34 | 2021-12-17 | 2022-03-16 |
 | [Deja](https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:36 | 2023-12-21 |  |
-| [Dejale Care To' el Peso](https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 4:11 | 2023-10-05 |  |
+| [Dejale Care To' el Peso](https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 4:11 | 2023-10-05 | 2024-02-05 |
 | [Dembow](https://open.spotify.com/track/1JV7GONwi6qMLb9J7kcSTV) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mi Vida…My Life](https://open.spotify.com/album/0y7oxuXXNYU62jnrvutSSm) | 2:58 | 2021-12-17 | 2022-07-29 |
 | [Descara](https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 4:48 | 2021-12-17 |  |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-12-16 |  |
@@ -202,6 +202,7 @@
 | [Luna](https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Alex Gárgolas Presenta: Las Gárgolas,Vol.4](https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH) | 3:41 | 2022-11-02 |  |
 | [Luna](https://open.spotify.com/track/6l1DuBpGWcDqj3tl80MfVQ) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Luna](https://open.spotify.com/album/2GAMP9XG7wUrnlRs8LLLsE) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Luna](https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:16 | 2023-10-05 | 2023-12-26 |
+| [Machete](https://open.spotify.com/track/1CcD2x8R4LkRaXXwoh4a2d) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Anormales](https://open.spotify.com/album/3bSleF5N9bbmn54M52n8N4) | 3:02 | 2023-12-21 |  |
 | [Machete](https://open.spotify.com/track/1n378okiaJGDR06by3YM2U) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Anormales](https://open.spotify.com/album/1g2W7SvrDcsxpRnGpGy6K0) | 3:02 | 2021-12-17 | 2022-11-13 |
 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 | 2021-12-17 |  |
 | [Maniatica](https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Megahitz Volumen Uno](https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U) | 4:22 | 2022-05-13 | 2023-07-25 |

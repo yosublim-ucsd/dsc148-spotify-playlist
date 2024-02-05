@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 577206,
+  "2024-02-05": 576947,
   "date_first_scraped": "2020-10-20",
   "description": "A relaxing atmosphere of Jazz piano sounds.",
   "name": "The Piano Bar",
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 259959,
       "name": "Come Sunday",
       "url": "https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk"
@@ -2362,6 +2362,42 @@
     },
     {
       "album": {
+        "name": "Folks Who Live On A Hill",
+        "url": "https://open.spotify.com/album/1IF41zl5fyrhULy8DysZBK"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229195,
+      "name": "Folks Who Live On A Hill",
+      "url": "https://open.spotify.com/track/1ru7NWfCenX6fVBVsFDL2H"
+    },
+    {
+      "album": {
+        "name": "Fool For Your Love",
+        "url": "https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230085,
+      "name": "Fool For Your Love",
+      "url": "https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg"
+    },
+    {
+      "album": {
         "name": "Fools Rush In",
         "url": "https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7"
       },
@@ -2659,7 +2695,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 213721,
       "name": "Get Off A Sauce",
       "url": "https://open.spotify.com/track/4t7kDyMpWZavxRCjKjox34"
@@ -3535,6 +3571,24 @@
       "duration_ms": 312453,
       "name": "I'll Know",
       "url": "https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK"
+    },
+    {
+      "album": {
+        "name": "I'll Never Smile Again",
+        "url": "https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
     },
     {
       "album": {
@@ -6365,7 +6419,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 203288,
       "name": "Pretty good idea",
       "url": "https://open.spotify.com/track/68xplK8Pr8LiMwsN03h1lE"
@@ -6437,7 +6491,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 294933,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/5110P5yc85WSckGmf47eA9"
@@ -6643,6 +6697,24 @@
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
+    },
+    {
+      "album": {
+        "name": "Short Intermission",
+        "url": "https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Short Intermission",
+      "url": "https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg"
     },
     {
       "album": {
@@ -7313,7 +7385,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 208227,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS"
@@ -7551,6 +7623,24 @@
       "duration_ms": 184991,
       "name": "Sweet And Lovely",
       "url": "https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6"
+    },
+    {
+      "album": {
+        "name": "Sweet Smile",
+        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
     },
     {
       "album": {
@@ -8195,7 +8285,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172034,
       "name": "The Worn Evening",
       "url": "https://open.spotify.com/track/6dsAFpaM3SyAZB0y7L8pKa"
@@ -8487,6 +8577,24 @@
       "duration_ms": 176426,
       "name": "Ties That Bind",
       "url": "https://open.spotify.com/track/2dLHrsnEqj2ffZRNxNKp0x"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "album": {

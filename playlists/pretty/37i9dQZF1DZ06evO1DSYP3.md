@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,199 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,201 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 29 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
 | 30 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
 | 31 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
-| 32 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
-| 33 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
+| 32 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
+| 33 | [That’s Facts \(feat\. P\-Lo\)](https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [True Story](https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ) | 2:22 |
 | 34 | [One Thing](https://open.spotify.com/track/5ZnQor3xvwoHpsOSP3q0uO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 1:35 |
 | 35 | [Just Gang](https://open.spotify.com/track/5KhphLWMvY7f4OZRI8tL10) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:01 |
 | 36 | [What's That?](https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 |
 | 50 | [Zen Mode \(feat\. P\-Lo\)](https://open.spotify.com/track/3PnklmqqCm1caXi093GlVH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 2:37 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAxYzkxNzkxZWMyYjU3M2NhYTEyNWM1MTI5YTVmZTgzNw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlZTFjZThiOWM4MDZhYzgwNTA3YjM0ZDMyZWJkYzNlZQ==`

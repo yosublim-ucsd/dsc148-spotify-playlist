@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,342 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,360 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 41 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
 | 42 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
 | 43 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
-| 44 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
-| 45 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 44 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
+| 45 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 46 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
 | 47 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 48 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
 | 70 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ) | 3:49 |
 
-Snapshot ID: `MCwwNGVlODg1ZDIxMDQ4ZjdlNTkxNmJkMzEwOThjNGY0MjFiYjhkYzgx`
+Snapshot ID: `MCw5YjM2Y2QzOGNhZmI3OWU1OGMzZWIxODI2NDc0ZDk0NjZlMWVhMjY3`

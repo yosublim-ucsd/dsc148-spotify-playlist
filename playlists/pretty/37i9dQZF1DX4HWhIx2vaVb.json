@@ -1,12 +1,12 @@
 {
   "description": "Ya viene amaneciendo, la luz ya nos alumbra.",
-  "num_followers": 104458,
+  "num_followers": 104491,
   "original_name": "A Darle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNkZWE1Y2VjODk1MGIxNzU2ODk5YmY3NDI2NGRkYjgwZGRmNTAy",
+  "snapshot_id": "MCwyNjk3M2U4M2MzZWQyYzVhZjI0NjEzMzY3OTUzN2Y0Y2U4MzkxMWQ0",
   "tracks": [
     {
       "added_at": "2024-01-15 19:02:13",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 151386,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
       "artists": [
         {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -575,34 +575,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -623,18 +607,34 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -691,22 +691,6 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Qu\u00e9 Tal Si Eres Tu",
-      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -743,6 +727,38 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Qu\u00e9 Tal Si Eres Tu",
+      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
@@ -775,38 +791,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -819,22 +803,6 @@
       "duration_ms": 267333,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "20 Canciones Banda y Norteno",
-        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "No Eres Tu Ahora Soy Yo",
-      "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -855,18 +823,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
         }
       ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+      "duration_ms": 156453,
+      "name": "No Eres Tu Ahora Soy Yo",
+      "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -891,18 +859,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -923,18 +891,18 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 263133,
-      "name": "Por Mujeres Como T\u00fa",
-      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -951,6 +919,38 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Perd\u00f3name Mi Amor",
-        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "AYAYAY!",
         "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 159533,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
     },
     {
       "added_at": "2024-01-15 19:02:13",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-01-15 19:02:13",
       "album": {
-        "name": "Las N\u00famero 1...",
-        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 199147,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
-    },
-    {
-      "added_at": "2024-01-15 19:02:13",
-      "album": {
         "name": "Aqu\u00ed Abajo",
         "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Las N\u00famero 1...",
+        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
+    },
+    {
+      "added_at": "2024-01-15 19:02:13",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 199147,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO"
     },
     {
       "added_at": "2024-01-15 19:02:13",

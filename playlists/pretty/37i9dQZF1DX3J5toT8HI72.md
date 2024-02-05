@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas pra você curtir com seu amorzinho \(ou pensando nele\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,242 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,350 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 12 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 |
 | 13 | [Stay](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
 | 14 | [Interessante](https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4) | 2:52 |
-| 15 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
-| 16 | [Velha Infância \- 2004 Digital Remaster](https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 4:10 |
+| 15 | [Velha Infância \- 2004 Digital Remaster](https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 4:10 |
+| 16 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
 | 17 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 18 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 19 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 33 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
 | 34 | [Você Humilha \- Ao Vivo](https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Verdade \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c) | 3:01 |
 | 35 | [Ainda Gosto Dela](https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Estandarte](https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz) | 5:13 |
-| 36 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
+| 36 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
 | 37 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
-| 38 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
+| 38 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
 | 39 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 40 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
 | 41 | [Amor I Love You / Citação: Trecho da Obra Intitulada "Primo Basilio" De Eça de Queiroz Declamado por Arnaldo Antunes](https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 99 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
 | 100 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
 
-Snapshot ID: `MCwzOThiNDJlODY0NGJiNGRiNTBiMzY1ZWM3ZTU0NTNhZmFjNjcwMmM4`
+Snapshot ID: `MCw2NzIyZWQ1N2QxMGMyNjJjNDU1YzJjZDZiZjNiZmRlNDdlZjkzYmNi`

@@ -4,7 +4,7 @@
 
 > Get ready to hit the jackpot with these classics.
 
-52 songs - 3 hr 24 min
+53 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Get Up Offa That Thing](https://open.spotify.com/track/5XeSAezNDk9tuw3viiCbZ3) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The 50th Anniversary Collection](https://open.spotify.com/album/1pHE92AvWAt4IIRUCVFnEl) | 3:59 | 2023-02-16 |  |
 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2023-02-16 |  |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2023-02-16 |  |
-| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2023-02-16 |  |
+| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2023-02-16 | 2024-02-05 |
+| [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 | 2023-02-16 |  |
 | [Hit the Road Jack](https://open.spotify.com/track/6vKOmMHVZAlburfyKG7PXT) | [SF Extreme](https://open.spotify.com/artist/1kH0FMWTy8dLuMCN7OrS5j) | [Soul Revisited \- How Sweet It Was!](https://open.spotify.com/album/1iTgpzK1cYLlA8QoXZKPgd) | 1:52 | 2023-02-16 |  |
 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 | 2023-02-16 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 | 2023-02-16 |  |

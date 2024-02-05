@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,086 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,163 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 | 93 | [396 Hz – Talentueuse](https://open.spotify.com/track/5deGJzxKhYUcNwkmRjBUkX) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:27 |
 | 94 | [396 Hz Dormant](https://open.spotify.com/track/2plZlVBY52NKgrgSBXxVMc) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:52 |
 
-Snapshot ID: `MCxjMDJkMGJlZjFjZWI3YTExODMzNGViZWRiODNjMmQxODllNzdiOTMw`
+Snapshot ID: `MCw5NTA0YWU5Y2RjYjA3YjJmMTE3YzlkNzU4NWQ4N2YzMGU4NWNhZjBk`

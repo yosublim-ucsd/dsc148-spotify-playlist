@@ -4,7 +4,7 @@
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 58 min
+93 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2022-01-11 |  |
 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 | 2023-08-19 | 2023-12-14 |
 | [Basket Case \- BBC Live Session](https://open.spotify.com/track/2lVvUZKlVbcfAQx6oblTsz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [BBC Sessions \(Live\)](https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8) | 2:56 | 2022-10-12 | 2023-06-06 |
+| [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-02-04 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2022-01-11 |  |
 | [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 3:13 | 2022-01-11 |  |
 | [Brat](https://open.spotify.com/track/6QlyzIamWoVeut7Hc7tZRc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:43 | 2022-10-22 | 2023-09-22 |
@@ -67,7 +68,8 @@
 | [Nuclear Family](https://open.spotify.com/track/206n37mZTmloL45RYhmMlP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 3:03 | 2022-01-11 | 2023-08-20 |
 | [Oh Love](https://open.spotify.com/track/1qIgyDoc2rwtq8w49jeWL8) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 5:03 | 2022-01-11 |  |
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2022-01-11 | 2023-01-14 |
-| [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-06 |  |
+| [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 | 2024-01-06 | 2024-02-05 |
+| [One Eyed Bastard](https://open.spotify.com/track/3DFEPRUIPY1jszRZR5jHNu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:52 | 2024-02-04 |  |
 | [Ordinary World](https://open.spotify.com/track/35weSxL477aChs1wx7oZS5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:02 | 2022-01-11 | 2023-12-24 |
 | [Pollyanna](https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Pollyanna](https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19) | 3:15 | 2022-01-11 | 2023-02-08 |
 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 | 2022-01-11 |  |
@@ -76,10 +78,10 @@
 | [Scattered](https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:02 | 2022-09-24 |  |
 | [She](https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:14 | 2022-01-11 |  |
 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2022-01-11 |  |
-| [Strange Days Are Here to Stay](https://open.spotify.com/track/0MdnFPRxNhw39wBZmLHf2F) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:05 | 2024-01-20 |  |
+| [Strange Days Are Here to Stay](https://open.spotify.com/track/0MdnFPRxNhw39wBZmLHf2F) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:05 | 2024-01-20 | 2024-02-05 |
 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 | 2022-01-11 |  |
 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 | 2022-01-11 |  |
-| [Suzie Chapstick](https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:16 | 2024-01-24 |  |
+| [Suzie Chapstick](https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:16 | 2024-01-24 | 2024-02-05 |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-11-10 | 2024-01-24 |
 | [The Forgotten](https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 4:58 | 2022-01-14 | 2022-10-13 |
 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 | 2022-01-11 |  |

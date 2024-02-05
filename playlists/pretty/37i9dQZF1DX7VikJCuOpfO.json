@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar ",
-  "num_followers": 72173,
+  "num_followers": 72161,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTEwYmYyOTlhNzAzZTMwMmNkMDgyMjY0ZGNhYjdhZjVjMGRiODQ1",
+  "snapshot_id": "MCwzZjllZjA3MzRkNjExY2QyMDc4MzBiYmUxZGJhMTVjNTg1NWM4OGQy",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Canci\u00f3n Para Olvidarte",
-        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
       "artists": [
         {
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 164120,
-      "name": "Canci\u00f3n Para Olvidarte",
-      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+      "duration_ms": 193986,
+      "name": "Quiero Un Amor",
+      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 193986,
-      "name": "Quiero Un Amor",
-      "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "Ciega Por El",
         "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 208461,
       "name": "Ciega Por El",
       "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Canci\u00f3n Para Olvidarte",
+        "url": "https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 164120,
+      "name": "Canci\u00f3n Para Olvidarte",
+      "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Eran De Azucar Sus Labios",
-        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 187848,
-      "name": "Eran De Azucar Sus Labios",
-      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Eran De Azucar Sus Labios",
+        "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 187848,
+      "name": "Eran De Azucar Sus Labios",
+      "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 180989,
+      "name": "Ve Y Dile",
+      "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
         "name": "Fue Tan Poco Tu Cari\u00f1o",
         "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-01-12 05:26:06",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 180989,
-      "name": "Ve Y Dile",
-      "url": "https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2024-01-12 05:26:06",
-      "album": {
-        "name": "Dime Qu\u00e9 Se Siente",
-        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Dime Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
     },
     {
       "added_at": "2024-01-12 05:26:06",
@@ -1715,6 +1699,22 @@
       "duration_ms": 175306,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
+      "added_at": "2024-01-12 05:26:06",
+      "album": {
+        "name": "Dime Qu\u00e9 Se Siente",
+        "url": "https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Dime Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
     },
     {
       "added_at": "2024-01-12 05:26:06",

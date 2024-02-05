@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,877 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,881 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1094,7 +1094,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1084 | [Gnawa \(feat\. The Atlas Collective\)](https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv) | [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [The Atlas Collective](https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828) | [Gnawa EP](https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG) | 3:39 |
 | 1085 | [First Time I Ever Saw Your Face](https://open.spotify.com/track/6cmBrTb2cKRRk4lTMQU4w0) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Reggae Anthology: Melody Life](https://open.spotify.com/album/6Np3SiLHAR9QuHTChsEcDd) | 4:06 |
 | 1086 | [Alarme Falso](https://open.spotify.com/track/6EvYYCWoJo0FM4QzEtkv5V) | [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Definitivamente](https://open.spotify.com/album/1phnffg9E5sEvySIYf6t5z) | 2:36 |
-| 1087 | [Nereci](https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC) | 3:19 |
+| 1087 | [Nereci](https://open.spotify.com/track/6kbq7yE8CbAqWkP1opSd7v) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:19 |
 | 1088 | [Maita](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 |
 | 1089 | [Você Fica Melhor Assim](https://open.spotify.com/track/2fslXV7PlX2XiQHtu5MTIj) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Lô Borges](https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I) | 2:08 |
 | 1090 | [Bons momentos](https://open.spotify.com/track/0O2fVxPj0IxLyDLAwVUWSR) | [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI) | [Beach Diggin', Vol\. 4](https://open.spotify.com/album/5bmX2COfuCzWR44NTp85Nj) | 2:27 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw3OGJlM2JlZTU0MjUzNjVlMzI1ZDg4YzFmNTZiM2Q3MzU1YTU4MzU1`
+Snapshot ID: `MCw2OWM0ZGY5MGYzMWEwNDFhZmQzZDAzZDVjZjFlNDIwMTcwY2Q3NzQz`

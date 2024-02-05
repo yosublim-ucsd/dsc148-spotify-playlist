@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 528516,
+  "num_followers": 528435,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjhhZjRjNDFjYWZmZjllYmU5MDVkYjE2N2MyOWFjNTU3MDZkM2Q0",
+  "snapshot_id": "MCxkYTgyZWY1ZWI0NmE1M2MyY2U4ODYwNTIzOGY5YjUyNDMzNzdiMmI5",
   "tracks": [
     {
       "added_at": "2023-11-24 01:57:21",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-11-24 01:57:21",
       "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2023-11-24 01:57:21",
+      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
-    },
-    {
-      "added_at": "2023-11-24 01:57:21",
-      "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2023-11-24 01:57:21",

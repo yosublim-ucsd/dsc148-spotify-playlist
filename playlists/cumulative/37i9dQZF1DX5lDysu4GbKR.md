@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-217 songs - 13 hr 11 min
+218 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Someday \- Unplugged](https://open.spotify.com/track/34StJdGuwDjG9LSWbWniQB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday \(Unplugged\)](https://open.spotify.com/album/705a2Bf3lhKcZ4t7JPs2uf) | 3:12 | 2024-02-01 |  |
 | [SOMEWHERE FAR](https://open.spotify.com/track/0y6DaC0f8sGqzbU5UKoPEb) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [SOMEWHERE FAR](https://open.spotify.com/album/3unR1FTn8GilyeSvUchaXt) | 2:24 | 2023-11-09 |  |
 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [HMLSS](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 | 2021-12-09 |  |
-| [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 | 2023-01-12 |  |
+| [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 | 2023-01-12 | 2024-02-05 |
+| [Southern Comfort](https://open.spotify.com/track/44KX6krxJOPMNDBalsklXs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/73z5oOi2581XQ9UVF5d4hM) | 3:41 | 2024-02-01 |  |
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw) | 3:18 | 2022-12-15 | 2023-04-09 |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 | 2022-12-25 |

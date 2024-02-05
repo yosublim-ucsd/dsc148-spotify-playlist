@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,204 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,230 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 38 | [名前のない日々へ](https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [名前のない日々へ](https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP) | 3:36 |
 | 39 | [slash（Anime Ver.）](https://open.spotify.com/track/6caEpxe0Pqu0z1dmuxH4VG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/3X5gMAOWqzq4Aouj3Dy1FO) | 1:32 |
 | 40 | [天色](https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:00 |
-| 41 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
-| 42 | [灰炎](https://open.spotify.com/track/48glzmmGamFQ5qZeTdWrGb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:26 |
+| 41 | [灰炎](https://open.spotify.com/track/48glzmmGamFQ5qZeTdWrGb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:26 |
+| 42 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
 | 43 | [寝れない夜に](https://open.spotify.com/track/2CuTFXDSN9xke0mS2ezywb) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [寝れない夜にカーテンをあけて](https://open.spotify.com/album/4b7w62nMDJVeJs9AgffFgB) | 5:20 |
 | 44 | [ランニングアウト](https://open.spotify.com/track/2O69Nb7qeYxaJFtZNuTZsR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [ランニングアウト](https://open.spotify.com/album/0Dku1OpQxwAbV7SJFeSn0w) | 4:03 |
 | 45 | [スモーキーヒロイン](https://open.spotify.com/track/7pSYlsa0hdDwDoB8thZj8q) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz\. / 世界は美しいはずなんだ / スモーキーヒロイン](https://open.spotify.com/album/4fMCXT5qH5jgPmYTpPVSIf) | 4:16 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 50 | [a.m.3:21 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/7tdW9EEgXjfhA4b7G7p2LR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:31 |
 | 51 | [独白](https://open.spotify.com/track/07AGBVcxuI8hSTvBEtvWou) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:54 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA2YWJlZGU5Yzg4MmM1NDk1YjhiMjU1YTg4YWY2NGM3MA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4NTJkMjMzNjExMTk0ODk5OWNkZWNlMDJkM2MxOGRjZg==`

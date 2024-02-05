@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 
 > All 90s, all ballads\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,919 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,038 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 | 49 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
 | 50 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 
-Snapshot ID: `MCw5ZmEwMjIzMjM5MzllNzk0NGYwMjcwZTk5YjQyYWZjZjA3ZjQ0ZDBi`
+Snapshot ID: `MCxkMDIxMzE3MGQ3Y2Q0NDJlYmI2ZGU0NTY4ZTVhNTg5MWVhMTEyMzM3`

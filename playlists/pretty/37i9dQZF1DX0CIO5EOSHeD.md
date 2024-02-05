@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,528 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,566 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 24 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 |
 | 25 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 |
 | 26 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
-| 27 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
-| 28 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
+| 27 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
+| 28 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
 | 29 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 30 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
 | 31 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 62 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 63 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
 | 64 | [I Don't Recognise You](https://open.spotify.com/track/0Gic2wnMVet2tfx03w1TVa) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 4:35 |
-| 65 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
-| 66 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
+| 65 | [Blue Sheen](https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 1:58 |
+| 66 | [5AM Empanada with You](https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM) | [Bubble Tea and Cigarettes](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [There's Nothing But Pleasure](https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc) | 5:41 |
 | 67 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
 | 68 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
 | 69 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 74 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 75 | [Coming Home](https://open.spotify.com/track/4uXwTz4opiuvyyYU9FwFla) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Dawn Of The Freak](https://open.spotify.com/album/0lty86qoHmycjkzvf4gZNX) | 4:25 |
 | 76 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 |
-| 77 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
-| 78 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 77 | [Midnight on a Sunny Day](https://open.spotify.com/track/2IH9CHrARfQJDcRNg3g8Dg) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Bee Eyes](https://open.spotify.com/artist/5gSDCsyiVBWWpLyky7xzOf) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:43 |
+| 78 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
 | 79 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
 | 80 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
-| 81 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
-| 82 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 81 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
+| 82 | [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 |
 | 83 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 |
 | 84 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 85 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 | 100 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi) | 2:17 |
 
-Snapshot ID: `MCwyNjU4MDIxMWFkMmMwMzVlMjg4YWJhZjg4YTNiNTliM2NjM2Y2MGMy`
+Snapshot ID: `MCwzYzZlN2ViYzU2MjQ2N2U5MzllM2Y1MTgxNTM3YjllZTkwNjljNzBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,851 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,868 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Jungle](https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh), [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm) | [Jungle](https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe) | 2:45 |
 | 100 | [Orlando](https://open.spotify.com/track/0rkwsDBRGsK8Qrr6xGQJzQ) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Orlando](https://open.spotify.com/album/43gDrPnCoCL2W0F8Sonrng) | 6:25 |
 
-Snapshot ID: `MCw1NzEwN2UzMzkwNDJhOTc5YTVjODQyMzQyZDBjODJjMDBjNzFjOTJm`
+Snapshot ID: `MCw0YWEzMWU0ZjYzNTE5YTI2ODNjYTVkMTUxNzJjZGI2ZGQ4YWUyMjFl`

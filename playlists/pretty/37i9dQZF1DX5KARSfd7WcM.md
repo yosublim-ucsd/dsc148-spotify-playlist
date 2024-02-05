@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,863 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,833 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 86 | [Moment In The Sun](https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Moment In The Sun](https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx) | 3:09 |
 | 87 | [I Belong In Your Arms](https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/1QupnCI7y1qsm6h1S5vWFw) | 3:27 |
 
-Snapshot ID: `MCwxN2IyMThlOWI2ZTNkNzYzMjE0NTk4YWIxMGRiNjExZDE1YmI1MzMz`
+Snapshot ID: `MCw5YTYzNGJmYzUzYzVlYzU3Mzg2YzQ1ZjNkZTUxZmFiMGVhNjg3ZjQw`

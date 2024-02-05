@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-360 songs - 19 hr 1 min
+361 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [L.U.S.H.](https://open.spotify.com/track/58LjmBGKL3m3rzD6cUAMeq) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [L.U.S.H.](https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E) | 2:52 | 2022-10-31 | 2022-11-08 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-10-02 | 2023-11-05 |
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2022-06-06 | 2022-07-28 |
+| [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-02-05 |  |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2022-06-06 | 2022-07-29 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-28 | 2023-09-05 |
 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-05 | 2022-09-12 |
@@ -213,7 +214,7 @@
 | [Lost In The Wild](https://open.spotify.com/track/0M1A9wInEHilyWkh4I8tWo) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [What If Nothing](https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg) | 3:55 | 2022-11-07 | 2022-11-14 |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-04-03 | 2023-07-09 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-16 | 2023-01-24 |
-| [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-01-29 |  |
+| [Louder](https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/1oQupLohOrOigi27xo9qwf) | 3:49 | 2024-01-29 | 2024-02-05 |
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2023-01-23 | 2023-04-03 |
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-06-06 | 2022-07-29 |
 | [Love Me Back](https://open.spotify.com/track/6D8WgDaIuyirn6egGauzVK) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Love Me Back](https://open.spotify.com/album/26tNi6v3WgUXYEvmYq5u2M) | 2:58 | 2022-06-06 | 2022-07-29 |
@@ -301,7 +302,7 @@
 | [Sound of Your Voice](https://open.spotify.com/track/79EPrcuYKoky4lG3BvmzCy) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [The Mirror Talk EP](https://open.spotify.com/album/5iVjJgRq6O9s0VguOtHFox) | 3:02 | 2022-06-13 | 2022-07-29 |
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-04-04 | 2023-04-11 |
 | [Spirit](https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Rebel Diamonds](https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN) | 2:58 | 2023-12-11 | 2023-12-18 |
-| [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-29 |  |
+| [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-29 | 2024-02-05 |
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2022-06-20 | 2022-07-26 |
 | [Steps](https://open.spotify.com/track/2VF8EvvtcLqQp6yqz1Eg8Q) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Running In Borrowed Shoes: Part 1](https://open.spotify.com/album/75ZWpSwhnqfneMyqvIEjh1) | 3:38 | 2022-06-06 | 2022-07-29 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-06 | 2023-04-04 |
@@ -367,6 +368,6 @@
 | [You Irritate Me \- Demo](https://open.spotify.com/track/20LpgjFwVEdjeJzjnIPxvE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [You Irritate Me \(Demo\)](https://open.spotify.com/album/68S9B59BVpKiLLvSR0q1r0) | 1:36 | 2022-10-17 | 2022-10-25 |
 | [You Signed Up For This](https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This / Brooklyn](https://open.spotify.com/album/1wa7AvqK1tUFSl5TTUNJ1e) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [Young Like This](https://open.spotify.com/track/5yOc7LHI9HIBRTWcLbGXXi) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Young Like This](https://open.spotify.com/album/5s1EtajkxRSQto3WT9WtHc) | 3:06 | 2022-07-04 | 2022-07-08 |
-| [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 | 2024-01-09 |
+| [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

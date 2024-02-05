@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,990 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,055 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zeit](https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Zeit](https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI) | 2:15 |
-| 2 | [bittebitte](https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [bittebitte](https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv) | 2:46 |
-| 3 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
-| 4 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 |
-| 5 | [Nichts für immer](https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Nichts für immer](https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS) | 2:31 |
-| 6 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
+| 2 | [Ode an den Bass](https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Ode an den Bass](https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD) | 3:20 |
+| 3 | [bittebitte](https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [bittebitte](https://open.spotify.com/album/19wMMm9dBInd4tgVFAlfRv) | 2:46 |
+| 4 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
+| 5 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 |
+| 6 | [Nichts für immer](https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Nichts für immer](https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS) | 2:31 |
 | 7 | [17](https://open.spotify.com/track/1wAJLsPc9pNO2yzFAuFk2m) | [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [17](https://open.spotify.com/album/2xPTxfLnobXeRMtwX4KRrt) | 3:05 |
 | 8 | [Richtung Mars](https://open.spotify.com/track/5eC2s3KFhxnsM7JYnea6EN) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Richtung Mars](https://open.spotify.com/album/3tpBhoJe0XBSwDE5mNjskj) | 2:43 |
 | 9 | [Galaxis](https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [EKSTASE](https://open.spotify.com/album/7qn6KrafYuBOj2bgn4FXvM) | 2:55 |
 | 10 | [Party mit mir selbst](https://open.spotify.com/track/2kNpg9AiImLPLhDDbgWgZs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Party mit mir selbst](https://open.spotify.com/album/7FYIEyAdivc1sNE7j6cqkW) | 2:54 |
 | 11 | [alle traurig](https://open.spotify.com/track/2fKPXu3OIKmpfIC5R7rrgB) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [alle traurig](https://open.spotify.com/album/4ekiYwc6DBHlwysZT3IlBh) | 3:01 |
-| 12 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
+| 12 | [vermiss nicht mehr](https://open.spotify.com/track/226lOE0355w0RBUXsn3XWV) | [Mika Noé](https://open.spotify.com/artist/27ym8iukxLqQCcA5xbmSfM) | [vermiss nicht mehr](https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ) | 2:53 |
 | 13 | [5 neue sorgen](https://open.spotify.com/track/4hZKwJ0XKPKAsfdEXOrPik) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [5 neue sorgen](https://open.spotify.com/album/0HIHYFw3F6Swht6XLpJGwf) | 2:29 |
 | 14 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
 | 15 | [Drachenfrucht](https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Drachenfrucht](https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
 | 75 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 
-Snapshot ID: `MCw1YzZjMDU0Y2VjOTI1ZWE3ODY2Yzk1ZTFmODBjOWQ5NTAyODBjZWNm`
+Snapshot ID: `MCwxNjgzODk2ZTBkOGRjYjA3ZWRjNDEwNGZhYmNlZDI5MTQzOWRiYjVk`

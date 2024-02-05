@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,552 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,884 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 20 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 21 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 |
 | 22 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
-| 23 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
-| 24 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
+| 23 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
+| 24 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
 | 25 | [Special One](https://open.spotify.com/track/3gzwXojnb6on1FlwSmKVCi) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Joy 1967 \- 1990](https://open.spotify.com/album/2KzZDQ1NyBRRj1CAgUV9Ae) | 3:15 |
 | 26 | [The Book Lovers](https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j) | 4:49 |
 | 27 | [Days](https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
 | 50 | [Come On Let's Go](https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Maida Vale Sessions](https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe) | 3:23 |
 
-Snapshot ID: `MCw1YzM1YzNkN2JjZmY5MWM4ZTc4MzE5MzI1Nzk4ZjMwYTc0NjYyNDEz`
+Snapshot ID: `MCxjMjAxMTM1NjU2MWUxMTNjZjFiNjAyNDU2ZDU5ZTliMmFiNDJjZDcw`

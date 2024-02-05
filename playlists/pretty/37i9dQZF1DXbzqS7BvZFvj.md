@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lyrical Lemonade, The Kid LAROI, Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,174 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,163 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 34 | [JEEZU \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [THE BOOK OF CLARENCE \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/5LTfMQMnfrNd2Zj1HLZUmN) | 4:28 |
 | 35 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 |
 | 36 | [maserati slick](https://open.spotify.com/track/3pE08q8PvdFDikPA5oMToS) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [lonely boy](https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB) | 2:23 |
-| 37 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 37 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 38 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 |
 | 39 | [SLOPES](https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SLOPES](https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ) | 2:42 |
 | 40 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 77 | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/track/2zAjz5E07ehewy0T29Ycfp) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [THAITANIUM](https://open.spotify.com/artist/4Kdx0GZbfcNRIku5iM2Ug8), [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Bordeaux Flow feat\. Kidella](https://open.spotify.com/album/78mcLwShUJkXR0O4AidcLU) | 3:20 |
 | 78 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 |
 
-Snapshot ID: `MCxiYjc4ZmY1OGQwYWUxMmI5NTBmM2YwOWQ5YmQ3OGM3MTZjZWM4MTE1`
+Snapshot ID: `MCxjNTVkNGVlYmY5ODVkOTU2ODBhOWJjY2YzMzFhMjM5NmEwNjIwZmVk`

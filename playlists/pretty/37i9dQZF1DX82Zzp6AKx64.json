@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1159877,
+  "num_followers": 1159720,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODQ4MWU1YmFkNTBlZTBiNTBlNDZjZjE0MzUxODIzZDc3MTEzZmVi",
+  "snapshot_id": "MCxiZThiMWM5NTcyMzc1ZWM5ODBmNTlkYmYzNDU4ZTMwZjg0Mjc2OTY4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Turn the Lights Back On",
+        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 238939,
+      "name": "Turn the Lights Back On",
+      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Bad English",
         "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Turn the Lights Back On",
-        "url": "https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 238939,
-      "name": "Turn the Lights Back On",
-      "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
+      "duration_ms": 221670,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Soft rock for that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,063 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,116 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 37 | [A Pirate Looks At Forty](https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [A\-1\-A](https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ) | 3:55 |
 | 38 | [Sad Eyes \- Remastered 2002](https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog) | [Robert John](https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ) | [Classic Masters](https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo) | 4:13 |
 | 39 | [Me and You and a Dog Named Boo](https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [I'd Love You To Want Me](https://open.spotify.com/album/4VMBciq1OqZxBXLurWn3ie) | 2:57 |
-| 40 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
+| 40 | [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 |
 | 41 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
 | 42 | [Heart Of The Night](https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 4:54 |
 | 43 | [Runaway](https://open.spotify.com/track/3QNalg8Q83fCmaz5efca2t) | [Jefferson Starship](https://open.spotify.com/artist/3HC7NcxQx2Yk0fWoRKJ0xF) | [Earth](https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 99 | [Moonlighting](https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Another Year](https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7) | 4:13 |
 | 100 | [Too Much Love to Hide \- 2005 Remaster](https://open.spotify.com/track/7HOmCnPcSoTpaUa2XVXxfo) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Daylight Again \(Deluxe Edition\)](https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u) | 3:57 |
 
-Snapshot ID: `MCw1NjA3NDA3ODljZWVlYzczZmY1ZjMxZDQ3OTZkNzQ1MjUxODI5NTdh`
+Snapshot ID: `MCwyNDM3MGUyYjk0YjcwNzA4OTg3OTcxZDJmNzU4Y2Q1MmE2ZmFlOTY1`

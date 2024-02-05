@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 158285,
+  "num_followers": 158351,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWUzOTE5MDZiZmQwZTA3YzRmY2ZmYTE1MzQ4YjMzZDA4NzliNDI1",
+  "snapshot_id": "MCw2ZDhiNDUzMjI5ZDJjZmMwYzczZjQyNjMwODNhMzUyN2JmOTNkMzU1",
   "tracks": [
     {
       "added_at": "2024-01-29 23:44:02",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
-        "name": "azz izz",
-        "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
-      },
-      "artists": [
-        {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
         "name": "Groove Theory",
         "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 236066,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
+        "name": "azz izz",
+        "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
     },
     {
       "added_at": "2024-01-29 23:44:02",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-01-29 23:44:02",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2024-01-29 23:44:02",
+      "album": {
         "name": "NO SZNS",
         "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
-    },
-    {
-      "added_at": "2024-01-29 23:44:02",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2024-01-29 23:44:02",

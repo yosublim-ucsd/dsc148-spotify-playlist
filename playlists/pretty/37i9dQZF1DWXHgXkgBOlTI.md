@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,925 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,938 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 | 50 | [neguse](https://open.spotify.com/track/4nYY6rV75YL7XLsi7zuOPe) | [グッドラックヘイワ](https://open.spotify.com/artist/6tWuPXLJhkk9IjzbKI6hYa) | [Lm](https://open.spotify.com/album/7FYRKp0czfUFQk9IjWTx1m) | 3:30 |
 
-Snapshot ID: `MCw4ZWIyYTAzODBjMThkMjBlNTAwNDMxNTU0NzgzMGY3YjY3NTFhY2Nl`
+Snapshot ID: `MCxlYWQ5YzQ1Y2M0MzY3NjIxNjExZDU5MWZmMmNmYzQzY2EwMjJlMTJl`

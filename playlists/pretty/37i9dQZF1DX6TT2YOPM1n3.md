@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Current Pakistani hits under one roof\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,023 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,101 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 |
 | 60 | [Tera Hone Laga Hoon](https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Best of Romance: Atif Aslam & Pritam](https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs) | 4:59 |
 
-Snapshot ID: `MCwxMmE4ZjFkYjBjNjMzZGM0YTMyMWJjN2FkYWE3MjhkNjY4OWNlZGVi`
+Snapshot ID: `MCxjMDE1YjBmNWYyZWU3OGZlMzU0OTczMDkyM2JmOGU5ZTEyNWMyY2Vi`

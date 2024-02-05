@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-391 songs - 1 day 0 hr 38 min
+392 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-09-13 | 2023-12-05 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-26 | 2023-08-28 |
 | [Make you happy](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Make you happy](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) | 3:04 | 2021-03-27\* | 2021-08-04 |
-| [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 |  |
+| [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 | 2024-02-05 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-13 | 2022-09-19 |
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2021-12-27 | 2023-04-14 |
 | [Melody](https://open.spotify.com/track/621pzEeNauLzgQrmVvCMEA) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [8LOOM](https://open.spotify.com/album/3gh0vrpPVPrs4SZvdldgIC) | 3:14 | 2022-12-23 | 2023-03-08 |
@@ -335,6 +335,7 @@
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-10 | 2022-08-12 |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-02-28 | 2023-05-19 |
 | [春を告げる](https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる](https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv) | 3:16 | 2021-03-27\* | 2021-12-01 |
+| [春愁](https://open.spotify.com/track/0OeTb9sIQTNq313HQHv9TM) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Inferno & More Hits](https://open.spotify.com/album/6S3xkUk67SSNzWhGDoKyt5) | 3:03 | 2024-02-04 |  |
 | [晩餐歌](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2023-10-17 |  |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-10 |  |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-10-24 |  |

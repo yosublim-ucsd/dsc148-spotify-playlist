@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 116080,
+  "num_followers": 115974,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2FkNWQ3MDE4ZjZhNmJmMjFkZjQzZDAwOTc2MDJlNzcwYzFjYmNm",
+  "snapshot_id": "MCw4MWIyYTk5Y2ZlNWYxZDBhZjI3NDEzNWUwZjk1NDAzMjExMzk5MDli",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
-      "album": {
-        "name": "The Legendary Goldstar Album & Golden Glass",
-        "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
-      },
-      "artists": [
-        {
-          "name": "The Misunderstood",
-          "url": "https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Never Had A Girl",
-      "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
-    },
-    {
       "added_at": "2018-02-28 19:55:41",
       "album": {
         "name": "Mk. II (Remastered)",
@@ -363,6 +347,22 @@
       "duration_ms": 295213,
       "name": "Contemporary Chick Con Song - Remastered",
       "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "The Legendary Goldstar Album & Golden Glass",
+        "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
+      },
+      "artists": [
+        {
+          "name": "The Misunderstood",
+          "url": "https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Never Had A Girl",
+      "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
     },
     {
       "added_at": "2022-03-28 19:25:04",
@@ -615,22 +615,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Cauldron",
-        "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
-      },
-      "artists": [
-        {
-          "name": "Fifty Foot Hose",
-          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "If Not This Time",
-      "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Don't Call Us, We'll Call You (Re-Recorded)",
         "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "The Crazy World of Arthur Brown",
-        "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
+        "name": "Cauldron",
+        "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
       },
       "artists": [
         {
-          "name": "The Crazy World Of Arthur Brown",
-          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+          "name": "Fifty Foot Hose",
+          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
         }
       ],
-      "duration_ms": 224600,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
+      "duration_ms": 218666,
+      "name": "If Not This Time",
+      "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -675,6 +659,22 @@
       "duration_ms": 160496,
       "name": "It's A Hard Life",
       "url": "https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
     },
     {
       "added_at": "2018-02-28 19:55:41",

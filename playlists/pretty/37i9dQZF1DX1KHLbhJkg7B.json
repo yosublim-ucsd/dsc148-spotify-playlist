@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 104956,
+  "num_followers": 105026,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY0MmZjY2E0ZjBmNWVmZTIzYTM4OTg4YjQwZmJjZTZjZGU2Njk3",
+  "snapshot_id": "MCxkZTJmZTMxYmNlNzU5NmVkNGZhZGE5NzIxMjViZGU5NjE3OWRiYzRj",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Dylan Wolfe",
-          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dylan Wolfe",
+          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
         }
       ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+      "duration_ms": 231750,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1407,6 +1423,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "It's A Great Day To Be Alive (Live From The Ryman)",
+        "url": "https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "It's A Great Day To Be Alive (Live From The Ryman)",
+      "url": "https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1427,22 +1459,6 @@
       "duration_ms": 232056,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/623qVmC3LmsRQeFk3jlkLc"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "It's A Great Day To Be Alive (Live From The Ryman)",
-        "url": "https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "It's A Great Day To Be Alive (Live From The Ryman)",
-      "url": "https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Feeling Whitney",
         "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "What's Up?",
-        "url": "https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l"
+        "name": "Dreams (The Campfire Sessions)",
+        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
         }
       ],
-      "duration_ms": 278105,
-      "name": "What\u2019s Up?",
-      "url": "https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw"
+      "duration_ms": 226293,
+      "name": "Dreams - The Campfire Sessions",
+      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1703,22 +1699,6 @@
       "duration_ms": 171320,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Dreams (The Campfire Sessions)",
-        "url": "https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Dreams - The Campfire Sessions",
-      "url": "https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1751,6 +1731,26 @@
       "duration_ms": 158461,
       "name": "He Got the Best of Me",
       "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 278105,
+      "name": "What\u2019s Up?",
+      "url": "https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw"
     }
   ],
   "unique_name": "Country Covers",

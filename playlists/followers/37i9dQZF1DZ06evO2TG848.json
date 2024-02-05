@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 20914,
+  "2024-02-05": 20915,
   "date_first_scraped": "2023-09-01",
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
@@ -927,7 +927,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 91480,
       "name": "Opening",
       "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 175893,
       "name": "Un Poquito de Tu Amor - Remasterizado",
       "url": "https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd"

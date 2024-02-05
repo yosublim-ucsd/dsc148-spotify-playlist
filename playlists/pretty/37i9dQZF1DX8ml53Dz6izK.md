@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,434 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,455 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 55 | [Death of a Strawberry](https://open.spotify.com/track/3ztkQGYH19MDzZRGGpXbWk) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/60LbtmnmOLTkz8ZiVhbynM) | 4:10 |
 | 56 | [Miserable At Best](https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 5:16 |
 | 57 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
-| 58 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
-| 59 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
+| 58 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 |
+| 59 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
 | 60 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:19 |
 | 61 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 62 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 79 | [Sorry You're Not a Winner](https://open.spotify.com/track/2LK4xHEsGJF5aNx6yBjkOm) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Sorry You're Not a Winner / OK! Time for Plan B](https://open.spotify.com/album/5pafHBblPtzj5WRLjQ3WqV) | 4:00 |
 | 80 | [Practice Makes Perfect](https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [Rotation](https://open.spotify.com/album/7gfUPIouc3qyVtghc64CAX) | 3:44 |
 
-Snapshot ID: `MCxlNjc3ZDIxNGYzYzc2NmE2ZDYxNmY0ZDY4MjI2ZTdkNDYyODAxY2Yz`
+Snapshot ID: `MCxjNzMzOGU0Mzc4NWZmMmM4ZGE5ZDQ4ZWM3ZjFjMzE0YTcwYzYxZDJi`

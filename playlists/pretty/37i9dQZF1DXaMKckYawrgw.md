@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,808 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,809 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 48 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 49 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
 | 50 | [Mi Corazón Encantado](https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Cesar Franco](https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w) | [El Ska No Está en Extinción](https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT) | 3:58 |
-| 51 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
-| 52 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 51 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 52 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
 | 53 | [Tabernero](https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:40 |
 | 54 | [No Hemos Muerto](https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:29 |
 | 55 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 56 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 57 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 |
-| 58 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
-| 59 | [Y la Recuerdo de Ayer](https://open.spotify.com/track/30qRh0j4htHrsroySiDh57) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [La Rebelión](https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL) | 4:31 |
+| 58 | [Y la Recuerdo de Ayer](https://open.spotify.com/track/30qRh0j4htHrsroySiDh57) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [La Rebelión](https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL) | 4:31 |
+| 59 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
 | 60 | [La Trucha Capirucha](https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST) | [K\-ras Citadinas](https://open.spotify.com/artist/6zOR9Ay6qFpaHcOBsbvZ9B) | [El Bailongo](https://open.spotify.com/album/3Y9lwe5TOmKS62CNC2dk1l) | 3:10 |
 | 61 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
 | 62 | [Ruperta](https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 70 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
 | 71 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
 | 72 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
-| 73 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
-| 74 | [Mala](https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6) | [El Guato](https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ) | [Mala](https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT) | 3:28 |
+| 73 | [Mala](https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6) | [El Guato](https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ) | [Mala](https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT) | 3:28 |
+| 74 | [Psicótico](https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Psicótico](https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP) | 2:56 |
 | 75 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 76 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
 | 77 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
 | 100 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 
-Snapshot ID: `MCwxZDExODUxMGI0M2RhMjY3NWM3ZjlmZjFjZWY5OGYwMTE1YmM0NTZj`
+Snapshot ID: `MCxhMDQyZWE1YmNkYjMzZTAxNWM2MjQyNzAzNTlhMDZjNWI0MDk2YjY4`

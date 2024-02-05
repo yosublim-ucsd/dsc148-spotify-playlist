@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Ma$e
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,274 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,385 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [Oh My God \(feat\. Busta Rhymes\)](https://open.spotify.com/track/6FI3RJ58Ztl0X1VtA6pVs9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Midnight Marauders](https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5) | 3:28 |
 | 50 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 
-Snapshot ID: `MCxiMzgzNDAxM2E3YmI1M2NlNjIwN2MyZjE5Zjg0YTIwMGYxODUxNDNj`
+Snapshot ID: `MCwwYjE2MTJhMzBiZGQxMGIxMTIxMTdhNTcwZWEzM2YxMzdkODkwYjNk`

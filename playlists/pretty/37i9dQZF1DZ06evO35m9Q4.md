@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,977 likes - 45 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,011 likes - 45 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 44 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
 | 45 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA1NTM1NDEwODFiMjUyMzI4NzFjNWNhY2Y3YjFkMGQ2Zg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAyNDA0NDk0YmI5YzA2NWRmYTcxZTI4YWZiZTZiYmQzNw==`

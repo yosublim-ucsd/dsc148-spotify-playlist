@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Andree Right Hand
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,582 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,626 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 27 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 |
 | 28 | [Nghe Như Tình Yêu](https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nghe Như Tình Yêu](https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD) | 3:13 |
 | 29 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 |
-| 30 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
-| 31 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
+| 30 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
+| 31 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 32 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
 | 33 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 |
 | 34 | [Không Phải Gu](https://open.spotify.com/track/7h69br1nQFSSgdVQp6sPx6) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Tage](https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [12345 \(feat\. JGKiD\)](https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW) | [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD) | [12345 \(feat\. JGKiD\)](https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb) | 3:35 |
 | 50 | [Kiểu Như Tâm Tình](https://open.spotify.com/track/2vpG2yT8rrKLFzl9ONoebu) | [NamLee](https://open.spotify.com/artist/4qUaWOfUkpVho3uRUuFoQI), [Boyzed](https://open.spotify.com/artist/1JPTuJJ7KzpwcDCOWkEjUb) | [Kiểu Như Tâm Tình](https://open.spotify.com/album/6BxLPWEC7vK2vLuoNZbfFQ) | 3:32 |
 
-Snapshot ID: `MCw3MDM2NjA2Zjg0M2Q5ZGU4YTZmMjM1YTJkMjM3MGNlYTk2YjkyNmVk`
+Snapshot ID: `MCw3MTQ2YThiZWE4YWRiMmZjYmUxNGI3NjMxYmViZTEyY2YxODczNmY3`

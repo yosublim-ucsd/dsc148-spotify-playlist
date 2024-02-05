@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,467 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,508 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 |
 | 60 | [Chango](https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 3:38 |
 
-Snapshot ID: `MCxhMDE4OWVmYzUxMjFiMTkyZjMxMDNiNjFiMGQ4ZWFhNmY3OTUzYTVm`
+Snapshot ID: `MCxlODk3YWU5NDgxNThmMTEwNjk3NTQyY2Y0ODA2MTczMjc4Y2U5MjVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,150 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,163 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 49 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 |
 | 50 | [Sink To Chair](https://open.spotify.com/track/4yOAEXVbEKI5FNGO69sWuj) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Sink To Chair](https://open.spotify.com/album/6s8PbS2n8QHoexJIcFTLHn) | 6:03 |
 
-Snapshot ID: `MCw0N2Q0ZjQzMTNkODMxYmZiMjBiNDljMTQ0YmNhMjQ2MzkwOWY2MDJj`
+Snapshot ID: `MCwyMGIyM2EzMWVlYTAxMThmMmZkMTAzZDZmYmJlYTM5MDhkMmY1Yzhm`

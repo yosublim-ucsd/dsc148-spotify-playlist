@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,170 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,197 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 18 | [You’re Gonna Go Far](https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:46 |
 | 19 | [At Your Worst](https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [At Your Worst](https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU) | 2:47 |
 | 20 | [Treat People With Kindness](https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:17 |
-| 21 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
+| 21 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 |
 | 22 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
-| 23 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 |
+| 23 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 24 | [Maybe Next Time](https://open.spotify.com/track/0RPxi7CSnMlPeREcnfJptp) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Maybe Next Time](https://open.spotify.com/album/6c06DjFMHRdIKd0r7VSiNT) | 3:08 |
 | 25 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 |
 | 26 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
 | 80 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 |
 
-Snapshot ID: `MCxkOTJhMDQyMTM1YWMwNTU4YjZiNDczYWUxZjQ5MWU3MjU4ZDQ3Njc3`
+Snapshot ID: `MCxlMDU0NTZmNTA3Y2Q1ZmZjMmI5OWJkOTY1NTkzZjNkMzM5MzdkY2Q3`

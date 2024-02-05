@@ -4,7 +4,7 @@
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-185 songs - 12 hr 45 min
+186 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [He's so Shy](https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Special Things \(Bonus Track Version\)](https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB) | 3:38 | 2021-12-20 |  |
 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 | 2021-12-20 |  |
 | [Hello People](https://open.spotify.com/track/0ZG9iIsbVacqjyQNnrCosi) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:26 | 2023-08-15 |  |
-| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2021-12-20 |  |
+| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2021-12-20 | 2024-02-05 |
+| [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 | 2022-11-23 |  |
 | [Hold On](https://open.spotify.com/track/1NZAeh2a8Y6Ry5hGBPGP1e) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Shango](https://open.spotify.com/album/5WGelYF98lYE9NIYrFMoRm) | 4:21 | 2021-12-20 | 2023-08-16 |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2021-12-20 | 2023-08-16 |
 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 | 2021-12-20 |  |

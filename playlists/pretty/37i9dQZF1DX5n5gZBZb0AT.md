@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,188 likes - 40 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,773 likes - 40 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
 | 2 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
-| 3 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
-| 4 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 3 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 4 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 5 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 6 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 7 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 31 | [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 |
 | 32 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 33 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
-| 34 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 35 | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G) | [DJ FLG](https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs) | 2:30 |
-| 36 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
+| 34 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
+| 35 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
+| 36 | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/track/6WyOuugKx4QEZl4PmIyT9G) | [DJ FLG](https://open.spotify.com/artist/6DlWUEM6Qr9z6p6YAOLBDh), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [DILATAÇÃO HIPNÓTICA 6.0](https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs) | 2:30 |
 | 37 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 38 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 39 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
 | 40 | [WINTER ARC FUNK](https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [WINTER ARC FUNK](https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT) | 1:31 |
 
-Snapshot ID: `MCxhM2MyYWI5MTgxMjY3NGM1M2NhZTdmNjAzOGRiMGQ1MDI5MjQ2ZmRi`
+Snapshot ID: `MCxiZjUyYzI0NDk4Y2JmMzYxZDkxY2U0OTdjOWVhZmYzYWU5N2Q5NjVj`

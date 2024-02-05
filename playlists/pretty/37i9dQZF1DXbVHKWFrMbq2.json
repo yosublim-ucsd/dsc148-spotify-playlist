@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15318,
+  "num_followers": 15343,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQzOWI2ZWM3MzU0NTgyMjZmOTM0ZmFkZDQ0MGE1NTQ0MjNlNjBm",
+  "snapshot_id": "MCwxYTQ2YjZhNGY1OGIzMzg3M2Y2ODMxZGE1ZjEyYjU5MzdhNzE4NTBk",
   "tracks": [
     {
       "added_at": "2024-01-25 20:39:18",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 217209,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+      "duration_ms": 217209,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -399,6 +383,22 @@
       "duration_ms": 192703,
       "name": "DESAFIANDO EL DESTINO",
       "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Stand by Me",
-        "url": "https://open.spotify.com/album/3Ss8pBPxrazhXYoSJcBYN7"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 199019,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Stand by Me",
+        "url": "https://open.spotify.com/album/3Ss8pBPxrazhXYoSJcBYN7"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 199019,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/068qo0w1Ki0cjnFYOUhAm2"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "tus ojos (feat. AKRIILA)",
-        "url": "https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 189963,
-      "name": "tus ojos (feat. AKRIILA)",
-      "url": "https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "tus ojos (feat. AKRIILA)",
+        "url": "https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 189963,
+      "name": "tus ojos (feat. AKRIILA)",
+      "url": "https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Una L\u00e1grima y Un Beso",
-        "url": "https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS"
+        "name": "Para Crecer",
+        "url": "https://open.spotify.com/album/0BX68mIp1af45dCMa3kTP7"
       },
       "artists": [
         {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Una L\u00e1grima y Un Beso",
-      "url": "https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV"
+      "duration_ms": 144968,
+      "name": "Para Crecer",
+      "url": "https://open.spotify.com/track/0PflZj1fnVjRYGBNR37T0T"
     }
   ],
   "unique_name": "Pop Relax",

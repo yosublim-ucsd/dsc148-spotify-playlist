@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,262 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,261 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 39 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 |
 | 40 | [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 |
 | 41 | [Desde Dentro](https://open.spotify.com/track/38MvBCfKEfqBmx4bfXxA7Z) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [En el Caribe También Pasa Esto](https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp) | 4:26 |
-| 42 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
-| 43 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
+| 42 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
+| 43 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 |
 | 44 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 |
 | 45 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 |
 | 46 | [Louvre](https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Louvre](https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP) | 2:49 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 68 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 69 | [Ciclo Lunar](https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ciclo Lunar](https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl) | 3:33 |
 | 70 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
-| 71 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
+| 71 | [Ahinoa](https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC) | 3:44 |
 | 72 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
-| 73 | [Ahinoa](https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [17 Canciones para Autopista](https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC) | 3:44 |
+| 73 | [Amor de Instagramer](https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Amor de Instagramer](https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF) | 2:27 |
 | 74 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 75 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
 | 76 | [Juntos](https://open.spotify.com/track/574OhLjdADffJIg7wZojF6) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Juntos](https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 99 | [Por los Dos](https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe) | [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Por los Dos](https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns) | 3:01 |
 | 100 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
 
-Snapshot ID: `MCw1ZjU5NzBjYTEyOTAzNDgxMDZlNDU2NzBjNWQ0Y2FjYjlmYTdiYmMz`
+Snapshot ID: `MCw1NzIwMjY5NjBjMjhiOGRhYzk4ZmM3MzNjYjkyMGM3ZDdhNTU1NTY4`

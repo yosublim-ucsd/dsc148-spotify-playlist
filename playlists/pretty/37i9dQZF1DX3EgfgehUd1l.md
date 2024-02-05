@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,431 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,459 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 24 | [Bye Bye Love](https://open.spotify.com/track/2gPdx3Yugv715fTJeCS9Mf) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Cadence Years, Vol\. 1](https://open.spotify.com/album/22LRrDUzfy8sPMb9HiUWrx) | 2:24 |
 | 25 | [Love Me Tender \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/1bZdOnI0GIcB2xqQqQH7DY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:25 |
 | 26 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
-| 27 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
-| 28 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
-| 29 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
+| 27 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
+| 28 | [Pretend](https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 2:44 |
+| 29 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 30 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
 | 31 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
 | 32 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 |
 | 80 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
 
-Snapshot ID: `MCwwM2FmZWJmODFmZDFmMjY5MzdlNzQ2ODMzNThmODgyNThkYzEwNTQ3`
+Snapshot ID: `MCxmOGMxODg2MzY1NDliOTRlMTA1MzA0MWY4OTI4OWQwOWNhMGJiOWFh`

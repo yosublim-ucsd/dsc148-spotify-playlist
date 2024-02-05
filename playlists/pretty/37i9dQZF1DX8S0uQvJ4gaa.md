@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,495 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,601 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Little Less Lonely](https://open.spotify.com/track/3xoFfxN2RfHqDNG64f9Amw) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Little Less Lonely](https://open.spotify.com/album/6P32qYBrXVjhE0ZLMdejSL) | 3:16 |
 | 100 | [Whose Rearview](https://open.spotify.com/track/2HsgNeT6LrzRofhkykFKRT) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 |
 
-Snapshot ID: `MCw5MDBiZjMxOWQ1ZjFiNWE1MGM4NzUzMGRlMmZkZWRkZmQ2NTc5MGE3`
+Snapshot ID: `MCxkMzlhMjU4MDE3YTRmOWY1YjQ3ZmY0MzI3NTM1MTQ1YWJlNTE5OTgw`

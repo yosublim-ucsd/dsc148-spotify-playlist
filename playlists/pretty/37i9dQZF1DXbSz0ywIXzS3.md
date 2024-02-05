@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 
 > "I am never drinking again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,452 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,549 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 10 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 |
 | 11 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 |
 | 12 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
-| 13 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
-| 14 | [Doin' Time](https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 4:13 |
+| 13 | [Doin' Time](https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 4:13 |
+| 14 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 | 15 | [Better Man](https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:28 |
 | 16 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
 | 17 | [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 63 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
 | 64 | [skins](https://open.spotify.com/track/44Y0uTXcrn42ZyDptUOrpW) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [GHOSTAPE2](https://open.spotify.com/album/6IshG51xx1F2B97Rt4P2ug) | 3:12 |
 | 65 | [Epiphany](https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:16 |
-| 66 | [Oversized](https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
-| 67 | [Seasons](https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 5:45 |
+| 66 | [Seasons](https://open.spotify.com/track/1xRUR651GIJoKbu0dqm0uW) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 5:45 |
+| 67 | [Oversized](https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
 | 68 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 69 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
 | 70 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 |
 | 71 | [Re\-arrange](https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 3:37 |
 | 72 | [The Epilogue](https://open.spotify.com/track/4xzWhGzIvoqu08lZK5vWKr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:55 |
-| 73 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
-| 74 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
+| 73 | [Blackout](https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:22 |
+| 74 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
 | 75 | [People Live Here](https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:08 |
 | 76 | [San Diego](https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:12 |
 | 77 | [Ain't It The Life](https://open.spotify.com/track/2ifYUfvMNbXQDPJEyk68rP) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSz0ywIXzS3.md) - [plain]
 | 79 | [Just the Way I'm Feeling](https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Comfort in Sound](https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng) | 4:23 |
 | 80 | [Police Station](https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 5:35 |
 
-Snapshot ID: `MCw2Nzk2OTJiZDg2ZDQzN2MxNGNmMDhjOWRiYjIzZDRiMmU0OGMxZmNh`
+Snapshot ID: `MCxlYTc3YzU3YTE5NmQzMjMwNjc3MWMxYTM0MzFiMzFjMTc1NmJiYWI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Ancient North African rhythms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,216 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,233 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 23 | [La Ilaha Illa Allah](https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 10:17 |
 | 24 | [Bouhali](https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 5:20 |
 | 25 | [Boulila](https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG) | [Amida Boussou](https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 3:13 |
-| 26 | [Bambraka](https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA) | 7:24 |
-| 27 | [Lalla Mira](https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 9:29 |
+| 26 | [Lalla Mira](https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 9:29 |
+| 27 | [Bambraka](https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA) | 7:24 |
 | 28 | [La Illaha Illa Allah](https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 4](https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef) | 8:54 |
 | 29 | [El Ghaba](https://open.spotify.com/track/7ibGkbXkA1NEUGktfEgdwa) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Lila](https://open.spotify.com/album/0MD1I51gcst768Xt38R2kG) | 7:54 |
 | 30 | [Bania Bambara](https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa Or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 7:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Fangara Fangarié \- Ouled Bambara](https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 3:21 |
 | 50 | [Bilaji](https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv) | [The Sons of the Moon\-Ouled Kamar](https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl) | [Marrakech Undermoon: The Black Album, Vol\. 2b](https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP) | 9:29 |
 
-Snapshot ID: `MCxhNTUyNzU5YTI5Y2FkOWJmNjAwMWQxM2Q3MzJkOGQ2YTZhZDczOGI1`
+Snapshot ID: `MCxlZWRmMjdkM2Q4YzE3MWVhZGI2NDUyZjdmMmExZjA4Yjk0YTY5NTNk`

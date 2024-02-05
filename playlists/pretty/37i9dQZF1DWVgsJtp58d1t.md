@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3ZpEKRjHaHANcpk10u6Ntq">Arya Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,827 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,783 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 7 | [Plate](https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Plate](https://open.spotify.com/album/7e2yh6X5IjQCTsIbgIq05r) | 3:23 |
 | 8 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 |
 | 9 | [Real Life](https://open.spotify.com/track/4IObJ5q90JgXxGiD63aXwL) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Konekt](https://open.spotify.com/album/2NovF7U9Fnbd9CbUgwfXlp) | 2:52 |
-| 10 | [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 |
+| 10 | [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 |
 | 11 | [Parampe](https://open.spotify.com/track/2sEjy0PPVcPDjcKMoWkwIi) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D \(Deluxe\)](https://open.spotify.com/album/3s6o61yAXYCPm71kgiL2Jy) | 2:39 |
 | 12 | [Twerk It](https://open.spotify.com/track/6rLKyWvXsfslRtXZstg18p) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [I AM CHIPPY](https://open.spotify.com/album/3V4n0IbSDvg9v1RLzbwabT) | 2:46 |
 | 13 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 104 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 |
 | 105 | [U Got Me](https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [U Got Me](https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb) | 3:21 |
 
-Snapshot ID: `MCwzNGY5YzFhZjk1ZDUwYzRiMDdhYWI4MDExNGQzOGE2OWEwYzdmZDEx`
+Snapshot ID: `MCw5YTEwZWJkYTViYTA5ZjI5ZTQxZDFjZDIzNTI0OWU4YzJiN2FhZmY0`

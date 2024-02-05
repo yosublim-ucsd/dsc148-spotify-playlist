@@ -1,12 +1,12 @@
 {
   "description": "Being alone (again) can be tough, but these songs will keep you company.",
-  "num_followers": 3344087,
+  "num_followers": 3344328,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmVjOGJmOGMxMzdlMDkwYjYwODA3MTVjZTFiZWI2M2IzZmM2NzE2",
+  "snapshot_id": "MCw4Zjc0YjNjNWI0ZTFkZGE1N2Q2MjJmYTk5YzUxMDhiMzQ5Njc2NDg1",
   "tracks": [
     {
       "added_at": "2023-04-07 20:03:50",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
+      "added_at": "2023-11-08 15:43:13",
+      "album": {
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
+    },
+    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "folklore",
@@ -351,22 +367,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -381,36 +381,20 @@
       "url": "https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX"
     },
     {
-      "added_at": "2023-11-08 15:43:13",
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 177523,
-      "name": "watch",
-      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -443,26 +443,6 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -483,6 +463,26 @@
       "duration_ms": 169226,
       "name": "Heartless (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Unapologetic (Edited Version)",
-        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
         }
       ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
+      "duration_ms": 246587,
+      "name": "jar of hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -827,18 +823,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+        "name": "Unapologetic (Edited Version)",
+        "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
       },
       "artists": [
         {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
         }
       ],
-      "duration_ms": 246587,
-      "name": "jar of hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe)",
-        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe)",
+        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
         "name": "Savage Garden (Original Version)",
         "url": "https://open.spotify.com/album/0980NRxcxOXllQhJQ8iPu4"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 258653,
       "name": "Goodbye My Lover",
       "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
     },
     {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 223043,
-      "name": "Too Much To Ask",
-      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
-    },
-    {
       "added_at": "2023-06-16 07:56:00",
       "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
@@ -1359,6 +1343,22 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
     },
     {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
+    },
+    {
       "added_at": "2023-07-21 12:58:23",
       "album": {
         "name": "Petals to Thorns",
@@ -1411,22 +1427,6 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 191826,
       "name": "Your Song - Bonus Track",
       "url": "https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1705,22 +1705,6 @@
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
-      "added_at": "2024-01-05 09:56:00",
-      "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 187591,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
-    },
-    {
       "added_at": "2023-04-07 20:03:50",
       "album": {
         "name": "Good Without",
@@ -1735,6 +1719,22 @@
       "duration_ms": 182121,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
+    },
+    {
+      "added_at": "2024-01-05 09:56:00",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 187591,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-04-07 20:03:50",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-04-07 20:03:50",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
-    },
-    {
-      "added_at": "2023-04-07 20:03:50",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 214386,
       "name": "Real Friends",
       "url": "https://open.spotify.com/track/3iq9nhbI8fcnNamxMft1uv"
+    },
+    {
+      "added_at": "2023-04-07 20:03:50",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr"
     },
     {
       "added_at": "2023-04-07 20:03:50",

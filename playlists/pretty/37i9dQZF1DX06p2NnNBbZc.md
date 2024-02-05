@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 
 > 【セトリ公開】2023年5月に行われた<a href="https://www.twicejapan.com/feature/5thworldtour\_readytobe">TWICE ワールドツアー「READY TO BE」の日本公演</a>セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,875 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,900 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 | 34 | [Strawberry Moon](https://open.spotify.com/track/23VWZ6sTNXZaa3zXkwJm7g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Kura Kura](https://open.spotify.com/album/1O0im7AhkMRTT37tzHmEXX) | 3:23 |
 | 35 | [BDZ](https://open.spotify.com/track/6ceKChoZYLdw24Ph1CDFUJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BDZ](https://open.spotify.com/album/3Bi7hl11zYHpw6uE6gAtSs) | 3:17 |
 
-Snapshot ID: `MCwxMDFlNWZkYWFiZTgzNTNmZDA5MDJkYWMyMzgyMTM2YjgxY2RiZWFh`
+Snapshot ID: `MCw0Mzk4MWJkYzIzN2Q1NzQzMjkyMDIyNjRkNjg2N2MyMWMwZGY1NTE4`

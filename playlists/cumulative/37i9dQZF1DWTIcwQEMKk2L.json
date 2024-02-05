@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 127624,
       "name": "If You Must Go",
       "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
@@ -1664,6 +1664,24 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "album": {
+        "name": "Sagittabondo",
+        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Sagittabondo",
+      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
     },
     {
       "album": {

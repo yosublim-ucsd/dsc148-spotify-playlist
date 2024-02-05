@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,133 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,157 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 61 | [Your Words \(feat\. Harvest\) \(feat\. Harvest\)](https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [Harvest](https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:58 |
 | 62 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 63 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
-| 64 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
-| 65 | [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 |
+| 64 | [Rise](https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:39 |
+| 65 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 |
 
-Snapshot ID: `MCw3MzQ0ZjVkN2Q2NTEzNjcwZjRkM2U2ZWU1NWIzNjg0N2U3ZjBhMGNk`
+Snapshot ID: `MCw1MDdlYjY1OGJhN2ViYzI2ZTU5OTIxODVmYzFlZTVmZDMyZjg2NDJl`

@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-100 songs - 5 hr 50 min
+101 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Novo Ciclo](https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cabelera](https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Novo Ciclo](https://open.spotify.com/album/0WrfiSS6rdY7taX62Uv66e) | 3:50 | 2023-10-13 |  |
 | [Não Existe Amor em SP](https://open.spotify.com/track/6nvkj9zYRUk4Vmx1hHBC34) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Não Existe Amor em SP](https://open.spotify.com/album/2xcyA6W3pNnCrDSwUUoswb) | 5:47 | 2023-10-13 |  |
 | [Não Vai Embora \- Acústico](https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Vai Embora \(Acústico\)](https://open.spotify.com/album/4bH36H3ghOHKihdYY0kNWf) | 3:47 | 2023-10-13 |  |
-| [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 | 2023-10-13 |  |
+| [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 | 2023-10-13 | 2024-02-05 |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 | 2023-10-13 |  |
 | [O Seu Grande Amor](https://open.spotify.com/track/5dCHsx2BfXrBUrByaLeBqq) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [O Seu Grande Amor](https://open.spotify.com/album/4Vxv79QNhSASp4hodVNKJS) | 3:31 | 2023-10-13 |  |
 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 | 2023-10-13 |  |
@@ -102,6 +102,7 @@
 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Todas as Praias \(Axé\) \[Acústico\]](https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF) | 3:41 | 2023-10-13 |  |
 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 | 2023-10-13 |  |
 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi) | 2:22 | 2023-10-13 |  |
+| [Valeu a Pena \- Acústico](https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Valeu a Pena \(acústico\)](https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL) | 3:04 | 2023-10-13 |  |
 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 | 2023-10-13 |  |
 | [Verdadeiro Amor \- Studio Sessions](https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Milk Box](https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z) | 4:21 | 2023-10-13 |  |
 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 | 2023-10-13 |  |

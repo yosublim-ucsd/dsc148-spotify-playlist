@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 183639,
       "name": "7X1",
       "url": "https://open.spotify.com/track/7ALKKyWT7XElMb4IbifXxt"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 185139,
       "name": "Ciclo Vicioso - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZuGpzhHB4AI9nCC5AIJfa"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 213006,
       "name": "C\u00ea T\u00e1 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/7fzgTaVhUxmEzjtcd9NdWo"
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 187801,
       "name": "Ent\u00e3o Vou Avisar - Ao Vivo",
       "url": "https://open.spotify.com/track/1imiMuvxpEkY0Zqepy0D9i"
@@ -7877,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "Te Amo no Meio",
+        "url": "https://open.spotify.com/album/3ibaj7AkXNyUBlJ0ceACwo"
+      },
+      "artists": [
+        {
+          "name": "Bruna Reis",
+          "url": "https://open.spotify.com/artist/0el1rv73tMYaLIkjGPnXwO"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Te Amo no Meio",
+      "url": "https://open.spotify.com/track/7wFkSog95JhOi0oPQeADBC"
+    },
+    {
+      "album": {
         "name": "Te Amo, Carai (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KIAS03F7wGlVkg3XoXSfG"
       },
@@ -8180,7 +8198,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 170549,
       "name": "Torcendo pra N\u00e3o Dar Certo",
       "url": "https://open.spotify.com/track/11lnR19wI8PaTVjSZ0KVEQ"
@@ -8292,7 +8310,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Treta - Ao Vivo",
       "url": "https://open.spotify.com/track/3ARyYajfhAhh0V8EM1RNCU"

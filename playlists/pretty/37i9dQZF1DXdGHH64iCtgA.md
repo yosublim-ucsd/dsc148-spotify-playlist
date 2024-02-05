@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,986 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,008 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 13 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/0gwNGHcBRYtF7mvgUczVo1) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd) | 8:00 |
 | 14 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 15 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 |
-| 16 | [Bayside](https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 5:29 |
-| 17 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 |
+| 16 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 |
+| 17 | [Bayside](https://open.spotify.com/track/7GhnJwfACNTFXOlyByTWtK) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Bayside](https://open.spotify.com/album/6zkyKkJPiRV3EiAuTg6aQC) | 5:29 |
 | 18 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 19 | [MADELINE](https://open.spotify.com/track/6VfNPL93TsZpmwpe2BJxNc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [MADELINE](https://open.spotify.com/album/6hW5N53gZtSPJQWExInjp6) | 3:24 |
 | 20 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 |
 | 100 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
 
-Snapshot ID: `MCxkOGVjOWI0M2M0NGMwOGFjYzMwNzc3NWUxOTI5YTUyOTQwYTM3Yjhi`
+Snapshot ID: `MCwwMGQ4MGQzZjUzOGY2ZGNlNmE3YjJiOTkwNTY0NjNkNDU5MDRkYmU2`

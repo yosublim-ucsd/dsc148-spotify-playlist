@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,087 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,007 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 7 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 8 | [Até Envelhecer](https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Até Envelhecer](https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O) | 2:57 |
 | 9 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
-| 10 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 |
-| 11 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 10 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 11 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 |
 | 12 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 13 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 |
 | 14 | [Viva La Vida \- Live from Spotify London](https://open.spotify.com/track/6qt0IWS8y6yGR6gNTEmQzj) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 3:54 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 43 | [Eu Tive um Sonho \- Ao Vivo](https://open.spotify.com/track/0sZU3DM0ejEEAO0mTPkd4Z) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Planta e Raiz 2022, Show Completo \(Ao Vivo\)](https://open.spotify.com/album/5sSeu41v2GyGqypbbFCPh5) | 3:41 |
 | 44 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
 | 45 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
-| 46 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 |
-| 47 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
+| 46 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
+| 47 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 |
 | 48 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 | 49 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 |
 | 50 | [Girassol \- Acústico](https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Girassol \(Acústico\)](https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb) | 1:05 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 87 | [Coast \(feat\. Anderson .Paak\) \[Acoustic\]](https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast \(Acoustic\)](https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO) | 2:46 |
 | 88 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |
 | 89 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
-| 90 | [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 |
+| 90 | [Taça De Vidro \- Acústico](https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Acústico Ana Gabriela](https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn) | 2:55 |
 
-Snapshot ID: `MCwwODE3NTc1MDFlZTQ2MjFlNGEzYmZhMTc4NjBkMTFjMjQyNmFkNjEw`
+Snapshot ID: `MCxhN2MyNDkwZTkxNDFlOGY0ZjEwNGE0OGE3ODIyYzBiY2Q2OWZkZWI1`

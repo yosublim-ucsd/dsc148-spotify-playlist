@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > GAMMAL I GEMET!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,840 likes - 101 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,842 likes - 101 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [TRUCKER MOTHERFUCKER](https://open.spotify.com/track/3VERP2rb6wFy5Qf8J2pcff) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [TRUCKER MOTHERFUCKER](https://open.spotify.com/album/1f1PdO6xQRI8nU32xDd0oq) | 3:23 |
 | 101 | [LÄPPGLANS FRÅN DIOR \- EPA SATAN & GRETA TUBORG REMIX](https://open.spotify.com/track/04xFlIdZ0HoKIJQsPQ68Bj) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [EPA SATAN](https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [LÄPPGLANS FRÅN DIOR \(EPA SATAN & GRETA TUBORG REMIX\)](https://open.spotify.com/album/0ncmCdtYBNHVyTRcPs4QVI) | 2:20 |
 
-Snapshot ID: `MCxkNWI2OGIyZGI1ZmIwNmUyODY4ZTJmNWYxZDViYzRhNzcyM2IyMDk1`
+Snapshot ID: `MCwxYzhkNTViM2I1MTdkZTEzYzgzZDk4NmM4YTFiZTgxZTVlZWUzMzFj`

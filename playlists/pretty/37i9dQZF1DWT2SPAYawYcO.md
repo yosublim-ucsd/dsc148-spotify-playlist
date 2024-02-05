@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,608 likes - 77 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,537 likes - 77 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 76 | [Last Time](https://open.spotify.com/track/1CTqUN7HGNCiWQxjv8jzfZ) | [Cam Robertson](https://open.spotify.com/artist/52gYuftxzhODyZnKVxgPkW) | [Last Time](https://open.spotify.com/album/1FBXa8o8sYfO3IG1PZPVZy) | 2:59 |
 | 77 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 |
 
-Snapshot ID: `MCw1NzZmN2M0MjRkNjBlOTMwNWQ3YWI4ZWE1NjYwZGM5ZDk5YmUzMjY3`
+Snapshot ID: `MCw5OWQzZTM2ODgyMzk1ZGE3YmExZGI4ZGM4M2E0MDk4MzIzM2ZkOTIy`

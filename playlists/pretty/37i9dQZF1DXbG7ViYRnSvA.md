@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,046 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,062 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 4 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
 | 5 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
 | 6 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
-| 7 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 8 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
+| 7 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
+| 8 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 9 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 10 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 |
 | 11 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 39 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
 | 40 | [My Life](https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life \(Deluxe / Commentary Edition\)](https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO) | 4:17 |
 | 41 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
-| 42 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
-| 43 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
-| 44 | [IN TIME](https://open.spotify.com/track/0LUr9U2UgSkqgxC61aatTL) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/7GM6oFiUpW9pjWXfHKLZq3) | 3:45 |
+| 42 | [IN TIME](https://open.spotify.com/track/0LUr9U2UgSkqgxC61aatTL) | [Tarrey Torae](https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw) | [IN TIME](https://open.spotify.com/album/7GM6oFiUpW9pjWXfHKLZq3) | 3:45 |
+| 43 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
+| 44 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
 | 45 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
 | 46 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |
 | 47 | [Safe to Say](https://open.spotify.com/track/4Q9EQ3IOxSDbXyKWXGVPcF) | [Tree](https://open.spotify.com/artist/5ABlNXUNKppEgicfzWsaSQ) | [Sunday School II : When Church Lets Out](https://open.spotify.com/album/37RWnHRT1VjCvTqZsLpISj) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 | 50 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/2P7NT61WshlyyVk6WKy0pk) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/05baTh08zfxj1BbtZwKkYI) | 3:35 |
 
-Snapshot ID: `MCwyNzhhNDEzODRlZDRiNmEzOTdhZTJiYjA3Y2Y2NDk0NmU3Zjc2Nzc2`
+Snapshot ID: `MCxiZDQzMzQwNjQwOGU2NzFhOGNkZTQwZjFjYWQ3OGYwOTY1NDkxYWVj`

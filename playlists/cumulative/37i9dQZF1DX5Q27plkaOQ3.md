@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: SVDDEN DEATH
 
-534 songs - 1 day 6 hr 12 min
+535 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Mellow Man](https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-05 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-09-02 | 2023-11-18 |
 | [Miles Away](https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Miles Away](https://open.spotify.com/album/61LAgCOZQZed5PumpbhcaO) | 2:30 | 2023-02-17 | 2023-10-29 |
+| [Militia](https://open.spotify.com/track/0uLNQ37cxlLaPBsbcgIpF3) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Militia](https://open.spotify.com/album/2t58D28R7rxDAYXJ4Pqqqd) | 3:05 | 2024-02-02 |  |
 | [Mind & Body](https://open.spotify.com/track/38eFNBOXqh8FEWOkY8z9wF) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX), [Ethan Glass](https://open.spotify.com/artist/1QcqiiBi6BHRzdgDHvpqu9) | [Mind & Body](https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh) | 4:09 | 2022-03-04 | 2022-07-28 |
 | [Mind & Body](https://open.spotify.com/track/6YsT7iK2yKRamjUI0Gt5Rh) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 2:35 | 2022-03-18 | 2023-04-01 |
 | [Mind Control](https://open.spotify.com/track/28vsBdSYrVngw6b7hA6bos) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Mind Control](https://open.spotify.com/album/7f0LR3Mm5uD7oCBjCJ2Xt4) | 3:18 | 2023-12-15 |  |
@@ -489,7 +490,7 @@
 | [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 | 2023-07-15 |
 | [The Epic](https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [The Epic](https://open.spotify.com/album/23nPvYzq1gTMnGgw8alTdS) | 2:33 | 2023-10-27 | 2023-12-02 |
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 | 2023-10-14 |
-| [The Nightrider](https://open.spotify.com/track/2GZbfF3FiDAdsd25jMRdrF) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB) | [The Nightrider](https://open.spotify.com/album/71YybvQLtnTgk9EzwCs28b) | 2:33 | 2024-01-05 |  |
+| [The Nightrider](https://open.spotify.com/track/2GZbfF3FiDAdsd25jMRdrF) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB) | [The Nightrider](https://open.spotify.com/album/71YybvQLtnTgk9EzwCs28b) | 2:33 | 2024-01-05 | 2024-02-05 |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-03-05 |
 | [The Pit](https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [The Pit](https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y) | 3:48 | 2021-12-17 | 2022-05-07 |
 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 | 2021-12-17 | 2022-07-29 |

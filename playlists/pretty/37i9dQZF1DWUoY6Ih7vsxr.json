@@ -1,12 +1,12 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 249726,
+  "num_followers": 249879,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzZlYzhkZTEwZjExOWY5MTVkOWY4YTc0Yjk1ZGQ4MGExN2Q1OTBm",
+  "snapshot_id": "MCw0ZTIxZmM2MTE5YzJkODBkNzgzMDczNzdlYTViNjFkMGU3ZjlkYzc5",
   "tracks": [
     {
       "added_at": "2022-04-19 07:27:57",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-04-19 07:27:57",
       "album": {
-        "name": "Rising Sun - 2nd Album",
-        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
-    },
-    {
-      "added_at": "2022-04-19 07:27:57",
-      "album": {
         "name": "No.1",
         "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 197825,
       "name": "Miss Right",
       "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
+    },
+    {
+      "added_at": "2022-04-19 07:27:57",
+      "album": {
+        "name": "Rising Sun - 2nd Album",
+        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
     },
     {
       "added_at": "2022-04-19 07:27:57",

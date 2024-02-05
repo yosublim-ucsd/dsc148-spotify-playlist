@@ -1,12 +1,12 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk",
-  "num_followers": 102808,
+  "num_followers": 102866,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVlNzVmYzVmNjY3NWZkN2VlNDYyZGVmYzMzNGRhOWE4NDNmYjUz",
+  "snapshot_id": "MCxmMjMxZjkwZmNlYzg0NjhkZjI4OTczMDQ4MjE2NjUzYjBmOTA1OWMy",
   "tracks": [
     {
       "added_at": "2023-02-01 04:53:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "Hi Fi Revival",
         "url": "https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 163093,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
     },
     {
       "added_at": "2023-02-01 04:53:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-01 04:53:20",
       "album": {
-        "name": "Free At Last (Live)",
-        "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 284134,
-      "name": "Free At Last - Live",
-      "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
-    },
-    {
-      "added_at": "2023-02-01 04:53:20",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 223826,
       "name": "Love Liberty Disco",
       "url": "https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB"
+    },
+    {
+      "added_at": "2023-02-01 04:53:20",
+      "album": {
+        "name": "Free At Last (Live)",
+        "url": "https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 284134,
+      "name": "Free At Last - Live",
+      "url": "https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi"
     },
     {
       "added_at": "2023-02-01 04:53:20",

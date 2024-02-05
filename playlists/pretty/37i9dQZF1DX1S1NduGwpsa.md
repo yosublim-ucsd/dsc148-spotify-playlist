@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Ashley Henry
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,227 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,340 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Retrograde](https://open.spotify.com/track/5uOOqzmhFT5bnwjbQtSJ9k) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK), [Stéphane Kerecki](https://open.spotify.com/artist/4G14nUJ2VqZfvjmSlmot8B) | [Retrograde](https://open.spotify.com/album/3GANzjs5JVExRBMrub9hJa) | 3:59 |
 | 50 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 |
 
-Snapshot ID: `MCwyZjVhYTlmZGJmODI1MzhiY2FhNDgyM2UyZmZmZTI4N2VlNDBlNmQy`
+Snapshot ID: `MCw0Mzc2NjFkZTNiZDA3NWI5NTI0ZmEwY2YwNmNlNGYyZjg5MmVjYjcx`

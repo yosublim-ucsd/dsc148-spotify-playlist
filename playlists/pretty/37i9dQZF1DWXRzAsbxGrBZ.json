@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 43603,
+  "num_followers": 43735,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJlNDNhYjNmZGM2YzNkYjAzZjc2MDc4MTI5ZjUzOWQwZjFlMjE4",
+  "snapshot_id": "MCwyNzdjM2Q3ZWE5MmZlNjAyMjYwY2NjY2ExZjE4MTdiNGM0YjhjNjFm",
   "tracks": [
     {
       "added_at": "2024-01-25 23:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "TARU",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "It Is Well",
         "url": "https://open.spotify.com/album/6hJ2QxpWc8eMbwwOgfFkpY"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/4wPGakZ5g4ZjReeTjbo6SA"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "TARU",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
         "url": "https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/6wHFSpUGY7TYoMH36tJsaU"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/0VnmFajFeWDUE2FO9jPIAy"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Confident (feat. Kali Mija)",
-        "url": "https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck"
-      },
-      "artists": [
-        {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        }
-      ],
-      "duration_ms": 463348,
-      "name": "Confident (feat. Kali Mija)",
-      "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "See the Light",
         "url": "https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 342887,
       "name": "Monomotapa",
       "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Confident (feat. Kali Mija)",
+        "url": "https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck"
+      },
+      "artists": [
+        {
+          "name": "China Charmeleon",
+          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "duration_ms": 463348,
+      "name": "Confident (feat. Kali Mija)",
+      "url": "https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -711,26 +695,18 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
-        "name": "Mend It / Your Eyes Remixes",
-        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
       },
       "artists": [
         {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
         }
       ],
-      "duration_ms": 518599,
-      "name": "Mend It - Stimming Remix",
-      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -763,6 +739,30 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
+        "name": "Mend It / Your Eyes Remixes",
+        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
+      },
+      "artists": [
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 518599,
+      "name": "Mend It - Stimming Remix",
+      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
     },
     {
       "added_at": "2024-01-25 23:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-01-25 23:00:00",
       "album": {
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
+      },
+      "artists": [
+        {
+          "name": "Eternity Musiq",
+          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
+        }
+      ],
+      "duration_ms": 325929,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+    },
+    {
+      "added_at": "2024-01-25 23:00:00",
+      "album": {
         "name": "Emulate",
         "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 469614,
       "name": "Emulate - Original Mix",
       "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
-    },
-    {
-      "added_at": "2024-01-25 23:00:00",
-      "album": {
-        "name": "Time to Dance",
-        "url": "https://open.spotify.com/album/0zP0o4TYEjt3vM9u3SNEXV"
-      },
-      "artists": [
-        {
-          "name": "DJ Cleo",
-          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
-        }
-      ],
-      "duration_ms": 470867,
-      "name": "Time To Dance",
-      "url": "https://open.spotify.com/track/29ycplqUCPpRNEevsdpEQ7"
     }
   ],
   "unique_name": "Deep House Session",

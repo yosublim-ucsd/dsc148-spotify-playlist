@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 286531,
+  "num_followers": 286734,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGFmNzZmMmRhN2E5Zjk5NWZkMTI3NDVlNDdmNGI5ZGIwYzA1ZTQz",
+  "snapshot_id": "MCwwMTk2YTRlYjFmNGI0MTczOWMyOTdiZGQwYmVkYzljYmYzZDM4MjY1",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Green, Green Grass Of Home",
         "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Up on the Roof",
+      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 157173,
-      "name": "Up on the Roof",
-      "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
       },
       "artists": [
         {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
-      "duration_ms": 204493,
-      "name": "Its Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
+      "duration_ms": 113066,
+      "name": "(Ummmm, Oh Yeah) Dearest",
+      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
         }
       ],
-      "duration_ms": 113066,
-      "name": "(Ummmm, Oh Yeah) Dearest",
-      "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
+      "duration_ms": 204493,
+      "name": "Its Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 157586,
       "name": "Where The Boys Are",
       "url": "https://open.spotify.com/track/70UvKFI48DAQ2suS58bu5l"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Dusty In London",
-        "url": "https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Take Another Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Let It Bleed (50th Anniversary Edition / Remastered 2019)",
         "url": "https://open.spotify.com/album/47hOpZQfXVIRzTiv0Ef8pO"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 259079,
       "name": "Love In Vain - Remastered 2019",
       "url": "https://open.spotify.com/track/0mobySzkSudnm0PdUcOSWq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Dusty In London",
+        "url": "https://open.spotify.com/album/5g3vH5YFr5Om6x7P2xhML3"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Take Another Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/43gYYzuAUfrsXxurrxVyE9"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "The Windmills of Your Mind",
-      "url": "https://open.spotify.com/track/6MUHAvKGAmKXojn8wdFB71"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Presenting The Fleetwoods",
         "url": "https://open.spotify.com/album/5Fc0EToP02Ep5Ej2cTB4if"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 274560,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "The Windmills of Your Mind",
+      "url": "https://open.spotify.com/track/6MUHAvKGAmKXojn8wdFB71"
     },
     {
       "added_at": "2022-05-30 13:00:37",

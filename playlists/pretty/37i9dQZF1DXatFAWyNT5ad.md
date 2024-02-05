@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,917 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,981 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,14 +65,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 55 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 56 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
 | 57 | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [don't sleep, repeat \(feat\. Machine Gun Kelly\)](https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK) | 2:29 |
-| 58 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 |
-| 59 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
+| 58 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
+| 59 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 |
 | 60 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 |
 | 61 | [Friends With Your EX](https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Friends With Your EX](https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn) | 1:58 |
 | 62 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 63 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/4e4htLKeAZFildRW8D2Itx) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:52 |
-| 64 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
-| 65 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
+| 64 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
+| 65 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
 | 66 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 |
 | 67 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 68 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 88 | [STRANGERS](https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [STRANGERS](https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF) | 3:43 |
 | 89 | [2 of us](https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [2 of us](https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI) | 2:46 |
 | 90 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 |
-| 91 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 |
-| 92 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
+| 91 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
+| 92 | [Basement](https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Basement](https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz) | 3:24 |
 | 93 | [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 |
 | 94 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
 | 95 | [I Hope I'm Not Sick](https://open.spotify.com/track/37QHhhnI5uuYSuJuWskV86) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Hope I'm Not Sick](https://open.spotify.com/album/34jYFXH3ybEIklGpPGzJ9D) | 2:31 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 124 | [Already Dead](https://open.spotify.com/track/3AgnnuHliXoWbS3TfCKirV) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:39 |
 | 125 | [the feeling](https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:11 |
 
-Snapshot ID: `MCwwNTQxMTRkYTAwM2RhMmEzNzBiNTZkY2VkYTAwMjI5OTliZmFkMDVk`
+Snapshot ID: `MCw4ODYyYzAwZDM0ZWM2YjAxMmVmYzY2MWM0Y2Q0ZGU5OTk3YTA1ODc4`

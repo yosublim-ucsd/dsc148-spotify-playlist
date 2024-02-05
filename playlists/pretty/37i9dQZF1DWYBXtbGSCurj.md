@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: BIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,000 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,883 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 26 | [Eu Fumei a Árvore de Natal](https://open.spotify.com/track/52hZ6Mr4vJawAwSQucW67R) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Um Pequeno Álbum de Natal](https://open.spotify.com/album/2Wo40ErDS87wfkSbGqxt5O) | 3:41 |
 | 27 | [Azul Diamante](https://open.spotify.com/track/1BtpSRFBPXnuz3XhrcuGIy) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Romântico, Pt\. 2](https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS) | 3:43 |
 | 28 | [Outro Voo](https://open.spotify.com/track/1zMvyn4O9VqL7XyXl5JFCO) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 3:00 |
-| 29 | [Cruz de Ouro](https://open.spotify.com/track/22Y7uQ0pZ15zCasVWQUqev) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [LV](https://open.spotify.com/artist/5oOPlkoWKtkI7m0RuCaJxy) | [Cruz de Ouro](https://open.spotify.com/album/0PwQ89mXzz5uDdFkigKM19) | 2:55 |
+| 29 | [Cruz de Ouro](https://open.spotify.com/track/22Y7uQ0pZ15zCasVWQUqev) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Cruz de Ouro](https://open.spotify.com/album/0PwQ89mXzz5uDdFkigKM19) | 2:55 |
 | 30 | [Castelo de Areia](https://open.spotify.com/track/3S0evEGz1esbk9xjsEm6i1) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:42 |
 | 31 | [Cheiro de Riqueza](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
 | 32 | [Invisível pt.2](https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Invisível pt.2](https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Namora & Disfarça \- Bonus Track](https://open.spotify.com/track/3qm36Zh1qGQC2PHDQNdify) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Namora & Disfarça \(Bonus Track\)](https://open.spotify.com/album/3pGBkEvbU4alqs6dzJXeAS) | 1:42 |
 | 75 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 
-Snapshot ID: `MCxjYjY5MGVmNTAyMmJiMTZmYWEwZDQ0NmQ5NWZiNjYyZTdkNGJhYjFi`
+Snapshot ID: `MCw0OTNiNWE4MGY1NTRiMzRmMmJjMzUwNDczYTdlMDc1N2NiYzNlN2Mx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,435 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,563 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Toumast anlet](https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 5:13 |
 | 50 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 |
 
-Snapshot ID: `MCwyN2E2ODRhZjAzYWE5MDIyNWI2ZjkyMmNhOTkzMmQxYjM5MGRlOGE3`
+Snapshot ID: `MCxkYTBmOWFlOTRkMjFmNzg1ZGYzY2I3ZWFjNDg3ODgwYzljY2QxMTNi`

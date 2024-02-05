@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 50209,
+  "num_followers": 50248,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWRjMzIzNjc0ZWZlMjM5ZjY0MWExNGQxMGExNGU3ZGFlZDcyMDlj",
+  "snapshot_id": "MCxjNmI2M2YzOTFhN2I1YzE2ZmRjNGIzYjQ4NDJhMmZhMWZjNTQzYmZm",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 231709,
-      "name": "lovememore.",
-      "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 247360,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 231709,
+      "name": "lovememore.",
+      "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -483,54 +483,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "\u90fd\u5e02\u5973\u5b50",
-        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 197604,
-      "name": "\u90fd\u5e02\u5973\u5b50",
-      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "1/6",
-        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "1/6",
-      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Head In The Clouds II",
         "url": "https://open.spotify.com/album/5n6lYfPddk0bNY8eW6O1ds"
       },
@@ -555,6 +507,54 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "1/6",
+      "url": "https://open.spotify.com/track/5o0dqwd2sAdckax4pb6feU"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "\u90fd\u5e02\u5973\u5b50",
+        "url": "https://open.spotify.com/album/3ntOyPFFZxF6iIjXL3E8by"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 197604,
+      "name": "\u90fd\u5e02\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5KBeit6bMhlgfYwZuDTxoH"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Naturalness",
         "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
-      },
-      "artists": [
-        {
-          "name": "EXID",
-          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
-        }
-      ],
-      "duration_ms": 198414,
-      "name": "Night Rather Than Day",
-      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 220526,
       "name": "Where are you?",
       "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 198414,
+      "name": "Night Rather Than Day",
+      "url": "https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 221875,
       "name": "Dive",
       "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
         "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 201409,
       "name": "Rain 51db",
       "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1547,6 +1547,38 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1567,18 +1599,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+        "name": "SEOUL CITY POP [A-Side]",
+        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "IHYA",
+          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
         }
       ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+      "duration_ms": 202218,
+      "name": "SEOUL CITY POP",
+      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1603,38 +1635,6 @@
       "duration_ms": 191498,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6QGgZu5a3oDPO2NMrlesCd"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "SEOUL CITY POP [A-Side]",
-        "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
-      },
-      "artists": [
-        {
-          "name": "IHYA",
-          "url": "https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "SEOUL CITY POP",
-      "url": "https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
-      },
-      "artists": [
-        {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
-        }
-      ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
     },
     {
       "added_at": "2023-11-02 08:20:42",

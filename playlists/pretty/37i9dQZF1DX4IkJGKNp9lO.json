@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30967,
+  "num_followers": 30963,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg0NjdlYzU3ZjRhZmNkNTFhZGI4MTEzMGVmZDE2M2FhY2YyOWMy",
+  "snapshot_id": "MCxkN2YwMzU5N2Q5MWE0MzExNWZjNmM5N2MzYTZhZDBiZjcyMGZiNGZk",
   "tracks": [
     {
       "added_at": "2024-01-04 23:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Leningrad skyline",
-      "url": "https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Gryningstid",
         "url": "https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 237933,
       "name": "Tro R\u00e4tt Tro Fel",
       "url": "https://open.spotify.com/track/7CNyBCHfFMRCQRFeTT5r8p"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Leningrad skyline",
+      "url": "https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Versace Style",
-        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
-      },
-      "artists": [
-        {
-          "name": "En Svensk Tiger",
-          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
-        }
-      ],
-      "duration_ms": 128080,
-      "name": "Punkrockarflicka",
-      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 149760,
       "name": "Tyst f\u00f6r fan",
       "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Versace Style",
+        "url": "https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f"
+      },
+      "artists": [
+        {
+          "name": "En Svensk Tiger",
+          "url": "https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q"
+        }
+      ],
+      "duration_ms": 128080,
+      "name": "Punkrockarflicka",
+      "url": "https://open.spotify.com/track/5WUTe6rxs2C9lwd5MtAfBU"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Noppriga Tights Och Moonboots",
-        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+        "name": "D\u00f6d Mark 4Evigt",
+        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
       },
       "artists": [
         {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+          "name": "D\u00f6d Mark",
+          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Spriten R\u00e4ddade Mig Fr\u00e5n Sporten",
-      "url": "https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF"
+      "duration_ms": 109120,
+      "name": "I Din Sol",
+      "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Noppriga Tights Och Moonboots",
+        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Spriten R\u00e4ddade Mig Fr\u00e5n Sporten",
+      "url": "https://open.spotify.com/track/4U2fgDPZ2C4qkrfz88ViSF"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Ond saga",
         "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 204400,
       "name": "Sverigev\u00e4nner",
       "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
-        "name": "D\u00f6d Mark 4Evigt",
-        "url": "https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft"
-      },
-      "artists": [
-        {
-          "name": "D\u00f6d Mark",
-          "url": "https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9"
-        }
-      ],
-      "duration_ms": 109120,
-      "name": "I Din Sol",
-      "url": "https://open.spotify.com/track/5gihLvviOhCQSs80u4tRiF"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Balladen Om Lilla Elsa",
-      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Varje ensam natt",
         "url": "https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204109,
       "name": "Varje ensam natt",
       "url": "https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
+      },
+      "artists": [
+        {
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+        }
+      ],
+      "duration_ms": 143560,
+      "name": "Balladen Om Lilla Elsa",
+      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 121510,
-      "name": "Va\u0308gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
         "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 211640,
       "name": "39 Steg",
       "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Borgerlig begravning",
+        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 121510,
+      "name": "Va\u0308gra",
+      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 68638,
-      "name": "Boostade Egon",
-      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Konflikthantering 101",
         "url": "https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160148,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/6Le2xknWbtNI3yRmiBs03U"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 68638,
+      "name": "Boostade Egon",
+      "url": "https://open.spotify.com/track/2RRW47cZhJO0GS7QMtMB6x"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Becksvart",
-        "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "B\u00f6rja om",
-      "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Bakom ljuset",
         "url": "https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "Becksvart",
+        "url": "https://open.spotify.com/album/10j4eMKww3Vibu641umgr5"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "B\u00f6rja om",
+      "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Att Ni Inte Ser...",
-        "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
-      },
-      "artists": [
-        {
-          "name": "Total Apati",
-          "url": "https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4"
-        }
-      ],
-      "duration_ms": 171572,
-      "name": "Modets Klapptr\u00e4n",
-      "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 202640,
       "name": "Till Krig",
       "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Att Ni Inte Ser...",
+        "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
+      },
+      "artists": [
+        {
+          "name": "Total Apati",
+          "url": "https://open.spotify.com/artist/3gzEJGALMIHxyjYm0Q5Eg4"
+        }
+      ],
+      "duration_ms": 171572,
+      "name": "Modets Klapptr\u00e4n",
+      "url": "https://open.spotify.com/track/5LnLs4Zd79RQ5y7VdKHMXQ"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Grabbarna p\u00e5 Stan",
         "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "F\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ"
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
       },
       "artists": [
         {
-          "name": "SARDO NUMSPA",
-          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Vilse p\u00e5 \u00f6ppet hav",
-      "url": "https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v"
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-01-04 23:00:00",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
+        "name": "F\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6b28GFe1v4onH8Gcr3wIJQ"
+      },
+      "artists": [
+        {
+          "name": "SARDO NUMSPA",
+          "url": "https://open.spotify.com/artist/5dwubI4cfcLT99WPy8EIVq"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Vilse p\u00e5 \u00f6ppet hav",
+      "url": "https://open.spotify.com/track/1T3XEAFpxW1VIE71rbwQ7v"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
         "name": "Det blir som det blir",
         "url": "https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-04 23:00:00",
       "album": {
-        "name": "Solidaritet",
-        "url": "https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5"
-      },
-      "artists": [
-        {
-          "name": "Krigsstigen",
-          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
-        }
-      ],
-      "duration_ms": 160459,
-      "name": "Solidaritet",
-      "url": "https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5"
-    },
-    {
-      "added_at": "2024-01-04 23:00:00",
-      "album": {
         "name": "Bara skiten avtar",
         "url": "https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 128345,
       "name": "Tuffa tjejer",
       "url": "https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s"
+    },
+    {
+      "added_at": "2024-01-04 23:00:00",
+      "album": {
+        "name": "Solidaritet",
+        "url": "https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5"
+      },
+      "artists": [
+        {
+          "name": "Krigsstigen",
+          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
+        }
+      ],
+      "duration_ms": 160459,
+      "name": "Solidaritet",
+      "url": "https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5"
     },
     {
       "added_at": "2024-01-04 23:00:00",

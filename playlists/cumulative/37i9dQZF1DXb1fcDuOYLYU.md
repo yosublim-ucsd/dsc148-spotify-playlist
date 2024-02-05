@@ -4,7 +4,7 @@
 
 > Celebrating the powerful voices of Latin music\. Cover: Belinda
 
-293 songs - 15 hr 55 min
+294 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 | 2023-12-15 |  |
 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 | 2022-03-14 | 2023-02-16 |
 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 | 2023-02-16 |  |
+| [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 | 2024-02-02 |  |
 | [Soy Así](https://open.spotify.com/track/2f59UKerWyhPoPkhdozMZM) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Soy Así](https://open.spotify.com/album/7e7GLih85DGKqsXxfqa7OH) | 3:32 | 2022-03-14 | 2023-02-16 |
 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 | 2022-03-14 | 2023-02-16 |
 | [Taxi](https://open.spotify.com/track/10cuEFxGFk2fh874O9KfNc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Taxi](https://open.spotify.com/album/5rFUGWLsPZ8nf8arlIxrHA) | 2:52 | 2022-03-14 | 2022-07-29 |
@@ -268,7 +269,7 @@
 | [There's No Way](https://open.spotify.com/track/5T56yynriYCiX1Qnas0Cyp) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [There's No Way](https://open.spotify.com/album/3SqoUao1G3gxi9gFuZX2zf) | 2:45 | 2022-03-14 | 2023-02-16 |
 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 | 2022-03-14 | 2023-02-16 |
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-02-16 |  |
-| [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2023-02-16 |  |
+| [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2023-02-16 | 2024-02-05 |
 | [Toma](https://open.spotify.com/track/48iWXYdWMFNenABULLtopW) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Toma](https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF) | 2:42 | 2023-05-12 | 2023-10-06 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 |  |
 | [Tu Falta De Querer](https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:38 | 2022-03-14 |  |

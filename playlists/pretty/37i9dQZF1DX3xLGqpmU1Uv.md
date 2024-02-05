@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,856 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,808 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 43 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
 | 44 | [Jamaica Ska](https://open.spotify.com/track/1IdVAyXiFXw6b5aE2oZMN7) | [Los Yorsy's](https://open.spotify.com/artist/4JwFfxpE8gRIvfwofhxus2) | [Jamaica Ska](https://open.spotify.com/album/4HMH3PhhAuUz0Lt3KorOgu) | 2:11 |
 | 45 | [Nena Loca](https://open.spotify.com/track/6OnUh5kbrT3LERAKSRE4T8) | [Los Reyes del Twist \(Los Seven Teens\)](https://open.spotify.com/artist/1HIFXcPtGj3PHMiDocMQ2H) | [Los Seven Teens](https://open.spotify.com/album/4rkOWiDCIicFuzuXmgPs1J) | 2:36 |
-| 46 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
-| 47 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
+| 46 | [Oh! No](https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m) | [Los Camisas Negras](https://open.spotify.com/artist/3gQTdlAGp7BHmp6wLzvC3i) | [El Tigre](https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh) | 1:38 |
+| 47 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 48 | [Chica ye yé](https://open.spotify.com/track/2KPj9qiGpjmFHcczbHOXuf) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Legado de Mujeres Latinas](https://open.spotify.com/album/2pilz2V8vMaHaS7hDFuSU5) | 2:13 |
 | 49 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
 | 50 | [Muevanse Todos](https://open.spotify.com/track/43aYQsdCbQ6kMg4PjCGwu5) | [Vianey Valdez](https://open.spotify.com/artist/0JIg0Ml1RCN9v57Ht9Wfd5) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 2:23 |
 
-Snapshot ID: `MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh`
+Snapshot ID: `MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi`

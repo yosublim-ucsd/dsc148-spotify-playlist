@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Jontae
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,598 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,641 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 |
 | 80 | [If You Don’t Mind](https://open.spotify.com/track/45iYlfv7l1O3eMnmQpFnFY) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [If You Don’t Mind](https://open.spotify.com/album/69Jy0i1vAz4pBor0ESq9e4) | 2:43 |
 
-Snapshot ID: `MCxiZDQ5Yjk3MGNhN2I2ZTY3MGZjYmUxYWNhZmU2ZDBiZDVjMTU3NGJi`
+Snapshot ID: `MCxhOWRkZTdhYWYxM2ExM2ZkNmQ0ZWQwMDlkYjhiZTBiZjc3MGU2MjYx`

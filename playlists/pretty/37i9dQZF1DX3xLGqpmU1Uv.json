@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico!",
-  "num_followers": 153856,
+  "num_followers": 153808,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDg0Yjc2NjdkYmViZjYwNjQxYmUzN2JmNjYwNmFiNzQ2YjM2ZmRh",
+  "snapshot_id": "MCwzMjIxMmQ3MmZiNzczMDJmMWU1MThkNjhlN2FkNWJjYWYyZDdlZDBi",
   "tracks": [
     {
       "added_at": "2020-03-18 04:18:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 139546,
-      "name": "Juego De Amor",
-      "url": "https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "El Tigre",
         "url": "https://open.spotify.com/album/1ze4aTvIn0RGW61jEhWEGh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 98615,
       "name": "Oh! No",
       "url": "https://open.spotify.com/track/7dQWZ2EEodVh3WrMCiT99m"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "duration_ms": 139546,
+      "name": "Juego De Amor",
+      "url": "https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe"
     },
     {
       "added_at": "2020-03-18 04:18:26",

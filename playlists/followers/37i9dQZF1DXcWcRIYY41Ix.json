@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 120883,
+  "2024-02-05": 120907,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
   "name": "Cancionistas",
@@ -3647,6 +3647,28 @@
       "duration_ms": 202401,
       "name": "FLORECE",
       "url": "https://open.spotify.com/track/3YLaVgfS9HfSpmtDvOwRjk"
+    },
+    {
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
     },
     {
       "album": {
@@ -7339,7 +7361,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 223047,
       "name": "Propuestas Imposibles",
       "url": "https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy"

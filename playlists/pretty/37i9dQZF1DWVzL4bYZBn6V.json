@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 90566,
+  "num_followers": 90609,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjhiODQxM2Q5ZjUzOWUxZTU3NTU3MDJmMmRjZWViOGEzNDg4Nzk3",
+  "snapshot_id": "MCxlODZkNGJiNmY0NzBhYzI0MWQ2YWY4ODIwOWZjMjNkNDI4ZjQwMGM3",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -483,26 +483,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Sweet Munchies",
-        "url": "https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 129523,
-      "name": "Sweet Munchies",
-      "url": "https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Sweet Munchies",
+        "url": "https://open.spotify.com/album/0e3nx8tl0cwLOzEJ6zQ72h"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 129523,
+      "name": "Sweet Munchies",
+      "url": "https://open.spotify.com/track/6sxPpL5WehUjoxQ0o5hf6w"
     },
     {
       "added_at": "2021-04-23 23:14:33",

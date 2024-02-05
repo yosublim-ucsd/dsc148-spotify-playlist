@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,625 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 48 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 |
 | 49 | [Secrets](https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:13 |
 | 50 | [One Night Only](https://open.spotify.com/track/74fQgHleHZ4V7Gm1XYcGkj) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [One Night Only](https://open.spotify.com/album/4r2K4gqWp5VAgOvwtGDhYY) | 3:15 |
-| 51 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
-| 52 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
-| 53 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
+| 51 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
+| 52 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 |
+| 53 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 54 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
 | 55 | [Look Back at It](https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:59 |
 | 56 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 96 | [Molly](https://open.spotify.com/track/3m49rgJQUz5GU07RWjf5SH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 2:44 |
 | 97 | [Resume](https://open.spotify.com/track/3U3gHqRwjam6CxwW68m30z) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Resume](https://open.spotify.com/album/3AkeMkUB4TxgC0BRc2KsVw) | 3:55 |
 | 98 | [Gassed Up](https://open.spotify.com/track/6JjEVlMkfHWMeYavkEYzNO) | [Nebu Kiniza](https://open.spotify.com/artist/5lCY3tqdQxbeg5igSlObaT) | [Gassed Up](https://open.spotify.com/album/6YCcGxz3l1shgr3F7XbNee) | 3:13 |
-| 99 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 |
-| 100 | [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 |
+| 99 | [7AM](https://open.spotify.com/track/4v1P7JCjehbg5TmLQo2mFy) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:39 |
+| 100 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 |
 
-Snapshot ID: `MCw4NTY0NzMxZGI1OGM3NjViZTM4YzNmOWQ0OTY4MDIzNWQ2YjkwNzM0`
+Snapshot ID: `MCw0NDU2Njg2NmVjNzZhZjg4N2JjYjhjMTkzZDgwMjMyZDc1OGZkNTg3`

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 819764,
+  "2024-02-05": 818942,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 155748,
       "name": "Ayr\u0131 Gitme",
       "url": "https://open.spotify.com/track/6dqkb11C20YDLZNhNAzWxz"
@@ -6031,7 +6031,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -6775,6 +6775,24 @@
       "duration_ms": 47314,
       "name": "H - CHORBA",
       "url": "https://open.spotify.com/track/34DHJUreZIZckzkPffXtEr"
+    },
+    {
+      "album": {
+        "name": "HAA\u203c\ufe0f",
+        "url": "https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108252,
+      "name": "HAA\u203c\ufe0f",
+      "url": "https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw"
     },
     {
       "album": {
@@ -13146,6 +13164,24 @@
     },
     {
       "album": {
+        "name": "VEDA T\u00dcRK\u00dcS\u00dc",
+        "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203914,
+      "name": "Senden G\u00fczeli Mi Var",
+      "url": "https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy"
+    },
+    {
+      "album": {
         "name": "Senden Yoksun",
         "url": "https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST"
       },
@@ -13276,6 +13312,28 @@
     },
     {
       "album": {
+        "name": "Seni Yazd\u0131m",
+        "url": "https://open.spotify.com/album/6cxZJkdAXDdGVGtLnwRTVg"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151059,
+      "name": "Seni Yazd\u0131m",
+      "url": "https://open.spotify.com/track/1abxpxR02QBwzEWJal3Khb"
+    },
+    {
+      "album": {
         "name": "Seni \u00d6pt\u00fc\u011f\u00fcm Sokak",
         "url": "https://open.spotify.com/album/0aYfI5FrEXS53cNYSETq9R"
       },
@@ -13313,7 +13371,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 122000,
       "name": "SENIN UGRUNA",
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"

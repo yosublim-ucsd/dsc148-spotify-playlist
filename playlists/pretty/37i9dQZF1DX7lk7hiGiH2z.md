@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,218 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,208 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 7 | [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 |
 | 8 | [Wann wird es Winter?](https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Winter \- EP](https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl) | 2:26 |
 | 9 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 |
-| 10 | [Frosty, der Schneemann](https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j) | [Schlagerkids](https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb) | [Frosty, der Schneemann](https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I) | 2:06 |
-| 11 | [Rudolf, das kleine Rentier](https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:05 |
+| 10 | [Rudolf, das kleine Rentier](https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:05 |
+| 11 | [Frosty, der Schneemann](https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j) | [Schlagerkids](https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb) | [Frosty, der Schneemann](https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I) | 2:06 |
 | 12 | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE) | 2:38 |
 | 13 | [Schneeflöckchen](https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE) | [eneMene](https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB) | [eneMene Kinderlieder \- die Grüne](https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC) | 1:28 |
 | 14 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 41 | [Das muss wohl der Winter sein \(Giraffenaffensong\)](https://open.spotify.com/track/4bkc4Gesl2A3ffbFMvtFcH) | [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:55 |
 | 42 | [Eisbär\-Pinguin Rock](https://open.spotify.com/track/18eVvbrJHnLSj4shiCB7iT) | [Simone Ludwig](https://open.spotify.com/artist/18gN8Rna2Zfjt2t4wh8QwI) | [Eisbär\-Pinguin Rock](https://open.spotify.com/album/6hXLzTFy2ZHZYmFnFOe1uB) | 3:05 |
 | 43 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
-| 44 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
-| 45 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
+| 44 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 |
+| 45 | [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 |
 | 46 | [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 |
 | 47 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/61wnGRwPJYTj3e9kvcCZiv) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 3:20 |
 | 48 | [Zootierpolka](https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Zootierpolka](https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh) | 2:24 |
 
-Snapshot ID: `MCw0NDZhN2FhMmQ2NDNjYzY2ODA5MmY5YmRiMmUyZDY2YjA5YjNkOGZh`
+Snapshot ID: `MCwyZTA1YTg3OTA2MDQ0MTY1MjRlYWUzMDg2Mjc4MjA1YWJmMDM5MDBi`

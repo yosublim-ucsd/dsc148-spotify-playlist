@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3874,
+  "num_followers": 3876,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWIxMzdkZWI0OGI2ZjMwMTMxMzFhM2ZmMjI3YTRhMDUxMDJmNDc4",
+  "snapshot_id": "MCwwODU4YjE1YTdkNWQ2YmJhOTc0NDBlZDYwMTE5YTgxMGFjNWE3NGRh",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "T\u00f3cate",
         "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
         "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 198214,
       "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
       "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Labios (La Noche)",
-        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "Labios (La Noche)",
-      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Labios (La Noche)",
+        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Labios (La Noche)",
+      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Q' Pario",
         "url": "https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx"
       },
@@ -1699,6 +1699,26 @@
       "duration_ms": 231562,
       "name": "Q' Pario",
       "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
+      },
+      "artists": [
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1883,26 +1903,6 @@
       "duration_ms": 136586,
       "name": "Carioca",
       "url": "https://open.spotify.com/track/3INCMRvvxcLpK5gdOqDBc1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "El Nacimiento",
-        "url": "https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Saidi",
-          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
-        },
-        {
-          "name": "Sinner & James",
-          "url": "https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "El Nacimiento",
-      "url": "https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb"
     }
   ],
   "unique_name": "Alma",

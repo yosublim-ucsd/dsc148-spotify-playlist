@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,933 likes - 60 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,850 likes - 60 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 50 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
 | 51 | [Mona Lisa](https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH) | [Carl Mann](https://open.spotify.com/artist/2VMEvDcrKKZg96T4QWXIkT) | [Like, Mann: Carl Mann Sings](https://open.spotify.com/album/18A5NjwCOxllq8BpDZSEsQ) | 2:26 |
 | 52 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
-| 53 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
-| 54 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
+| 53 | [Once More](https://open.spotify.com/track/6s3WmrBER7k2TVM1wvue3i) | [The Buckaroos](https://open.spotify.com/artist/74wE2KMCkSnUpjtgKF9cUr) | [Nola](https://open.spotify.com/album/6c6YN42siupi6OxN7ZwqJC) | 2:19 |
+| 54 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 55 | [Baby Come Back](https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0) | [TT Grace](https://open.spotify.com/artist/174fMDtkjlEdRIF9gXZcHc) | [Baby Come Back](https://open.spotify.com/album/0mt0K3Xgp7zN5nOZFoPJ4L) | 3:21 |
 | 56 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
 | 57 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
 | 60 | [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 |
 
-Snapshot ID: `MCxkZjVmNjkwMmMwMmM3ZmY1ZjYwNzk0OTQyZDEzMTNjZGQ2Y2ExYzk3`
+Snapshot ID: `MCw2ZGUwOWMxMDJjNzRmMWRlNTdhYmM5ZTNjMDQxM2IyYmYyNDQ1OTky`

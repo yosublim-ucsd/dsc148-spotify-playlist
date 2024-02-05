@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,870 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,450 likes - 75 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 7 | [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 |
 | 8 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
 | 9 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
-| 10 | [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 |
-| 11 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 |
+| 10 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 |
+| 11 | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg) | 2:04 |
 | 12 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
-| 13 | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg) | 2:04 |
+| 13 | [COWBELL WARRIOR!](https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4) | 2:29 |
 | 14 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 15 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 16 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Speak Up](https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ) | 1:44 |
 | 75 | [Kujo Freestyle](https://open.spotify.com/track/50wSSOhJIC80JyDblxaDIu) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/1K5NQ3uYpYENDGyt84BhYV) | 1:55 |
 
-Snapshot ID: `MCwxYTcwM2NhOWJmYjMzNTRlNDBmMTA4ZWQ2MTE3MGM3ZjAyNmRjYjIz`
+Snapshot ID: `MCxmYmI2YWY4NjdmNWQ3ZDZjOGYyNmZlMDk5OGQ1ZTgxZTA1YTIxMGE2`

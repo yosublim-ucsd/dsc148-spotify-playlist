@@ -4,7 +4,7 @@
 
 > Hits terpanas dari Geisha, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-147 songs - 9 hr 13 min
+148 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-10-13 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-03-23 | 2023-09-01 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-15 | 2023-11-18 |
-| [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 | 2024-01-31 |  |
+| [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 | 2024-02-01 |  |
+| [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 | 2024-01-31 | 2024-02-05 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-13 |  |
 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 | 2024-01-25 |  |
 | [Pilihan Yang Terbaik](https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:54 | 2023-03-23 | 2023-06-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 60999,
+  "num_followers": 61098,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjExM2EwZDdmYTM2MWQ5OTdjOGY0MDlhZTk0ZWZhYWFkMjQzNTc2",
+  "snapshot_id": "MCxmZDViMTk2YTVmZjA4NWEzNGJlNzI3N2JiMzg5ZDRjYzUxNmRkYjMz",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -589,6 +589,26 @@
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Only God Can Save Me",
@@ -603,26 +623,6 @@
       "duration_ms": 178909,
       "name": "Only God Can Save Me",
       "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -661,44 +661,24 @@
       "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "We Behold(Qavah Anthem)",
-        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
       },
       "artists": [
         {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 773605,
-      "name": "We Behold(Qavah Anthem)",
-      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -719,42 +699,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+        "name": "We Behold(Qavah Anthem)",
+        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
         },
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
         }
       ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+      "duration_ms": 773605,
+      "name": "We Behold(Qavah Anthem)",
+      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -783,18 +743,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -811,6 +775,42 @@
       "duration_ms": 696179,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -887,18 +887,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -927,26 +935,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1009,6 +1009,26 @@
       "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Talk & Do",
+        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Talk & Do",
+      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
+    },
+    {
       "added_at": "2024-01-19 00:01:00",
       "album": {
         "name": "Praise Your Name",
@@ -1055,26 +1075,6 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1477,24 +1477,24 @@
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Okaka",
-        "url": "https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz"
+        "name": "Blessed Year",
+        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
       },
       "artists": [
         {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
         },
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Vin Mokay",
+          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
         }
       ],
-      "duration_ms": 740413,
-      "name": "Okaka",
-      "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+      "duration_ms": 184337,
+      "name": "Blessed Year",
+      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1521,24 +1521,24 @@
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
     },
     {
-      "added_at": "2024-01-26 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blessed Year",
-        "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
+        "name": "Okaka",
+        "url": "https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
         },
         {
-          "name": "Vin Mokay",
-          "url": "https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 184337,
-      "name": "Blessed Year",
-      "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
+      "duration_ms": 740413,
+      "name": "Okaka",
+      "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
     },
     {
       "added_at": "2023-12-15 00:01:00",

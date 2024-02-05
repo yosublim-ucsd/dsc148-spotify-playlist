@@ -4,7 +4,7 @@
 
 > Introducing Alma — a soul born from Latin and house music.
 
-173 songs - 9 hr 35 min
+174 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 | 2023-11-10 |  |
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-05-01 | 2023-11-11 |
 | [El Hoyo](https://open.spotify.com/track/4efCIxfbgtf27uvOD0c3cB) | [Francis Davila](https://open.spotify.com/artist/4JT4DG5QVDffNJBv3UuaE6) | [El Hoyo](https://open.spotify.com/album/7bB62uup0K7tg2yzsppwlr) | 3:35 | 2023-12-01 | 2023-12-21 |
-| [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 |  |
+| [El Nacimiento](https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb) | [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [El Nacimiento](https://open.spotify.com/album/7AvAEDeUXJjKYJZOrCMhM1) | 3:23 | 2024-02-02 | 2024-02-05 |
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 |  |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 |  |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
@@ -148,6 +148,7 @@
 | [Sandia](https://open.spotify.com/track/0nVv2VpTQg8P52xdnEGrmu) | [Adiel Mora](https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Sandia](https://open.spotify.com/album/7csNLiVDk128lLGoJgd3Bp) | 2:32 | 2023-12-01 |  |
 | [Sarava](https://open.spotify.com/track/0bszKc6KnjdZxtLjUMFs52) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Sarava](https://open.spotify.com/album/32hf6dpv1rxU5OcFtsg9R8) | 3:18 | 2023-12-01 |  |
 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 | 2023-11-10 |  |
+| [Senta Relaxa](https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP) | [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Senta Relaxa](https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0) | 3:00 | 2024-02-02 |  |
 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 | 2023-11-10 |  |
 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 | 2021-10-08 | 2023-11-11 |
 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 | 2021-10-08 | 2023-11-11 |

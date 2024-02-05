@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,176 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,186 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,22 +28,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 18 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:24 |
 | 19 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 |
 | 20 | [Jam On It](https://open.spotify.com/track/1lB2kyB5h9ceZ388GBfC9L) | [Newcleus](https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C) | [Jam On Revenge](https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe) | 6:23 |
-| 21 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
-| 22 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
-| 23 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
+| 21 | [Ain't No Half\-Steppin'](https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [Long Live The Kane](https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z) | 5:19 |
+| 22 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 |
+| 23 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
 | 24 | [Paid In Full](https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Marley Marl](https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:48 |
-| 25 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:25 |
+| 25 | [Rebel Without A Pause](https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:02 |
 | 26 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
 | 27 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 28 | [It's Like That](https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [RUN\-DMC \(Expanded Edition\)](https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8) | 4:50 |
-| 29 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
-| 30 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
-| 31 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
+| 29 | [Smooth Operator](https://open.spotify.com/track/1Z4mVNtYGnpjHUoZVo3IMU) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W) | [It's A Big Daddy Thing](https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX) | 4:44 |
+| 30 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
+| 31 | [Don't Believe The Hype](https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 5:19 |
 | 32 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
 | 33 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
 | 34 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader \(Expanded Edition\)](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
-| 35 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
-| 36 | [Rapper's Delight](https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [NOW Hip\-Hop At 50](https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH) | 3:52 |
+| 35 | [Rapper's Delight](https://open.spotify.com/track/3aSZe61cG5tU7BzdJxKBvz) | [The Sugarhill Gang](https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX) | [NOW Hip\-Hop At 50](https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH) | 3:52 |
+| 36 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 | 37 | [My Adidas](https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 2:47 |
 | 38 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
 | 39 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 67 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 68 | [I'll Take Your Man](https://open.spotify.com/track/1o19erG7MurnvFf76zsX41) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 5:08 |
 | 69 | [P.S.K\. 'What Does It Mean'?](https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW) | [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL) | [Schoolly D](https://open.spotify.com/album/57LWYtFS2xn5pIDHLqjatU) | 6:28 |
-| 70 | [Manifest](https://open.spotify.com/track/46wcI2boTK1hCco4ZAuDXz) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Mass Appeal: The Best Of Gang Starr \(Explicit\)](https://open.spotify.com/album/6nGPSCWlm9qQN1xfER6yJR) | 4:50 |
+| 70 | [Genius Rap \- 7" Single Version](https://open.spotify.com/track/71V59P1ap285AB9TNJdmbH) | [Dr\. Jeckyll & Mr\. Hyde](https://open.spotify.com/artist/7rxyGNqJCod2DVTBubSTyt) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 4:40 |
 
-Snapshot ID: `MCwzN2EzZDExNGNjNGNhMmRmNDY4NWU0YmMzZGI4MmU2ZmM4OTQ4ZWNi`
+Snapshot ID: `MCxhNWQ1YTEwZmMxODk1YzljZDUwNjBiOWM1NDQyN2UyNDVlZGZlZDNl`

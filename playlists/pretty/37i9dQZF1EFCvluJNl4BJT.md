@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 21 | [Another Heartbreak](https://open.spotify.com/track/1TuSfYnKU5uKbYK1esQDLj) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 4:09 |
 | 22 | [Love Is Everything](https://open.spotify.com/track/25tkPPlBrYCXkSIAASibtL) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:32 |
 | 23 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 |
-| 24 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
-| 25 | [Get To You](https://open.spotify.com/track/2D5syPC60v8voqHqo9kUtn) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:25 |
-| 26 | [This Will Do](https://open.spotify.com/track/7GypRHZMWmb81zN90Phu9y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:55 |
-| 27 | [july 16th](https://open.spotify.com/track/41CJn3Q0pJwcNHbF8RM2QE) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 1:50 |
-| 28 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 |
-| 29 | [This Forever](https://open.spotify.com/track/26FpOENKQstjLRhX1fxUs9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:41 |
-| 30 | [Valentine's Day \(Shameful\)](https://open.spotify.com/track/6GCRnf1W9OKxok9fvNp3pz) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Valentine's Day \(Shameful\)](https://open.spotify.com/album/2x9hiwj8Rc9b2MoQ3FKWcY) | 4:51 |
-| 31 | [Favorite](https://open.spotify.com/track/0mYzFrdOZLnDCDdgjsnSjx) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:31 |
-| 32 | [Breaking Point](https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 4:53 |
+| 24 | [Butterfly](https://open.spotify.com/track/11aPoQJ6CwjWqHplsV54oC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/1YwO0apo9Oy6QTI4D8qWUf) | 2:43 |
+| 25 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
+| 26 | [Get To You](https://open.spotify.com/track/2D5syPC60v8voqHqo9kUtn) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:25 |
+| 27 | [This Will Do](https://open.spotify.com/track/7GypRHZMWmb81zN90Phu9y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:55 |
+| 28 | [july 16th](https://open.spotify.com/track/41CJn3Q0pJwcNHbF8RM2QE) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 1:50 |
+| 29 | [Grieving \(feat\. James Blake\)](https://open.spotify.com/track/4bzd4evyqXabRtesx4emPn) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:50 |
+| 30 | [This Forever](https://open.spotify.com/track/26FpOENKQstjLRhX1fxUs9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:41 |
+| 31 | [Valentine's Day \(Shameful\)](https://open.spotify.com/track/6GCRnf1W9OKxok9fvNp3pz) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Valentine's Day \(Shameful\)](https://open.spotify.com/album/2x9hiwj8Rc9b2MoQ3FKWcY) | 4:51 |
+| 32 | [Favorite](https://open.spotify.com/track/0mYzFrdOZLnDCDdgjsnSjx) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:31 |
 | 33 | [Hide & Freak](https://open.spotify.com/track/1ikIktDZJvfQFDOfPTIqAY) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [My Life II](https://open.spotify.com/album/6uGOeETMsNfv5alC0XnmyN) | 2:59 |
 | 34 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
 | 35 | [I Love Me](https://open.spotify.com/track/5D4368CnI6V8iMVeE8LyQA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [I Love Me](https://open.spotify.com/album/47cpDbkNcM4FcEKcAoYLyE) | 3:11 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 73 | [Hello How Are You](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 74 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `Mjg0NTAyMDAsMDAwMDAwMDBkNGVmMmU4ZDdmNzdkMDFhYjcxNTU4M2ZlZmE5YjljNQ==`
+Snapshot ID: `Mjg0NTE2NDAsMDAwMDAwMDAzZjJkNThhNzAyZmZiZWMwMDhkNmEwZjhjYzMzNjc5Yw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,057 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,043 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 33 | [Favourite Things](https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Favourite Things](https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg) | 2:53 |
 | 34 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
 | 35 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
-| 36 | [BUBBLY](https://open.spotify.com/track/6bc2ROroe6mWMUu6BjN0pl) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:51 |
-| 37 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
+| 36 | [Better With You](https://open.spotify.com/track/6qKZyYF6iZzzRASRgIRRec) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Gentle Bones](https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC) | 2:46 |
+| 37 | [BUBBLY](https://open.spotify.com/track/6bc2ROroe6mWMUu6BjN0pl) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [GEMINI](https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW) | 2:51 |
 | 38 | [juice](https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [juice](https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2) | 3:15 |
 | 39 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 |
 | 40 | [Other Half](https://open.spotify.com/track/2gCh5vjwMIRldOwvXby3Qy) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Other Half](https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv) | 3:35 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 42 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 43 | [honeymoon](https://open.spotify.com/track/2cAJkVpApCQuM6fYvioE9M) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [honeymoon](https://open.spotify.com/album/3DbKNfUxDKZyVDslnCs6rJ) | 2:47 |
 | 44 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 |
-| 45 | [Better With You](https://open.spotify.com/track/6qKZyYF6iZzzRASRgIRRec) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Gentle Bones](https://open.spotify.com/album/1y2ye5sTKykfcAwRNPAmHC) | 2:46 |
+| 45 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 46 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 47 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
 | 48 | [Old Love \(Stripped\)](https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love \(Stripped\)](https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU) | 4:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 69 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 |
 | 70 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
 
-Snapshot ID: `MCxjMzM2ZjMxYTExZDc1Yjk0MGNkMzgxYzkwMzc4Nzg0NjA4ZTYwZTBk`
+Snapshot ID: `MCxjZmVkNWU4MzU4NjBmYTQ3ZjZkZmM0OTM5ZTQwZDQwYjg1YTM1YWZh`

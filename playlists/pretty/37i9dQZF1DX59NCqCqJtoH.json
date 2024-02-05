@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1182975,
+  "num_followers": 1183172,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2NjMTIwNGE2OGEzODExNmVjMzU2NzFkMzA2ZDAyZDFjYzgwNmIz",
+  "snapshot_id": "MCw4MDBiNzQ2MzI2OTNjNWEwZmRjYmE0YjRlZjI1NTEzOWM5NGM0MzU4",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 303066,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Unpeeled",
         "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 280213,
       "name": "Right Before My Eyes - Unpeeled",
       "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158714,
       "name": "Smile in the Face of the Devil",
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "Hitchhiker",
-        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 260446,
-      "name": "Planet Express",
-      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Tell Me About You (feat. Mishaal)",
@@ -1231,6 +1215,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "Hitchhiker",
+        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 260446,
+      "name": "Planet Express",
+      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
-      },
-      "artists": [
-        {
-          "name": "Sik World",
-          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "If I Really Love You",
         "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Sik World",
+          "url": "https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS"
         }
       ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+      "duration_ms": 178303,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1349,20 +1349,20 @@
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
-      "added_at": "2023-11-20 20:27:12",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "The Long Breath / The Willows",
-        "url": "https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3"
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
       },
       "artists": [
         {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 288597,
-      "name": "The Long Breath",
-      "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
+      "duration_ms": 238881,
+      "name": "Pyjama Pants",
+      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1381,20 +1381,20 @@
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-11-20 20:27:12",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
+        "name": "The Long Breath / The Willows",
+        "url": "https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
         }
       ],
-      "duration_ms": 238881,
-      "name": "Pyjama Pants",
-      "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+      "duration_ms": 288597,
+      "name": "The Long Breath",
+      "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Second Place",
         "url": "https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF"
       },
       "artists": [
         {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
         }
       ],
-      "duration_ms": 131146,
-      "name": "VERY ALONE",
-      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
+      "duration_ms": 174208,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF"
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
         }
       ],
-      "duration_ms": 174208,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW"
+      "duration_ms": 131146,
+      "name": "VERY ALONE",
+      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-09-29 20:20:52",

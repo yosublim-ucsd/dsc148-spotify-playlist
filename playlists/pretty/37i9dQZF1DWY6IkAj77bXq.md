@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,617 likes - 120 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,656 likes - 120 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 52 | [Paracosm](https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk) | [Silent Movement](https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw) | [Paracosm](https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv) | 3:13 |
 | 53 | [Heavenly](https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Heavenly](https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB) | 2:58 |
 | 54 | [Vibrational](https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Vibrational](https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V) | 2:55 |
-| 55 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
-| 56 | [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 |
+| 55 | [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 |
+| 56 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
 | 57 | [Peace](https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Peace](https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9) | 2:23 |
 | 58 | [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 |
 | 59 | [Clear\-Headed](https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu) | [Zonyoh](https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx) | [Theta Sleep](https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ) | 2:46 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 67 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 |
 | 68 | [Forgettable](https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO) | [Theia Kenor](https://open.spotify.com/artist/1ZyOejwpAb6jzeoLSrPc3l) | [Insights](https://open.spotify.com/album/5yB1iHwxoDqs4UqPtQravz) | 2:45 |
 | 69 | [Drifting](https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9) | [James Nepali](https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x) | [Drifting](https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf) | 2:17 |
-| 70 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 |
-| 71 | [Devotion](https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Devotion](https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA) | 2:50 |
-| 72 | [Levitate](https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/52V9mKrjrDameJBbXroPua) | 2:40 |
-| 73 | [Hush](https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd) | [Jón Einarsson](https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7) | [Hush](https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt) | 2:21 |
+| 70 | [Devotion](https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Devotion](https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA) | 2:50 |
+| 71 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 |
+| 72 | [Hush](https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd) | [Jón Einarsson](https://open.spotify.com/artist/2ZfWjatqQycbK1Lg1TYrt7) | [Hush](https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt) | 2:21 |
+| 73 | [Levitate](https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Levitate](https://open.spotify.com/album/52V9mKrjrDameJBbXroPua) | 2:40 |
 | 74 | [Repose](https://open.spotify.com/track/3IC2C6R4V6iTeHNT9tgLGv) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Repose](https://open.spotify.com/album/1kWjQNP5T5CsEgbYusdWu2) | 3:12 |
 | 75 | [Amoralis](https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Amoralis](https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL) | 3:31 |
 | 76 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 |
@@ -92,31 +92,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 82 | [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 |
 | 83 | [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 |
 | 84 | [Stressophobic](https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Stressophobic](https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME) | 2:52 |
-| 85 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 |
-| 86 | [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 |
+| 85 | [Tangerine Dreams](https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI) | 2:50 |
+| 86 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 |
 | 87 | [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 |
 | 88 | [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 |
 | 89 | [Soft Meadow](https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C) | 2:59 |
 | 90 | [Evening Calm](https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj) | 2:38 |
 | 91 | [The Sleep](https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Dogma of Sleep](https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d) | 6:18 |
 | 92 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 |
-| 93 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 |
-| 94 | [Waves of Harmony](https://open.spotify.com/track/5JEUb6ZynRuW2tuhk3oPE1) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/55DECemDNrUt9gvi7zCwpn) | 2:38 |
+| 93 | [Waves of Harmony](https://open.spotify.com/track/5JEUb6ZynRuW2tuhk3oPE1) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/55DECemDNrUt9gvi7zCwpn) | 2:38 |
+| 94 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 |
 | 95 | [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 |
 | 96 | [Sleep Drifting](https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleep Drifting](https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN) | 2:51 |
-| 97 | [Dream Away](https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx) | 2:04 |
-| 98 | [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 |
+| 97 | [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 |
+| 98 | [Dream Away](https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE) | [My Arctic Dreams](https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d) | [Dream Away](https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx) | 2:04 |
 | 99 | [Reflections](https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Reflections](https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J) | 2:50 |
 | 100 | [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 |
 | 101 | [mOther World](https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe) | [Mike Molloy](https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r) | [mOther World](https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un) | 2:04 |
 | 102 | [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 |
-| 103 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 |
-| 104 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 |
+| 103 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 |
+| 104 | [Dreamstate](https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Dreamstate](https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL) | 2:43 |
 | 105 | [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 |
 | 106 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 |
 | 107 | [Mesmerize](https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Mesmerize](https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL) | 2:43 |
-| 108 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 |
-| 109 | [Desiderio](https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Desiderio](https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh) | 2:34 |
+| 108 | [Desiderio](https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Desiderio](https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh) | 2:34 |
+| 109 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 |
 | 110 | [Somnolent](https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Somnolent](https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy) | 3:56 |
 | 111 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 |
 | 112 | [Quiet Stars](https://open.spotify.com/track/2NcRLIAKxwFPCdI8NoffL5) | [Language of Lyrics](https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC) | [Quiet Stars](https://open.spotify.com/album/4kY0CmaPvEq48UR8W8NTt6) | 3:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 119 | [Sapphire Dunes](https://open.spotify.com/track/435Lqck9Gjmn6s5K49wfgJ) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Sapphire Dunes](https://open.spotify.com/album/7FhbGL1VLeOHkwo3dSgZBj) | 3:40 |
 | 120 | [Air Castle](https://open.spotify.com/track/6cLY5VyDhvPzM8dSKYfsNx) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/4ROOv2nn1kJrgX5mK2c1pJ) | 3:34 |
 
-Snapshot ID: `MCxmOTQ4NjE4OTUyYTc1YjBmMDg1NTliNTA0ZWI3ZmI4ZTc5OTg4Yzhk`
+Snapshot ID: `MCxjYzc3NTcyZTU3ZTQ4ZGQ4ZWFhZjM5ZDY3MDE1ZjFiODczNTUxMmJk`

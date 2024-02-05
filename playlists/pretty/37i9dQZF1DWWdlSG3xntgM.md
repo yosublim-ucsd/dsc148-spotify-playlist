@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,320 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,230 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 30 | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/track/1Oza0WjJTZarmRU1nfpyQ1) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/album/01FKRYpfJ2QQKu8bQFe9f9) | 5:39 |
 | 31 | [Lk: Đêm Tâm Sự \- Hai Lối Mộng](https://open.spotify.com/track/7691UfR9dcTLMJIh3MUz7D) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 4:25 |
 | 32 | [Tôi Vẫn Nhớ](https://open.spotify.com/track/4cTNZLlfPUIbcyuX6al1KV) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W), [Khả Tú](https://open.spotify.com/artist/4icTNm7NAspqaHEg3sOQ92) | [Tôi Vẫn Nhớ](https://open.spotify.com/album/3VaWEO92yk388ukseURs0s) | 5:10 |
-| 33 | [Chiều hạ vàng](https://open.spotify.com/track/5mu3UYniDvObjYnzlSNS6J) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Chiều Hạ Vàng](https://open.spotify.com/album/6ExA6zIA7KnG95BWeroXdB) | 4:20 |
-| 34 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hương](https://open.spotify.com/artist/20D0rskLHvakkfhZcgbulX) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
+| 33 | [Thư Xuân Trên Rừng Cao](https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 4:57 |
+| 34 | [Chiều hạ vàng](https://open.spotify.com/track/5mu3UYniDvObjYnzlSNS6J) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Chiều Hạ Vàng](https://open.spotify.com/album/6ExA6zIA7KnG95BWeroXdB) | 4:20 |
 | 35 | [Nếu Anh Đừng Hẹn](https://open.spotify.com/track/41YNKpjBJX2gLnOmpechl9) | [Thiên Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Liên Khúc Tình Ngăn Đôi Bờ \- Làm Dâu Xứ Lạ](https://open.spotify.com/album/70nnkUM4u5qqcNuH1xCaUF) | 5:30 |
-| 36 | [Thư Xuân Trên Rừng Cao](https://open.spotify.com/track/31ucOkV1kym9k9lRXMhZ0d) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 4:57 |
+| 36 | [Mùa Xuân Đó Có Em](https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân Tha Hương Xuân Lạc Xứ](https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4) | 4:12 |
 | 37 | [Phố Buồn](https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 3:27 |
-| 38 | [Mùa Xuân Đó Có Em](https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân Tha Hương Xuân Lạc Xứ](https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4) | 4:12 |
-| 39 | [Giọt buồn không tên](https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n) | [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap), [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Liên Khúc Đêm Buồn Tỉnh Lẻ, Những Đồi Hoa Sim \(Asia 283\)](https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP) | 4:46 |
+| 38 | [Giọt buồn không tên](https://open.spotify.com/track/6fvfC6QXhLput4cLYtxz6n) | [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap), [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Liên Khúc Đêm Buồn Tỉnh Lẻ, Những Đồi Hoa Sim \(Asia 283\)](https://open.spotify.com/album/3dA8DbhPvOiIIgKgGDZXVP) | 4:46 |
+| 39 | [Tấm Ảnh Không Hồn](https://open.spotify.com/track/1HJ9VqgGvmrWoVaT8zid85) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF), [Mai Hương](https://open.spotify.com/artist/20D0rskLHvakkfhZcgbulX) | [Hẹn Hò \(Khúc Tình Xưa 5\)](https://open.spotify.com/album/3LTDAw02F8S3HjkaDHnvZV) | 4:04 |
 | 40 | [Tạ từ trong đêm](https://open.spotify.com/track/5zCjoKAQHtJa2ptwGuxj6Y) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Nhớ Người Yêu \(Valentine Tình Yêu\)](https://open.spotify.com/album/6G6BT8WT2ObEJJ9QTZ5Vh6) | 4:37 |
 | 41 | [Xin gọi nhau là cố nhân](https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Sầu Lẻ Bóng \(Asia 023\)](https://open.spotify.com/album/6hey39MLiZZbXYk8e9HbeO) | 4:07 |
 | 42 | [Chiều Tây Đô](https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Ai Nhớ Chăng Ai](https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Đồi Thông Hai Mộ](https://open.spotify.com/track/3LoljxIq6GmMQ4hx2VDz0Q) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Nhà Anh Nhà Em](https://open.spotify.com/album/0FoAmSrGZkXWsAfrBnka5c) | 6:11 |
 | 50 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 |
 
-Snapshot ID: `MCxiMzVhYmY2NDA4NTI2YmJhODYyYTg1ZjgzYWZkNmQwOTQ1YjU1OTAw`
+Snapshot ID: `MCxlYjMxMTNjNDM5ODNlMWQ4MjhiNmZjZDNiOTk4YzlmYWUwYmZjYjdh`

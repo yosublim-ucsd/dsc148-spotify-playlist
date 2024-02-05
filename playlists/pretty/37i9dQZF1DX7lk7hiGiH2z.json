@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 33218,
+  "num_followers": 33208,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDZhN2FhMmQ2NDNjYzY2ODA5MmY5YmRiMmUyZDY2YjA5YjNkOGZh",
+  "snapshot_id": "MCwyZTA1YTg3OTA2MDQ0MTY1MjRlYWUzMDg2Mjc4MjA1YWJmMDM5MDBi",
   "tracks": [
     {
       "added_at": "2024-01-26 11:53:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-01-26 11:53:00",
       "album": {
-        "name": "Frosty, der Schneemann",
-        "url": "https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I"
-      },
-      "artists": [
-        {
-          "name": "Schlagerkids",
-          "url": "https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb"
-        }
-      ],
-      "duration_ms": 126013,
-      "name": "Frosty, der Schneemann",
-      "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
-    },
-    {
-      "added_at": "2024-01-26 11:53:00",
-      "album": {
         "name": "Giraffenaffen Winterlieder",
         "url": "https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 185840,
       "name": "Rudolf, das kleine Rentier",
       "url": "https://open.spotify.com/track/5yW31PRWyrTGn5vnU8HBGy"
+    },
+    {
+      "added_at": "2024-01-26 11:53:00",
+      "album": {
+        "name": "Frosty, der Schneemann",
+        "url": "https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I"
+      },
+      "artists": [
+        {
+          "name": "Schlagerkids",
+          "url": "https://open.spotify.com/artist/57X6XyUFzQcVAhZOzS0jlb"
+        }
+      ],
+      "duration_ms": 126013,
+      "name": "Frosty, der Schneemann",
+      "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
     },
     {
       "added_at": "2024-01-26 11:53:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-01-26 11:53:00",
       "album": {
-        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
-        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
-      },
-      "artists": [
-        {
-          "name": "Familie Sonntag",
-          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Pl\u00e4tzchenduft liegt in der Luft",
-      "url": "https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB"
-    },
-    {
-      "added_at": "2024-01-26 11:53:00",
-      "album": {
         "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 129640,
       "name": "Backe, Backe Kuchen",
       "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
+    },
+    {
+      "added_at": "2024-01-26 11:53:00",
+      "album": {
+        "name": "Unsere sch\u00f6nsten Weihnachtslieder",
+        "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Pl\u00e4tzchenduft liegt in der Luft",
+      "url": "https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB"
     },
     {
       "added_at": "2024-01-26 11:53:00",

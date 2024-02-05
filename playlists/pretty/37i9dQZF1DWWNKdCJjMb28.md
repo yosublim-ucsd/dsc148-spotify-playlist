@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/karencivil/?hl=en">Karen Civil</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,431 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,466 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 3 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 |
 | 4 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 5 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
-| 6 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
-| 7 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
+| 6 | [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 |
+| 7 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 8 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 9 | [Flex \(feat\. Juice WRLD\)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 |
 | 10 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNKdCJjMb28.md) - [plain]
 | 48 | [Blessings](https://open.spotify.com/track/7rctLyDUHeuSCXbSTniwL9) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Crenshaw](https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8) | 2:52 |
 | 49 | [Lonely Vibes](https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Lonely Vibes](https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE) | 3:16 |
 
-Snapshot ID: `MCwwMjFhMTU5YjkzODA3YWNhZmM2YzExZjA5ZDg5NWEzZjkwZDFkNWJm`
+Snapshot ID: `MCxjMzgzYmZmMGUxYjkxNGUzZTJhYjRmZTFjOWIyNjZlOTNkZWU2ZTFl`

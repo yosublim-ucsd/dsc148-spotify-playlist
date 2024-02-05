@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 246412,
+  "num_followers": 246546,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDc3MDg4OTc3YmYzMTVkZTJiZWI0NDNjYjE1NmI4N2I3Y2MwMTkx",
+  "snapshot_id": "MCxmZmY4ZWY1NzFiYWY4MzZhNGFjNGEzZTAwNTQzZWFlMjM3MGNmYmUx",
   "tracks": [
     {
       "added_at": "2024-01-18 17:34:21",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "Fishing In The Dark",
-      "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -407,22 +407,6 @@
       "duration_ms": 208106,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -491,6 +475,22 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -567,22 +567,6 @@
       "duration_ms": 219600,
       "name": "Write This Down",
       "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
         "name": "Carrying Your Love With Me",
         "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/1iAJGY7TFt1imCjD0npYaC"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Big Green Tractor",
-      "url": "https://open.spotify.com/track/0Ajm7DFmbGEURySKm7G2jf"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -843,6 +811,22 @@
       "duration_ms": 158626,
       "name": "Little Bitty",
       "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/1iAJGY7TFt1imCjD0npYaC"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Big Green Tractor",
+      "url": "https://open.spotify.com/track/0Ajm7DFmbGEURySKm7G2jf"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -1007,22 +991,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Me And My Gang",
-        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 248280,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -1035,6 +1003,22 @@
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 248280,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -1151,22 +1135,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Love Without End, Amen",
-      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -1179,6 +1147,22 @@
       "duration_ms": 176093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Livin' It Up",
+        "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Love Without End, Amen",
+      "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Don't Take The Girl",
-      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1275,6 +1243,22 @@
       "duration_ms": 147306,
       "name": "King Of The Road",
       "url": "https://open.spotify.com/track/3XG7bMVcMWLIn2k9jLAaAt"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Bye-Bye",
-      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
-    },
-    {
-      "added_at": "2024-01-18 17:34:21",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 218866,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Bye-Bye",
+      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
     },
     {
       "added_at": "2024-01-18 17:34:21",
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2024-01-18 17:34:21",
       "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
       "artists": [
         {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2024-01-18 17:34:21",
+      "album": {
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Next To You, Next To Me",
+      "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
     }
   ],
   "unique_name": "Raised on Country",

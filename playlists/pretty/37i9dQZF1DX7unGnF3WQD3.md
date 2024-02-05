@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > tírate un paso y saca los prohibidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,932 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,991 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 27 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
 | 28 | [Brujeria](https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Aqui No Se Sienta Nadie!](https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg) | 3:25 |
 | 29 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 |
-| 30 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
-| 31 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 30 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 31 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 32 | [La Bachata](https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [La Bachata](https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as) | 2:58 |
 | 33 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
 | 34 | [No Me Llames Mas](https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [No Me Llames Mas](https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd) | 4:27 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 | 68 | [Te Hubieras Ido Antes](https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Huguito Flores: Sin Miedo Session \#31](https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz) | 2:04 |
 | 69 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 70 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
-| 71 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
-| 72 | [Moviendo Las Caderas](https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Merengues Con Gusto](https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL) | 4:51 |
+| 71 | [Moviendo Las Caderas](https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Merengues Con Gusto](https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL) | 4:51 |
+| 72 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 |
 | 73 | [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 |
 | 74 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
 | 75 | [Messirve Mix 3](https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 3](https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH) | 7:27 |
 
-Snapshot ID: `MCxhZDg1MzY2YTBkOGU2MzkwMDg2OGUzYmRhYzhkZGIxMGMxMzEzZTQ0`
+Snapshot ID: `MCxiNGFmOWFlYjEyZWJlMDFjMzgwMzVkMjM2NjA4NDY0MzczNDM3Nzhl`

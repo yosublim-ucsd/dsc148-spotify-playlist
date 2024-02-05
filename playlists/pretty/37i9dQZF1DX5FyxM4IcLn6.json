@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126314,
+  "num_followers": 127293,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjJiYmYzNzJiOWVlNmE3MDkxZWYxMDk5OTgwY2FhYTZmMGUxNzY0",
+  "snapshot_id": "MCwyNmM2ZjRmODQ1ODkxNmZiZjc2ZDE2NDg0YjE1YzNmNTZkOTBkODFh",
   "tracks": [
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 239151,
-      "name": "Sculptures Of Anything Goes",
-      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
+      "duration_ms": 239151,
+      "name": "Sculptures Of Anything Goes",
+      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Phantom Of The Opera",
-        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 443386,
-      "name": "Phantom Of The Opera",
-      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "Church Clothes 4",
         "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 181290,
       "name": "Spread The Opps",
       "url": "https://open.spotify.com/track/66hLgDd6kk3GfzLej7t2eH"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
     },
     {
       "added_at": "2023-11-10 16:50:05",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-11-10 16:50:05",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
-    },
-    {
-      "added_at": "2023-11-10 16:50:05",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB"
+    },
+    {
+      "added_at": "2023-11-10 16:50:05",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
     },
     {
       "added_at": "2023-11-10 16:50:05",

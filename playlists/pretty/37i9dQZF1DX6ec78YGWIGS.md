@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Nico Valdi, RUGGERO & Bernardita Sonzini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,733 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,547 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
 | 100 | [PARA AMARTE A TI \(TT VERSION\)](https://open.spotify.com/track/6gqPH0SaOdiUEcstZrc5m0) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Luisa](https://open.spotify.com/artist/3iOiMcmKYGm8kOxlBjTo0w), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:18 |
 
-Snapshot ID: `MCwwMWI3MDM5ZWM1MjQxZjQwYjM1NDUzMDcxODM4NjY0MzliNGYxOTNi`
+Snapshot ID: `MCxhZmQ0OGMyMjJhNTFiOTE1Y2I2NDU4MDRlNTQyZjAxN2EyYTg3NmY3`

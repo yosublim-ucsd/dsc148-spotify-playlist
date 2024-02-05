@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 62201,
+  "2024-02-05": 62175,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Honduras.",
   "name": "Top 50 - Honduras",
@@ -651,6 +651,24 @@
       "duration_ms": 210989,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "album": {
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -3093,6 +3111,24 @@
       "duration_ms": 165714,
       "name": "CUKI",
       "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "album": {
@@ -6085,7 +6121,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-04-26",
+      "date_removed": null,
       "duration_ms": 281000,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
@@ -7263,7 +7299,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
@@ -7441,7 +7477,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 161040,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
@@ -9515,7 +9551,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -10430,6 +10466,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -10493,7 +10547,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -10735,7 +10789,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -11835,6 +11889,24 @@
       "duration_ms": 242908,
       "name": "PONTE NASTY",
       "url": "https://open.spotify.com/track/1cNJ9ODOJF8b6AjhzoYdkv"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR"
     },
     {
       "album": {
@@ -13057,7 +13129,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/3kx21xR6IboC9HVdajgBoc"
@@ -16043,7 +16115,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"

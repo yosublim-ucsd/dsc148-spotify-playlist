@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 85821,
+  "num_followers": 85784,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzE3Y2RkYTU5NThhMTFhNGZkYzY2YmFlZWY4YzBjZGYwOWZhMWY0",
+  "snapshot_id": "MCwyNTU0OTRjMzlhNzJmNzI1ZWZiNThhMGNjZWNjMzY0NGYxNjk0Yzhm",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
         }
       ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+      "duration_ms": 162186,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
       },
       "artists": [
         {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 162186,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
+      "duration_ms": 247626,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 205634,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "LANY",
-        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 211149,
-      "name": "ILYSB",
-      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Day Breaks",
         "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 168106,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "LANY",
+        "url": "https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "ILYSB",
+      "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
     },
     {
       "added_at": "2024-02-01 15:00:00",

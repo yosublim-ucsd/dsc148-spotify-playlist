@@ -4,7 +4,7 @@
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 32 min
+71 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 | 2023-09-10 |  |
 | [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 | 2023-08-08 | 2023-09-11 |
 | [Estrellas](https://open.spotify.com/track/3RJtmjTdfo1Tz1Ys122y5y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:06 | 2023-08-22 | 2023-09-19 |
-| [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 | 2023-08-08 |  |
+| [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 | 2023-08-08 | 2024-02-05 |
 | [Gracias](https://open.spotify.com/track/4lkl1CC0Py1pLOuQ4h2KuV) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Gracias](https://open.spotify.com/album/1nT3wVcqO8lnYICj8jkLiY) | 2:28 | 2023-08-08 | 2023-08-23 |
 | [Iniciales AL \(Porte Fino\)](https://open.spotify.com/track/58bqqIYUIbkMOgD1ZBAr1E) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:22 | 2023-08-08 | 2023-10-11 |
 | [Kilos De H \(En Vivo\)](https://open.spotify.com/track/2f0k21XMQxO7ekccaAUo25) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos De H \(En Vivo\)](https://open.spotify.com/album/0r6roRDbdIiNwcIZ0CCaLs) | 3:18 | 2023-08-08 | 2024-01-22 |
@@ -67,6 +67,7 @@
 | [Platicame De Ti](https://open.spotify.com/track/3GfDHYumJhOu5xAZH88W9p) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Platicame De Ti](https://open.spotify.com/album/45QIufzJxZICkw5IFjCPRN) | 3:07 | 2023-12-13 |  |
 | [Porte Exuberante](https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:33 | 2023-08-08 |  |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-08-08 |  |
+| [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 | 2024-02-04 |  |
 | [Que Me Importa](https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Que Me Importa](https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI) | 3:28 | 2023-08-08 |  |
 | [Se Habla de un Muchacho](https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Se Habla de un Muchacho](https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD) | 2:57 | 2023-08-08 |  |
 | [Se Murió](https://open.spotify.com/track/4QOequf0gyDi53EEoecUp7) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Soy El Nata](https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN) | 2:26 | 2023-08-08 |  |

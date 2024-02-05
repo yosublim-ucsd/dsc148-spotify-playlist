@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,785 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,792 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 94 | [En la Calle y en la Ruina \(En Vivo\)](https://open.spotify.com/track/1cnwhpf7BwpMu1bKComsx6) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que Te Duela Más Que a Mí, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/1GHxhjmSrlVFZp3Md6H7Ge) | 3:08 |
 | 95 | [Aunque Te Pongas Dulce](https://open.spotify.com/track/71VaP04xiUG0eKKAWn4wDP) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mi Posición](https://open.spotify.com/album/4PScQ9VNzLPHzZJtzYPhbC) | 3:35 |
 | 96 | [Casao Amargao](https://open.spotify.com/track/50U9ekOXJAMJMybnn0TkF6) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 3:43 |
-| 97 | [Te Busco](https://open.spotify.com/track/198f6VynNaYbX1NbAm91Lg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/30LwufY2wAZn0mBiUFV4ri) | 3:02 |
-| 98 | [Colores Alegres](https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:52 |
+| 97 | [Colores Alegres](https://open.spotify.com/track/0RDabpXolwgnzW3WI0rvDD) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:52 |
+| 98 | [Te Busco](https://open.spotify.com/track/198f6VynNaYbX1NbAm91Lg) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/30LwufY2wAZn0mBiUFV4ri) | 3:02 |
 | 99 | [Era Creyente](https://open.spotify.com/track/5UDspydEAzAkdwC6wLcxTi) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [La Joya](https://open.spotify.com/album/5KaX3YeFoTSpnAsJpBrLW1) | 3:14 |
 | 100 | [Mazatlán Carnaval](https://open.spotify.com/track/0e9LfWGbRtNazKK7Kmby6A) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/4NTwdElpRaOrPOJbImPwGn) | 4:04 |
 
-Snapshot ID: `MCwzZGNkZjQ1NjliY2MzYjQ0MGM0NDQzYzYyMzBiYTUwNDVhMzZiODdm`
+Snapshot ID: `MCxiOTk5N2RiN2ZhMmZhOGViOGIxYWEzZWQ0MTcwYTA1MTJmZmQzMmRl`

@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6EiciPnoJR1o4D0vtaHqjl"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3gm0AOgoGy4TMNbVUQGm6k"
       },

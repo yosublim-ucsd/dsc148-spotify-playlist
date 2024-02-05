@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring ke onda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,258 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,260 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 48 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 49 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
 | 50 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
-| 51 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
-| 52 | [Cielo](https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Cielo](https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K) | 2:49 |
+| 51 | [Cielo](https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Cielo](https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K) | 2:49 |
+| 52 | [Colores cromáticos](https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Colores cromáticos](https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed) | 4:15 |
 | 53 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 54 | [Stuck in California](https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Stuck in California](https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt) | 2:06 |
 | 55 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 56 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 57 | [la danza de las brujas](https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [la danza de las brujas](https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1) | 4:15 |
-| 58 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 59 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
-| 60 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 |
+| 58 | [Me Gustas Tanto](https://open.spotify.com/track/3JdNambMOshHLbYus6cGqZ) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/4yu56CARvuE68AsJmOBVcg) | 3:02 |
+| 59 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
+| 60 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 61 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 62 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 63 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
 | 75 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
 
-Snapshot ID: `MCwyMzgwZWEwNGZiZDMxNTEzOGI4NzUwMmQ4NDg3ZWRhNmM4NDk3YTBk`
+Snapshot ID: `MCw3MWU1NjVmMTEzODI5MzI5ZDdkNDc5ZDNhMTg2ODI3NWRlNDNjZTU4`

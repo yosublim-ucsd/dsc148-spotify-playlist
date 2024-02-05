@@ -1,12 +1,12 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 410484,
+  "num_followers": 410453,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAwMTU3OWNhMDViY2M0ZTQ2MzYwZTE1MDZiNjA1ZGMxYjc1NWY5",
+  "snapshot_id": "MCxhNzQxODI4MmM5MDZhYzE3ZTI1MDMxZTJiNDc1YTRiOWM0Mjg2NWE4",
   "tracks": [
     {
       "added_at": "2024-01-29 16:22:41",
@@ -783,38 +783,6 @@
     {
       "added_at": "2024-01-29 16:22:41",
       "album": {
-        "name": "LPM",
-        "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 223992,
-      "name": "La Bebe",
-      "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
-    },
-    {
-      "added_at": "2024-01-29 16:22:41",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2024-01-29 16:22:41",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -839,6 +807,54 @@
     {
       "added_at": "2024-01-29 16:22:41",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2024-01-29 16:22:41",
+      "album": {
+        "name": "LPM",
+        "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 223992,
+      "name": "La Bebe",
+      "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
+    },
+    {
+      "added_at": "2024-01-29 16:22:41",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+    },
+    {
+      "added_at": "2024-01-29 16:22:41",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2024-01-29 16:22:41",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2024-01-29 16:22:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-01-29 16:22:41",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2024-01-29 16:22:41",
-      "album": {
         "name": "SHORTY QUE TE VAYA BN <3",
         "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 219681,
       "name": "SHORTY QUE TE VAYA BN <3",
       "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2024-01-29 16:22:41",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2024-01-29 16:22:41",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-01-29 16:22:41",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+    },
+    {
+      "added_at": "2024-01-29 16:22:41",
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 180645,
       "name": "Arca 10Mil",
       "url": "https://open.spotify.com/track/6IdupWnwKGBahydZnrA3zV"
-    },
-    {
-      "added_at": "2024-01-29 16:22:41",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2024-01-29 16:22:41",
@@ -1923,30 +1923,26 @@
     {
       "added_at": "2024-01-29 16:22:41",
       "album": {
-        "name": "Mi polola <3 (feat. Best)",
-        "url": "https://open.spotify.com/album/1PdMc3B1Nx2tlMjdx3Mcma"
+        "name": "Monumento (Remix)",
+        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
       },
       "artists": [
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         },
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         },
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 230783,
-      "name": "Mi polola <3 (feat. Best)",
-      "url": "https://open.spotify.com/track/3lWcPFXacmDo3piquzSshF"
+      "duration_ms": 208622,
+      "name": "Monumento - Remix",
+      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     }
   ],
   "unique_name": "Romantiqueo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,915 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,131 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 39 | [El 2 Estados](https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Corridos de Caballos](https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI) | 4:03 |
 | 40 | [El Profeta](https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 3:53 |
 | 41 | [Donde Estara Mi Caballo](https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiracion Nortena](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 2:48 |
-| 42 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
-| 43 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
+| 42 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
+| 43 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
 | 44 | [El Moro de Cumpas](https://open.spotify.com/track/5GvkaQSSvmBaupwWKG7heR) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [Corridos de Caballos](https://open.spotify.com/album/6KeA70JeLK0ne7LmZOFRBn) | 3:25 |
 | 45 | [La Cecilia](https://open.spotify.com/track/0DGDOXnLnc0xlINfYEB6ar) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 3:26 |
 | 46 | [El Durango Contra El Peligro](https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Con Estrella De Borracho](https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 69 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
 | 70 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 
-Snapshot ID: `MCxhOGRlNWRjNDA1MzZiMmI5NjcwNWJhNjQzNjg5ZTdjMzc3M2JhNDE1`
+Snapshot ID: `MCxmY2MyNjUyZWMxZTUxNjMzMzBkZmMxY2RiMTExMDBhYzczNzM3NWQ4`

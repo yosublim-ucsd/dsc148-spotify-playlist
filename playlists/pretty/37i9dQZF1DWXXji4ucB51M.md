@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,365 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,315 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 35 | [ON](https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 | 36 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 |
 | 37 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
-| 38 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
-| 39 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 38 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 39 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 |
 | 40 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 |
 | 41 | [Yummy](https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:28 |
 | 42 | [Mother's Daughter](https://open.spotify.com/track/4tc97Wa8SP5f9gaaOar8Kq) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:39 |
@@ -63,23 +63,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 53 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
 | 54 | [Qué Pena](https://open.spotify.com/track/5099x34vBakWpGkHourFxP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Qué Pena](https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl) | 3:32 |
 | 55 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 |
-| 56 | [I Love Me](https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Love Me](https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH) | 3:23 |
-| 57 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
+| 56 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
+| 57 | [I Love Me](https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Love Me](https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH) | 3:23 |
 | 58 | [Caution](https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:29 |
 | 59 | [Boyfriend](https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 |
-| 60 | [strawberry lipstick](https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:43 |
-| 61 | [Honey Boo](https://open.spotify.com/track/0P0UtGDZpUMWoFCuDTn78K) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Honey Boo](https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr) | 3:26 |
+| 60 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
+| 61 | [strawberry lipstick](https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:43 |
 | 62 | [Wildflower](https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:40 |
-| 63 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
-| 64 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:21 |
-| 65 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
-| 66 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
-| 67 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
-| 68 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
-| 69 | [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:43 |
-| 70 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
-| 71 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
-| 72 | [Let's Fall in Love for the Night](https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW) | 3:10 |
+| 63 | [Honey Boo](https://open.spotify.com/track/0P0UtGDZpUMWoFCuDTn78K) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Honey Boo](https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr) | 3:26 |
+| 64 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
+| 65 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:21 |
+| 66 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
+| 67 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
+| 68 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
+| 69 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
+| 70 | [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:43 |
+| 71 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
+| 72 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
 | 73 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
 
-Snapshot ID: `MCw3Y2IyZTY0YmJjYjg2MGM4MjQ0ZTRlZjU5M2NhZTYzMDI5ZGZiMmY4`
+Snapshot ID: `MCw2NWQwMjM4NmU1YjRmZjkxYjRmYzVjZmExMDQ0YWJiYmVjODRlYzlh`

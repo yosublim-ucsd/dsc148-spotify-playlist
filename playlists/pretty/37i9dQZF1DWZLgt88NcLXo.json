@@ -1,12 +1,12 @@
 {
   "description": "Guitarra c\u00e1lida e instrumental para un agradable inicio de d\u00eda.",
-  "num_followers": 12016,
+  "num_followers": 12014,
   "original_name": "wuen dia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGY4ODMyZThkNjk4Y2Y5Zjc5ZGY0YTU2OGVmOTkwYzcyNWM5MDdm",
+  "snapshot_id": "MCw5ZGQwZTAwNDdiZTgyYWI4NDJiMWNjYjkwYjM3NmE5NDhhMjFkYmRm",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
-      },
-      "artists": [
-        {
-          "name": "Tim Hans",
-          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
-        }
-      ],
-      "duration_ms": 176058,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 122275,
       "name": "D\u00e9dalo",
       "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "duration_ms": 176058,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Broader Perspective",
-        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
-      },
-      "artists": [
-        {
-          "name": "Argun North",
-          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Broader Perspective",
-      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "E perto do anoitecer",
         "url": "https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 161287,
       "name": "E perto do anoitecer",
       "url": "https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Broader Perspective",
+        "url": "https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Broader Perspective",
+      "url": "https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "When Sarah Returned",
-      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Broken Sky",
         "url": "https://open.spotify.com/album/0TnxaPHs6kY6CpS1kT1xun"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 157164,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/6AIGjxyH4CnUfBXR8LHn0n"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "When Sarah Returned",
+      "url": "https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
-      },
-      "artists": [
-        {
-          "name": "Oliver Calum",
-          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Something Special",
         "url": "https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Reise um die Welt",
-        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
       "artists": [
         {
-          "name": "Tomas North",
-          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+          "name": "Oliver Calum",
+          "url": "https://open.spotify.com/artist/3AEgCo8UbL4AYIe40wUdeR"
         }
       ],
-      "duration_ms": 171853,
-      "name": "Reise um die Welt",
-      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
+      "duration_ms": 164000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6ihtnlJdg1t4awXzbQtMBt"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1847,6 +1831,22 @@
       "duration_ms": 185820,
       "name": "Chiapas",
       "url": "https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Reise um die Welt",
+        "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
+      },
+      "artists": [
+        {
+          "name": "Tomas North",
+          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "Reise um die Welt",
+      "url": "https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
+        "name": "Breakwater",
+        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Breakwater",
+      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
         "name": "A New Strange Feeling",
         "url": "https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt"
       },
@@ -1995,22 +2011,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Breakwater",
-        "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Breakwater",
-      "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Canci\u00f3n A Solas",
         "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Romance Castellano",
-        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
-      },
-      "artists": [
-        {
-          "name": "Manuel Gal\u00e1n",
-          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
-        }
-      ],
-      "duration_ms": 135568,
-      "name": "Romance Castellano",
-      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Am Flussufer",
         "url": "https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 175476,
       "name": "Im Sonnenblumenfeld",
       "url": "https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Romance Castellano",
+        "url": "https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm"
+      },
+      "artists": [
+        {
+          "name": "Manuel Gal\u00e1n",
+          "url": "https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM"
+        }
+      ],
+      "duration_ms": 135568,
+      "name": "Romance Castellano",
+      "url": "https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Camino Del Sol",
-        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Camino Del Sol",
-      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx"
       },
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
+        "name": "Camino Del Sol",
+        "url": "https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468"
       },
       "artists": [
         {
-          "name": "Maria Gastona",
-          "url": "https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV"
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
         }
       ],
-      "duration_ms": 150592,
-      "name": "Pelotas",
-      "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
+      "duration_ms": 145635,
+      "name": "Camino Del Sol",
+      "url": "https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2163,6 +2147,22 @@
       "duration_ms": 136624,
       "name": "Solitaria",
       "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7"
+      },
+      "artists": [
+        {
+          "name": "Maria Gastona",
+          "url": "https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV"
+        }
+      ],
+      "duration_ms": 150592,
+      "name": "Pelotas",
+      "url": "https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Velvet Morning",
-        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
-      },
-      "artists": [
-        {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Velvet Morning",
-      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Shimmering",
         "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 173026,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1"
     },
     {
       "added_at": "2023-09-15 09:04:35",

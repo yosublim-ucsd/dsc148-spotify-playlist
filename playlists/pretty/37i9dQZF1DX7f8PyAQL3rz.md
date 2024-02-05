@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > não sei se é bailarina, amendoada ou stiletto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,633 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,666 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 54 | [Bonjour \- Na Frente do Paredão](https://open.spotify.com/track/76Zx8UrOIudkZQsI0sIcef) | [DJ PAULIN](https://open.spotify.com/artist/7eIq1rjn5GWmAKp3tdTyLv), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm) | [Bonjour \- Na Frente do Paredão](https://open.spotify.com/album/2zan2CQT5bHbqN59UEyARq) | 2:05 |
 | 55 | [2023](https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:58 |
 | 56 | [Pensamentos Intrusivos](https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:13 |
-| 57 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
-| 58 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
+| 57 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
+| 58 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 | 59 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 |
 | 60 | [Movimento \- Spotify Singles](https://open.spotify.com/track/6SMH0vJtez9fJmg3Nh2heG) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/7C5Wqc2KWxxTvRg6UmcxSU) | 2:38 |
 
-Snapshot ID: `MCw2MWQ3NjQyNWU2NmY2ZjcwYTU1YjliMGUzMzM2MDdhYjViMDEyNTc2`
+Snapshot ID: `MCwzNTlkNmExYzAzOWNjMmVmNjViNDMwNGZhYzUwOTRkOTNiMWI5YTQy`

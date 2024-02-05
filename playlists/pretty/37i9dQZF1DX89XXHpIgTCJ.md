@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,536 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,570 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 11 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 12 | [Numb / Encore](https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 3:25 |
 | 13 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
-| 14 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
-| 15 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
+| 14 | [Magic \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5uHYcK0nbEYgRaFTY5BqnP) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:16 |
+| 15 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 |
 | 16 | [N 2 Gether Now](https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
 | 17 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 |
 | 18 | [Hokus Pokus](https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [The Great Milenko](https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc) | 4:21 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 52 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
 | 53 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 54 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
-| 55 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
-| 56 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
+| 55 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
+| 56 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 57 | [Raise Hell](https://open.spotify.com/track/44WBNnkJAtTEWIkmrco6Mv) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/1NL4RNStYgVzAvD7SWYdV9) | 5:09 |
 | 58 | [I Love You Mary Jane](https://open.spotify.com/track/4eObWNJwTvfQe66wIzfHjb) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Judgement Night: Music From The Motion Picture](https://open.spotify.com/album/1qwrbuNLtDcuj2myhuESlh) | 3:49 |
 | 59 | [Rip It Up](https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl) | [28 Days](https://open.spotify.com/artist/0NXVGrFkPu0Cohh3BJV5Wx) | [Up Style Down](https://open.spotify.com/album/6OT8sbDrxyACRi1mzzkj9M) | 3:39 |
 | 60 | [GERONIMO](https://open.spotify.com/track/3fS7dRJWxgz1SCZJPXsymv) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4lLmkRmIW3GIb6UKjcqrDv) | 2:59 |
 
-Snapshot ID: `MCw0YzU3OTJlOGMxODM1MDA3YWQyMDA5YTU1ODMyOTMzYWVmN2Q1ODZh`
+Snapshot ID: `MCxlYjdhOGJiN2Y3NzkyYjc3NWI4YjNhNDA2YjU5YzI2ZmQ1ODFkNjc5`

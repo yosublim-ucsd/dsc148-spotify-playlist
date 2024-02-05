@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 132277,
+  "num_followers": 132237,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmM0ODNlZWVlZWJkOWFiYWM5OTVjNGQ3NmZlNWI0NjYxNjdmZjcw",
+  "snapshot_id": "MCw0NmViZDZjNTVkZmFmMjYyY2RmNTNmZGI0YmUxNmZhZmYwZjZlMTVh",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "My Kind Of Christmas",
-        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "two queens in a king sized bed",
         "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190944,
       "name": "two queens in a king sized bed",
       "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "My Kind Of Christmas",
+        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 187733,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/4tHGsplffm1rxS33yrL59b"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "A Very She & Him Christmas",
-        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 129679,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Bing's Gold Records - The Original Decca Recordings",
         "url": "https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 183000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "A Very She & Him Christmas",
+        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
     },
     {
       "added_at": "2023-11-28 17:00:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,183 likes - 86 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,178 likes - 86 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 85 | [Gegen die Zeit](https://open.spotify.com/track/0UYvm3zOmSXcU7Bb490lTi) | [Bang Babsy](https://open.spotify.com/artist/3OKjSvEHXiqzpW4MXRBklt) | [Gegen die Zeit](https://open.spotify.com/album/3evpE9WpC4h6aOBICkC7Gw) | 2:05 |
 | 86 | [Alles erlaubt](https://open.spotify.com/track/7goSTmQz0ePkBY6RlGB6Ru) | [HILLA](https://open.spotify.com/artist/2XPKrrCwMa3wB1ML1g5Ywg) | [Alles erlaubt](https://open.spotify.com/album/48jxN0AOOYpd3Cbr8H1hSE) | 3:17 |
 
-Snapshot ID: `MCxmMDZjMDQyZGZjZWUxMTVkNmNiNzlkNDBjYmZkMGJhNTg1MmJkYzFl`
+Snapshot ID: `MCxiM2U5ZmQ5NTJkYmQ4Y2JkY2VkYzc3ODVkMGE0OTZmOGFkNWI0MDMx`

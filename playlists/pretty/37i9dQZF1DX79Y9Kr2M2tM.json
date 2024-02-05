@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 835708,
+  "num_followers": 835101,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmI0YWM0ZGQyOWMxOGUxM2YzMzBjYzk2N2I5YTg5YmVmZTBmOWFj",
+  "snapshot_id": "MCwzYjRhMjBmZTQ2YjUxZmMxZTY1ODliMTg0NDQzNDlmZDAyYjgxZWJj",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "The Kingfisher",
         "url": "https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 289970,
       "name": "Old Now",
       "url": "https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/2mg17l3EfdZ6bFX82rCwcU"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Lake Jons",
-        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
-      },
-      "artists": [
-        {
-          "name": "Lake Jons",
-          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Up Here North",
-      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Grapefruit Season",
         "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 233954,
       "name": "Poison to You",
       "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Lake Jons",
+        "url": "https://open.spotify.com/album/6CiM4lwONLS2tVvc0w42k1"
+      },
+      "artists": [
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Up Here North",
+      "url": "https://open.spotify.com/track/7d6jv0jXA1bLmgkyN6IYkW"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
-      },
-      "artists": [
-        {
-          "name": "French For Rabbits",
-          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Accompany",
         "url": "https://open.spotify.com/album/7MahDOJx7kRezzio0EFO5D"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221076,
       "name": "Shiftshaping",
       "url": "https://open.spotify.com/track/7HlaWdYSKYaxdBRvCBdqPk"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
+      },
+      "artists": [
+        {
+          "name": "French For Rabbits",
+          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
     },
     {
       "added_at": "2023-10-20 04:00:00",

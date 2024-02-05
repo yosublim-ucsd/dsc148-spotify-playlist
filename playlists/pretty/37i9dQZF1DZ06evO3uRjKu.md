@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,314 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,337 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Solo Es Otro Sabado](https://open.spotify.com/track/6ihRQHClQC49RuYNiTTbFH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 2:42 |
 | 50 | [Voy a Seguir Bailando](https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:23 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA4ODI1N2I2ZjM0YTAzYzBhZmIwMGE2NTg0OWFmYWZlOQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBmNWYwYzFkZTMxZjNmNTA2MWIwZmU1ZjdjNzdlYjE5NA==`

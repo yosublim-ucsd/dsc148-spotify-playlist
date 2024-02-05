@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road. ",
-  "num_followers": 80924,
+  "num_followers": 80916,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE0OWEwZmE4NGM1NmIxZjljYmY3ZjFkZjk5NGU1NzFlNjQyODJj",
+  "snapshot_id": "MCwxMWJjZWNkZjEyODU0ZjNhNmQ3NWM2YmE4ZjJkYTZhZjdjMjI1YmY0",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "All I Really Want - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Maroon",
         "url": "https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 285160,
       "name": "Pinch Me",
       "url": "https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "All I Really Want - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
     },
     {
       "added_at": "2024-02-02 05:01:00",

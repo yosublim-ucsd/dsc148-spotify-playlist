@@ -4,7 +4,7 @@
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ángela Aguilar
 
-127 songs - 7 hr 10 min
+128 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 | 2023-03-17 |  |
 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 | 2023-06-30 | 2023-10-21 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2022-02-16 | 2022-09-20 |
-| [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 | 2023-12-15 |  |
+| [Piensa en Mí](https://open.spotify.com/track/3hsjRehwhcsQ2EDKAOpN2J) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/4ddWFYjLKfIUfoEEVR9Vxt) | 3:46 | 2023-12-15 | 2024-02-05 |
+| [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 | 2024-02-02 |  |
 | [Piensa en Mí](https://open.spotify.com/track/79KPSHPdl3HEsYqO8LCLvo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Piensa en Mí](https://open.spotify.com/album/41oLeM3NG2XwKrPMzB0GTG) | 3:46 | 2023-06-02 | 2023-12-20 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-30 |  |
 | [Porrito y a Dormir](https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG) | 3:18 | 2023-06-30 | 2023-12-11 |

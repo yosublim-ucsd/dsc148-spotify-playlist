@@ -4,7 +4,7 @@
 
 > love peace techno
 
-211 songs - 14 hr 15 min
+212 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 | 2023-08-10 |  |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2023-03-10 |  |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-01-26 |  |
-| [Devotion \- Show Me Love 2023 Techno Mix \- Radio Edit](https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Devotion](https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb) | 3:50 | 2024-01-29 |  |
+| [Devotion \- Show Me Love 2023 Techno Mix \- Radio Edit](https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Devotion](https://open.spotify.com/album/5eYUa4zesuZMPPTK25IRdb) | 3:50 | 2024-01-29 | 2024-02-05 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-10 |  |
 | [Discotheque](https://open.spotify.com/track/1ihvzrR9IdapgBsabTbUdE) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Discotheque](https://open.spotify.com/album/3lnb8ijMj7IaGHsLXVwQ6I) | 3:02 | 2023-09-29 | 2023-10-03 |
 | [DJ in Berlin \(P.Vanillaboy Edit\)](https://open.spotify.com/track/70W4ZdVWdPfDvOwAy9s1kv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP), [P.Vanillaboy](https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 3:32 | 2023-04-18 | 2023-04-22 |
@@ -65,6 +65,7 @@
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 | 2023-03-10 | 2023-04-19 |
 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 | 2024-01-26 |  |
+| [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 | 2024-02-02 |  |
 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-26 | 2023-11-03 |
 | [Fall In My Arms](https://open.spotify.com/track/44qgj5FoNRHgfTUn6Sm4Ls) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [Fall In My Arms](https://open.spotify.com/album/7nEmMz8VCJBBGpLVq3wtqs) | 3:18 | 2023-11-24 | 2023-12-01 |
 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 | 2023-06-05 |  |

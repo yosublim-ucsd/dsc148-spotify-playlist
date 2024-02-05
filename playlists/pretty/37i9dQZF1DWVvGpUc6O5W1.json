@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 42267,
+  "num_followers": 42282,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDExYjdiMGYwZjI1ODcwZTEyNTYwMzVmZDU2N2Y2ZmExOGRlYzI5",
+  "snapshot_id": "MCxmMjBjMzRlNjAxMDYyOTc5MzcwN2IzOWRkY2E2OGQyYjVhNDUxOWMx",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Me Gustar\u00eda Creerte",
-      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Sin Presumir",
         "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 187960,
       "name": "Si Se Me Pone",
       "url": "https://open.spotify.com/track/1J4Qa0MN66tl9U7mJEsiHL"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2o5S0ibYwO7QgrqZ0aevjW"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Me Gustar\u00eda Creerte",
+      "url": "https://open.spotify.com/track/6u9yzekkcjN00Lq3bnq5Tt"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Mi Vicio y Mi Adiccion",
-        "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 160260,
-      "name": "A los 18",
-      "url": "https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Me Empez\u00f3 A Valer",
         "url": "https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 214706,
       "name": "No Te Hagas La Fuerte",
       "url": "https://open.spotify.com/track/1L8T5KEkPQq9cjlFIBNy1U"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Mi Vicio y Mi Adiccion",
+        "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 160260,
+      "name": "A los 18",
+      "url": "https://open.spotify.com/track/63tmXHQtTfG81P34RwPltx"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Me Dolio",
-      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Quiero Ser Tu Due\u00f1o",
         "url": "https://open.spotify.com/album/6Tvn0zXKNlKZUisPepycYG"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 157746,
       "name": "Inv\u00edtame",
       "url": "https://open.spotify.com/track/2aC9VOfADBeuWNkWkbjUD8"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Me Dolio",
+      "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "No Es Un Juego",
-        "url": "https://open.spotify.com/album/0H8HvLS6Gv0ZStVuZiz9jD"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 216853,
-      "name": "No Es Un Juego",
-      "url": "https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 183920,
       "name": "Tu Fr\u00e1gil Desnudez",
       "url": "https://open.spotify.com/track/2X7pK6x3eAR8hP0Lg4Ejb7"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "No Es Un Juego",
+        "url": "https://open.spotify.com/album/0H8HvLS6Gv0ZStVuZiz9jD"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 216853,
+      "name": "No Es Un Juego",
+      "url": "https://open.spotify.com/track/4brAkdbamMA7UuS0IEjiRZ"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Sin Presumir",
-        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Sin Af\u00e1n de Ofender",
-      "url": "https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Vivir En Pecado",
         "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 192946,
       "name": "Vivir En Pecado",
       "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Sin Presumir",
+        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Sin Af\u00e1n de Ofender",
+      "url": "https://open.spotify.com/track/4hNkHR6txWI3dIv9bDTYty"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
+        "name": "Homenaje a Nuestros Viejos",
+        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
+      },
+      "artists": [
+        {
+          "name": "Luis y Juli\u00e1n Jr.",
+          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Chaparrita de Mi Amor",
+      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
         "name": "Globall",
         "url": "https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 164333,
       "name": "Como un Rosal (feat. Joss Favela)",
       "url": "https://open.spotify.com/track/6PjrQ01Cr3RFaOuzY9t36t"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
-        "name": "Homenaje a Nuestros Viejos",
-        "url": "https://open.spotify.com/album/5yg8tnO0ySIDw3x3XvVkxG"
-      },
-      "artists": [
-        {
-          "name": "Luis y Juli\u00e1n Jr.",
-          "url": "https://open.spotify.com/artist/3vRJzJfiFGtnJQmhmoncMP"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Chaparrita de Mi Amor",
-      "url": "https://open.spotify.com/track/2Af2QukrZNbOkbdWGJTpGc"
     },
     {
       "added_at": "2022-01-25 18:24:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como FERXXO y el Bendito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,198 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,207 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [DÉJALO EN VISTO](https://open.spotify.com/track/5PrNsTfGhAxHcdg3AgqBNt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:09 |
 | 60 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 
-Snapshot ID: `MCw4MDRmOGNiZTM2N2JhZmYyZmQ5YTcwNDVkMmFhZTFmNGUyZDNmZTBl`
+Snapshot ID: `MCxkM2M1YzBmZGMzOGViNjdiMWMwYzJhNGNiZWZmNDFjZGJiYzhjM2Nl`

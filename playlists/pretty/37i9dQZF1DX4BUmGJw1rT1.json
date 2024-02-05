@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjUxNDg5M2RiYTBmYWRjNjQ1MjZhYzNlN2EwMDA3ZmMyNGEyYzg4",
+  "snapshot_id": "MCwwNzUxMDEyZjg3YzgxZTI4MmIxYjcyMGMxZTNiMDZjZTM2NDgyYjg3",
   "tracks": [
     {
       "added_at": "2023-11-24 19:22:06",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Hope And Desire",
-        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Loving You Is Sweeter Than Ever",
-      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+        "name": "Hope And Desire",
+        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
       },
       "artists": [
         {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
         }
       ],
-      "duration_ms": 243314,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+      "duration_ms": 237600,
+      "name": "Loving You Is Sweeter Than Ever",
+      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -871,6 +855,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Sunny Side Up",
-        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "No Other Way",
-      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 339600,
       "name": "One Room Country Shack",
       "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Blood on My Hands",
         "url": "https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 221653,
       "name": "Bloodshot Eyes",
       "url": "https://open.spotify.com/track/4nRumK6k3u0twKpqmhd49n"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Riding Out The Storm",
         "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+      },
+      "artists": [
+        {
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "If Heaven Is A Hotel",
-      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Havin' Such A Good Time",
         "url": "https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 202121,
       "name": "Lay In Your Arms",
       "url": "https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "If Heaven Is A Hotel",
+      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Tempting Fate",
-        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Fortunate Few",
-      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Good To Be (Home Again)",
         "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 210800,
       "name": "Good To Be (Home Again)",
       "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Tempting Fate",
+        "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Fortunate Few",
+      "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Talkin' Company Man Blues",
-        "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
-      },
-      "artists": [
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 250092,
-      "name": "Talkin' Company Man Blues",
-      "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 381893,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Talkin' Company Man Blues",
+        "url": "https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 250092,
+      "name": "Talkin' Company Man Blues",
+      "url": "https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Scream, Holler & Howl",
-        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
+        "name": "Behind The Rain",
+        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
       },
       "artists": [
         {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+          "name": "Grace Theisen",
+          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
         }
       ],
-      "duration_ms": 247946,
-      "name": "Medicine Man",
-      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
+      "duration_ms": 214412,
+      "name": "Behind The Rain",
+      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Scream, Holler & Howl",
+        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
+      },
+      "artists": [
+        {
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3j6EDxYRTUTAYdC7MUHuic"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "One Foot In The Groove",
         "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 205974,
       "name": "Ice Cream and Cigarettes",
       "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Behind The Rain",
-        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
-      },
-      "artists": [
-        {
-          "name": "Grace Theisen",
-          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
-        }
-      ],
-      "duration_ms": 214412,
-      "name": "Behind The Rain",
-      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh"
-      },
-      "artists": [
-        {
-          "name": "Yasmine Gill",
-          "url": "https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Love Sweet Love",
         "url": "https://open.spotify.com/album/5CNyK9cASsu2cB16j0bise"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 164159,
       "name": "Love Sweet Love",
       "url": "https://open.spotify.com/track/3UBfEl291sMVsSJ15wSbeg"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh"
+      },
+      "artists": [
+        {
+          "name": "Yasmine Gill",
+          "url": "https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Only The Wild Ones",
-        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
-      },
-      "artists": [
-        {
-          "name": "Jax Hollow",
-          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
-        }
-      ],
-      "duration_ms": 249418,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Hard to Kill",
         "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 195388,
       "name": "I'll Be There Waiting",
       "url": "https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Only The Wild Ones",
+        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
+      },
+      "artists": [
+        {
+          "name": "Jax Hollow",
+          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
+        }
+      ],
+      "duration_ms": 249418,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Fault Line",
-        "url": "https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs"
-      },
-      "artists": [
-        {
-          "name": "HeavyDrunk",
-          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
-        }
-      ],
-      "duration_ms": 224221,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Underground Railroad",
         "url": "https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO"
       },
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs"
+      },
+      "artists": [
+        {
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+        }
+      ],
+      "duration_ms": 224221,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -2411,22 +2411,6 @@
       "duration_ms": 260866,
       "name": "Just Like New",
       "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Storm a Comin'",
-        "url": "https://open.spotify.com/album/61IJDksMxSMowgQA7iOtTq"
-      },
-      "artists": [
-        {
-          "name": "Pat Kenny",
-          "url": "https://open.spotify.com/artist/5esMdiK9fCQMbzGOUytrRN"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Storm a Comin'",
-      "url": "https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2447,6 +2431,22 @@
       "duration_ms": 202071,
       "name": "The World's In A Bad Situation",
       "url": "https://open.spotify.com/track/7s2GbffwL8VJd86wYczOM4"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Storm a Comin'",
+        "url": "https://open.spotify.com/album/61IJDksMxSMowgQA7iOtTq"
+      },
+      "artists": [
+        {
+          "name": "Pat Kenny",
+          "url": "https://open.spotify.com/artist/5esMdiK9fCQMbzGOUytrRN"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Storm a Comin'",
+      "url": "https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2515,18 +2515,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Am I Still Mine",
-        "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
+        "name": "THOUSAND STRINGED INSTRUMENT",
+        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
       },
       "artists": [
         {
-          "name": "Murphy",
-          "url": "https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN"
+          "name": "THE DAWN LIGHT",
+          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
         }
       ],
-      "duration_ms": 155965,
-      "name": "Am I Still Mine",
-      "url": "https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU"
+      "duration_ms": 329000,
+      "name": "THOUSAND STRINGED INSTRUMENT",
+      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
     }
   ],
   "unique_name": "Home at Last",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Mushkaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,561 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [En Otro Lugar](https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [En Otro Lugar](https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx) | 2:58 |
 | 19 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 |
 | 20 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 |
-| 21 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
-| 22 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 21 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
+| 22 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
 | 23 | [Soy El Único \- Spotify Singles](https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:47 |
 | 24 | [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 |
 | 25 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
 | 50 | [novio del año](https://open.spotify.com/track/61N27UaFzOqJrhIOruw8Vy) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:34 |
 
-Snapshot ID: `MCxiM2ExNDFhMTNlYTMyMjFmZWQ2ZWQyZmI0YTNlMmIxMWQ4MjYxNzhl`
+Snapshot ID: `MCxmYmQyNDNjODBkMDE0M2Y2OTQyYjk2YjAzZWM3NWZmZTU5MWRkZDkx`

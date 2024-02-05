@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,677 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,929 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 31 | [The Good Life](https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [I Wanna Be Around](https://open.spotify.com/album/11KbbI91LeZUkXALWALytD) | 2:14 |
 | 32 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 |
 | 33 | [Baby I'm A Fool](https://open.spotify.com/track/3XZN4wXwG2o0OadHWExzPr) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 3:30 |
-| 34 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
-| 35 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
-| 36 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
-| 37 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
-| 38 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
+| 34 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
+| 35 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
+| 36 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
+| 37 | [Misty](https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Vaughan And Violins](https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl) | 3:02 |
+| 38 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
 | 39 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 |
 | 40 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 41 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 54 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 55 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 56 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
-| 57 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
+| 57 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
 | 58 | [The Very Thought Of You](https://open.spotify.com/track/0yw2d5ySGl52fz5qm9IZD3) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 4:16 |
 | 59 | [I've Got You Under My Skin](https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V](https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV) | 3:50 |
-| 60 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
+| 60 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
 | 61 | [My Funny Valentine](https://open.spotify.com/track/0uqoRVmmU2WM9iDgQBf23R) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:55 |
 | 62 | [Lay Lady Lay](https://open.spotify.com/track/5YFlYhVwQNPjy5tmUryDRD) | [Magnet](https://open.spotify.com/artist/0aPh6hUf7HfSVXtyxQs9AR) | [On Your Side](https://open.spotify.com/album/7ameJ6pSgZagUBgwubwTMq) | 4:37 |
 | 63 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 84 | [Luck Be A Lady](https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:35 |
 | 85 | [After Hours](https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [After Hours](https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef) | 2:54 |
 
-Snapshot ID: `MCw4ODNkMGEwOWFlZGMxNDUzNjgzNjgxMzUzMjdmMDFhYWFhMDc2ODk5`
+Snapshot ID: `MCwwNjNiOWVhMDZhN2UyZDAwYWYwY2Q0YjAxOTRmYmZlM2Q5YzA0Y2Zj`

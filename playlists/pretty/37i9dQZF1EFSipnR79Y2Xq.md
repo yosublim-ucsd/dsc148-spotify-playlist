@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 37 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 38 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 39 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
-| 40 | [¿Quién Me Manda?](https://open.spotify.com/track/2Dim2YSDbGeZ5CDcIA7a8i) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [¿Quién Me Manda?](https://open.spotify.com/album/31Z8Yu79Kgbc1ameinFWZL) | 2:55 |
+| 40 | [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 |
 | 41 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 42 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `Mjg0NTAyMDAsMDAwMDAwMDA0N2Q5MDRlNzNjYzNkYTc0NGIwN2I3MDY4YzU1Y2U3YQ==`
+Snapshot ID: `Mjg0NTE2NDAsMDAwMDAwMDBkNmFjMmEzODg5OTE1MDNhOTkzM2VlMmYwZDAwZDNiZQ==`

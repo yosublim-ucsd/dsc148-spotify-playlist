@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,060 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,836 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 17 | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/track/2d95OanRucycsY2kOKgZmU) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Same 24 \(feat\. Meek Mill\)](https://open.spotify.com/album/4RZ6Y7BdFGtiqsDoIlFpum) | 3:52 |
 | 18 | [On Lock](https://open.spotify.com/track/3tuAivyXRWOKC1UVKwDQ21) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [On Lock](https://open.spotify.com/album/7qW1pB3ePK1R2QPuYIatov) | 2:00 |
 | 19 | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Passports & Suitcases \(feat\. KayCyy\)](https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s) | 2:49 |
-| 20 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 20 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 21 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
 | 22 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 |
 | 23 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah) | 2:49 |
 | 100 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 
-Snapshot ID: `MCxjZGJkMDM2YTIyMDJmMTRmN2FjNDNhNzcyNjdlMTEzNWI3Y2FmMDJj`
+Snapshot ID: `MCxkOGQ2NmU0MTI3YzZiYTZhNjY2MjExZDA3NTg1NTM2MTFmYTdhMmIx`

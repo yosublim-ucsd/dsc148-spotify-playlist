@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj?si=UC5GokWQQZObai5SqjeeTA">Sinmidele</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,991 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,050 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 69 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 |
 | 70 | [Able](https://open.spotify.com/track/6ke0delRcd6LPpRb1yxY3G) | [JhonforChrist](https://open.spotify.com/artist/3nuMqFQqdHeM5cldILRXDR), [HartlhaD](https://open.spotify.com/artist/6Yk7U5v34wKHuGQFdT0aAy) | [Able](https://open.spotify.com/album/1fDflEHY7Tc8MSJClipYmQ) | 2:45 |
 
-Snapshot ID: `MCw3NTRmMzI0MjQ3ZGYzOGIwMjY5MTlhZGM3ZmRhNmUxNjQzZWMzY2M0`
+Snapshot ID: `MCxlMWVlZGE2MjE0MWMyMTE4N2RiZWFmNGI2MTQ5YTJiYWQ5MDM2N2E2`

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 178665,
+  "num_followers": 178606,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTdkYWNhNWVkYzAwYzY1NDEwOGYzNzY1N2UwZTcxNDY1MWI4NjJj",
+  "snapshot_id": "MCwzZTE5OTFkYTY2MGU1M2VmZWU0ODM3MGY1ODQ3OWYzMDA5MmU2ODY3",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "123 Enemies",
+        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "123 Enemies",
+      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "123 Enemies",
-        "url": "https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW"
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
       },
       "artists": [
         {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 210612,
-      "name": "123 Enemies",
-      "url": "https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1"
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -999,22 +1015,6 @@
       "duration_ms": 236394,
       "name": "Palpitaciones (Remix)",
       "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Vine a Salvarte",
         "url": "https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 209458,
       "name": "Vine a Salvarte",
       "url": "https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
+        }
+      ],
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1547,38 +1563,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Cotizate",
-        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
-      },
-      "artists": [
-        {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "Cotizate",
-      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Todo Por Ti",
         "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 148988,
       "name": "Todo Por Ti",
       "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Cotizate",
+        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
+      },
+      "artists": [
+        {
+          "name": "Militante Bierd",
+          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "Cotizate",
+      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Como Siempre",
         "url": "https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,924 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,916 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 42 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |
 | 43 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 44 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
-| 45 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
-| 46 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 |
+| 45 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 |
+| 46 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
 | 47 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 |
 | 48 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 49 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Flesh and Blood](https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [A Blemish in the Great Light](https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q) | 4:57 |
 | 75 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 |
 
-Snapshot ID: `MCwzOGE0OWEwZmE4NGM1NmIxZjljYmY3ZjFkZjk5NGU1NzFlNjQyODJj`
+Snapshot ID: `MCwxMWJjZWNkZjEyODU0ZjNhNmQ3NWM2YmE4ZjJkYTZhZjdjMjI1YmY0`

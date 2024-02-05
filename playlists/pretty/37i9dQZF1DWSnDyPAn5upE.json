@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 51157,
+  "num_followers": 51201,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2JiMTYwNjllMTc1YWNmZjY0NDI5ZGYxZDAwMmZmZjI2ZDM3MzQw",
+  "snapshot_id": "MCw5N2VjNzA5OWZiYmQ0ZTY0Mzk3NDFiZjEwYjczZjgyOTdkNTFmNDBi",
   "tracks": [
     {
       "added_at": "2023-10-12 18:05:50",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
-        "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 114436,
-      "name": "\u5fc3\u75db\u3092\u53d7\u3051\u5165\u308c\u307e\u3059",
-      "url": "https://open.spotify.com/track/72XuEUV21PjYcWswFeqyiw"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Fragmente",
         "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 145926,
       "name": "Elegy for Peace",
       "url": "https://open.spotify.com/track/0OMZyApsIr7O9RIPNizyQV"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
+        "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 114436,
+      "name": "\u5fc3\u75db\u3092\u53d7\u3051\u5165\u308c\u307e\u3059",
+      "url": "https://open.spotify.com/track/72XuEUV21PjYcWswFeqyiw"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+      },
+      "artists": [
+        {
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+        }
+      ],
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "The Unfolding",
         "url": "https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
-      },
-      "artists": [
-        {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "Satnam Waheguru",
-      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
       "artists": [
         {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
         }
       ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+      "duration_ms": 299666,
+      "name": "Satnam Waheguru",
+      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1123,6 +1123,26 @@
       "duration_ms": 341000,
       "name": "Across The Ocean, But Not Yet",
       "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1167,26 +1187,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Japanese Summer Lost",
+        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "duration_ms": 211942,
+      "name": "Japanese Summer Lost",
+      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Japanese Summer Lost",
-        "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
-      },
-      "artists": [
-        {
-          "name": "Nao'ymt",
-          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
-        }
-      ],
-      "duration_ms": 211942,
-      "name": "Japanese Summer Lost",
-      "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+      },
+      "artists": [
+        {
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+        }
+      ],
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
-      },
-      "artists": [
-        {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
-        }
-      ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "what's on the inside",
-        "url": "https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67"
-      },
-      "artists": [
-        {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        }
-      ],
-      "duration_ms": 250903,
-      "name": "what's on the inside",
-      "url": "https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Kistvaen",
         "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
@@ -1663,22 +1643,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+        "name": "what's on the inside",
+        "url": "https://open.spotify.com/album/0tjgXt36gsBjCBnvHZ7C67"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         },
         {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
         }
       ],
-      "duration_ms": 198880,
-      "name": "For You I Am Missing \u2026",
-      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+      "duration_ms": 250903,
+      "name": "what's on the inside",
+      "url": "https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1723,6 +1703,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "For You I Am Missing \u2026",
+      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "The 90s Was A Feeling",
         "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
       },
@@ -1739,6 +1739,38 @@
       "duration_ms": 410000,
       "name": "The 90s Was A Feeling",
       "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Cosmic Ray",
+      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
+      },
+      "artists": [
+        {
+          "name": "Hisaki Kato",
+          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
+        }
+      ],
+      "duration_ms": 146993,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1779,22 +1811,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
-      },
-      "artists": [
-        {
-          "name": "Hisaki Kato",
-          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 306154,
       "name": "Inori - William Basinski Rework",
       "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
-      },
-      "artists": [
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cosmic Ray",
-      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
     },
     {
       "added_at": "2023-10-12 18:05:50",

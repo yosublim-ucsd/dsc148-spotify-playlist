@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2062638,
+  "num_followers": 2060134,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0OTM5ZGE5NGQzMzAzMmM2OGQ2NjBmZWM4ZDQ2MzQzMDAyMzcy",
+  "snapshot_id": "MCwxZmNmNTgyYmM3Mzc0ODY3MWNkMDc5ZWI2OWY5MWZjMjI4ZjJkMjI1",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "coney island (feat. The National)",
-      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 191234,
       "name": "For All You Give",
       "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "coney island (feat. The National)",
+      "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -955,6 +939,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/6Z2pu5Gq0uWJoaYWeWbQpX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 221842,
       "name": "B61",
       "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "duration_ms": 205812,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 255099,
-      "name": "Ran Away",
-      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+      "duration_ms": 255099,
+      "name": "Ran Away",
+      "url": "https://open.spotify.com/track/2nQUwM55eYkY2bWtF3EzCm"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
+      },
+      "artists": [
+        {
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/17sBr3OmJz1lzH20ckwyIB"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/58Jt8MKkvodjpQ4EQBXQ79"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Thinner",
         "url": "https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 206755,
       "name": "Mud-Stained Dress",
       "url": "https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 230626,
-      "name": "Pale November Dew",
-      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1691,6 +1675,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 230626,
+      "name": "Pale November Dew",
+      "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "On Your Horizon",
-      "url": "https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 177720,
       "name": "All Is Well [Feat. Joy Williams]",
       "url": "https://open.spotify.com/track/0z1SYbSEYNLoZuxzHMTS6h"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "On Your Horizon",
+      "url": "https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Secret (Acoustic)",
         "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2165,6 +2165,22 @@
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Made To Love Someone",
+        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 186845,
+      "name": "Made To Love Someone",
+      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Heavy",
@@ -2411,22 +2427,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -2443,6 +2443,22 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2479,22 +2495,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Without People",
-        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 186143,
-      "name": "Seeing Other People",
-      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sings John Denver",
         "url": "https://open.spotify.com/album/5TK7Ou3CpOkmxPGyRWvtwU"
       },
@@ -2507,6 +2507,22 @@
       "duration_ms": 212212,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/2UJ9eh4cex6ulccBrskJXd"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Without People",
+        "url": "https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 186143,
+      "name": "Seeing Other People",
+      "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2623,22 +2639,6 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Made To Love Someone",
-        "url": "https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 186845,
-      "name": "Made To Love Someone",
-      "url": "https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40"
     },
     {
       "added_at": "2023-09-29 04:00:00",

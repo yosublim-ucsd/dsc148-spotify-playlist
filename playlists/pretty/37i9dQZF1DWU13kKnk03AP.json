@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2118595,
+  "num_followers": 2118213,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTY3MDZlODI4MmIwM2YwY2M0MWMyNzFjNDFiMjIwNDY3OTllZGQw",
+  "snapshot_id": "MCw2ZjYwNzdkNGI5MmFhNTdjYjZlYTE3MjRkYzEzOTgyNGYxN2E3MzRm",
   "tracks": [
     {
       "added_at": "2024-02-02 16:57:28",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "Dial Drunk (with Post Malone)",
         "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
+        "name": "if u think i'm pretty",
+        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 128205,
+      "name": "if u think i'm pretty",
+      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -427,6 +443,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -467,38 +499,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
-        "name": "if u think i'm pretty",
-        "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 128205,
-      "name": "if u think i'm pretty",
-      "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 229331,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "Choose Your Fighter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Choose Your Fighter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -1487,42 +1487,6 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
-        "name": "Cover Me In Sunshine",
-        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Willow Sage Hart",
-          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
-        }
-      ],
-      "duration_ms": 141050,
-      "name": "Cover Me In Sunshine",
-      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 180742,
-      "name": "World's Smallest Violin",
-      "url": "https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1543,6 +1507,22 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
+        "name": "Cover Me In Sunshine",
+        "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Willow Sage Hart",
+          "url": "https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS"
+        }
+      ],
+      "duration_ms": 141050,
+      "name": "Cover Me In Sunshine",
+      "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
     },
     {
       "added_at": "2024-02-02 16:57:28",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-02-02 16:57:28",
       "album": {
+        "name": "Sugar Sweet",
+        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 169839,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+    },
+    {
+      "added_at": "2024-02-02 16:57:28",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2024-02-02 16:57:28",
-      "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
     },
     {
       "added_at": "2024-02-02 16:57:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,264 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,282 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 47 | [1955](https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Drinking From The Sun, Walking Under Stars Restrung](https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS) | 3:59 |
 | 48 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 49 | [Khe Sanh \- 2011 Remastered](https://open.spotify.com/track/0frIZMaQwtdV4Ee8nhB1te) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Cold Chisel](https://open.spotify.com/album/58LEKVWXpcYbeevCcl2boB) | 4:14 |
-| 50 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
+| 50 | [Say It \(feat\. Tove Lo\)](https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:22 |
 
-Snapshot ID: `MCxlN2VmMTkxZmRmYjVlYTE5MzdiOTFlYzk0YzVkNmQ4ZWViN2RkNTUx`
+Snapshot ID: `MCwyNmQ1Nzc2YTU2Njg3MWI1ZjBmMDBlOWI0YzdmMzgwNDU2NzA5ZWYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,059 likes - 51 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,045 likes - 51 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [El Machetazo](https://open.spotify.com/track/63ElgJkdYbxUPOz3Pgjt0Q) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [WWW.TIPICO.COM](https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5) | 4:36 |
 | 51 | [Ya No Te Quiero](https://open.spotify.com/track/65BnKBgzomEwHIFeZTI5CT) | [Yiki Lee](https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A) | [Muy Loco](https://open.spotify.com/album/1qJGNCdWQH7U8Wueh2ojCl) | 5:58 |
 
-Snapshot ID: `MCw0YWUxMzE0NWMyYzgyMWQ2OTQ0ZWQ1NDEyNjlkNDNjMjFmMjE3MzU0`
+Snapshot ID: `MCw1NjVlZDgxNDFlYzcyNGFlNjk5OGMxMTE1OGMyYjMwNjlkN2NlYzE0`

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 1526152,
+  "2024-02-05": 1526337,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Argentina.",
   "name": "Top 50 - Argentina",
@@ -491,7 +491,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 160856,
       "name": "ADI\u00d3S",
       "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
@@ -5505,10 +5505,32 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
+    },
+    {
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
     },
     {
       "album": {
@@ -6450,6 +6472,28 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
+    },
+    {
+      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -6465,7 +6509,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
@@ -10472,6 +10516,28 @@
     },
     {
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
         "name": "Pinta",
         "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
       },
@@ -11107,7 +11173,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -11185,10 +11251,32 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 165918,
       "name": "QUE ME FALTE TODO",
       "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
+    },
+    {
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165918,
+      "name": "QUE ME FALTE TODO",
+      "url": "https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ"
     },
     {
       "album": {
@@ -11294,6 +11382,32 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145054,
+      "name": "Quiero Creer",
+      "url": "https://open.spotify.com/track/4ZXZub1pPCWib6xlSHiTj6"
+    },
+    {
+      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -11313,7 +11427,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 145054,
       "name": "Quiero Creer",
       "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
@@ -14976,6 +15090,24 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148979,
+      "name": "Y TE VAS",
+      "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
+    },
+    {
+      "album": {
         "name": "Ya No Llora",
         "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
@@ -15016,6 +15148,32 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi"
+    },
+    {
+      "album": {
         "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
@@ -15035,7 +15193,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

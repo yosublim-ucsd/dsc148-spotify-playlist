@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: BAEKHO, Park Ji Won\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,694 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,418 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 50 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 
-Snapshot ID: `MCw1OWU3NWZkNDdiMGNlOTYzNzcxMjI2NWFkODUyYjgyNWI2NWJiMjIx`
+Snapshot ID: `MCwwZDI2MDJkYjYwOGYyZTdmYTA2YzYxMTExZTA4OWVjMGFhNTA2Mjli`

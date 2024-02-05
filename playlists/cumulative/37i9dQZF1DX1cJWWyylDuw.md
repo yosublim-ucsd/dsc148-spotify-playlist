@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Humanity's Last Breath
 
-528 songs - 1 day 10 hr 26 min
+530 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Break The Cycle](https://open.spotify.com/track/0R3V1qnan4rbDvoubYi5Zu) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Break The Cycle](https://open.spotify.com/album/1Iyd7yCUDVzoMBgvVOARPz) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Broken Glass Incantation](https://open.spotify.com/track/2CdzRZcftbyNGD4zYzijby) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Broken Glass Incantation](https://open.spotify.com/album/0MqPjb7oM5ld54nvNKGXcL) | 3:09 | 2024-01-30 |  |
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 | 2024-01-31 |
-| [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2024-01-30 |  |
+| [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2024-01-30 | 2024-02-05 |
+| [Casket of Rust](https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 7:04 | 2024-01-30 |  |
 | [Catatonia](https://open.spotify.com/track/1yKyN555vTcZun8SLVDd8Y) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Catatonia](https://open.spotify.com/album/7rdTTF62eg3jRAMcAamljf) | 3:44 | 2021-12-31 | 2022-07-28 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-02-12 |
@@ -271,7 +272,7 @@
 | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/track/6tjKpMR5jdN2WZL13Y65vA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Jason Evans](https://open.spotify.com/artist/2fEKFTw6F4cCFae5fkw2JL) | [Innocent Blood \(feat\. Jason Evans\)](https://open.spotify.com/album/0W55655OGizdrkUanACsoO) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Instill](https://open.spotify.com/track/0oWzEdJetVyR796jo7lZfV) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Instill](https://open.spotify.com/album/0Vx91oAWH7FFlgtAPeBCNt) | 4:41 | 2023-06-16 |  |
 | [Intensified Genocide](https://open.spotify.com/track/6on5n2S3CpQ8wuORBCMkDS) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Intensified Genocide](https://open.spotify.com/album/2rz8FhZgTj9dvkD0WXlo8A) | 4:04 | 2021-12-17 | 2022-06-15 |
-| [Into the Abyss](https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Into the Abyss](https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t) | 3:23 | 2023-04-14 |  |
+| [Into the Abyss](https://open.spotify.com/track/51Z20manwIpvx6VU2JEdGw) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Into the Abyss](https://open.spotify.com/album/69fNGvNsEPvOxmHOLhNH1t) | 3:23 | 2023-04-14 | 2024-02-05 |
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-04-29 |
 | [Introspection \(Loathing\)](https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Introspection \(Loathing\)](https://open.spotify.com/album/5q2xn0gUDH4TP8lN5UCeV2) | 2:44 | 2021-12-17 | 2022-07-27 |
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2021-12-17 | 2022-07-28 |
@@ -286,6 +287,7 @@
 | [Kimo](https://open.spotify.com/track/0XAmWqbFLmNrPMm5jGMcEl) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/1zA1qb5KNiYj6HI7X7DfwG) | 3:40 | 2022-12-02 | 2023-04-25 |
 | [Kimo](https://open.spotify.com/track/3FrBC04W6GQsQQgeYn3ieH) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer Part.1](https://open.spotify.com/album/6ZfD7O9CcoRP9xP0ICdgTA) | 3:40 | 2021-12-17 | 2022-11-20 |
 | [King Of Ruination](https://open.spotify.com/track/1eRZe6B0f1HZXqcWPF3z4K) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [King Of Ruination](https://open.spotify.com/album/5PIp9LGI371dv8UFlj8TTF) | 5:26 | 2023-12-13 | 2023-12-24 |
+| [King of Ruination](https://open.spotify.com/track/376ef3KNngU3ltVoqGPKvG) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 5:26 | 2024-01-30 |  |
 | [King of the Rats](https://open.spotify.com/track/0FeY1KxlBQhALD6L6IaDog) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [King of the Rats](https://open.spotify.com/album/2BSdHM1FO3JJw97CWIS77P) | 2:53 | 2021-12-17 | 2023-04-15 |
 | [King Ov Fire](https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk) | [Mental Cruelty](https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9) | [A Hill to Die Upon](https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m) | 3:49 | 2021-12-17 |  |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2021-12-17 | 2024-01-08 |

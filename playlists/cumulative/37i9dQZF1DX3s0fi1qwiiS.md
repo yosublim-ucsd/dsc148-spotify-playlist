@@ -4,7 +4,7 @@
 
 > Who order Azul?
 
-66 songs - 4 hr 15 min
+67 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-12-08 |  |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2022-12-02 |  |
 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 | 2022-12-02 |  |
-| [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-12-02 |  |
+| [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-12-02 | 2024-02-05 |
+| [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 | 2023-12-08 |  |
 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 | 2023-12-08 |  |
 | [Omo Ada \(Dem Sleep\)](https://open.spotify.com/track/5Bj2UfTbE1NI3ZSpYl8Wbh) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Omo Ada \(Dem Sleep\)](https://open.spotify.com/album/16m64JfCcW9cgPVXsIkM1f) | 2:46 | 2022-12-02 |  |
 | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Fela Makafui](https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Omo Ada \(feat\. Shatta Wale & Fela Makafui\)](https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp) | 2:48 | 2022-12-02 | 2023-06-24 |

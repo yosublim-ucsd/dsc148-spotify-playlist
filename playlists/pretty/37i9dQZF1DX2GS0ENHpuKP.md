@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,014 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,047 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 54 | [Il vecchiaccio](https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu) | [Bruno Lauzi](https://open.spotify.com/artist/69lP1pS5aRVxgyvi0uOYbg) | [le più belle canzoni](https://open.spotify.com/album/02322HwE6b1hf200vS8dVR) | 3:45 |
 | 55 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 |
 
-Snapshot ID: `MCxmYjRjMWViZWI1MDFhYmE0ZjM3NTZkN2FmYWZjOTNjZjFmOTM1OTA2`
+Snapshot ID: `MCw0ZTA5YTYwOTgxM2Y0ZjI5ZTZiZTA4ZDZlNmQ0ZTA1NWJmYzJlYjYw`

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 65 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
-| 2 | [Kiss and Make Up](https://open.spotify.com/track/13hvHEstJ4sNbzdroPrPI3) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:10 |
-| 3 | [Romantic \- NOTD Remix](https://open.spotify.com/track/7e6FvCvngX5job1PUYIIIL) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:04 |
-| 4 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
-| 5 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 |
-| 6 | [Bad Together](https://open.spotify.com/track/4O2mz1CYlIwaYbUV93eHKZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:58 |
-| 7 | [So Good](https://open.spotify.com/track/20js7QbHkIuzrgecUTPfl7) | [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [So Good](https://open.spotify.com/album/0nuSy7w6zQ5Rzu3PW4Ya1R) | 3:10 |
-| 8 | [Dreams](https://open.spotify.com/track/6VMqlhUv1V98yKas8xMefk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:40 |
+| 1 | [Kiss and Make Up](https://open.spotify.com/track/13hvHEstJ4sNbzdroPrPI3) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:10 |
+| 2 | [Romantic \- NOTD Remix](https://open.spotify.com/track/7e6FvCvngX5job1PUYIIIL) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:04 |
+| 3 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
+| 4 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 |
+| 5 | [Bad Together](https://open.spotify.com/track/4O2mz1CYlIwaYbUV93eHKZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:58 |
+| 6 | [So Good](https://open.spotify.com/track/20js7QbHkIuzrgecUTPfl7) | [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [So Good](https://open.spotify.com/album/0nuSy7w6zQ5Rzu3PW4Ya1R) | 3:10 |
+| 7 | [Dreams](https://open.spotify.com/track/6VMqlhUv1V98yKas8xMefk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:40 |
+| 8 | [Wild](https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
 | 9 | [Happy](https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Happy](https://open.spotify.com/album/1nPB6o7EjGvUORXlnioEPk) | 3:41 |
 | 10 | [HONEYMOON](https://open.spotify.com/track/18yMTj71QJwQkybGfhYcaY) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [BLUE](https://open.spotify.com/album/3rz2cmoTK4j3hpuTfeRSRn) | 3:24 |
 | 11 | [The One](https://open.spotify.com/track/53LEFZFqPLoN0tWwaTk17C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [Hey Mama!– The 1st Mini Album](https://open.spotify.com/album/7qXTHawuBsARg5NdkZM5cU) | 3:29 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 64 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
 | 65 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `Mjg0NTAyMTAsMDAwMDAwMDBlMDJjZTgxNDFjMjliZjNiZjkwNWY5NTViMTExNGM5MQ==`
+Snapshot ID: `Mjg0NTE2NTAsMDAwMDAwMDA5MjU0ZGU5MWZiMDdiOTQyZWY4ZGE5YjQyN2ZkNmI5OA==`

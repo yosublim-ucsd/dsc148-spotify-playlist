@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Future Islands en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,712 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,700 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 40 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
 | 41 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
 | 42 | [Nobody Escapes](https://open.spotify.com/track/1IqRZsXV47xow1ZSdihWDK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nobody Escapes](https://open.spotify.com/album/4A5YVlI0YUn2adU3tK7qjb) | 2:55 |
-| 43 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
-| 44 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
-| 45 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
+| 43 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 |
+| 44 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
+| 45 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
 | 46 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 | 47 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 48 | [Your Blood](https://open.spotify.com/track/4QJKtN5EXFtxbqnHuibwEL) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Your Blood](https://open.spotify.com/album/6Mrbtd9OIIh1XPiTMqHaHC) | 4:08 |
 | 49 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 |
 | 50 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 
-Snapshot ID: `MCxlNzYxMjQwOTg2NWI3ZTRhZDQ3MGE4MzliODNhMTY4ZWM2ZjMwZGVh`
+Snapshot ID: `MCw3MDdhMGI5Zjk1NWVhNWI4ZjEwYzNjMGUyMDZhNjcyOGNjNDA2MWUx`

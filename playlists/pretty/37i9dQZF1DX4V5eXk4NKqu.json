@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Diamante El\u00e9ctrico.",
-  "num_followers": 155951,
+  "num_followers": 155911,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzkzYmU4YzY0NmM2OWM4YzU4YWM2NDczZTE5MjRkMGEzN2Y4Y2Vk",
+  "snapshot_id": "MCwyODZkM2UwY2MyODI4OWU0ZTMxNzdlMjg1YTk3Y2Q3MGExOWI4YzFm",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "F\u00fatbol Rock",
         "url": "https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 188013,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 269730,
-      "name": "A carta cabal",
-      "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 269730,
+      "name": "A carta cabal",
+      "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "i lied",
-      "url": "https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "i lied",
+      "url": "https://open.spotify.com/track/4yp5r5RgUUe9TsPLrivkRm"
     },
     {
       "added_at": "2024-02-02 05:00:00",

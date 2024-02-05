@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-43 songs - 2 hr 10 min
+44 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 | 2022-09-16 |  |
 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 | 2023-05-22 |  |
 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 | 2023-06-27 |  |
-| [¿Quién Me Manda?](https://open.spotify.com/track/2Dim2YSDbGeZ5CDcIA7a8i) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [¿Quién Me Manda?](https://open.spotify.com/album/31Z8Yu79Kgbc1ameinFWZL) | 2:55 | 2023-12-20 |  |
+| [¿Quién Me Manda?](https://open.spotify.com/track/2Dim2YSDbGeZ5CDcIA7a8i) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [¿Quién Me Manda?](https://open.spotify.com/album/31Z8Yu79Kgbc1ameinFWZL) | 2:55 | 2023-12-20 | 2024-02-05 |
+| [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 | 2024-02-04 |  |
 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 | 2022-11-20 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

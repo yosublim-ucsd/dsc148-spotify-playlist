@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 454255,
+  "num_followers": 454427,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTE0Yzg5ZmZjMDU5OWMwNTA0M2MzNWFmYTE2OWI0ZDhjNzNiOGY2",
+  "snapshot_id": "MCxiMjA5NzY4YTYyZDlhYzk3M2NhMzhiNWFkMzM1MTA1MmRkYzliMTRh",
   "tracks": [
     {
       "added_at": "2024-01-11 22:39:38",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+      "duration_ms": 206200,
+      "name": "Un Poco de Amor Franc\u00e9s",
+      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj"
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 206200,
-      "name": "Un Poco de Amor Franc\u00e9s",
-      "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Astros",
-      "url": "https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Astros",
+      "url": "https://open.spotify.com/track/6iVP8SnhHnFNy7WYrIw1JB"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Civilizaci\u00f3n",
         "url": "https://open.spotify.com/album/0aPjWHFy8wvMwUBhWVq6TV"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 320760,
       "name": "Bicho de Ciudad",
       "url": "https://open.spotify.com/track/0oCiPqIEL5218yu2D996eP"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "M\u00e1quina de Sangre",
         "url": "https://open.spotify.com/album/5kCM1EfwsAr8VuV7OS5zLL"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Todos Locos",
+      "url": "https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
         "name": "Tren de Fugitivos",
         "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 316626,
       "name": "Angel de los Perdedores",
       "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Todos Locos",
-      "url": "https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk"
     },
     {
       "added_at": "2024-01-11 22:39:38",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-01-11 22:39:38",
       "album": {
-        "name": "Verde Paisaje del Infierno",
-        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 256385,
-      "name": "Ruleta",
-      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
-    },
-    {
-      "added_at": "2024-01-11 22:39:38",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 221040,
       "name": "Tu Presencia",
       "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+    },
+    {
+      "added_at": "2024-01-11 22:39:38",
+      "album": {
+        "name": "Verde Paisaje del Infierno",
+        "url": "https://open.spotify.com/album/0i2Y8YNiC3oQDFIsgWI3cP"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 256385,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/2tWlLCwEN7slVfcPjemDYJ"
     }
   ],
   "unique_name": "Asadito",

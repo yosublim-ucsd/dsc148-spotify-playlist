@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 15496,
+  "num_followers": 15507,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ2N2FlNzYwNjgyNTQ5NmIyNjVhNDUyZjg4YWQwYjc3ZTYzMTU4",
+  "snapshot_id": "MCxkYTZjODIzN2VlYTJjZjgwYTg2M2VmMWIwZWFhY2Q0YjRiZWE0ZGU0",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -59,6 +59,34 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Rom\u00e2ntico, Pt. 2",
+        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/7ajsegzcb0VzobtfArvw4L"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "PURA SACANAGEM / FILHO DO VENTO",
         "url": "https://open.spotify.com/album/6en2yYqcQbCc47v5cmiOYs"
       },
@@ -99,34 +127,6 @@
       "duration_ms": 185328,
       "name": "Tudo \u00c9 Pra Sempre Agora",
       "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Rom\u00e2ntico, Pt. 2",
-        "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/7ajsegzcb0VzobtfArvw4L"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Que Cal\u00f4",
-        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "Que Cal\u00f4",
-      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "S\u00f3 Minha",
         "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 149433,
       "name": "S\u00f3 Minha",
       "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Que Cal\u00f4",
+        "url": "https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 180512,
+      "name": "Que Cal\u00f4",
+      "url": "https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Afasta",
-        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "Afasta",
-      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Anel da Pandora",
         "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 155294,
       "name": "N\u00e3o Me Ligue Mais",
       "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Afasta",
+        "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "Afasta",
+      "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
-      },
-      "artists": [
-        {
-          "name": "Neittan",
-          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
-        },
-        {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "AlmaViva M\u00fasica",
-          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -1043,22 +1019,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Enquanto o tempo passa",
-        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Neittan",
+          "url": "https://open.spotify.com/artist/0TcLvrpRgjlADWM6Xuyk8n"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
         }
       ],
-      "duration_ms": 131320,
-      "name": "Enquanto o tempo passa",
-      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
+      "duration_ms": 162338,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/2apnjeVNCCWHMN0nlF8caL"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1099,6 +1079,26 @@
       "duration_ms": 166438,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Enquanto o tempo passa",
+        "url": "https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "Enquanto o tempo passa",
+      "url": "https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06"
     }
   ],
   "unique_name": "pique afrobeats",

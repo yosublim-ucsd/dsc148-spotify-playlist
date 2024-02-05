@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 104131,
+  "num_followers": 104530,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JjNTYyYThiYTc1YjUyMmQyYWQxNGI2YWNiNmI0YWFlZjMyNjgz",
+  "snapshot_id": "MCw1NzhmYTlkMjFhYzIzYTE1ZDY4Yjg2OGYxN2E1YTJjMGM3ZmY4NzBk",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -431,30 +431,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
         "url": "https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "HALLELUJAH LIVE",
+        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "VICTORIA ORENZE",
+          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
+        }
+      ],
+      "duration_ms": 511197,
+      "name": "Ebenezer - Live",
+      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -647,26 +651,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "HALLELUJAH LIVE",
-        "url": "https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "VICTORIA ORENZE",
-          "url": "https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w"
-        }
-      ],
-      "duration_ms": 511197,
-      "name": "Ebenezer - Live",
-      "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "You Do This One",
         "url": "https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 252013,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -763,22 +763,6 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Turbulent Skies",
-      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -847,6 +831,22 @@
       "duration_ms": 249443,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -957,24 +957,40 @@
       "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+        "name": "You Are Great",
+        "url": "https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
         }
       ],
-      "duration_ms": 504992,
-      "name": "Sing Hallelujah (with Natalie Grant) - Live",
-      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
+      "duration_ms": 183050,
+      "name": "You Are Great",
+      "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -995,6 +1011,26 @@
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 504992,
+      "name": "Sing Hallelujah (with Natalie Grant) - Live",
+      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1031,42 +1067,6 @@
       "duration_ms": 317146,
       "name": "Simple Matter",
       "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "You Are Great",
-        "url": "https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "You Are Great",
-      "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1119,6 +1119,26 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Emperor of the Universe",
+        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "duration_ms": 965565,
+      "name": "Emperor of the Universe",
+      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1197,42 +1217,6 @@
       "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
     },
     {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Emperor of the Universe",
-        "url": "https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
-        }
-      ],
-      "duration_ms": 965565,
-      "name": "Emperor of the Universe",
-      "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Just Like You've Always Done",
-        "url": "https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 212277,
-      "name": "Just Like You've Always Done",
-      "url": "https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Mercy",
@@ -1255,6 +1239,22 @@
       "duration_ms": 1005517,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Just Like You've Always Done",
+        "url": "https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 212277,
+      "name": "Just Like You've Always Done",
+      "url": "https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1429,6 +1429,30 @@
       "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
+      "added_at": "2024-01-26 00:01:00",
+      "album": {
+        "name": "Altar (Hosanna)",
+        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Altar (Hosanna)",
+      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Church (Live)",
@@ -1459,30 +1483,6 @@
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Altar (Hosanna)",
-        "url": "https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko"
-      },
-      "artists": [
-        {
-          "name": "Oba Reengy",
-          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Altar (Hosanna)",
-      "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
     },
     {
       "added_at": "2023-12-15 00:01:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 36791,
+  "2024-02-05": 36822,
   "date_first_scraped": "2023-06-30",
   "description": "With Bryson Tiller, Sonder, Summer Walker and more",
   "name": "PARTYNEXTDOOR Radio",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 209488,
       "name": "772 Love",
       "url": "https://open.spotify.com/track/230wNo1dnexltKYQbsW7oD"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 326813,
       "name": "And This is Just The Intro",
       "url": "https://open.spotify.com/track/4sMmYKC0ot3GTbl2RzHw7T"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 127142,
       "name": "Break You Off",
       "url": "https://open.spotify.com/track/3ijLtvQmoX17q1wTgU7SiI"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 287555,
       "name": "D.T.B. (Interlude)",
       "url": "https://open.spotify.com/track/6dKHEOxmG7I6SraR7QFT6e"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 163728,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 97826,
       "name": "EXCITED!",
       "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
@@ -2487,7 +2487,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
@@ -2799,7 +2799,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 187723,
       "name": "honda civic '98",
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
@@ -3187,7 +3187,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 232510,
       "name": "In Love",
       "url": "https://open.spotify.com/track/4Sp4AgLbWeqddzY7DNhJFv"
@@ -3575,7 +3575,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 150360,
       "name": "Language",
       "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
@@ -4085,7 +4085,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 291448,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
@@ -4103,7 +4103,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 144651,
       "name": "Low Down",
       "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
@@ -4619,7 +4619,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
@@ -4663,6 +4663,28 @@
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "No Sense",
+      "url": "https://open.spotify.com/track/5L9WFUodzACitS1TiGm7Mi"
     },
     {
       "album": {
@@ -4811,7 +4833,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 135959,
       "name": "On Me",
       "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
@@ -4989,7 +5011,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 240000,
       "name": "Ooh Nah Nah (feat. Masego)",
       "url": "https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ"
@@ -5349,7 +5371,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
@@ -5787,7 +5809,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 167466,
       "name": "Relax with Me",
       "url": "https://open.spotify.com/track/2aB3eXzbt6a5ueOV2zfciT"
@@ -5877,7 +5899,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 208000,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/3KJOUaUnv6jud8TqFnBcgc"
@@ -5947,7 +5969,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 382306,
       "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
       "url": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a"
@@ -6041,7 +6063,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 264242,
       "name": "Searchin",
       "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
@@ -6121,7 +6143,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 128026,
       "name": "Self Esteem - #1 HIT - Kisses for Me",
       "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
@@ -6197,7 +6219,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 175386,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
@@ -6313,7 +6335,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 198010,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7mWtOqfkOCbaldtK6TEoVd"
@@ -6411,6 +6433,24 @@
       "duration_ms": 179773,
       "name": "Some Way",
       "url": "https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186339,
+      "name": "SPLIT DECISION",
+      "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
     },
     {
       "album": {
@@ -7100,6 +7140,28 @@
     },
     {
       "album": {
+        "name": "Timeless (feat. DJ SPINKING) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/6lLll02a9Y0MajQG3JmJ2e"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Timeless (feat. DJ SPINKING)",
+      "url": "https://open.spotify.com/track/3enjnPRGLbayZ6mdvtcXS7"
+    },
+    {
+      "album": {
         "name": "TMW",
         "url": "https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY"
       },
@@ -7111,7 +7173,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 128919,
       "name": "TMW",
       "url": "https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax"
@@ -7309,7 +7371,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 170858,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP"
@@ -7425,7 +7487,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 196923,
       "name": "TWENTY NIGHTS",
       "url": "https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr"

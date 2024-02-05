@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: مصطفى الربيعي
 
-268 songs - 15 hr 36 min
+269 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Dam Rasak](https://open.spotify.com/track/7p9XzKJgRVoFSclb4rtirn) | [Hasan Al Hayel](https://open.spotify.com/artist/0kFt9AEb81FjfcZYySEIit) | [Dam Rasak](https://open.spotify.com/album/6UDXOrXiBPyd1nO0hi5BsV) | 3:01 | 2021-12-23 | 2022-03-04 |
 | [Daqeqa w 3am](https://open.spotify.com/track/1XTbPVrq3N4xmviSRKLr1P) | [Humam Ibrahim](https://open.spotify.com/artist/5G8jeOHN04AHRt5Ln3kbX4) | [Daqeqa w 3am](https://open.spotify.com/album/0Y545sQM8fPudYGBAzlmuj) | 3:14 | 2022-02-17 | 2022-07-20 |
 | [Darb El Sad](https://open.spotify.com/track/3hx65WepvPot9JCOS6v7dx) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Darb El Sad](https://open.spotify.com/album/2HxDgePGbP8ROQzJ2FibIw) | 2:42 | 2023-01-10 | 2023-06-27 |
-| [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 | 2023-05-05 |  |
+| [Echtaket Elak](https://open.spotify.com/track/3mYaMQ2mFOM7bj6g4e9fsz) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6tz1eTQ7Efa0i7oQLzSxF2) | 4:14 | 2024-01-02 |  |
+| [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 | 2023-05-05 | 2024-02-05 |
 | [Edaaily Ansak](https://open.spotify.com/track/0DpLsWfTP35x7Qyoxm1zNx) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Edaaily Ansak](https://open.spotify.com/album/75T5jMz1R3llv8P8SVXC9q) | 3:18 | 2022-07-19 | 2023-05-03 |
 | [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-02-11 | 2022-06-03 |
 | [Eish Hayatak](https://open.spotify.com/track/4hK51YeHEbVb5dsM27Gnqx) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Eish Hayatak](https://open.spotify.com/album/2f640PgnXmEFaTBzGOCk4Z) | 3:41 | 2023-06-26 |  |

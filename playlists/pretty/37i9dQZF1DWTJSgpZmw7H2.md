@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,000 likes - 472 songs - 1 day 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,947 likes - 472 songs - 1 day 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -481,4 +481,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 | 471 | [Verlaine](https://open.spotify.com/track/4JpqixxCcDjCQiEDnHuZuj) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 1:06 |
 | 472 | [Baudelaire](https://open.spotify.com/track/45gRfu45Bn6FX49CC3ATdH) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm) | [Speak and Read French, Part 3: French Literature](https://open.spotify.com/album/3mOTDKUTAomSRSKtS2cBhv) | 5:19 |
 
-Snapshot ID: `MCw2ZWRlY2MzOGZhNzNhZmI2MzlkYTU5M2JjNTUxOGFhNTkwODZhMDcw`
+Snapshot ID: `MCxlYzhlYTI3OWZmMDQ4OTJlNzI3NzM4YTJiN2NiNzI3OTQwMGY1MzUz`

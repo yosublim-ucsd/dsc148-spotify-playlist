@@ -4,7 +4,7 @@
 
 > La banda sonora para tus cenas en casa.
 
-213 songs - 13 hr 48 min
+214 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cake By The Ocean](https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Cake By The Ocean](https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI) | 3:43 | 2021-01-19 | 2022-11-13 |
 | [Call Me Irresponsible](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 | 2021-01-19 | 2022-11-13 |
 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 | 2023-05-11 | 2023-09-26 |
+| [Candela](https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt) | 5:29 | 2024-01-25 |  |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-01-19 |  |
 | [Carry Me Home](https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Project 11](https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot) | 4:42 | 2021-01-19 | 2022-11-13 |
 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 | 2021-01-19 |  |
@@ -67,7 +68,7 @@
 | [Everybody's Talkin' \- From "Midnight Cowboy"](https://open.spotify.com/track/7CAhxeaTYXn1qWNRkZl9ad) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Everybody's Talkin': The Very Best of Harry Nilsson](https://open.spotify.com/album/1tRXz3Sc9Er8uM6ZUHkiJj) | 2:44 | 2021-01-19 | 2022-07-28 |
 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-01-19 | 2022-07-29 |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-05-11 | 2024-01-26 |
-| [Far From Any Road](https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj) | 2:46 | 2024-01-25 |  |
+| [Far From Any Road](https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj) | 2:46 | 2024-01-25 | 2024-02-05 |
 | [Fever](https://open.spotify.com/track/6RjLQTIlyeVlnJLpijV4Vu) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Lo Mejor de la Lupe](https://open.spotify.com/album/0vyxKg0GhEOuDAuHgNuWJe) | 2:44 | 2021-01-19 | 2022-07-29 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2021-01-19 |  |
 | [First Time](https://open.spotify.com/track/4zwNvRu0Shp7F4OBbFruff) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [The Way](https://open.spotify.com/album/6kLRZzu2brIRW2nIHyy6z4) | 3:21 | 2021-01-19 | 2022-07-23 |

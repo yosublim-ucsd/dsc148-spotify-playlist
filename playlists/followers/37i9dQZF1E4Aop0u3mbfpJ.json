@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 212747,
+  "2024-02-05": 212852,
   "date_first_scraped": "2020-10-16",
   "description": "With Britney Spears, Katy Perry, Kesha and more",
   "name": "Lady Gaga Radio",
@@ -613,9 +613,9 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 285120,
-      "name": "A Thousand Years",
+      "name": "a thousand years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -9169,7 +9169,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -12947,7 +12947,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
@@ -19101,7 +19101,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 216333,
       "name": "LoveGame",
       "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
@@ -20379,7 +20379,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 170293,
       "name": "Money Honey",
       "url": "https://open.spotify.com/track/5ww65ORP2faNi9ygUjxwId"
@@ -20589,7 +20589,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
@@ -22323,7 +22323,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
@@ -23665,7 +23665,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
@@ -25797,7 +25797,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "ScheiBe",
       "url": "https://open.spotify.com/track/1RFXENx9ILC6PECmNhEstC"
@@ -26755,7 +26755,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT"
@@ -28415,7 +28415,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 193533,
       "name": "Stupid Love",
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
@@ -28891,7 +28891,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 216408,
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
@@ -28981,7 +28981,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
@@ -31063,7 +31063,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
@@ -34432,6 +34432,24 @@
     },
     {
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
         "name": "LM5 (Deluxe)",
         "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
       },
@@ -34975,7 +34993,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"

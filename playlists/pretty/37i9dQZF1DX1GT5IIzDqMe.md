@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,741 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,769 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
 | 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 
-Snapshot ID: `MCxiYjQ4ZjI2NGY5OGFkZDAxN2JjYTc3ZmNiZmM4NTE0NmI2MGFkNjJi`
+Snapshot ID: `MCwyYmNhNmZiNjMyNWNkMjlkNGUwMjEyZWRmZTJmNzExNTc5OTVjNzkx`

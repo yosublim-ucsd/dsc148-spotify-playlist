@@ -4,7 +4,7 @@
 
 > Enjoy 10 years of music from HATSUNE MIKU "Project DIVA" series/ 初音ミク"Project DIVA"シリーズをひとつのプレイリストに。 © SEGA / © Crypton Future Media, INC\. <a href="https://piapro.net/">www.piapro.net</a>
 
-181 songs - 12 hr 4 min
+182 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Starduster](https://open.spotify.com/track/5EFsxswJGYvcenuEa6a60r) | [jimmythumbP](https://open.spotify.com/artist/0SHnvufFixG9v3C7hRrW7U) | [EXIT TUNES PRESENTS Supernova](https://open.spotify.com/album/6nTMSjhV8XWnMKEBv9dycs) | 5:00 | 2021-05-26 | 2022-07-29 |
 | [StargazeR](https://open.spotify.com/track/2AJeqUXKxkJorjdAdiU15g) | [Kots Beirne](https://open.spotify.com/artist/0bBNxdKfD4SOpqZfiUt9Bm) | [No Image](https://open.spotify.com/album/6GQA7kq777VzJxKr4ezJqp) | 3:29 | 2021-05-26 | 2022-08-30 |
 | [Stay with me \-Orignal Length\-](https://open.spotify.com/track/3MK05deWAdteWiZfTBBW3B) | [shu\-t](https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4) | [Stay with me](https://open.spotify.com/album/7njeu43DT80m0i9cuWLb1P) | 4:02 | 2021-05-26 | 2022-07-10 |
-| [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 | 2021-05-26 |  |
+| [Streaming Heart](https://open.spotify.com/track/28DyuhrsEP2mBlAVSTJPBg) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Conti New](https://open.spotify.com/album/2oSy4DbxYUqDp4sie8LvFw) | 2:58 | 2021-05-26 | 2024-02-05 |
 | [Sweet Devil \- Eight Mix](https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:54 | 2021-05-26 |  |
 | [SYMPHONIC DIVE](https://open.spotify.com/track/4zyrALIyu51mUWgxkeAF88) | [Re:nG](https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L) | [NextOne \-KrnT edit\-](https://open.spotify.com/album/5RZPfYN7MYiOD6o8gcKqu1) | 4:35 | 2021-05-26 | 2022-07-28 |
 | [Tell Your World](https://open.spotify.com/track/6kBNaF6seD0JqFl4aBJ55e) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Tell Your World EP](https://open.spotify.com/album/5lReAmKNgxEHuESCWyY5S7) | 4:14 | 2021-05-26 |  |
@@ -132,6 +132,7 @@
 | [パズル \-MIKUNOPOLIS in LOS ANGELES Live\-](https://open.spotify.com/track/7vu1LxcTOFjkO4rhi2CBkg) | [kuwagataP](https://open.spotify.com/artist/2OkK7EMQv4u1Uo6yfYf1tj) | [MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”](https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y) | 1:41 | 2021-05-26 | 2022-07-27 |
 | [パラジクロロベンゼン](https://open.spotify.com/track/4wrFd2UDughQCsI4CMN9eQ) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ベンゼン\\\(^o^\)/](https://open.spotify.com/album/3ARyqgrYYrF5tcQU3i9HJZ) | 3:54 | 2021-05-26 |  |
 | [パラジクロロベンゼン](https://open.spotify.com/track/301Ji2sLSGNSVatuDqRFPH) | [ガルナ\(オワタP\)](https://open.spotify.com/artist/57viXASNaJr5242v2OUGCd) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:36 | 2021-05-26 |  |
+| [ヒバナ \-Reloaded\-](https://open.spotify.com/track/344GzvZCKY9maqNuDhj3MH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/7gxXuvmdsCaoM4Li1GR9gB) | 3:26 | 2021-05-26 |  |
 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 | 2021-05-26 | 2024-02-02 |
 | [ヒビカセ](https://open.spotify.com/track/0H1iMm1pO61srixV0rGYRe) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [No title\-](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) | 4:10 | 2021-05-26 |  |
 | [ピアノ×フォルテ×スキャンダル \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/6UFEn1vSVfMx9MUN8ccdj0) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:56 | 2021-05-26 |  |

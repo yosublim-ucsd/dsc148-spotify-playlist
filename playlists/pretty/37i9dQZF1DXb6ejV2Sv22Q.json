@@ -1,12 +1,12 @@
 {
   "description": "\u00bfXD...? \u00bfTe refieres a Magaly Ch\u00e1vez?",
-  "num_followers": 23976,
+  "num_followers": 24015,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmRiYmJmNDNiZjY5NzBkMzkyMzkyOTczNGM5YTM5ZDc2NzYzNTI0",
+  "snapshot_id": "MCw1MmUzMWYyNzhkNDkwNDliZWE1YTM3OTA3ZTliNzhjOTMxMTcwODQ5",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -279,6 +279,30 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Tipo Gatsby",
+      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Tipo Gatsby",
-      "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "TRANKY FUNKY",
         "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
       },
@@ -427,26 +447,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "SHADOW",
-        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
-      },
-      "artists": [
-        {
-          "name": "ONIMXRU",
-          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
-        },
-        {
-          "name": "SMITHMANE",
-          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "SHADOW",
-      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "SHADOW",
+        "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
+      },
+      "artists": [
+        {
+          "name": "ONIMXRU",
+          "url": "https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw"
+        },
+        {
+          "name": "SMITHMANE",
+          "url": "https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "SHADOW",
+      "url": "https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "EL RELOJITO",
+        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "EL RELOJITO",
+      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "classical phonk",
         "url": "https://open.spotify.com/album/0Ol07P6QUMgXjBlunBCFok"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 86160,
       "name": "classical phonk",
       "url": "https://open.spotify.com/track/7gl5qUaVpN6xOg4mkzGHSl"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "SUSTANCIAS EN MI CORAZON",
-        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "SUSTANCIAS EN MI CORAZON",
-      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -911,22 +911,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "EL RELOJITO",
-        "url": "https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h"
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 189027,
-      "name": "EL RELOJITO",
-      "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "added_at": "2024-02-02 06:00:00",

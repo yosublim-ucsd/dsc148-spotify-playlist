@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,730 likes - 100 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,681 likes - 100 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 46 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 |
 | 47 | [Look To Your Orb For The Warning](https://open.spotify.com/track/5WQLx09gJM4Dsf65C9hAhI) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS) | 6:32 |
 | 48 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 |
-| 49 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
-| 50 | [Stray Bullit Woman](https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw) | 3:05 |
+| 49 | [Stray Bullit Woman](https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Agents Of Ahriman](https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw) | 3:05 |
+| 50 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 |
 | 51 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 52 | [Febersvan](https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [GAUPA](https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC) | 7:27 |
 | 53 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 64 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
 | 65 | [Old Gods](https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM) | 6:00 |
 | 66 | [Echoes](https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG) | [Elephant Tree](https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm) | [Elephant Tree](https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt) | 6:07 |
-| 67 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
-| 68 | [The Dead Won't Sleep](https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3) | 4:42 |
+| 67 | [The Dead Won't Sleep](https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3) | 4:42 |
+| 68 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 |
 | 69 | [Tired Old Dog](https://open.spotify.com/track/7qRKONExTItyXpvgXh187M) | [The Devil and the Almighty Blues](https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ) | [The Devil and the Almighty Blues](https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw) | 6:27 |
 | 70 | [The Bottle](https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj) | [Hermano](https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy) | [Only a Suggestion](https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O) | 4:42 |
-| 71 | [Mississippi King](https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs) | 3:34 |
-| 72 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
+| 71 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 |
+| 72 | [Mississippi King](https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs) | 3:34 |
 | 73 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 |
 | 74 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
 | 75 | [Eyes Behind the Wall](https://open.spotify.com/track/2A7a5jIlIe84NZnhChHVsT) | [Orchid](https://open.spotify.com/artist/0ruvhGLVp5XtTLHeDRBSBH) | [Capricorn](https://open.spotify.com/album/7l23xxbhi7JDFKVfAMk5Vw) | 7:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 95 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
 | 96 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
 | 97 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
-| 98 | [Rooster Booster](https://open.spotify.com/track/5N0zJKmuSoOubO1Mxb2JzQ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/4V0gTWOnViR8fnttDSDnpu) | 4:26 |
-| 99 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
+| 98 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 |
+| 99 | [Rooster Booster](https://open.spotify.com/track/5N0zJKmuSoOubO1Mxb2JzQ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/4V0gTWOnViR8fnttDSDnpu) | 4:26 |
 | 100 | [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 |
 
-Snapshot ID: `MCw3YmQzZmMzNmY2ODQ1NzE3ZGRiNjI2NzgyYTBjMjIyNDZiYmU1NjAz`
+Snapshot ID: `MCxjZjA3MGQyZDA0MDYxZjU2ZDUxYWEzYzYwNGZhZjliZjM5YjE0ZjQy`

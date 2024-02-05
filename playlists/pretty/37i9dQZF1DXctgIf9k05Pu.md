@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,199 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,224 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 32 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 |
 | 33 | [lovesick](https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy) | [Strafend](https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF) | [lovesick](https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG) | 2:30 |
 | 34 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
-| 35 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
-| 36 | [I Just Want to Be the One You Love](https://open.spotify.com/track/14Piy75hBHDlrEDe6DyFKo) | [ibrk12](https://open.spotify.com/artist/6tAS2a4TtQOaLYgsS74y3x), [Lwov](https://open.spotify.com/artist/2F8Zi5vFQzxCjdi3NGJG16) | [I Just Want to Be the One You Love](https://open.spotify.com/album/0KOmsSXEsoSOvhxBpTQ1w9) | 2:01 |
+| 35 | [I Just Want to Be the One You Love](https://open.spotify.com/track/14Piy75hBHDlrEDe6DyFKo) | [ibrk12](https://open.spotify.com/artist/6tAS2a4TtQOaLYgsS74y3x), [Lwov](https://open.spotify.com/artist/2F8Zi5vFQzxCjdi3NGJG16) | [I Just Want to Be the One You Love](https://open.spotify.com/album/0KOmsSXEsoSOvhxBpTQ1w9) | 2:01 |
+| 36 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
 | 37 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 38 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
 | 39 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [To the Girl With Red Converse](https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/7h1W4dSDEbc1NUnK16MXhq) | 2:23 |
 | 50 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
 
-Snapshot ID: `MCxkMWFkMWQ4NzUwMjc2NzI2Y2I5MjQ1OTFmNmFhNDNlZWJlNjk2ZDFi`
+Snapshot ID: `MCwxOWIwYmM4MDk2NDBkZTUzNjAyYWIxNGZiODJkMzY4MDUyYTE0MThm`

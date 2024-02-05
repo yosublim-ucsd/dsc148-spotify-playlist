@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-250 songs - 13 hr 5 min
+251 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [ATTNTN](https://open.spotify.com/track/18EBejyRsQZGCdUGcXKqYj) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [ATTNTN](https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU) | 3:16 | 2022-12-16 | 2023-03-08 |
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-08-25 |  |
 | [Away](https://open.spotify.com/track/7KYlHeaju35sZ2hCyPATwd) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Away](https://open.spotify.com/album/5LSYEsjO78YbfwSTq04wYL) | 3:30 | 2023-10-24 |  |
-| [Baami](https://open.spotify.com/track/5f6qZm7RPpIYquG5v0Wr38) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [The Lord's Summer \(2023\)](https://open.spotify.com/album/36x0G0lnjjwFpWhdDIJV4K) | 2:27 | 2024-01-26 |  |
+| [Baami](https://open.spotify.com/track/5f6qZm7RPpIYquG5v0Wr38) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [The Lord's Summer \(2023\)](https://open.spotify.com/album/36x0G0lnjjwFpWhdDIJV4K) | 2:27 | 2024-01-26 | 2024-02-05 |
 | [Baba Mi](https://open.spotify.com/track/5K823Dh3DwBeP60vn0PYmn) | [Adeshola](https://open.spotify.com/artist/5z5CuuEP3epmqJsQsgruER), [Laura Ehio](https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn) | [Baba Mi](https://open.spotify.com/album/7pin5EpD8uZx8vsXR82A1f) | 3:01 | 2023-10-24 |  |
 | [Balance](https://open.spotify.com/track/3zBWaXjXVUqyk3CfH8k8OI) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Balance](https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09) | 3:35 | 2022-07-30 | 2024-01-13 |
 | [Banger](https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [Banger](https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV) | 3:54 | 2023-05-19 |  |
@@ -171,6 +171,7 @@
 | [Ocean](https://open.spotify.com/track/3vBlMC9hOso3fEEx6a7ehM) | [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Ocean](https://open.spotify.com/album/2zhTFff14LRMDmYPC3WVhi) | 2:45 | 2024-01-12 |  |
 | [Oh the day](https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Oh the day](https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc) | 2:37 | 2022-09-11 | 2024-01-13 |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2022-07-30 | 2024-01-13 |
+| [Omni Do Do Do](https://open.spotify.com/track/16nUdK2loffWAo1xIlgGQ3) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Omni Do Do Do](https://open.spotify.com/album/2gZ1DwzuZ8nko2Wp5s0of1) | 2:17 | 2024-02-02 |  |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-05-19 | 2024-01-13 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-30 | 2023-07-07 |
 | [On God](https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [On God](https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0) | 3:44 | 2022-07-30 | 2024-01-13 |

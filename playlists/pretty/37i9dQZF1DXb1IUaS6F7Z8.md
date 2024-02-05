@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,766 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,877 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 25 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
 | 26 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
 | 27 | [Shine On](https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ) | 4:35 |
-| 28 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
-| 29 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
+| 28 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
+| 29 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
 | 30 | [Paint the Town Red](https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Rise Again](https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9) | 3:24 |
 | 31 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 32 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
 | 50 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
 
-Snapshot ID: `MCw5YTY5MzE2YzdhYmIzOWNiNmVkNGZjMDVjYjA4ODIxZDIzOTA0NTM3`
+Snapshot ID: `MCxmMDA5ZjJlYTg5ZTJjN2U3OWRmNjcwMzRlMDZhOTk1ZjY1NmFiYTk5`

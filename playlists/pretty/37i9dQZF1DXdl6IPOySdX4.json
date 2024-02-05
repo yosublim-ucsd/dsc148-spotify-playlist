@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1668363,
+  "num_followers": 1669689,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWM4ZWRjZTE2MDI5Zjc4ZTkxNzVhZDQ3ZTc0YTVjZmZhNDFmMTI1",
+  "snapshot_id": "MCxjZjM5ZDFkNzhkZjQ1Y2UxMjE2ZjhlNGI2NmRjMTEzNjEwZjk5ODc3",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1103,18 +1103,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1151,26 +1159,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "A 20 Something Fuck",
+        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "I Feel Like I'm Drowning",
+      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "A 20 Something Fuck",
-        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "I Feel Like I'm Drowning",
-      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Euphories",
         "url": "https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
     },
     {
       "added_at": "2024-01-26 05:00:00",

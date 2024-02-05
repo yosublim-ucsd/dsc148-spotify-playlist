@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 9597,
+  "num_followers": 9629,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGJiOWVlM2MzYzZiNTNlMWE0YjgyOWYwMWM3NDBlMDE0MjUxZGNk",
+  "snapshot_id": "MCxlOTIwY2EzNTIwOGY3YTNiMjA0N2U0MWYwYjI2OTNhMDRmNmY3Zjdh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "Richer (feat. Polo G)",
-      "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Survival Of The Fittest",
         "url": "https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 272346,
       "name": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
       "url": "https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 190458,
+      "name": "Richer (feat. Polo G)",
+      "url": "https://open.spotify.com/track/0mehSdTadpXbHAWTrnrIXO"
     },
     {
       "added_at": "2022-10-01 16:09:56",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "BIG PURR (Prrdd)",
-        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 116760,
-      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "G.I.H.F.",
         "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 276239,
       "name": "Walk (feat. Lil Baby & 42 Dugg)",
       "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "BIG PURR (Prrdd)",
+        "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
     },
     {
       "added_at": "2022-10-01 16:09:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > natural wine vibes, because wine not? \| Photo: Stir Crazy LA
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,467 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,652 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 62 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 |
 | 63 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |
 | 64 | [Glasshouses](https://open.spotify.com/track/7isVqPzG3R5ni6IM4YG0sv) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 3:45 |
-| 65 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
-| 66 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
+| 65 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
+| 66 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
 | 67 | [Cruisin to the Park](https://open.spotify.com/track/3XITcXbaKS08ardf8ahKqM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Cruisin to the Park](https://open.spotify.com/album/1X0ZHwPLIpROo8arjBErDY) | 3:32 |
 | 68 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 69 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 91 | [Beltway](https://open.spotify.com/track/4q91GjZYQAZWICmRaOu04F) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 1:41 |
 | 92 | [Afeto](https://open.spotify.com/track/6Y9ajxGefBUK9pMbT0C8gv) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Manga](https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9) | 4:24 |
 | 93 | [Sacatela](https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Teatro Lúcido](https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI) | 2:52 |
-| 94 | [23](https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:06 |
-| 95 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 |
-| 96 | [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 |
+| 94 | [Best For You and Me](https://open.spotify.com/track/5ivI4ndsDzRgUpxfTlziPZ) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Best For You and Me](https://open.spotify.com/album/2d9jANKXcVUhKC3NKmqC6G) | 3:05 |
+| 95 | [23](https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:06 |
+| 96 | [drip bounce \_ 7\_24\_18](https://open.spotify.com/track/03nEmFDMGyVGYFhQHbxLpF) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/5l6ECRIbvkKPWdriaaAQe7) | 2:34 |
 | 97 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 |
 | 98 | [Drifting](https://open.spotify.com/track/7rcIHCRo0d6CZtpwC0cznD) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:31 |
 | 99 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 100 | [Shirim](https://open.spotify.com/track/1HBXXiiegRl0TpzgikBBTP) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 4:46 |
 
-Snapshot ID: `MCw0YjNhMjkxYTZjNzAwYThjNDkxOTQ4MjU5ZTVkZTNhODM1Y2EzMzM1`
+Snapshot ID: `MCwzNmNhYzMyNGM4YTgwZGNiZmM2NTJkNjkzOWM0OWQxNTIwNzdiMDQw`

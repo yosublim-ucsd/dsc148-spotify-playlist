@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 27493,
+  "num_followers": 27535,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWMxZDYyYTBhNTg0NzM5MjU3OGU1OWFjZDg5Mzc3Y2I0ZjIyNDc5",
+  "snapshot_id": "MCw0MTVhNDg3MGU5ZmE1MzYyNTE5NTI4NDM3ZjYxYTg4ZGM5MWIzMTUz",
   "tracks": [
     {
       "added_at": "2024-02-02 06:02:42",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
+        "name": "The Second Wave (Deluxe)",
+        "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY"
+    },
+    {
+      "added_at": "2024-02-02 06:02:42",
+      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "The Second Wave (Deluxe)",
-        "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY"
-    },
-    {
-      "added_at": "2024-02-02 06:02:42",
-      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
+        "name": "Avana",
+        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 137885,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
+      "duration_ms": 140339,
+      "name": "GoodSin",
+      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
     },
     {
       "added_at": "2024-02-02 06:02:42",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-02-02 06:02:42",
       "album": {
-        "name": "Avana",
-        "url": "https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC"
+        "name": "Away",
+        "url": "https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 140339,
-      "name": "GoodSin",
-      "url": "https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn"
+      "duration_ms": 137885,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx"
     },
     {
       "added_at": "2024-02-02 06:02:42",

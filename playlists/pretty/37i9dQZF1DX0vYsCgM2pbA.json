@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 133809,
+  "num_followers": 133998,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTg2NTU2Y2MzMGFmNzQ2NTk5Yjg1ZTQ3MzI2M2Q4YzJmMzhhODVm",
+  "snapshot_id": "MCxlNTg5MWNkODAxMzI4M2MzMzJhYzE4ZjMzMjdlNDNhNDZmMTk4OTI4",
   "tracks": [
     {
       "added_at": "2024-02-01 13:01:25",
@@ -247,18 +247,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -279,22 +283,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2024-02-01 13:01:25",

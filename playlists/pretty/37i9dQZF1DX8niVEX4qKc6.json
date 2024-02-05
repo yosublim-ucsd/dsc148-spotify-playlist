@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Mica Sotera",
-  "num_followers": 180332,
+  "num_followers": 180362,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMThjNzkxZGQ0NTYzNWUwZGRhZDJkMTJhOTBmZDRlNWY4ODE5NDY4",
+  "snapshot_id": "MCxkOGU5YTRlNjdiMjM2MDJiN2Q1YTVhNDA1YmI4NzZhZWJiYmEzZDM1",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 274586,
       "name": "Un Misil En Mi Placard - MTV Unplugged",
       "url": "https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Entre Canibales - MTV Unplugged",
+      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Entre Canibales - MTV Unplugged",
-      "url": "https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Cantora",
         "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 225773,
       "name": "Barro Tal Vez (with Luis Alberto Spinetta)",
       "url": "https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Laberintos Entre Aristas Y Dialectos",
         "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 273013,
       "name": "A Veces Vuelvo - Acustico",
       "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 186625,
       "name": "yen3",
       "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 412264,
-      "name": "Mujer Amante (versi\u00f3n ac\u00fastica)",
-      "url": "https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "No me pidas que no sea un inconsciente",
         "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 133859,
       "name": "No me pidas que no sea un inconsciente",
       "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Mujer Amante (versi\u00f3n ac\u00fastica)",
+      "url": "https://open.spotify.com/track/6D1Theo7lCIUYI8SPtwdN2"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 203805,
       "name": "Bajo el Sol",
       "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 266824,
-      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "added_at": "2024-02-02 03:00:00",

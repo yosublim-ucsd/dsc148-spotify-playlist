@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,320 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,402 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 24 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
 | 25 | [Gripa Colombiana](https://open.spotify.com/track/33Kxt0fCaltxIuIOzM7hfs) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:05 |
 | 26 | [Secuestro De Amor](https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Secuestro De Amor](https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV) | 3:42 |
-| 27 | [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 |
-| 28 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
-| 29 | [Fiesta En La Sierra](https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 4:02 |
+| 27 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
+| 28 | [Fiesta En La Sierra](https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 4:02 |
+| 29 | [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 |
 | 30 | [Suena La Banda](https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Perdoname Mi Amor](https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2) | 2:54 |
 | 31 | [La Captura III](https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time – Season Three "Comandante En Jefe"](https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb) | 2:53 |
 | 32 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 47 | [El Regreso Del Chapo](https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:11 |
 | 48 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 |
 | 49 | [La Troca](https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Fiesta En La Sierra](https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9) | 3:19 |
-| 50 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 |
-| 51 | [El Agricultor](https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Lista Negra](https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT) | 2:36 |
+| 50 | [El Agricultor](https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Lista Negra](https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT) | 2:36 |
+| 51 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAyODU5YjA5NjA5MmQ2YmFkY2JiM2RiZWIyYzM2ZjhiYg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAwODBmNDMyNmIyOTBjMGE4ZGVhZjk2NWZiYjQ5YmQxMg==`

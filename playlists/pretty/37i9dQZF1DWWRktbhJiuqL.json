@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common: pure rock & roll.",
-  "num_followers": 1567035,
+  "num_followers": 1566464,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI4MjJmNGZiZWNiNWQyOWIwZGQyNjRlMDc5ZmE4ODZmZjA4YTIw",
+  "snapshot_id": "MCxhNDRlOTgyYmUwNzQzNGQ0MjYzZjE4NzM5ZmExNzcxZTE0YjU1ZjQw",
   "tracks": [
     {
       "added_at": "2024-01-12 05:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Double Platinum",
-        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 235560,
       "name": "Only the Good Die Young",
       "url": "https://open.spotify.com/track/1xOXXYh6lTW8laxlW7JP2J"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Double Platinum",
+        "url": "https://open.spotify.com/album/6zYKTFZrrXc4dGKN6ua796"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/4Q9WS9ARvL7rkokSbnhM96"
     },
     {
       "added_at": "2024-01-12 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 669000,
+  "num_followers": 669029,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTdmOTRmMzQ2NzQzZjZkNGM5ZDRhZDYxMTdjMDVkZmNkZWVjYjZl",
+  "snapshot_id": "MCw2N2FiOTU3MzFiZmEyZTQwYTU5Zjg0MzhmNmI5NWI5NTM5N2YxOTg0",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+      "duration_ms": 238626,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 238626,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq"
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Under Pressure",
-        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
+        "name": "Social Distortion",
+        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Under Pressure",
-      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+      "duration_ms": 230773,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Social Distortion",
-        "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
       "artists": [
         {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 205146,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 199386,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Burn the Ships",
+        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
+      },
+      "artists": [
+        {
+          "name": "Blacktop Mojo",
+          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
+        }
+      ],
+      "duration_ms": 265476,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "Ballroom Blitz",
         "url": "https://open.spotify.com/album/10g6Q4dcrVDxhAWvFM6svb"
       },
@@ -2091,22 +2107,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
-      },
-      "artists": [
-        {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -2119,6 +2119,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -2171,22 +2187,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/3o8Cmmh3bULwiqQY2SqeOz"
-      },
-      "artists": [
-        {
-          "name": "Blacktop Mojo",
-          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
-        }
-      ],
-      "duration_ms": 265476,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/3zOlblZcFlt12XXAnS1ItD"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "The Masterplan (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 385293,
+      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
+      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "The Masterplan (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 385293,
-      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
-      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "One Step Closer \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "One Step Closer \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 263693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "One Step Closer \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "One Step Closer \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
     },
     {
       "added_at": "2024-02-02 05:01:00",

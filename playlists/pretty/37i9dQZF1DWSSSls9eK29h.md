@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,330 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,411 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 43 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 44 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 45 | [Pamela](https://open.spotify.com/track/5SCZ6ciVRjDMXn7trnq3Np) | [Brian Hughes](https://open.spotify.com/artist/3mTVKCxS5jHVIh7zSggSZb) | [Straight To You](https://open.spotify.com/album/3op9EBV5dm6aicJFlTCAP9) | 5:16 |
-| 46 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
-| 47 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
+| 46 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
+| 47 | [Just Hold Me](https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [Intimacy](https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK) | 4:16 |
 | 48 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
 | 49 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
 | 50 | [For The Love Of You](https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For The Love Of You](https://open.spotify.com/album/78YHzWODYDS9ak6GPXiyX7) | 5:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
 | 60 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
 
-Snapshot ID: `MCxlMmNiYjMwNTJiZTMyZTcwYmNlZjUzYWQwZjc2ZGYwZWIyZWM3M2M3`
+Snapshot ID: `MCwyMTBhMWNjZmM4ZTlmMWNjMzY3ZTQ5Yjc0NDBlNzczODkxZjUwNTdk`

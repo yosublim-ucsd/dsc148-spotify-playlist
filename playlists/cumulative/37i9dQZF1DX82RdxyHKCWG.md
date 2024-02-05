@@ -4,7 +4,7 @@
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Lil Nas X
 
-884 songs - 1 day 21 hr 45 min
+885 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 | 2023-04-04 | 2023-04-09 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-20 | 2023-05-27 |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2023-12-01 | 2023-12-09 |
-| [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-11-10 |  |
+| [All The Boys](https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [All The Boys](https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i) | 2:31 | 2023-11-10 | 2024-02-05 |
 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-11-03 | 2023-11-25 |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-04-21 | 2023-06-17 |
 | [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 | 2023-06-02 | 2023-08-05 |
@@ -672,6 +672,7 @@
 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 | 2023-04-28 | 2023-06-24 |
 | [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 | 2022-08-26 | 2022-09-10 |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-01-26 |  |
+| [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-02 |  |
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 | 2022-12-10 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-10 | 2023-05-06 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-17 | 2023-05-11 |

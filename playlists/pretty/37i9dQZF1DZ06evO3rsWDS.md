@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,435 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 12 | [NI MUERTA](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 |
 | 13 | [Horas Extras](https://open.spotify.com/track/1bGuvf2hlATjmaZyOnC5KI) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:56 |
 | 14 | [Completamente](https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:01 |
-| 15 | [LA QUE MANDA](https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:38 |
-| 16 | [Entre Besos Y Copas](https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:10 |
+| 15 | [Entre Besos Y Copas](https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:10 |
+| 16 | [LA QUE MANDA](https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:38 |
 | 17 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7) | 3:39 |
 | 18 | [Vas a Volver](https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:03 |
-| 19 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
-| 20 | [A Lo Menso](https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:03 |
+| 19 | [A Lo Menso](https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:03 |
+| 20 | [PALOMA BLANCA](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
 | 21 | [Las Destrampadas](https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Ely Quintero](https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:21 |
 | 22 | [Entre Botellas](https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:26 |
-| 23 | [Este Corazón](https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Este Corazón](https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn) | 3:07 |
-| 24 | [El Honor](https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:45 |
+| 23 | [El Honor](https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:45 |
+| 24 | [Este Corazón](https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Este Corazón](https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn) | 3:07 |
 | 25 | [Esa No Soy Yo](https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:49 |
 | 26 | [Cuanto Te Debo](https://open.spotify.com/track/2bm3WtYeZKkr2bPp2i9goV) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:33 |
 | 27 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 38 | [Amandote \- Mariachi](https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Amandote \(Mariachi\)](https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6) | 3:01 |
 | 39 | [Con La Misma Bala](https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:38 |
 | 40 | [Chuper Amigos \- En Vivo](https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:26 |
-| 41 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
-| 42 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 |
+| 41 | [Me Mocho Un Huevo](https://open.spotify.com/track/5ouwNpBJ9mhWPr5zJRDA4U) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Puedo](https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs) | 2:16 |
+| 42 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
 | 43 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
 | 44 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:39 |
 | 45 | [La Necia](https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [La Necia](https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 |
 | 50 | [Aprovechame](https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 2:36 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjMzM0Njg0Y2JmZjNjNmE4ZDBiYzU4NmMxNjEwYjIxNA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAyNDA1YjA0Mjg3ZTI5YjY3YjlkOTg1ZGYwYTk1ZGUwOQ==`

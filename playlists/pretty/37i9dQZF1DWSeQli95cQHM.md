@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,954 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,959 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 21 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 22 | [SINA](https://open.spotify.com/track/2jC1cPEjIui4v96OfqbvIi) | [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [TRAVESSIA](https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI) | 3:27 |
 | 23 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
-| 24 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
-| 25 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
+| 24 | [Geleia de Morango](https://open.spotify.com/track/7IwOA3TwfKMahyCvYGAujI) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Geleia de Morango](https://open.spotify.com/album/2ELCWydR1EfR4GkBJmpFjD) | 5:49 |
+| 25 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
 | 26 | [Sarrafando Em Você](https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD) | [Guillerrrmo](https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy) | [Movimento Paralelo, Vol.1](https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76) | 4:08 |
 | 27 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
 | 28 | [Shibuya](https://open.spotify.com/track/37a26nmggsuaojxP7TauTH) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
 | 50 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
 
-Snapshot ID: `MCw3ZDcxNTU2YmE3ZjNiMGQ3YjllMTIyMGE3ZDE5ZWI5YWI3M2YwNmYx`
+Snapshot ID: `MCwwNDJhMDNiMjM3N2QzOWJmMjM4ODZiYmJmODA2NTZlNGRmOWVjOGFl`

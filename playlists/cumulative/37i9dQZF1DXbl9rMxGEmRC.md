@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-586 songs - 2 day 2 hr 1 min
+587 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bruja Encabronada](https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Bruja Encabronada](https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj) | 2:47 | 2023-08-18 | 2023-11-18 |
 | [Brutalist Imperator](https://open.spotify.com/track/0ojJNiUQs8Uo95M91xHqvv) | [Nightmarer](https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx) | [Brutalist Imperator](https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1) | 3:46 | 2023-05-05 | 2023-06-17 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2021-12-17 | 2022-01-22 |
+| [Burn the Witch](https://open.spotify.com/track/1631eFUUrckESwiz8pZ7dx) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/7qniqK77zTRFsQqW9cXbmb) | [Burn the Witch](https://open.spotify.com/album/2ZRJrI8NxWzljtlpj2805m) | 4:47 | 2024-01-26 |  |
 | [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 | 2023-11-11 |
 | [Calendula](https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw) | [Elcrost](https://open.spotify.com/artist/6QA513IBQrcc4PXZWwri64) | [Calendula](https://open.spotify.com/album/3kZc7YfVWkEf1WwD5K5M6g) | 5:24 | 2021-12-17 | 2022-04-09 |
 | [Call from the Grave](https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Under the Sign of the Black Mark](https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN) | 4:54 | 2022-07-13 | 2023-07-04 |
@@ -454,7 +455,7 @@
 | [Slaves](https://open.spotify.com/track/4US8QCvhkPnO1D8pTznkom) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Massive Cauldron of Chaos](https://open.spotify.com/album/5KkMZp4jYbFgwwe8S9w13f) | 4:53 | 2022-07-13 | 2022-07-25 |
 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 | 2021-12-17 | 2022-05-28 |
 | [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 4:13 | 2022-03-18 | 2022-04-23 |
-| [Soma Yoni](https://open.spotify.com/track/3PI2WNqbrfXLwTMY0hwhyG) | [Mephorash](https://open.spotify.com/artist/0yrVm0KM8VE0zlcfS1PUhF) | [Krystl\-Ah](https://open.spotify.com/album/22jMcAVshGzrlGCGIStO2U) | 8:44 | 2023-11-17 |  |
+| [Soma Yoni](https://open.spotify.com/track/3PI2WNqbrfXLwTMY0hwhyG) | [Mephorash](https://open.spotify.com/artist/0yrVm0KM8VE0zlcfS1PUhF) | [Krystl\-Ah](https://open.spotify.com/album/22jMcAVshGzrlGCGIStO2U) | 8:44 | 2023-11-17 | 2024-02-05 |
 | [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-01 |  |
 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 | 2021-12-17 | 2022-07-29 |
 | [Sovereign](https://open.spotify.com/track/38VAbDSyhAgdBgFuTb7U0U) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 6:14 | 2022-06-10 |  |

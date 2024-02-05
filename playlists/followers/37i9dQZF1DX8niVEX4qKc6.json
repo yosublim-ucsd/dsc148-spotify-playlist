@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 180332,
+  "2024-02-05": 180362,
   "date_first_scraped": "2023-08-25",
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Mica Sotera",
   "name": "Modo Ac\u00fastico",
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
@@ -1287,6 +1287,28 @@
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "album": {

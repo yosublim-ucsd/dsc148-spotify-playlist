@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-224 songs - 12 hr 48 min
+225 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 | 2023-02-05 |
 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2022-10-24 | 2022-11-23 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-07-25 |  |
-| [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-10-31 |  |
+| [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2022-10-31 | 2024-02-05 |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2022-07-25 |  |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2022-07-25 | 2023-01-28 |
 | [Catholic Country](https://open.spotify.com/track/6RJq7ki5vvDnLfn8E6EJVV) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:01 | 2023-02-06 |  |
@@ -66,6 +66,7 @@
 | [Falling](https://open.spotify.com/track/2yFFlbkXCwleC7hwqmME3W) | [The Freed](https://open.spotify.com/artist/0IEadG1HNClLAizmQJ94yD) | [Falling](https://open.spotify.com/album/3KjabsyJLHQqQ1WhgITIQV) | 3:41 | 2022-05-30 | 2022-07-29 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-07-25 |  |
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2023-03-06 |  |
+| [Fine Day](https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Fine Day](https://open.spotify.com/album/3v7AHXJAJeYIfCibPT12fZ) | 3:03 | 2024-02-05 |  |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2022-08-08 |  |
 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2023-07-31 | 2023-08-13 |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-25 | 2022-08-09 |

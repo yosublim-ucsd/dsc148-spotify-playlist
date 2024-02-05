@@ -4,12 +4,12 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-85 songs - 7 hr 23 min
+86 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abba Padre \(En Vivo\)](https://open.spotify.com/track/6ICi7NpKmDPhe1PLEPC2t3) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:51 | 2022-09-14 |  |
-| [Abre los Cielos](https://open.spotify.com/track/0V6OZi6A5UuMHnNhORBIAo) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:06 | 2024-01-29 |  |
+| [Abre los Cielos](https://open.spotify.com/track/0V6OZi6A5UuMHnNhORBIAo) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:06 | 2024-01-29 | 2024-02-05 |
 | [Amamos Tu Presencia](https://open.spotify.com/track/0WQIkqhtJBYnHBE3xMg9M7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 11:15 | 2022-09-14 | 2022-11-19 |
 | [Asombrado Estoy De Tí](https://open.spotify.com/track/3wj8VGnWpF7OrvrCxcNuwO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-09-14 | 2022-10-13 |
 | [Asombroso](https://open.spotify.com/track/5rvNR35Xfw420TTfpOEOuW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 9:55 | 2022-10-06 | 2022-10-08 |
@@ -42,6 +42,7 @@
 | [GOZO](https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [GOZO](https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj) | 3:57 | 2022-09-14 |  |
 | [Grande Y Fuerte](https://open.spotify.com/track/03sCmgb8PsB4vOH1jrkCGS) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 3:20 | 2022-09-14 | 2022-10-15 |
 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 | 2022-09-14 |  |
+| [Grande Y Fuerte](https://open.spotify.com/track/2YJ8AzNQjkEnX1TH33E46g) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Dios Es Real](https://open.spotify.com/album/5nEf1gMQ9Vc9r1AczrRR1A) | 4:11 | 2024-02-04 |  |
 | [Hay Libertad](https://open.spotify.com/track/1xnB5yt12jxLQgvebvPfVd) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 1:38 | 2022-12-03 |  |
 | [Holy Forever \- Español](https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Holy Forever \(Español\)](https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl) | 5:17 | 2023-09-21 |  |
 | [Impresionante](https://open.spotify.com/track/0z9vOkxQ0tRxGroYHGOc5b) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Impresionante](https://open.spotify.com/album/1sATIq5oVhLxAsV2wW7Xo2) | 5:36 | 2022-09-14 |  |

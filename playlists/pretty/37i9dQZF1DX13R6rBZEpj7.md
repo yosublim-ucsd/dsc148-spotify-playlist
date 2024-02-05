@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,600 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,649 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 51 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
 | 52 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 |
 | 53 | [Turn It Up](https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk) | 3:01 |
-| 54 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 |
-| 55 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
+| 54 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
+| 55 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 |
 | 56 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 57 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 |
 | 58 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 67 | [Solid Ground](https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be) | 4:01 |
 | 68 | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/track/3kSxlCHp8Fsw9qYR0fI0lh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY), [Prima](https://open.spotify.com/artist/48mKSP3Udy0jlAXG7uv3lX) | [Don't Let Me Down \(feat\. Prima\)](https://open.spotify.com/album/5dHxGwSxntnWNRQlDXMARR) | 3:28 |
-| 69 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
-| 70 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
+| 69 | [Never](https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn) | 3:26 |
+| 70 | [Redlight](https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Liberation](https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW) | 4:09 |
 
-Snapshot ID: `MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz`
+Snapshot ID: `MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy`

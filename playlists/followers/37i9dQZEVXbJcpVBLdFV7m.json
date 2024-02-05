@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 6892,
+  "2024-02-05": 6891,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -253,7 +253,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 133755,
       "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
@@ -707,6 +707,24 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
       "album": {
@@ -803,7 +821,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 236928,
       "name": "OBOROTI - Remix",
       "url": "https://open.spotify.com/track/3yFZYGXF2Ta6DgaP6kaV28"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 289227,
       "name": "Sabry Aalil",
       "url": "https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"

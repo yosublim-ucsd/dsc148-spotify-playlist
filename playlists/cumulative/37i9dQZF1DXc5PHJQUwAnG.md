@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-226 songs - 10 hr 35 min
+227 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Solo Mírate](https://open.spotify.com/track/6QAT6D16VmI84LUwPOI86K) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Solo Mírate](https://open.spotify.com/album/16HaReMEF1TAMRpy7mPsWO) | 2:00 | 2023-06-23 |  |
 | [Steak](https://open.spotify.com/track/0J0Hci2kFZEZjEKZ7Z17zv) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Steak](https://open.spotify.com/album/561BRGezvIkWghm2xh6Iym) | 1:58 | 2023-06-09 |  |
 | [Tay](https://open.spotify.com/track/4tmdfH3f6KVx6I6LHkCgqg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:47 | 2023-06-09 | 2023-07-15 |
-| [Tesla](https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kacha](https://open.spotify.com/artist/3AsYAOJY7ZcWPGoBbEJWAj) | [Tesla](https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH) | 3:02 | 2024-01-12 |  |
+| [Tesla](https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kacha](https://open.spotify.com/artist/3AsYAOJY7ZcWPGoBbEJWAj) | [Tesla](https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH) | 3:02 | 2024-01-12 | 2024-02-05 |
+| [Tesla](https://open.spotify.com/track/3S4zdBo7Vf8RHsYCgfMceY) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [Tesla](https://open.spotify.com/album/6GMnDpdnoQIovasah5i6n7) | 3:02 | 2024-01-26 |  |
 | [The Void](https://open.spotify.com/track/4t1mpclfongugykpiKTA32) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [The Void](https://open.spotify.com/album/78gVlIQvZpo5DwKSNRXgmj) | 2:52 | 2023-06-09 |  |
 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 | 2023-06-09 | 2023-07-01 |
 | [Tirando Flow Sesh \#10](https://open.spotify.com/track/6WmCmQuse2SjjSVab5EHxg) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Tirando Flow Sesh \#10](https://open.spotify.com/album/5znfD7f3uRb1UMbrMDV3OQ) | 1:33 | 2023-06-09 |  |

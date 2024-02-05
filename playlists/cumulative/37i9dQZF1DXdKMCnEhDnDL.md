@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Hannah Mae
 
-195 songs - 10 hr 0 min
+196 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2023-02-24 |  |
 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 | 2023-09-14 |  |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-24 |  |
-| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-05-15 |  |
+| [Layla](https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R) | [Artidox](https://open.spotify.com/artist/4WWh35kZbEtVmBQRT3khnE), [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7), [keremrxd](https://open.spotify.com/artist/7wsx4sDyMTp2HyXw50iJGV) | [Layla](https://open.spotify.com/album/53xBYPf2oUgNsOlw56PdqZ) | 2:45 | 2024-02-02 |  |
+| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-05-15 | 2024-02-05 |
 | [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-10 | 2023-11-18 |
 | [Layla](https://open.spotify.com/track/5IYrw3MenTovSfbgewbpgt) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Layla](https://open.spotify.com/album/7rP263q8KPQ0sxQLd8mGth) | 2:43 | 2023-11-13 | 2023-12-11 |
 | [Layla](https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt), [Erenzy](https://open.spotify.com/artist/3AP6MCvLF9oYJWYfBubRYH), [SELMAN ALTUNBAŞ](https://open.spotify.com/artist/6cN5reMOX748NGhI2KVO9h) | [Layla](https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX) | 2:43 | 2023-09-28 | 2023-10-13 |

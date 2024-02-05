@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Just good vibes all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,265,789 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,265,510 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 81 | [edamame](https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [eat ya veggies](https://open.spotify.com/album/5uAILcUFqdFsH5K3Cip47a) | 2:13 |
 | 82 | [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 |
 
-Snapshot ID: `MCw5ZGVlZjIyZDUzM2I5OTcyZDU4ZWYwYjk2YjA3YTJhMWU4YWU3MDc1`
+Snapshot ID: `MCw0OWQyMzVkODU1NGJiZGIzYjlmZmU1OWRhNDRhZjE4Mjc1YTZmMThh`

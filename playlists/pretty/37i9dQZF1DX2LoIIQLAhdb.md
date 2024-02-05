@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,758 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,781 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [On sait jamais](https://open.spotify.com/track/3KJ09hhKE2fLIxcoLS4sAD) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [On sait jamais](https://open.spotify.com/album/6s5BcLYgORt6uvUbSVb7mL) | 2:48 |
 | 40 | [Mama](https://open.spotify.com/track/3mBj1U1FgqYSPFjiOw3MTO) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Mama](https://open.spotify.com/album/7sWLVrQIi4JujdLhuNmdXB) | 2:26 |
 
-Snapshot ID: `MCxkOWZjZWJhMzcyM2ZhZTVkYjc5MjNiZmZhMGZhZGRjMGI1NDQ4M2Rh`
+Snapshot ID: `MCw3YWRiMDdmM2Y1ZWQ2MGNkMWUxNGQzOWFiZmU4N2JlYzAwMWM2YThi`

@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 196729,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
@@ -3748,6 +3748,28 @@
       "duration_ms": 135562,
       "name": "Todas as Cidades",
       "url": "https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9"
+    },
+    {
+      "album": {
+        "name": "Tudo Come\u00e7ou",
+        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        },
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145953,
+      "name": "Tudo Come\u00e7ou",
+      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     },
     {
       "album": {

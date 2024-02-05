@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,225 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,289 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 28 | [I Might Be Wrong](https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:53 |
 | 29 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
 | 30 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
-| 31 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
-| 32 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
+| 31 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [A Little Less Conversation: Elvis vs JXL](https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1) | 3:31 |
+| 32 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
 | 33 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
 | 34 | [Windowlicker](https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/59wyQv8zUfLulyPYefI8vh) | 6:05 |
 | 35 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 |
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 74 | [Toxygene \- 7" Edit](https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 3:31 |
 | 75 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
 | 76 | [We Have Explosive](https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 6:19 |
-| 77 | [High Noon](https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 3:59 |
-| 78 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
+| 77 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
+| 78 | [High Noon](https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 3:59 |
 | 79 | [Children](https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [90 Discomania](https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m) | 7:33 |
 | 80 | [Beauty Never Fades \(feat\. Saffron\)](https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN), [Saffron](https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe) | [Radio JXL \- A Broadcast From The Computerhell Cabin](https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy) | 3:48 |
 | 81 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
-| 82 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
-| 83 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
+| 82 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
+| 83 | [Blueski \- Remastered](https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Second Toughest In The Infants \(Remastered\)](https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI) | 3:03 |
 | 84 | [My Kingdom](https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 5:47 |
-| 85 | [Gabriel](https://open.spotify.com/track/28BOzceMLCsn1AwusNQ55z) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Abc Music \- The Radio 1 Sessions](https://open.spotify.com/album/2HQ7mb0QI0PCgj4ci7LEeZ) | 4:20 |
-| 86 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
+| 85 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
+| 86 | [Gabriel](https://open.spotify.com/track/28BOzceMLCsn1AwusNQ55z) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Abc Music \- The Radio 1 Sessions](https://open.spotify.com/album/2HQ7mb0QI0PCgj4ci7LEeZ) | 4:20 |
 | 87 | [Battleflag](https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7) | [Lo Fidelity Allstars](https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs) | [Battleflag](https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj) | 5:41 |
 | 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MCxlYzRhNjdmOTQxMjQwMmQzZGUwMjE4OGFmNDllODNkMDU4NjMwZWEx`
+Snapshot ID: `MCwzZjY4ZWEyZjM2YTZjMWM2ZTNmOTBiZTFhOTA2ZDFhMWM3YjQ0NjA3`

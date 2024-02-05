@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 165133,
+  "num_followers": 165157,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQ0ZjVkN2Q2NTEzNjcwZjRkM2U2ZWU1NWIzNjg0N2U3ZjBhMGNk",
+  "snapshot_id": "MCw1MDdlYjY1OGJhN2ViYzI2ZTU5OTIxODVmYzFlZTVmZDMyZjg2NDJl",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
-        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "WALKING ON WATER",
-      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 219558,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7E081VjB8ih6c6AElqlQiN"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
+        "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "WALKING ON WATER",
+      "url": "https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf"
     }
   ],
   "unique_name": "Hold Hope",

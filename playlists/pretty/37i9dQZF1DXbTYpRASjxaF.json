@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Iza Sabino, Laura Sette",
-  "num_followers": 128289,
+  "num_followers": 128292,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDkwNTRkOTIyZjA5ZDk2NTI2ZTE3NmYwYzQ4NzAyMGNiMDEzODNi",
+  "snapshot_id": "MCxiN2M2ZTc3YmM0N2FkNTIxMGQ0YmJjNjc1MGJkYWJiZTgzN2U3N2Ux",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -783,30 +783,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "\u00c9 Quem?",
-        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 170647,
-      "name": "N\u00fameros da Sorte",
-      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Na Minha Blunt",
         "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 170322,
       "name": "Na Minha Blunt",
       "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "\u00c9 Quem?",
+        "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 170647,
+      "name": "N\u00fameros da Sorte",
+      "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
     },
     {
       "added_at": "2024-02-02 03:01:00",

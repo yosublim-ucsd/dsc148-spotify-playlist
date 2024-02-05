@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,646 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,656 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [I Tried A Ring On](https://open.spotify.com/track/6ouFl8UDdMc9zuzmzvmh7v) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Tried A Ring On](https://open.spotify.com/album/6R8KPrq6T7SpQFvJoEOlKI) | 3:31 |
 | 23 | [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 |
 | 24 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 |
-| 25 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
-| 26 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
+| 25 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
+| 26 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
 | 27 | [You’re My Texas](https://open.spotify.com/track/6SaffSEZJMBX31dd3wLugm) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [You're My Texas](https://open.spotify.com/album/7sk2FcYfRPMEof4Ytknom5) | 3:19 |
 | 28 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 | 29 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [Polly Pocket](https://open.spotify.com/track/7uwYghkyYw9nGJPa39ruX7) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [LIVE, RAFF, LOVE \(Act II\)](https://open.spotify.com/album/1DuQMGJEdkhILvziIoJfai) | 2:15 |
 | 40 | [I've Changed a Lot](https://open.spotify.com/track/24nOWJI4FCRuAtMSGcDQxU) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I've Changed a Lot](https://open.spotify.com/album/1mnDUOBwlCuibZOhb6lfs2) | 2:46 |
 
-Snapshot ID: `MCw4OTQ5YzRlMjZlNmNiYjhkOTUwYjMxNWJmMWU2OGZiYTJiNzliMjU2`
+Snapshot ID: `MCwwZTEyMWE5ZDM0ZWYyNzc5ZTFmNTM5ODYyNDYzZjE3ZTYyZDZkM2Yx`

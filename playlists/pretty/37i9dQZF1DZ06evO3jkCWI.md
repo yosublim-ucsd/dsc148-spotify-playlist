@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,414 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,461 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 32 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
 | 33 | [Distancia Maldita](https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:06 |
 | 34 | [Mi Flor De Naranjo](https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 2:31 |
-| 35 | [El Amor De Nosotros](https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Flor De Naranjo](https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3) | 2:30 |
-| 36 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 |
+| 35 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 |
+| 36 | [El Amor De Nosotros](https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Flor De Naranjo](https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3) | 2:30 |
 | 37 | [Es Demasiado Tarde](https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:01 |
-| 38 | [No Lloraré](https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 2:54 |
-| 39 | [La Costumbre](https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 2:33 |
+| 38 | [La Costumbre](https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 2:33 |
+| 39 | [No Lloraré](https://open.spotify.com/track/6OYSCpemGHXqiip743GGAr) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 2:54 |
 | 40 | [La Vieja Banca](https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:38 |
 | 41 | [Gracias Porque Volviste](https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:09 |
 | 42 | [Lucio Peña](https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 50 | [La Viviana](https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Aferrado Al Amor](https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV) | 3:28 |
 | 51 | [El Preso De Nuevo León](https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:04 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBiOTUyNDk3ZTgwMjJhZDhmN2QzODEyMTE1MWRhOWYxOA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBjMTY3ODg4ZjZhN2I5MzBkZmJhOGY4MzIwOGRlN2YwNA==`

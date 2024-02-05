@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Tyga
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,308 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,958 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 79 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 | 80 | [booted](https://open.spotify.com/track/74RmSldi1mEwYY6mnHBHk6) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [booted](https://open.spotify.com/album/3k6sGgGBxqBV1THjRKgBtD) | 2:18 |
 
-Snapshot ID: `MCw1MGYxNWIxMDdhMjJjOGIxYmVjNTUzZjQ0NWU3MGU5NGFjYTZlNGYz`
+Snapshot ID: `MCxiM2U1YzdiNjBhYTljMWQ2NjlhMzZiMjA5MTcxYWE3ZTI4Njg4MWYw`

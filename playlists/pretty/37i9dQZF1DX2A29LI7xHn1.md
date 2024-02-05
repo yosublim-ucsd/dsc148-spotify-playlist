@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: 4batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,025,224 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,024,466 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 99 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq) | 3:08 |
 | 100 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 
-Snapshot ID: `MCw4OGE5YmZkMDViZWY3ZTBhYjg4OWUyMGY3YjgyNDA1YWZkZThmOTVj`
+Snapshot ID: `MCwwMDMxMWNlYTIwMTcyMWU1NTQ0NzgyZWRjNTdkNTQ3YTRmOGUyYjY1`

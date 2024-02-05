@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-212 songs - 12 hr 22 min
+213 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 | 2020-04-17 |  |
 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 | 2020-04-17 |  |
 | [What Matters \(feat\. Mali Music\)](https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:47 | 2024-02-03 |  |
-| [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 | 2023-01-31 |  |
+| [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 | 2023-01-31 | 2024-02-05 |
 | [When It Hurts](https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Lightmuzik](https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [CC](https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG) | 1:58 | 2023-01-31 |  |
 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 | 2024-02-03 |  |
 | [With Every Act Of Love](https://open.spotify.com/track/3hSzCNU37Yfauxrdup4sxi) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Love Will Have The Final Word](https://open.spotify.com/album/0Caxc2aix73gGj6J0cbCjC) | 3:36 | 2020-04-17 | 2022-07-29 |
@@ -210,6 +210,7 @@
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2020-04-17 | 2022-07-29 |
 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2023-01-31 |  |
 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 | 2024-02-03 |  |
+| [You Got It](https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [You Got It](https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF) | 3:00 | 2024-02-03 |  |
 | [You Love Me So](https://open.spotify.com/track/1BUiLQrjKCztLzPh2xuktu) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 2:25 | 2024-02-03 |  |
 | [You're Beautiful](https://open.spotify.com/track/0hjwwsqVDoPuXZyl4wznBE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/7a72IwLQwp6Wleo6kANv7J) | 4:53 | 2020-04-17 | 2022-07-29 |
 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 | 2020-04-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Geisha, Nadhif Basalamah serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,283,283 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,574 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 4 | [Tapi Tahukah Kamu?](https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG) | [Dygta](https://open.spotify.com/artist/0LivMD6P6pi2yfZf1rIAat), [Kamasean](https://open.spotify.com/artist/2CnDUzCYPBjERuVMFQm8zX) | [Tapi Tahukah Kamu?](https://open.spotify.com/album/2MMTMsyPfgyDewVRuYY9TH) | 4:11 |
 | 5 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 |
 | 6 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 |
-| 7 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
+| 7 | [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 |
 | 8 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 9 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 10 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 49 | [A Thousand Years](https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Thousand Years](https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi) | 4:14 |
 | 50 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 
-Snapshot ID: `MCxiMjEzNjk1NTkyY2JjNzk5M2FhY2RhZWE5YWIwMjUxYTZjYTBmOWEw`
+Snapshot ID: `MCxmYzA0M2Y1MWJkZWMxNGJiOWRiOWNkYjgzYmM2YThlMDIxZmE4ZTVm`

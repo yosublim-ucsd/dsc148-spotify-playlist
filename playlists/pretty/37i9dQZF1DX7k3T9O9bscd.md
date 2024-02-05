@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,756 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,882 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 48 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 |
 | 49 | [It's You](https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Fase Luna](https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd) | 4:45 |
 | 50 | [Without a Trace](https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B) | 4:07 |
-| 51 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
-| 52 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
+| 51 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
+| 52 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 53 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 54 | [Back to Land](https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:17 |
 | 55 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 65 | [Los Estimados](https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N) | 4:37 |
 | 66 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 |
 | 67 | [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 |
-| 68 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
-| 69 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
+| 68 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
+| 69 | [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 |
 | 70 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 |
 | 71 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 |
-| 72 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 73 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
+| 72 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
+| 73 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 74 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
-| 75 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
-| 76 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
+| 75 | [Silbury Sands](https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286) | [Wolf People](https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK) | [Steeple](https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY) | 5:18 |
+| 76 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 77 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 78 | [The Rat Catcher](https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ) | [Wucan](https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO) | [Reap the Storm](https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS) | 5:25 |
 | 79 | [Forever End](https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Hyper Super Mega](https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT) | 4:00 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 91 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
 | 92 | [Lady Rachel](https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV) | 5:10 |
 | 93 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
-| 94 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
+| 94 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 |
 | 95 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
-| 96 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 |
+| 96 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 |
 | 97 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 |
 | 98 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
 | 99 | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4) | 4:02 |
 | 100 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
 
-Snapshot ID: `MCxmYTEwN2M0NGE4MjExNGIwNjgzZjA0MDZiMWY1N2U4MTg0M2FlY2Zm`
+Snapshot ID: `MCwwMjZmMTUzYzU4MzYyY2Y0MDRkZDk1MjNmMDkzZjMzZTE3MjI3MDdm`

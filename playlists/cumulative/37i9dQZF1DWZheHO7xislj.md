@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-366 songs - 23 hr 42 min
+367 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Heart of Gold](https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:03 | 2023-06-27 |  |
 | [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 | 2023-01-09 | 2023-11-05 |
 | [Hercules](https://open.spotify.com/track/0GVurvfPLwv6sNXaqtxHWQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Love Letters](https://open.spotify.com/album/7jfRBjUiIc9uUbdikDiUh6) | 4:11 | 2023-08-15 | 2024-01-25 |
-| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2023-06-27 |  |
+| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2023-06-27 | 2024-02-05 |
+| [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 | 2023-08-15 |  |
 | [Hold On! I'm A Comin' \- LP/Single Version](https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 2:35 | 2023-01-09 | 2023-06-28 |
 | [Holding On](https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Take Me To The Alley](https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ) | 4:14 | 2023-01-09 |  |
 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 6:23 | 2023-01-09 | 2023-06-28 |

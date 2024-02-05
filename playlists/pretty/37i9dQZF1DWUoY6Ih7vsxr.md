@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,726 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,879 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 59 | [NU ABO](https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [NU ABO](https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO) | 3:44 |
 | 60 | [Love](https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluelove](https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU) | 3:47 |
 | 61 | [Falling In Love](https://open.spotify.com/track/2Jj05yf4C9PWgH7xQuVNIm) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [Falling In Love](https://open.spotify.com/album/5qleO7H9bcv7NSdrFwUO6v) | 3:46 |
-| 62 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
-| 63 | [Miss Right](https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [No.1](https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb) | 3:17 |
+| 62 | [Miss Right](https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [No.1](https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb) | 3:17 |
+| 63 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
 | 64 | [DIVA](https://open.spotify.com/track/7AAyzxwoFaL55IJMJVn2Oh) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Diva](https://open.spotify.com/album/0ODnOMPVDNZki1DMnh6hwh) | 3:18 |
 | 65 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
 | 66 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 99 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 |
 | 100 | [Come Back Again](https://open.spotify.com/track/5m6yaiNQ3VxeVmITSTBGvQ) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [First Invasion](https://open.spotify.com/album/2owdMeDAA6ahK6OE7xSKD8) | 3:06 |
 
-Snapshot ID: `MCwyMzZlYzhkZTEwZjExOWY5MTVkOWY4YTc0Yjk1ZGQ4MGExN2Q1OTBm`
+Snapshot ID: `MCw0ZTIxZmM2MTE5YzJkODBkNzgzMDczNzdlYTViNjFkMGU3ZjlkYzc5`

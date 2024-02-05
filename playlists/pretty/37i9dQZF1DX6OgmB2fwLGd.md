@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,281 likes - 99 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,185 likes - 99 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 29 | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF) | 2:26 |
 | 30 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
 | 31 | [Ozone](https://open.spotify.com/track/6ZC74JZp5NDi6Q1ZCra1NC) | [Kid Trunks](https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI) | [Ozone](https://open.spotify.com/album/2Z69mCE7augMMEWRCckD9K) | 3:54 |
-| 32 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 32 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 33 | [22 hours](https://open.spotify.com/track/3RdB9x6VjjxTsp3YfiBaJ3) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [still feels like](https://open.spotify.com/album/4v0qd6jPgkGfGAKfogxCuN) | 1:36 |
 | 34 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 |
 | 35 | [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 |
 | 36 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 |
-| 37 | [<3x girl](https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/3pifeOOGTYKlts7FEgyBXG) | 0:57 |
+| 37 | [<3x girl](https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/5qomU1F43TlMieaEHkGlRa) | 0:57 |
 | 38 | [light \(with 9lives & midwxst\)](https://open.spotify.com/track/5QlWINPD2625OdZ3wS26KR) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [light \(with 9lives & midwxst\)](https://open.spotify.com/album/7HJ83Qe1wRgbqHJsSo3sK3) | 2:17 |
 | 39 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 |
 | 40 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 98 | [ICEY](https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [ICEY](https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4) | 2:11 |
 | 99 | [Xanax / Burnt Memories](https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Didn't Have](https://open.spotify.com/album/7j58HYctbqVUcSXG61MW3X) | 4:04 |
 
-Snapshot ID: `MCw2Y2Y4ZDMwZjdkNjQzN2I2NjdjNzE3MTZkYjAwZDZhZGZhN2IzNDEw`
+Snapshot ID: `MCxkZGFiYjZlOTYzYmQwYzVlMWYxNzU1ZDA0YzVhNDkzYmJlMTMzODk5`

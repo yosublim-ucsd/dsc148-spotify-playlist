@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,273 songs - 5 day 1 hr 24 min
+2,274 songs - 5 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [](https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cupid \(Sped Up\) \[Remix\]](https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba) | 0:00 | 2023-04-13 | 2023-04-16 |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-10 | 2022-07-15 |
 | [](https://open.spotify.com/track/7ztsvXsYxhTLGoUOUx9Yvv) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5rkfpEidQIJoRVsJWmWdyq) | 0:00 | 2024-01-02 | 2024-01-10 |
+| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:31 | 2024-02-04 |  |
 | [\#doyalike](https://open.spotify.com/track/28wSGs5ktiBQeeArATV8VX) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu) | 3:03 | 2022-05-24 | 2022-06-01 |
 | [\#doyalike](https://open.spotify.com/track/2HfZIE33sAibTpHibfdEDs) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/2lB1L11fAMtcOyo3xnZGQ6) | 3:03 | 2022-04-22 | 2022-04-24 |
 | [\#doyalike](https://open.spotify.com/track/36Sg1qwErh1ONjBv6I9zPn) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/3rS3wTkFe8pRefM2j51gdP) | 3:03 | 2022-04-13 | 2022-04-16 |
@@ -1073,7 +1074,7 @@
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-03-12 | 2023-03-27 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-11 | 2023-06-07 |
 | [La Danse À St\-Dilon](https://open.spotify.com/track/1o7fCXSFzxdTpaMkpHm1Ns) | [Train D'enfer](https://open.spotify.com/artist/2zWtPB5y1uuwTB0PLapim1) | [Granit S'a Galerie](https://open.spotify.com/album/63coALIuFpvVmBRlKTbpBY) | 3:05 | 2024-01-02 | 2024-01-09 |
-| [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-20 |  |
+| [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2023-12-20 | 2024-02-05 |
 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 | 2021-12-31 | 2022-01-15 |
 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 | 2022-12-27 | 2023-01-11 |
 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 | 2023-03-30 | 2023-05-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG?si=wKmxFkhFSnukEMGmNd8pSg"> The Castellows</a>, Zach Bryan, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,944 likes - 65 songs - 3 hr 32 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,931 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

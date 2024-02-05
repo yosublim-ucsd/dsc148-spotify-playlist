@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,824 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,868 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 7 | [Ojalá Te Duela](https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Ojalá Te Duela](https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA) | 3:52 |
 | 8 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 9 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
-| 10 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
+| 10 | [Respóndeme Tú \(Primera Fila\) \(feat\. Pepe Aguilar\) \- En Vivo](https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:25 |
 | 11 | [Prometiste \(En Vivo\)](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 |
-| 12 | [Respóndeme Tú \(Primera Fila\) \(feat\. Pepe Aguilar\) \- En Vivo](https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:25 |
+| 12 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
 | 13 | [Ven y camina conmigo \(feat\. Pepe Aguilar\) \- MTV Unplugged](https://open.spotify.com/track/1FlYaJEsXJVRXHmSyaueQY) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged\. El Libro De Las Mutaciones](https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h) | 4:38 |
 | 14 | [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 |
 | 15 | [Lo Busqué](https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 49 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 |
 | 50 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
 
-Snapshot ID: `MCwzZDI4ODkzZjM5YzQ4ODA5OTZkNGQ0YmQ0NjJjY2YzY2M3ZjBiNjg3`
+Snapshot ID: `MCw5YWIzZDhhMzg4MDRkMWEwYmYxODJmZmE1YTc3YzgyZjMyMDQ0N2Qy`

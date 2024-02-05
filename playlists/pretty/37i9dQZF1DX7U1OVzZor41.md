@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,149 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,108 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 30 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 |
 | 31 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 32 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 |
-| 33 | [孤勇者 \- 《英雄聯盟:雙城之戰》動畫劇集中文主題曲](https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [孤勇者 \(《英雄聯盟:雙城之戰》動畫劇集中文主題曲\)](https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp) | 4:16 |
-| 34 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
+| 33 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 |
+| 34 | [孤勇者 \- 《英雄聯盟:雙城之戰》動畫劇集中文主題曲](https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [孤勇者 \(《英雄聯盟:雙城之戰》動畫劇集中文主題曲\)](https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp) | 4:16 |
 | 35 | [突然好想你](https://open.spotify.com/track/0IAgufC1FlOg1nZMmRZxRr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:25 |
-| 36 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
-| 37 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
-| 38 | [可惜沒如果](https://open.spotify.com/track/6WoQzK5Exbfcmow1AoNRkl) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:58 |
+| 36 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 |
+| 37 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 38 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 |
 | 39 | [如果雨之後](https://open.spotify.com/track/6kabSi7XCHHGThNme6J2tL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:41 |
-| 40 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 40 | [可惜沒如果](https://open.spotify.com/track/6WoQzK5Exbfcmow1AoNRkl) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:58 |
 | 41 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
 | 42 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 |
-| 43 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
-| 44 | [告白氣球](https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:35 |
-| 45 | [修煉愛情](https://open.spotify.com/track/101iWa6yaODTI0RWewMK1B) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4) | 4:47 |
-| 46 | [天外來物](https://open.spotify.com/track/0NVOTV0nqsndWzBmMwRFOS) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [天外來物](https://open.spotify.com/album/6IfVnXZCdRH3cp2bKOJbXn) | 4:17 |
-| 47 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
+| 43 | [告白氣球](https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:35 |
+| 44 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
+| 45 | [天外來物](https://open.spotify.com/track/0NVOTV0nqsndWzBmMwRFOS) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [天外來物](https://open.spotify.com/album/6IfVnXZCdRH3cp2bKOJbXn) | 4:17 |
+| 46 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
+| 47 | [再見](https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:26 |
 | 48 | [就让这大雨全都落下](https://open.spotify.com/track/0J3GWS0Bv6I1reM1J69UBM) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就让这大雨全都落下](https://open.spotify.com/album/3EXDubkvw4VIoIUJIWcO3v) | 4:14 |
-| 49 | [再見](https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:26 |
+| 49 | [修煉愛情](https://open.spotify.com/track/101iWa6yaODTI0RWewMK1B) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4) | 4:47 |
 | 50 | [幾分之幾 \- 電影<花甲大人轉男孩>主題曲](https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [幾分之幾](https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx) | 3:48 |
 
-Snapshot ID: `MCwxZmE5MDI0OTM3MGZkZTAwYzFjMDdlYjgxNGY1ZjQxODRjYTg2N2Jh`
+Snapshot ID: `MCwwZDgyZmFlOTUxMDhmNjU1MzYyYjM2ZWIzZmJhYWRiMzE1YjA5ZGFi`

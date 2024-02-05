@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,874 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,902 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 30 | [Tanto](https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Tanto](https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj) | 4:13 |
 | 31 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 |
 | 32 | [nos queda mucho dolor por recorrer.](https://open.spotify.com/track/4ezNkGZYWpYKdjqvh0jaSl) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 5:53 |
-| 33 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
-| 34 | [siempre lo hago y te extraño](https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:04 |
+| 33 | [siempre lo hago y te extraño](https://open.spotify.com/track/2wzh1Yr9j7TLmJLGo317u0) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:04 |
+| 34 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 |
 | 35 | [Lo que elegiste.](https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Lo que elegiste](https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ) | 1:04 |
-| 36 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
-| 37 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
-| 38 | [Me Debes Esto](https://open.spotify.com/track/6Etsz9K3hQcCHjneli7rpn) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 3:04 |
+| 36 | [Me Debes Esto](https://open.spotify.com/track/6Etsz9K3hQcCHjneli7rpn) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 3:04 |
+| 37 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
+| 38 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 | 39 | [Hard to Love \(feat\. Jessie Reyez\)](https://open.spotify.com/track/6KdmNK9MogmGcnO3wNZHhp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 |
 | 40 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 41 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 59 | [tuviste](https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:50 |
 | 60 | [Discreción](https://open.spotify.com/track/18nowS51G3slipQrcRH4bt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 4:59 |
 
-Snapshot ID: `MCwyM2MxZTE0OWI1ZWNkZDFhMzYzYjAwZDAwYzcxMzQ1ZWEwYTZlZWMw`
+Snapshot ID: `MCw3Yjk2OTBhZDllMGFhYzI5YTk4ZGIwMmIzMTcwYTBhODIzMjhhYzJk`

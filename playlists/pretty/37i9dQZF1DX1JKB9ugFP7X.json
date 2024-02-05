@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23860,
+  "num_followers": 23862,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjliYjU4MjZiNWVmZTIxNTdjZTQxMjgyNjdmNTE1MDBkNmEyNmVh",
+  "snapshot_id": "MCw4ZWRkYjYxYmY4NGMxYTJjZGQxYzU4ZTQ4YzQxZWNhNmVmYzgzYjMz",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "PAGA DIOS",
-        "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 136427,
-      "name": "PAGA DIOS",
-      "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 163124,
       "name": "Nico Valdi produciendo a Ruggero y Bernardita",
       "url": "https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "PAGA DIOS",
+        "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 136427,
+      "name": "PAGA DIOS",
+      "url": "https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Dejarte Estar (Pyura Remix)",
-        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Dejarte Estar (Pyura Remix)",
-      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
       },
@@ -671,6 +651,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Dejarte Estar (Pyura Remix)",
+        "url": "https://open.spotify.com/album/12S0HzVMapdyKJ7WCkevpD"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Dejarte Estar (Pyura Remix)",
+      "url": "https://open.spotify.com/track/4HdaqE9B6ljQefhcVMy2bo"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "TU SI K TA LOKO",
         "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
       },
@@ -687,26 +687,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Autosabotear (Uffie & Lokoy Remix)",
-        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        },
-        {
-          "name": "Uffie",
-          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
-        },
-        {
-          "name": "Lokoy",
-          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 196641,
-      "name": "Autosabotear (Uffie & Lokoy Remix)",
-      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -731,18 +723,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+        "name": "Autosabotear (Uffie & Lokoy Remix)",
+        "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        },
+        {
+          "name": "Lokoy",
+          "url": "https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv"
         }
       ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+      "duration_ms": 196641,
+      "name": "Autosabotear (Uffie & Lokoy Remix)",
+      "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Por Si Acaso Se Acaba El Mundo",
-        "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 183663,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -835,22 +819,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "TRIP",
-        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
+        "name": "Por Si Acaso Se Acaba El Mundo",
+        "url": "https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8"
       },
       "artists": [
         {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
         }
       ],
-      "duration_ms": 175161,
-      "name": "TRIP",
-      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
+      "duration_ms": 183663,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -871,6 +851,26 @@
       "duration_ms": 215046,
       "name": "Un Dia de Verano",
       "url": "https://open.spotify.com/track/3GeqVjy0mj0rxdQEhorw8I"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "TRIP",
+        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Delfines",
-        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
-        }
-      ],
-      "duration_ms": 278274,
-      "name": "Delfines",
-      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Delfines",
+        "url": "https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        }
+      ],
+      "duration_ms": 278274,
+      "name": "Delfines",
+      "url": "https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Trampa",
         "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
+      },
+      "artists": [
+        {
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
-      },
-      "artists": [
-        {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "En el Palacio (REMIX)",
         "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
     },
     {
       "added_at": "2024-02-02 03:00:00",

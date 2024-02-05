@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: REI AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,275 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,267 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 38 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 39 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |
 | 40 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
-| 41 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
+| 41 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 |
 | 42 | [Bicycle](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:59 |
 | 43 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
-| 44 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 |
+| 44 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
 | 45 | [creep](https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 3:30 |
 | 46 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 |
 | 47 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
@@ -69,16 +69,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 59 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 60 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
 | 61 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
-| 62 | [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 |
-| 63 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
-| 64 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
+| 62 | [I Like What I Like](https://open.spotify.com/track/5oBNstiTAmsI8hE9w5klfJ) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/2paBP4J2rtkgm6qCf1wLz0) | 2:27 |
+| 63 | [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 |
+| 64 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
 | 65 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
-| 66 | [I Like What I Like](https://open.spotify.com/track/5oBNstiTAmsI8hE9w5klfJ) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/2paBP4J2rtkgm6qCf1wLz0) | 2:27 |
+| 66 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 | 67 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 |
 | 68 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 69 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
-| 70 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
-| 71 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 |
+| 70 | [Flower \(In Full Bloom\)](https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:51 |
+| 71 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
 | 72 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
 | 73 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 |
 | 74 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 90 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 
-Snapshot ID: `MCxjZTNiNmExZjZmYjNjYTk5ZWRhZTNhZWU4MTQ2MTk2ZTJiOGM1NmQ5`
+Snapshot ID: `MCw3OWVmOGY4YWE4ZDRkZGMyNDAyODE3MDBhMWY1NWEyYzI3NTA1Yjg2`

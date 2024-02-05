@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 195802,
+  "2024-02-05": 195772,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 194223,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5IZJ31eeQqEmP4itTVadGt"
@@ -2758,6 +2758,24 @@
     },
     {
       "album": {
+        "name": "Cut Them Out",
+        "url": "https://open.spotify.com/album/6tdkOD0oV6jwXYRmQClfSR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Fondell",
+          "url": "https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187186,
+      "name": "Cut Them Out",
+      "url": "https://open.spotify.com/track/2qg6GGfDdQpK2108Cs0pzv"
+    },
+    {
+      "album": {
         "name": "Dirt Femme",
         "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
       },
@@ -3403,7 +3421,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 204461,
       "name": "Do I Make Sense",
       "url": "https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf"
@@ -4259,6 +4277,24 @@
       "duration_ms": 209803,
       "name": "End Of Time",
       "url": "https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc"
+    },
+    {
+      "album": {
+        "name": "Ensam",
+        "url": "https://open.spotify.com/album/06s9itJ8oHEe9YZMLJm3id"
+      },
+      "artists": [
+        {
+          "name": "Petrus",
+          "url": "https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182053,
+      "name": "Ensam",
+      "url": "https://open.spotify.com/track/045fEItPCP4cEElam3hpcb"
     },
     {
       "album": {
@@ -8272,6 +8308,24 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Jag vill ha allt",
+      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
+    },
+    {
+      "album": {
         "name": "Jag vill inte br\u00e5ka",
         "url": "https://open.spotify.com/album/5Z3GZBgr9rs1RKymbV2PjS"
       },
@@ -11548,6 +11602,24 @@
     },
     {
       "album": {
+        "name": "Out Of Feelings",
+        "url": "https://open.spotify.com/album/3rkCxhZ9Kj7ylr5LjjA5BK"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Out Of Feelings",
+      "url": "https://open.spotify.com/track/6Xy2N0VoXewxdXheSW0Rw8"
+    },
+    {
+      "album": {
         "name": "Out of Love",
         "url": "https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw"
       },
@@ -13165,7 +13237,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 200227,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8"
@@ -13263,7 +13335,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 235636,
       "name": "Ska det r\u00e4cka",
       "url": "https://open.spotify.com/track/570r4eJskCF4cas9ryRgxx"
@@ -15887,7 +15959,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 201600,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/3ibHLzsA6cJzAtJSwpRzpZ"
@@ -16085,10 +16157,28 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 193777,
       "name": "TRENCH",
       "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
+    },
+    {
+      "album": {
+        "name": "TROLL",
+        "url": "https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/5btPCzSpdxxnxuGuHhcD35"
     },
     {
       "album": {
@@ -16241,6 +16331,24 @@
       "duration_ms": 196800,
       "name": "Tusen g\u00e5nger om (feat. Newkid)",
       "url": "https://open.spotify.com/track/3EsUkO1XncklrPvQaabHaz"
+    },
+    {
+      "album": {
+        "name": "Tv\u00e5 idioter",
+        "url": "https://open.spotify.com/album/2VgpCTBPtS3jhFeGGaUGMm"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124687,
+      "name": "Tv\u00e5 idioter",
+      "url": "https://open.spotify.com/track/7icBZz6DwrqQ2z2vCca9HA"
     },
     {
       "album": {
@@ -16571,6 +16679,24 @@
       "duration_ms": 194595,
       "name": "Var \u00e4r du?",
       "url": "https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW"
+    },
+    {
+      "album": {
+        "name": "Varje g\u00e5ng",
+        "url": "https://open.spotify.com/album/6aTU5aSCB5dahAWEvmBViu"
+      },
+      "artists": [
+        {
+          "name": "TRENDEN",
+          "url": "https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173696,
+      "name": "Varje g\u00e5ng",
+      "url": "https://open.spotify.com/track/5F63IuJAxScBwhGSO51N4r"
     },
     {
       "album": {
@@ -17601,7 +17727,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 145429,
       "name": "With You",
       "url": "https://open.spotify.com/track/1a5b1Tu7wtgqDZJ9l1x3Cy"

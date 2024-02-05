@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,906 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,001 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [DND](https://open.spotify.com/track/7rq2a8EUvg6GCRjXu7TboU) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [DND](https://open.spotify.com/album/6Ueh5KmW1CldZQyTubccOZ) | 2:44 |
 | 50 | [Nouveau Dossier](https://open.spotify.com/track/0FnkamDeASFZ49DlYzQXFF) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm) | [Nouveau Dossier](https://open.spotify.com/album/5dfYD2dYiRYQVYLmjryGop) | 2:19 |
 
-Snapshot ID: `MCwxMzFjZmRmNWMyOTE1YmU4ZmM4YjY2ZmYwNzBiYjc2ZmE0YzJlOWVi`
+Snapshot ID: `MCw2YmQ3ZjhlZWNjODFhMGQyZTM1OTdkYzRlYWY5NmRhMDEzZjhhMTRk`

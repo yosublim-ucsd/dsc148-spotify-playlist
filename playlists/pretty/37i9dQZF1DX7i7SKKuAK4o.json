@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Ariana Grande",
-  "num_followers": 584847,
+  "num_followers": 584312,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTM3YTVjMWNhYzU0ZmE0MTczYWZlOWZhOTg1YTA4ZTY5ZjZiYzgz",
+  "snapshot_id": "MCwxNTI2ZmU3MTk3YTc0ODk5N2U4ODQ4MDY3Zjc4OGJiNjM3NDY5NmMx",
   "tracks": [
     {
       "added_at": "2024-01-31 07:11:51",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-01-31 07:11:51",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     }
   ],
   "unique_name": "Hits Banget",

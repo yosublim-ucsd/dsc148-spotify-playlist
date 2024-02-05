@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 77678,
+  "num_followers": 77871,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGJhZjc2N2EwMmFjNjMyMTBjOTkwMDc2ZTU3ZWU1MmM5NTYxNzFm",
+  "snapshot_id": "MCw4YjY4MzliM2RkMmI4OTM3YTZjYTJkNTI4NTIyYjNlZDc0YmY4ZjA1",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "MOVE YO BODY",
+        "url": "https://open.spotify.com/album/0PiWi303xIJnEx5FxBmx0f"
+      },
+      "artists": [
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "duration_ms": 128182,
+      "name": "MOVE YO BODY",
+      "url": "https://open.spotify.com/track/1FKqhy26Yyu6jeCgbVJraj"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "#miles",
         "url": "https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/0ic30oKQ15EvTWS1VYBjFF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "MOVE YO BODY",
-        "url": "https://open.spotify.com/album/0PiWi303xIJnEx5FxBmx0f"
-      },
-      "artists": [
-        {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 128182,
-      "name": "MOVE YO BODY",
-      "url": "https://open.spotify.com/track/1FKqhy26Yyu6jeCgbVJraj"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Shake Dhat",
+        "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
+      },
+      "artists": [
+        {
+          "name": "Zahsosaa",
+          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
+        },
+        {
+          "name": "D STURDY",
+          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
+        },
+        {
+          "name": "Dj Crazy",
+          "url": "https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Shake Dhat",
+      "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Defiant Presents: Jiggy In Jersey",
         "url": "https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 138000,
       "name": "Who You Touch Pt. 2 (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Shake Dhat",
-        "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
-      },
-      "artists": [
-        {
-          "name": "Zahsosaa",
-          "url": "https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y"
-        },
-        {
-          "name": "D STURDY",
-          "url": "https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr"
-        },
-        {
-          "name": "Dj Crazy",
-          "url": "https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Shake Dhat",
-      "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
     },
     {
       "added_at": "2024-01-26 05:00:00",

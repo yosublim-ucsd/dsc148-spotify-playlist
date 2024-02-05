@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 147069,
+  "2024-02-05": 146920,
   "date_first_scraped": "2021-12-21",
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
   "name": "Field Party",
@@ -1796,6 +1796,28 @@
     },
     {
       "album": {
+        "name": "Keep It Redneck (Deluxe)",
+        "url": "https://open.spotify.com/album/4WJtMtbkzawLZtiK8pGvUx"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274618,
+      "name": "Keep It Redneck - Remix",
+      "url": "https://open.spotify.com/track/2pgGU4HYnD2Q0gUAgRjWuQ"
+    },
+    {
+      "album": {
         "name": "Kickin' It in Tennessee",
         "url": "https://open.spotify.com/album/75ELepmuVqE7GLbdF28mPa"
       },
@@ -2843,7 +2865,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 235161,
       "name": "Stomp Them Boots",
       "url": "https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG"

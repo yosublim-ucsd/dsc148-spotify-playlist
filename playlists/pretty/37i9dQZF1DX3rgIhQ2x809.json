@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70355,
+  "num_followers": 70323,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3",
+  "snapshot_id": "MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Putero",
+      "url": "https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Gimnasta",
         "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 175476,
       "name": "Gimnasta",
       "url": "https://open.spotify.com/track/5FBS73j8hq7VwdyQiOfweK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "TRAP KITTY",
-        "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Putero",
-      "url": "https://open.spotify.com/track/0YxOOsSObEL71N64GSJrFn"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Miko",
+        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "Miko",
+      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Miko",
-        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Miko",
-      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 177142,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "diamante$ + espina$",
+        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "gatx",
+      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Tratemos",
         "url": "https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 229333,
       "name": "Tratemos",
       "url": "https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "gatx",
-      "url": "https://open.spotify.com/track/3fiYdUULxybJx1M1tOuoip"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Las Criaturas: El Regreso",
+        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
+      },
+      "artists": [
+        {
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        }
+      ],
+      "duration_ms": 231827,
+      "name": "La Bebecita",
+      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Twisty",
         "url": "https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 165337,
       "name": "Twisty",
       "url": "https://open.spotify.com/track/2EpuU1Fb5JnYnQxgUeNSoN"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Las Criaturas: El Regreso",
-        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
-      },
-      "artists": [
-        {
-          "name": "Sammy & Falsetto",
-          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
-        }
-      ],
-      "duration_ms": 231827,
-      "name": "La Bebecita",
-      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
     },
     {
       "added_at": "2023-06-09 02:27:24",

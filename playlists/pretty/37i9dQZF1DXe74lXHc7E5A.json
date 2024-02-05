@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Skepta",
-  "num_followers": 24291,
+  "num_followers": 24318,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2E0NmE2YjI2ZmE0ZGQwMGNhMDM5ODBhMThiMDA4MjhlMmU3ZjY2",
+  "snapshot_id": "MCw0ZDVlN2RhOTQ4MjZmMTE2NDc3YjUxMDJmZjQ5NTljZTA0MDk2Njky",
   "tracks": [
     {
       "added_at": "2024-02-02 05:54:42",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -323,6 +339,22 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
         "name": "Meridian & Special",
         "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
@@ -343,18 +375,18 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+        "name": "Gas Me Up (Diligent)",
+        "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 230709,
-      "name": "You Broke My Heart",
-      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+      "duration_ms": 171000,
+      "name": "Gas Me Up (Diligent)",
+      "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -375,22 +407,6 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "Gas Me Up (Diligent)",
-        "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Gas Me Up (Diligent)",
-      "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "Bandit",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
         "name": "PAIN IN GLORY",
         "url": "https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T"
       },
@@ -451,6 +451,34 @@
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
+      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -487,34 +515,6 @@
       "duration_ms": 191174,
       "name": "Big Difference",
       "url": "https://open.spotify.com/track/0ZhPWSfAKzeVQbRG08E1iI"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
-      "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Trojan Horse",
+      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -623,6 +643,22 @@
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
+        "name": "Think U The Shit (Fart)",
+        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Think U The Shit (Fart)",
+      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -647,42 +683,6 @@
       "duration_ms": 192195,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "Think U The Shit (Fart)",
-        "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "Think U The Shit (Fart)",
-      "url": "https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Trojan Horse",
-      "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -1051,6 +1051,42 @@
     {
       "added_at": "2024-02-02 05:54:42",
       "album": {
+        "name": "GEEKIN (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "GEEKIN (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
+    },
+    {
+      "added_at": "2024-02-02 05:54:42",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1071,22 +1107,6 @@
       "duration_ms": 229440,
       "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
       "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "added_at": "2024-02-02 05:54:42",
@@ -1151,30 +1171,6 @@
       "duration_ms": 183649,
       "name": "Longevity Flow",
       "url": "https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0"
-    },
-    {
-      "added_at": "2024-02-02 05:54:42",
-      "album": {
-        "name": "Hustle",
-        "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 189038,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
     }
   ],
   "unique_name": "Hype List",

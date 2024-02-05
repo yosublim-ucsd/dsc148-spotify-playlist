@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 65702,
+  "2024-02-05": 65755,
   "date_first_scraped": "2023-07-08",
   "description": "Ambient Indian sounds for your daily Yoga practise.",
   "name": "Namaste Yoga",
@@ -591,10 +591,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 305120,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx"
+      },
+      "artists": [
+        {
+          "name": "Kiran Murti",
+          "url": "https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5Ap8FLACa9WqPzIxmI4jki"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 96902,
+  "num_followers": 96929,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGRiZDc1NjM1ZTIwZmZhMzMxNjVmYmUwMDJjMDJkMzNiMWMxZTQx",
+  "snapshot_id": "MCw3ZjRjZGEwZDAyOTgwZGJjZTg5OTdlZmJkYTc2NjYzNWM3YzU5NzUy",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "How Can You Not",
-        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192862,
-      "name": "How Can You Not",
-      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "How Can You Not",
+        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "How Can You Not",
+      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -239,6 +239,34 @@
       "duration_ms": 283885,
       "name": "Open",
       "url": "https://open.spotify.com/track/0rsK51mo1xB9pNCPYFaPHA"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -311,34 +339,6 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 625062,
-      "name": "Fear Is Not My Future (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Jesus Changed My Life",
-        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "Jesus Changed My Life",
-      "url": "https://open.spotify.com/track/3xNxLuVwQBc2Y9Zbx68tDU"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4gW7svxzPe5pOMRNwnqrWJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 179843,
       "name": "Run",
       "url": "https://open.spotify.com/track/3i6mOPwTpqgKm8VSkEoSoz"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "Jesus Changed My Life",
+      "url": "https://open.spotify.com/track/3xNxLuVwQBc2Y9Zbx68tDU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This I Know (Jesus Loves Me)",
-        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "This I Know (Jesus Loves Me)",
-      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Before I Knew Jesus",
         "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 196975,
       "name": "Before I Knew Jesus",
       "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "This I Know (Jesus Loves Me)",
+        "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "This I Know (Jesus Loves Me)",
+      "url": "https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Soul Worth Saving",
         "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 226650,
       "name": "Soul Worth Saving",
       "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "You Can Rest",
         "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 288658,
       "name": "You Can Rest",
       "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Is On The Throne",
-        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
         }
       ],
-      "duration_ms": 284413,
-      "name": "God Is On The Throne",
-      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "God Is On The Throne",
+        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "God Is On The Throne",
+      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1399,22 +1415,6 @@
       "duration_ms": 179420,
       "name": "Only Ever Always",
       "url": "https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "When You Speak (Deluxe)",
         "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 216610,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "a thousand shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "a thousand shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+        "name": "a thousand shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+      "duration_ms": 255586,
+      "name": "a thousand shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1583,6 +1567,22 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Nothing To Buy",
         "url": "https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 267106,
       "name": "Nothing To Buy",
       "url": "https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
     },
     {
       "added_at": "2022-10-29 07:17:38",

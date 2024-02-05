@@ -4,12 +4,12 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-70 songs - 3 hr 40 min
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-01-29 |  |
-| [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-30 | 2024-02-02 |
+| [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-30 |  |
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-01-30 |  |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2024-01-29 |  |
 | [Bei niemand anders](https://open.spotify.com/track/4y4CxI1nbbvjcY2lXu39wX) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Bei niemand anders](https://open.spotify.com/album/0QIWDZSFA06dAqREaLN0Wz) | 3:55 | 2024-01-29 | 2024-01-31 |
@@ -22,10 +22,11 @@
 | [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-01-29 |  |
 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-01-30 |  |
 | [Danke für Alles](https://open.spotify.com/track/3LMOGI6MTpQwefQw0DRAQ9) | [Endless Wellness](https://open.spotify.com/artist/0rpmnKQXbtbFVFcxxGZuKc) | [Was für ein Glück](https://open.spotify.com/album/2179Dyr4RVkZi9OjZzfHfZ) | 2:54 | 2024-01-29 | 2024-01-31 |
-| [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 | 2024-01-29 |  |
+| [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 | 2024-02-04 |  |
+| [Dornwald](https://open.spotify.com/track/3hy2eKCa7q9hOOuelDO0yG) | [Hänsel](https://open.spotify.com/artist/00Cen9aAFxIUh0h685dp5w), [Liebling](https://open.spotify.com/artist/2rDgiXjtPa0hGvovvxUvSV) | [Dornwald](https://open.spotify.com/album/004U8iepW4TdNIhkunmrLL) | 2:15 | 2024-01-29 | 2024-02-05 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 |  |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2024-01-29 |  |
-| [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 | 2024-01-30 |  |
+| [Frieden](https://open.spotify.com/track/3owQNPhIzH9VS9dvAI1Kta) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Frieden](https://open.spotify.com/album/7AxeIfzWzEzuGfkyMgQKQh) | 5:04 | 2024-01-30 | 2024-02-05 |
 | [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 | 2024-01-30 |  |
 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 | 2024-01-29 | 2024-01-31 |
 | [Gangsta Track](https://open.spotify.com/track/0uvAAYuOgvKDAepS9SDCrd) | [Dark Boy](https://open.spotify.com/artist/17rYRvRZhbk3an3XkmZwHo) | [Gangsta Track](https://open.spotify.com/album/3BBhNs5m7xHIWKAfnKTulZ) | 3:12 | 2024-01-29 | 2024-02-04 |

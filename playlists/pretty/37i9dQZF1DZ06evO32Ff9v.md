@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,870 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,922 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [Borracho y De Perro](https://open.spotify.com/track/37wZuY6x3ucmg8aeubIs5R) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Borracho y De Perro](https://open.spotify.com/album/6q7UBtdNN9uJU1Dm89gzOO) | 3:55 |
 | 50 | [El Mismo de Antes RR](https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:07 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhODY4NzA5OGQ4MTFkYWYyZWNmYjAxN2FlNjIwMjRlNg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA1ZjM5YTE0MzljNjk5NmM4YzI5ODQ1MDliZmU5MjhiMg==`

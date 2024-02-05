@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 
 > Gentle instrumental music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,387 likes - 47 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,451 likes - 47 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DZBe6wPMXo.md) - [plain]
 | 46 | [Debussy: Piano Trio in G Major, CD 5, L\. 3: III\. Andante espressivo](https://open.spotify.com/track/7ipHx0jgei0eK8xn3xoKIL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Debussy: Sonatas and Piano Trio](https://open.spotify.com/album/74uBG845eyHsFRbyxA2MpJ) | 3:47 |
 | 47 | [String Quartet No\. 1 in D Major, Op\. 11: II\. Andante cantabile](https://open.spotify.com/track/4eNSU0YbZE8RKRNDVNbyLm) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [New Haydn Quartet](https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati) | [Tchaikovsky: String Quartets, Vol\. 1](https://open.spotify.com/album/5mAsoTf141wzQInlKzYWFH) | 6:35 |
 
-Snapshot ID: `MCw3NDYxYjUyZjFjMzdmNDFkZTU2OGQ0MDUxNjNlZmE5ZDM2ODBlZDVh`
+Snapshot ID: `MCxiYzVjZWE5NjcyNjIzMmI2OWU0NTc0M2JiYmY2MTgzMjIzZGZhZGFk`

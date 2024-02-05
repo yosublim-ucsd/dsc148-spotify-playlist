@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,534 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,704 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 |
 | 50 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjNDIyNWU4YmYyNDI1MDI2MzYyMmYyM2QyNmVhODcyMQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlNDhmYmUyN2U3OWY2NjhhZmNlMTBlMjkxMjdhZWE5Ng==`

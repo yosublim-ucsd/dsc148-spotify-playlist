@@ -4,7 +4,7 @@
 
 > Lavando e louvando a Deus com grandes hinos.
 
-179 songs - 17 hr 17 min
+180 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Me Ajude A Melhorar](https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Casa De Deus](https://open.spotify.com/album/2ZYiW69PA1iRSCPGNcoLPm) | 3:36 | 2022-04-15 |  |
 | [Me Deixe Aqui \(feat\. Priscilla Alcantara\)](https://open.spotify.com/track/1IJ7mFrvgw24F3rRS9NAHl) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Preto no Branco 2](https://open.spotify.com/album/0FpwBCYxasiq3tqNp69Q6I) | 4:34 | 2021-12-03 | 2022-07-29 |
 | [Me Leva Pra Casa](https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T) | [Israel Subira](https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU) | [Me Leva Pra Casa](https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD) | 7:45 | 2022-03-04 |  |
-| [Mesmo Sem Entender \- Ao Vivo](https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:37 | 2022-04-15 |  |
+| [Mesmo Sem Entender \- Ao Vivo](https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:37 | 2022-04-15 | 2024-02-05 |
 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 | 2021-12-03 |  |
 | [Meu Respirar](https://open.spotify.com/track/6Be3DpCcfD1s6tLFgjSDLF) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Meu Respirar](https://open.spotify.com/album/41TzJblbwDixbznTOk4DqJ) | 5:36 | 2022-03-04 | 2022-07-27 |
 | [Minha Morada \- Ao Vivo](https://open.spotify.com/track/4GYiqBaJo092aEBqBirtzE) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/1UZgN4l6fCWqmG7Jzi6Sep) | 6:51 | 2022-04-15 | 2022-04-23 |
@@ -124,6 +124,7 @@
 | [O Leão E A Igreja \- Ao Vivo](https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:27 | 2021-12-03 | 2022-07-28 |
 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2022-04-15 | 2023-10-19 |
 | [O Mapa do Tesouro](https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx) | [Anderson Freire e Gisele Nascimento](https://open.spotify.com/artist/3yXOAfmEH8M4DJbkmRMhml) | [Anderson Freire Ao Vivo](https://open.spotify.com/album/6xuwIhCtxo8DjCuA3X9aaL) | 5:10 | 2022-03-04 | 2022-06-28 |
+| [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 6:39 | 2023-11-03 |  |
 | [O Que Sua Glória Fez Comigo](https://open.spotify.com/track/2XjZXD4yw83upMle3SgZwC) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/7j1VMgVlFILA47eaqnXY0M) | 6:39 | 2022-04-15 | 2022-07-26 |
 | [O Teu Amor \- Ao Vivo](https://open.spotify.com/track/2MTlVAPbFJZK2jjbkwEoBu) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Kemuel Worship: Filhos \(Ao Vivo\)](https://open.spotify.com/album/2I1OKf57G8DwGnAiaEfz5A) | 5:14 | 2022-03-04 | 2022-07-06 |
 | [Oceanos \(Onde Meus Pés Podem Falhar\) \[Oceans Where Feet May Fail\]](https://open.spotify.com/track/4eKFdlUitSI8J812DaKvx8) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Não Me Deixes Desistir \- Ao Vivo](https://open.spotify.com/album/6mDa31uppNCJbt4todBp37) | 8:15 | 2021-12-03 | 2022-07-29 |

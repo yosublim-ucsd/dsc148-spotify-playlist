@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,954,157 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,630 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 45 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 46 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 |
 | 47 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
-| 48 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 49 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 48 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 49 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
 | 50 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 |
 | 51 | [Para Siempre](https://open.spotify.com/track/1YskKvj2NqjlBDVoCTbIcE) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [Para Siempre](https://open.spotify.com/album/3j32qwP0UytC2bakmATjgP) | 3:51 |
 | 52 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 64 | [ENVICIAO](https://open.spotify.com/track/5RBqpCaJSjyWJH0qmAXlyN) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:29 |
 | 65 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 
-Snapshot ID: `MCw5ZDg5ZTkxZWY4MTQxZjg5Yzc2ZDkxN2FiNDdlYjM4ZTQ1MzVlMmI5`
+Snapshot ID: `MCwwNWIxYWVmZTAyNzhlODUxZGJlMTQyZjBjM2RlMjhjZGJmZWJiMmNk`

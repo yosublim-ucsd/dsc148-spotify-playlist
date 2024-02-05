@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-943 songs - 1 day 14 hr 29 min
+944 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-15 | 2023-03-21 |
 | [9:25pm](https://open.spotify.com/track/6OCww5ebJEH0fvMHr8ZTfC) | [Mazelfyre](https://open.spotify.com/artist/0qJT0SswFi8QQbibca7Lni) | [9:25pm](https://open.spotify.com/album/6vyri6xhmE1ygAJC4gRTbq) | 1:49 | 2023-06-07 | 2023-10-21 |
 | [9am in Calabasas](https://open.spotify.com/track/6EdVTOk5e4RApmwHNBJew9) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [9am in Calabasas](https://open.spotify.com/album/22K5cEZXysmiRSU7WCC0Ed) | 1:54 | 2023-06-02 | 2023-10-21 |
-| [<3x girl](https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/3pifeOOGTYKlts7FEgyBXG) | 0:57 | 2024-01-08 |  |
+| [<3x girl](https://open.spotify.com/track/0raYSZY5ca9Gu507VTvdw4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/5qomU1F43TlMieaEHkGlRa) | 0:57 | 2024-01-08 |  |
+| [<3x girl](https://open.spotify.com/track/1npX7CetlIG1TxCfO7gOU4) | [wrldn3ro](https://open.spotify.com/artist/2gSkItFlSf0KffnpO3yUF9) | [<3x girl](https://open.spotify.com/album/3pifeOOGTYKlts7FEgyBXG) | 0:57 | 2024-01-08 | 2024-02-05 |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-07 | 2023-03-25 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2023-12-18 |  |
 | [ADHD](https://open.spotify.com/track/2NnYebjJbFNce6q7vVYRsc) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [ADHD](https://open.spotify.com/album/3gRHDUqZGMb4wnHBPvk5OL) | 2:30 | 2023-04-12 | 2023-08-05 |
@@ -336,7 +337,7 @@
 | [GED](https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx) | [Rocstaryoshi](https://open.spotify.com/artist/11wXsMzrtYLvAsaF1EfHBx) | [GED](https://open.spotify.com/album/79OuTWEfANwyDiKEYmNPgW) | 1:52 | 2022-04-14 | 2022-07-29 |
 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 | 2023-07-21 | 2023-12-12 |
 | [Genesis](https://open.spotify.com/track/3mcV7PBgaeX9a6TWqgiNzt) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Genesis](https://open.spotify.com/album/3IAtz770qd9AW1zXDIWUNx) | 2:33 | 2022-05-27 | 2022-07-19 |
-| [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
+| [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
 | [Get TF Out My Face](https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Get TF Out My Face](https://open.spotify.com/album/3EAlwCLd3mbD7cOZo1GIJv) | 2:13 | 2021-12-10 | 2021-12-27 |
 | [GFU!](https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [GFU!](https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA) | 1:22 | 2023-09-22 | 2023-10-21 |
 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 | 2023-03-29 | 2023-08-05 |

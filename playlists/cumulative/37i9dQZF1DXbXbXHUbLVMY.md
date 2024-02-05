@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨 feat\. Amara
 
-129 songs - 5 hr 34 min
+130 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Konstnärer](https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Konstnärer](https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4) | 2:30 | 2023-09-28 |  |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-09-21 | 2023-11-11 |
 | [Koppla Av](https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR) | 2:53 | 2023-11-16 | 2024-02-02 |
-| [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-12-14 |  |
+| [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-12-14 | 2024-02-05 |
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 | 2024-02-04 |
 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 | 2024-01-22 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
@@ -136,6 +136,7 @@
 | [WONDERLAND](https://open.spotify.com/track/7IfJ76AmwueC2QiN3USbyt) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [WONDERLAND](https://open.spotify.com/album/7GDX1d31ZisU5CHDdMHyFy) | 2:21 | 2023-09-21 |  |
 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 | 2024-01-11 |  |
 | [Zinah](https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Zinah](https://open.spotify.com/album/17w3q8mViWFceZ6F8Sf9An) | 1:56 | 2023-10-12 |  |
+| [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:04 | 2024-02-01 |  |
 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-09 | 2024-02-04 |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

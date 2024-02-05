@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 8003,
+  "num_followers": 8040,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWY1YjA0MTY4YzRiMGM0ZDgzNDNjOTU0ZDc2ZDM1NDlkZDBlYWRk",
+  "snapshot_id": "MCw0NjMzMGYzYjg5ZTA1YjQxZjkwMzU2YjI0OWU5MzE1YjQ1NDVkNjQw",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
     },
     {
-      "added_at": "2023-11-08 15:46:49",
-      "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Acoustic",
-      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Four Songs",
@@ -319,6 +303,22 @@
       "duration_ms": 379520,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2023-11-08 15:46:49",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 172202,
+      "name": "Acoustic",
+      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "honest (feat. moon tang)",
         "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1Pq2zNeHfbEA4phoHXHG5b"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Deny Me",
-        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 307620,
-      "name": "Deny Me",
-      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
-    },
-    {
       "added_at": "2023-03-14 14:57:00",
       "album": {
         "name": "1979",
@@ -1351,6 +1335,22 @@
       "duration_ms": 290518,
       "name": "1979",
       "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
-    },
-    {
       "added_at": "2023-02-24 11:06:00",
       "album": {
         "name": "Sometimes I Feel",
@@ -1431,6 +1415,22 @@
       "duration_ms": 147354,
       "name": "Sometimes I Feel",
       "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Nervous - Acoustic",
-      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Leap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mmPsJx2nVfmeLoNV2l8ZN"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 199375,
       "name": "One Life - Acoustic",
       "url": "https://open.spotify.com/track/39oAsq0WaFq1I4SzPN3vbj"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Nervous - Acoustic",
+      "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
     },
     {
       "added_at": "2023-02-10 06:37:00",

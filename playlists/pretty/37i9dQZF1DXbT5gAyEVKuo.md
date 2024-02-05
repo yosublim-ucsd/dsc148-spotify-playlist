@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,243 likes - 49 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,271 likes - 49 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 5 | [Great Is Your Mercy \- Live](https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 8:04 |
 | 6 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 7 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
-| 8 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 |
-| 9 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 8 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
+| 9 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 |
 | 10 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |
 | 11 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
 | 12 | [Closer/Wrap Me In Your Arms](https://open.spotify.com/track/2ysp98TmA9ozUKoMhTedx1) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/7D2UJKCMfQzIu53zWTrGb8) | 9:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [He'll Take The Pain Away \- Live](https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [Kirk Franklin Presents Songs For The Storm, Volume 1](https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz) | 8:38 |
 | 49 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 |
 
-Snapshot ID: `MCw5YTViOGM5MTAxZTJkMzIyMGNmZGU2ZDYyMWYzM2ViNWY3NDE4Njhj`
+Snapshot ID: `MCxiZGRlYjI0ZWYwNzYxYmYzZDM4MmFlNjk4MDY1ZDY5YWUxNDYxMmVk`

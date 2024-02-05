@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 90683,
+  "num_followers": 90755,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTRlMGI1MjE3MDJmNmEyMmJjY2U0NjNhNWQyZGYyNmNkMGQ2N2Qx",
+  "snapshot_id": "MCw3MTY4YTEwZGQ5YzM3YTcwY2RkNDk2NzEyNDhjMzhkYjE2MmQ5ZDFk",
   "tracks": [
     {
       "added_at": "2023-11-16 12:00:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Veriditas",
-        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Seeming",
-      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Oblivion Hymns",
         "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 403250,
       "name": "Then the Quiet Explosion",
       "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Veriditas",
+        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Seeming",
+      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd"
-      },
-      "artists": [
-        {
-          "name": "Olma",
-          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
-        }
-      ],
-      "duration_ms": 146117,
-      "name": "Mystik",
-      "url": "https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "duration_ms": 146117,
+      "name": "Mystik",
+      "url": "https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Looking at the World Through a Window",
-        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Looking at the World Through a Window",
-      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 366290,
       "name": "In Light",
       "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Looking at the World Through a Window",
+        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "Looking at the World Through a Window",
+      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Crossing the Shoreline",
-        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
-      },
-      "artists": [
-        {
-          "name": "Aesthesys",
-          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
-        }
-      ],
-      "duration_ms": 450666,
-      "name": "Sailing to Byzantium",
-      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Crossing the Shoreline",
+        "url": "https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090"
+      },
+      "artists": [
+        {
+          "name": "Aesthesys",
+          "url": "https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn"
+        }
+      ],
+      "duration_ms": 450666,
+      "name": "Sailing to Byzantium",
+      "url": "https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Songs to Disappear to",
         "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
       "artists": [
         {
-          "name": "Rain No Rain",
-          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1547,6 +1531,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+      },
+      "artists": [
+        {
+          "name": "Rain No Rain",
+          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "I Wonder As I Wander",
+        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 136846,
+      "name": "I Wonder As I Wander",
+      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "I Wonder As I Wander",
-        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
-      },
-      "artists": [
-        {
-          "name": "Deerhoof",
-          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
-        }
-      ],
-      "duration_ms": 136846,
-      "name": "I Wonder As I Wander",
-      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
     },
     {
       "added_at": "2023-11-16 12:00:22",

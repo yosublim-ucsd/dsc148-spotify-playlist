@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,301 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,198 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 25 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 |
 | 26 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 |
 | 27 | [Come As You Are](https://open.spotify.com/track/7nQqRgkJz4yKbz0by1DY6t) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Come As You Are](https://open.spotify.com/album/0b3kdOPZ92v7bSjeYcbsuH) | 2:45 |
-| 28 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
-| 29 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
+| 28 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
+| 29 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
 | 30 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 31 | [Swingin Party](https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Tennis Court](https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47) | 3:42 |
 | 32 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 54 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
 | 55 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 56 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 |
-| 57 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 2:56 |
-| 58 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
+| 57 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
+| 58 | [It's Not Living \(If It's Not with You\)](https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 2:56 |
 | 59 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 60 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
 | 61 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 62 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 |
 | 63 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
-| 64 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
-| 65 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
+| 64 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
+| 65 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/7nghYGsh54yEir2qzPxqyk) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/2U3XfU54vAKKyJUgmnk2sf) | 2:33 |
 | 66 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 |
 | 67 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 |
 | 68 | [No Ordinary Love](https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 4:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 70 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 71 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 72 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
-| 73 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
-| 74 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 73 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
+| 74 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
 | 75 | [It Must Have Been Love](https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [It Must Have Been Love](https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB) | 4:07 |
 | 76 | [Youth](https://open.spotify.com/track/4ulix0RIyXmuNLgwPaz46S) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/3QRsoT9KLOyYYkNRtEkpRI) | 2:40 |
 | 77 | [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
 | 100 | [Running up That Hill](https://open.spotify.com/track/2xL5yK2xJZ2ZkNwRkmOi1M) | [Hollow Hum](https://open.spotify.com/artist/6NQ43mtSf2OvGJ02QZC8E6), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Running up That Hill](https://open.spotify.com/album/2gKHrg2lOloXI4aPpW2ajq) | 4:00 |
 
-Snapshot ID: `MCwyZWEwZTA3ZjAzNjAyMTY5NWI0YjAyYjkzOTFkOGFhMDUzMjkyOTE1`
+Snapshot ID: `MCxjZGZmOWMzODFjMmI5M2Q5YzI4YjBhZjljNDJmNmJiZGMzMGJmYWI1`

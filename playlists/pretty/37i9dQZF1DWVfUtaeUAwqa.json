@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7688,
+  "num_followers": 7691,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQxMTQwNTU5ZTM5YmY4MTY1MTFkNGZjM2Q2ZDc0MDY0OWZmNTNi",
+  "snapshot_id": "MCwxZWQ5NzQwN2MxYmM3NTIzMmI5NDMwMTM5M2FiZjZjM2U3MjAyYzU4",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "I Must Have It",
-        "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
-      },
-      "artists": [
-        {
-          "name": "Bourbon Street Jazzband",
-          "url": "https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO"
-        }
-      ],
-      "duration_ms": 175626,
-      "name": "New Orleans Shout",
-      "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Kid Ory New Orleans Jazz Man",
         "url": "https://open.spotify.com/album/4WDAhCf6ihX5PBZwpadK9Z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 183600,
       "name": "Savoy Blues",
       "url": "https://open.spotify.com/track/5LmttN1s1QbpLBVVCInT1N"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "I Must Have It",
+        "url": "https://open.spotify.com/album/6ZdBK9AQtlbIFhf2tszKY8"
+      },
+      "artists": [
+        {
+          "name": "Bourbon Street Jazzband",
+          "url": "https://open.spotify.com/artist/2SvsDVaQnwhr8da9LPepJO"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "New Orleans Shout",
+      "url": "https://open.spotify.com/track/5Pcr62bLUsT3KIotsiafwB"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Marie Laveau",
         "url": "https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -827,22 +827,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "All Time Jazz: New Orleans Rhythm Kings",
-        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
-      },
-      "artists": [
-        {
-          "name": "New Orleans Rhythm Kings",
-          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Bugle Call Blues",
-      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 182906,
       "name": "Nobody's Sweetheart",
       "url": "https://open.spotify.com/track/67OgTF92JaK5nJfLFqLEEu"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "All Time Jazz: New Orleans Rhythm Kings",
+        "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
+      },
+      "artists": [
+        {
+          "name": "New Orleans Rhythm Kings",
+          "url": "https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Bugle Call Blues",
+      "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -903,6 +903,38 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
+        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Carry Me Back to Old Virginia",
+      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Jam Session in Connecticut, Vol. 1",
         "url": "https://open.spotify.com/album/5KN6pi2feDQHvAg89CFHWd"
       },
@@ -939,38 +971,6 @@
       "duration_ms": 316186,
       "name": "Oh Dem Golden Slippers",
       "url": "https://open.spotify.com/track/0vnAC7cwUAHOc1a0ePHku2"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "30 Classics: Dixieland Jazz for Mardi Gras",
-        "url": "https://open.spotify.com/album/5heFsiR3EFo5kISFtOCFvE"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Carry Me Back to Old Virginia",
-      "url": "https://open.spotify.com/track/2BrcPZPjjLBS9y04floMD5"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",

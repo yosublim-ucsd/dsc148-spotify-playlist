@@ -1,33 +1,13 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. En portada: Enrique Iglesias y Yotuel",
-  "num_followers": 902216,
+  "num_followers": 900732,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmU5MjRlMjUzZThjYzU2Y2Y5MDRlOGE2YjMwZWViNjM2ZTQzNjhj",
+  "snapshot_id": "MCw4NGE2MDA5YmFjZmM5YjRkNGM4YTQ3MTA0NTMxZWFmOTJkNjNmYzJh",
   "tracks": [
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
-    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -47,74 +27,6 @@
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "LA \u00daLTIMA",
-        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "LA \u00daLTIMA",
-      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Ni 1 Complejo",
-        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Ni 1 Complejo",
-      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -139,22 +51,90 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "MAMI CHAKALOSA",
-        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
         }
       ],
-      "duration_ms": 136843,
-      "name": "MAMI CHAKALOSA",
-      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Hora y Cuarto",
+        "url": "https://open.spotify.com/album/1xUIdCd4oUAi4RfRCiEDSS"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Hora y Cuarto",
+      "url": "https://open.spotify.com/track/0FBxeN2bXaWtKBnCEibsYk"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "UNA BACHATA",
+      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ke onda mami",
+        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Ke onda mami",
+      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -183,34 +163,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Par De Quina",
-        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Despierta y Mata",
-      "url": "https://open.spotify.com/track/4UVSywSk2DYi6gHWU9OoZV"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "QUE NOS FALTE TODO",
-        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
-      },
-      "artists": [
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 148979,
-      "name": "Y TE VAS",
-      "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -239,38 +207,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "Ni 1 Complejo",
+        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 157846,
-      "name": "UNA BACHATA",
-      "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Hora y Cuarto",
-        "url": "https://open.spotify.com/album/1xUIdCd4oUAi4RfRCiEDSS"
-      },
-      "artists": [
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Hora y Cuarto",
-      "url": "https://open.spotify.com/track/0FBxeN2bXaWtKBnCEibsYk"
+      "duration_ms": 174580,
+      "name": "Ni 1 Complejo",
+      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -299,18 +247,94 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ke onda mami",
-        "url": "https://open.spotify.com/album/3JSPMTpwovsOLxE42j86fd"
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Ke onda mami",
-      "url": "https://open.spotify.com/track/3YAaX53OAo2FUCUANHXge4"
+      "duration_ms": 148979,
+      "name": "Y TE VAS",
+      "url": "https://open.spotify.com/track/21RG4bCz6wb3iDCshmUGYT"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "El Amor De Su Vida",
+        "url": "https://open.spotify.com/album/6mQpE52JhnJRQ7y6RXMc7B"
+      },
+      "artists": [
+        {
+          "name": "Combinacion De La Habana",
+          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
+        },
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 189088,
+      "name": "El Amor De Su Vida",
+      "url": "https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Wepa Wepa",
+        "url": "https://open.spotify.com/album/5CobW6x3NVSAQDwrJ6lzIm"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Wepa Wepa",
+      "url": "https://open.spotify.com/track/7c4S4iIqvKA4x7HjwmAtp2"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -355,26 +379,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Wepa Wepa",
-        "url": "https://open.spotify.com/album/5CobW6x3NVSAQDwrJ6lzIm"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Wepa Wepa",
-      "url": "https://open.spotify.com/track/7c4S4iIqvKA4x7HjwmAtp2"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Te Rajo",
         "url": "https://open.spotify.com/album/6jRsmljUOnljdA1xEpd5Sr"
       },
@@ -391,26 +395,6 @@
       "duration_ms": 171600,
       "name": "Te Rajo",
       "url": "https://open.spotify.com/track/4JubdX9RoAAlxjEO9szU9x"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Jugolita",
-        "url": "https://open.spotify.com/album/2ad01w7AspDe9YqS3y9FMO"
-      },
-      "artists": [
-        {
-          "name": "La Mas Doll",
-          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Jugolita",
-      "url": "https://open.spotify.com/track/6FcUdiFCGjSNZeLWHEVVz0"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -451,6 +435,42 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Jugolita",
+        "url": "https://open.spotify.com/album/2ad01w7AspDe9YqS3y9FMO"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Jugolita",
+      "url": "https://open.spotify.com/track/6FcUdiFCGjSNZeLWHEVVz0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Par De Quina",
+        "url": "https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Despierta y Mata",
+      "url": "https://open.spotify.com/track/4UVSywSk2DYi6gHWU9OoZV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "M\u00e1s Normal De Lo N... (83%)",
         "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 262593,
       "name": "En Vez de Huir",
       "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "El Amor De Su Vida",
-        "url": "https://open.spotify.com/album/6mQpE52JhnJRQ7y6RXMc7B"
-      },
-      "artists": [
-        {
-          "name": "Combinacion De La Habana",
-          "url": "https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y"
-        },
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 189088,
-      "name": "El Amor De Su Vida",
-      "url": "https://open.spotify.com/track/7hFyogy6yOO9JAILq3QvV8"
     },
     {
       "added_at": "2024-02-02 05:00:00",

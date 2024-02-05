@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,004 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,028 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 11 | [Avalon](https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:16 |
 | 12 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
 | 13 | [Hold Me Now](https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo) | 4:46 |
-| 14 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
-| 15 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
+| 14 | [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 |
+| 15 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 16 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:36 |
 | 17 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
 | 18 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 39 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 | 40 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
 | 41 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
-| 42 | [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 |
-| 43 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
+| 42 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
+| 43 | [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 |
 | 44 | [And Dream Of Sheep](https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 2:45 |
 | 45 | [Live to Tell](https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:18 |
 | 46 | [Exile \- 2009 Remaster](https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark \(2009 Remaster\)](https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [I'll Find My Way Home \- Remastered](https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Friends Of Mister Cairo \(Remastered\)](https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB) | 4:30 |
 | 80 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 
-Snapshot ID: `MCw5NDgzNjA4OWE4NzY0MmFmNWRkMGQzM2ZhMGU2ZmQyZmNlZTk0ODc5`
+Snapshot ID: `MCxhYzFiYzU3NTQ0NWE0ZTY0N2RlMjdlMmQwMTAwY2E0Nzk3ZDJlZGYw`

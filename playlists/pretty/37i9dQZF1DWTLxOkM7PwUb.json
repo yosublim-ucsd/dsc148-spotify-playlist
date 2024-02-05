@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 39331,
+  "num_followers": 39384,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE3NTMzYTQzZDRhMzE1ODZjOGE5NmQ1ZjBkZDljZDFkYzVhODYx",
+  "snapshot_id": "MCxjMzc5NjQyMjY1OTExNjg2NjMxYWVkMjFlNTIxZjY0OTlhMzFjMDdh",
   "tracks": [
     {
       "added_at": "2024-01-12 03:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2024-01-12 03:00:00",
@@ -291,22 +295,18 @@
     {
       "added_at": "2024-01-12 03:00:00",
       "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2024-01-12 03:00:00",

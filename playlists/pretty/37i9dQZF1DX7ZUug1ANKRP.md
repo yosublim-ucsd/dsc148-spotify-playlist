@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Luca\-Dante Spadafora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,802,172 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,801,266 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Talk To My Body](https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Talk To My Body](https://open.spotify.com/album/17GycKc0zIQqi7NJ8qraKn) | 2:27 |
 | 50 | [If We Don’t](https://open.spotify.com/track/0Zp0v6Fd47tdjHdhynPcjr) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If We Don’t](https://open.spotify.com/album/2vDvJRluMiScDpNGgZEZjJ) | 2:12 |
 
-Snapshot ID: `MCw0MDBhZDE2Mzg5YWU5ZGMwNmU2NjY1MjcxNTU3OGMzMGZhNTgzZTAy`
+Snapshot ID: `MCxkM2NhMmE3ZDFhYTExYTI3NzM2YmE4MmI2ZGM4YjkyNGQ2MzBlZDI5`

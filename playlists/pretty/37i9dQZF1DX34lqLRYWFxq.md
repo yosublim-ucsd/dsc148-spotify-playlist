@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > Your weekly Rock update\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,099 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,097 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [cry baby](https://open.spotify.com/track/37lCmiRvR1tnyLDLc51vDy) | [nicole amoroso](https://open.spotify.com/artist/1YJQ6X2HtbL1xNTfPm0Ft7) | [cry baby](https://open.spotify.com/album/00ipBVb0eJJUtLj5aBf0y7) | 2:55 |
 | 100 | [Hunger Games](https://open.spotify.com/track/5DNLtVGw0jGfHVDtuZHs3g) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 3:40 |
 
-Snapshot ID: `MCwzMGYyN2MyOWQxNzYwZTBmYjYzNzY2YmQzZDUxMjgyYjU1YjkwOWI4`
+Snapshot ID: `MCxlMjdjYmE3YjhlODUwNTQwMDlmZGY2OWZmOWYyOTFjY2MyNzgxYjU1`

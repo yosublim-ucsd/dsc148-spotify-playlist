@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,875 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,901 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 49 | [Cinta Ini Membunuhku](https://open.spotify.com/track/53epbNYjH2elPuHjpqRSUk) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [Hits Terbaik D'Masiv](https://open.spotify.com/album/4tjbcNWV8Je7yNBbYVObfX) | 4:03 |
 | 50 | [Mungkin Nanti](https://open.spotify.com/track/1D7GuxwgqFZzGnhJwvQU8X) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Bintang di Surga](https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz) | 4:29 |
 
-Snapshot ID: `MCw2YzM4NjNhODQ0NTdlYzhiMWE2ZmQ2YzM0ZTE5YjlmN2Q5ZGY5NTQx`
+Snapshot ID: `MCxlNmIwZmRkM2MxNjYwYzAyY2ZhNGVkMThjMDkxZTI1Y2UxMzlhMDI3`

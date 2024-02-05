@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Yaya Bey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,777 likes - 107 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,758 likes - 107 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 106 | [LGOYH \- Let Go Of Your Hurt](https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Original Score\)](https://open.spotify.com/album/2a7sbyp6zoxjTOcTXeg1pi) | 3:26 |
 | 107 | [Don't Touch!](https://open.spotify.com/track/7KJStRowXCMzl0C60m3O4Z) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Touch!](https://open.spotify.com/album/1wEVbOHAk8ah8Dg6NgsAG0) | 2:52 |
 
-Snapshot ID: `MCwzMzk2NmM5YzU5NjMyMzkxNzg3OTYxYmU0NDNkOThjZjI0MDI2MGFm`
+Snapshot ID: `MCw3YjBjZWYzMjNiMjBkNzMxMmRmMzg5MTVhMDc5NTllNWQ5MWI1NTRi`

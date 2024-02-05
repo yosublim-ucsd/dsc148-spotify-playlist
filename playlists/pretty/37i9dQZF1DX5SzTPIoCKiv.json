@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 603686,
+  "num_followers": 603557,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTZiNTMwNWE4N2I4MjYwMTc4YmJmYjg3NDZkNDVkZjUyYzQ4ZjZj",
+  "snapshot_id": "MCwyOGM1ZmJhZDEzN2VlODNjZjEzYjJkNjRlYjY5OGE1NmFiZmUwNWJi",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 187266,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Rivers in the Wasteland",
         "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 275560,
       "name": "Multiplied",
       "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "In the Arms",
-        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "In the Arms",
-      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+        "name": "In the Arms",
+        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+      "duration_ms": 232800,
+      "name": "In the Arms",
+      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 393360,
       "name": "Another In The Fire - Live",
       "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1227,30 +1227,6 @@
       "duration_ms": 218665,
       "name": "You've Always Been",
       "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 449253,
-      "name": "Whole Heart (Hold Me Now) - Live",
-      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1351,6 +1327,30 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 205800,
       "name": "Love Moved First",
       "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1435,6 +1415,26 @@
       "duration_ms": 202480,
       "name": "I Will Fear No More",
       "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 210697,
       "name": "Like You Love Me",
       "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
     },
     {
       "added_at": "2023-02-18 03:22:25",

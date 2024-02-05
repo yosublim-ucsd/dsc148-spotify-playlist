@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Valence
 
-2,310 songs - 5 day 3 hr 15 min
+2,311 songs - 5 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1087,6 +1087,7 @@
 | [La cible](https://open.spotify.com/track/0cQ60QJbAbFtyuBy8IKCnl) | [BAAB](https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR) | [La cible](https://open.spotify.com/album/0grAWrfhIkc3ODzycL8sWQ) | 3:46 | 2022-03-04 | 2022-03-18 |
 | [La clé](https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La clé](https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA) | 2:55 | 2021-12-31 | 2022-01-22 |
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-02-26 |
+| [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-02 |  |
 | [La course ou la vie](https://open.spotify.com/track/72lMVBBmE7duYmsF1SpHny) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi), [Polo](https://open.spotify.com/artist/2ms9ObpCtg7f0UyZJOikSW) | [La course ou la vie](https://open.spotify.com/album/2mysaFAd6HtnTEJkmndR2a) | 3:27 | 2022-10-07 | 2022-10-22 |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2023-10-21 |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-05-14 |
@@ -2276,7 +2277,7 @@
 | [À l'aube](https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [À l'aube](https://open.spotify.com/album/6tNyzj2OVtD3W4rVoNFA0I) | 3:03 | 2022-05-13 | 2022-05-20 |
 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 | 2023-10-30 |
 | [À la danse](https://open.spotify.com/track/5hv4VnqMXXi4xD1dfOfigp) | [Émilie Landry](https://open.spotify.com/artist/09wVe7ulMAlyVMZpKEI5ar) | [À la danse](https://open.spotify.com/album/7AMrml4ZxzpDudV4IDEiis) | 3:26 | 2022-07-01 | 2022-07-16 |
-| [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2023-12-22 |  |
+| [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2023-12-22 | 2024-02-05 |
 | [À la maison](https://open.spotify.com/track/262iZhl0uou39JD0irMRdX) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP3](https://open.spotify.com/album/2YtgCxAn3lAwBOidRQ8lDe) | 4:42 | 2022-02-04 | 2022-02-12 |
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-08-26 |
 | [À la tête du monde](https://open.spotify.com/track/04Be4rY9wl1DmvO4YiYjtJ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Pagail](https://open.spotify.com/artist/4ZYhY3xoiTwIhNL5Mx7HH1) | [À la tête du monde](https://open.spotify.com/album/0hRslk316odnBngGPsjaFE) | 4:10 | 2022-08-26 | 2022-09-10 |

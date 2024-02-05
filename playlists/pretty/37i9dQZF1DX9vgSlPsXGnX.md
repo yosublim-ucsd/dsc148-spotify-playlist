@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,368 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,424 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 9 | [Adoro](https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:21 |
 | 10 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
 | 11 | [Tres Regalos](https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
-| 12 | [Te Amaré Toda la Vida](https://open.spotify.com/track/60TNuPO8CKIjHstvZ9y5JN) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 2:12 |
+| 12 | [Contigo](https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:58 |
 | 13 | [Noche No Te Vayas](https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ) | 2:58 |
-| 14 | [Contigo](https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:58 |
+| 14 | [Te Amaré Toda la Vida](https://open.spotify.com/track/60TNuPO8CKIjHstvZ9y5JN) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 2:12 |
 | 15 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 16 | [Perdon](https://open.spotify.com/track/6Vdz67EdEfB0d7BItvj9kt) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl) | 3:12 |
 | 17 | [La Gloria Eres Tú](https://open.spotify.com/track/79BOX5jI2CAhA8d7GD7FGY) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Sortilegio](https://open.spotify.com/track/0BErJnxQYdU7BOrwkPbP65) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Antología ...Boleros](https://open.spotify.com/album/7GsjuSOmrNWEt01dcKufNj) | 2:54 |
 | 75 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 
-Snapshot ID: `MCwwYzk1NjBhMmFkMmVjYTJjZTEzMDU4OGFkODljODNjYjY5ZDNlYjk4`
+Snapshot ID: `MCwyOWI3ZDY3NTAzYjQ5ZDhiZGY2N2QzMmQxZTQ2ZmJkMjMyZDg3Yjcx`

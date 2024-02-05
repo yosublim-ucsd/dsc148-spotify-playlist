@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,218 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,280 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 50 | [La juma de ayer](https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 7:49 |
 
-Snapshot ID: `MCw2NGM2OTczMjkwODA0OGU5Mzc0Y2ViNWRiNGZkM2MyMjNjZDE3OTlh`
+Snapshot ID: `MCxhMmZjMzMyOGExNzAxOTdjYjIzMTA5NjExZThlMjZlNTQwNzQ0MGRi`

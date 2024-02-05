@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 250608,
+  "2024-02-05": 250719,
   "date_first_scraped": "2022-05-27",
   "description": "pi po po po ro po ",
   "name": "faz a trend",
@@ -5019,7 +5019,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 269306,
       "name": "Linda Voz (Ol\u00e1)",
       "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
@@ -5671,7 +5671,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -6163,6 +6163,24 @@
       "duration_ms": 120005,
       "name": "Na Moral Cansei",
       "url": "https://open.spotify.com/track/2znYE1SoYGohShR9lt4nTo"
+    },
+    {
+      "album": {
+        "name": "NA SUA VIDA SOU O PROBLEMA",
+        "url": "https://open.spotify.com/album/7adLx71Xqjsuc8RG76QjCJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Guilherme Borges",
+          "url": "https://open.spotify.com/artist/6N36j5ScPDfEJGKtqgXIo0"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127523,
+      "name": "NA SUA VIDA SOU O PROBLEMA",
+      "url": "https://open.spotify.com/track/6MLf0qQuv2HugbRcUOEZZc"
     },
     {
       "album": {
@@ -8018,6 +8036,32 @@
     },
     {
       "album": {
+        "name": "Quem Sera Sortuda",
+        "url": "https://open.spotify.com/album/4nfwTLPctnXGiKn05R3mBd"
+      },
+      "artists": [
+        {
+          "name": "Mc chefe original",
+          "url": "https://open.spotify.com/artist/3NQ7C9Z5KVBTCOA2jbJx9U"
+        },
+        {
+          "name": "Gelado No Beat",
+          "url": "https://open.spotify.com/artist/3X7VxdZdaVTzUFCuAsjpIO"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131541,
+      "name": "Quem Sera Sortuda",
+      "url": "https://open.spotify.com/track/4auUiEZ3XnaNr5GlMNO9Vn"
+    },
+    {
+      "album": {
         "name": "Rave e Bagaceira",
         "url": "https://open.spotify.com/album/4PMmbtTltGCjdDhWdIdyj3"
       },
@@ -9167,7 +9211,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 239727,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"

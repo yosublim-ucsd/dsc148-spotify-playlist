@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,809 likes - 63 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,945 likes - 63 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 62 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 | 63 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `MCw5OTJhZDNlN2E4MTBjZGRhZWU1Y2EzOTE5NjE5NDRmYTVmNjE2MTli`
+Snapshot ID: `MCxjOTg1YjgzZDM1OWEzNjVjYWFmYTc2YTMxMDQ4NDdhNTUwMjk3MmMw`

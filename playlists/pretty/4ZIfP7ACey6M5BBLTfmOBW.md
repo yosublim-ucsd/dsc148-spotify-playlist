@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,907 likes - 60 songs - 3 hr 2 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,893 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 10 | [Good Intentions](https://open.spotify.com/track/29CGhjmcFBSC7D2zOwBNB5) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Good Intentions](https://open.spotify.com/album/3oEnNyKuyAZuKYoEAoX6YV) | 2:36 |
 | 11 | [I'm The Type](https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [chief wuk](https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:36 |
 | 12 | [Blick \(feat\. NLE Choppa\) \- Remix](https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Blick \(feat\. NLE Choppa\) \[Remix\]](https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc) | 3:08 |
-| 13 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 13 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 14 | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 |
 | 15 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 |
 | 16 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 |

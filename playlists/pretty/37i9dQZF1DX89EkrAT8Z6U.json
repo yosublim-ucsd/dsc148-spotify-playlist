@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 952870,
+  "num_followers": 954450,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTcwM2NhOWJmYjMzNTRlNDBmMTA4ZWQ2MTE3MGM3ZjAyNmRjYjIz",
+  "snapshot_id": "MCxmYmI2YWY4NjdmNWQ3ZDZjOGYyNmZlMDk5OGQ1ZTgxZTA1YTIxMGE2",
   "tracks": [
     {
       "added_at": "2024-01-12 18:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "paranoia",
         "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
       },
@@ -187,22 +171,6 @@
       "duration_ms": 117408,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 180774,
-      "name": "Not Even Ghosts Are This Empty",
-      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -223,6 +191,38 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 180774,
+      "name": "Not Even Ghosts Are This Empty",
+      "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/7E5iS4h201MO7HWZqbrMU4"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/3yMrcqveZ2DrWBYJbDsous"
     },
     {
       "added_at": "2024-01-12 18:00:00",

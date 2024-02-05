@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: HBz
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,321 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,547 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Give It to Me](https://open.spotify.com/track/7GUKliw8tYg2TtzfLpYg1S) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Give It to Me](https://open.spotify.com/album/6uuKUqOoXBTttANgKXdfHA) | 2:16 |
 | 75 | [Shower](https://open.spotify.com/track/19ThLx9IwEpMG45DlHd7fp) | [Chris El Greco](https://open.spotify.com/artist/3TvatwVBsckmLkhtoaxp3K) | [Shower](https://open.spotify.com/album/48iiBdroLKZOIwoexsRMDH) | 2:18 |
 
-Snapshot ID: `MCxiMGMwYmMxOGM5ZWFiZGNjODA2ZTVjNGQ0NDY3NDM0ZjdlZGJmMmYx`
+Snapshot ID: `MCw2MTM1ZTEzZmNjZWEwYWIzY2ExMDkyMjc1NmRiOGIzMTAyNmVlZWQy`

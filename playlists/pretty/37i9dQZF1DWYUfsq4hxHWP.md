@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,471 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,485 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 65 | [Late](https://open.spotify.com/track/31EsY9FZ4tOhN1SxzPgupn) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Late](https://open.spotify.com/album/45tddrgl43M0LR3jLB2htc) | 3:41 |
 | 66 | [Anything But What It Was](https://open.spotify.com/track/5yyGQm1OGtF7xQu6aOlNf5) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Anything But What It Was](https://open.spotify.com/album/5Knhe9lAIeVIrv4gDaK7Pk) | 3:12 |
 | 67 | [Ran Out of Road](https://open.spotify.com/track/3lRXyRwGTL3FnaYCNGYjAm) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Ran Out of Road](https://open.spotify.com/album/0F1fLw1ijIADfT8jd0Belc) | 3:00 |
-| 68 | [Same You](https://open.spotify.com/track/52Gw0J24KpdvITqjngF6Pb) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Same You](https://open.spotify.com/album/0KclLvZwxANfpNl6dptLCh) | 2:33 |
+| 68 | [Same You](https://open.spotify.com/track/3TZXrcuetPGOovtsSnMtjc) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 2:33 |
 | 69 | [Greatest Story](https://open.spotify.com/track/34TUPfDE0mwk8iqRgy1iKJ) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC), [Kayley Bishop](https://open.spotify.com/artist/6T6PhZvVp4pb5rbnj1ygeQ) | [Greatest Story](https://open.spotify.com/album/3C1v7tuzN1ZbVSm8awZixh) | 4:04 |
 | 70 | [Light of Day](https://open.spotify.com/track/5ptaewKJSljHPLaR91tU7c) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Light of Day](https://open.spotify.com/album/39eYjNdVxmxoCX4tvjIl5K) | 3:28 |
 | 71 | [Stay](https://open.spotify.com/track/41uS75lnqpIfyYA9haYNsc) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Stay](https://open.spotify.com/album/23mdUcRpEqbX7nCvOcaUtc) | 2:55 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 73 | [Airplane](https://open.spotify.com/track/400dH8GoaaNGPyKm3yWqJD) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Airplane](https://open.spotify.com/album/0sGaAhqXXTtDHdXVZ5UR5e) | 3:32 |
 | 74 | [Lay It All On Me](https://open.spotify.com/track/3d3c8quA4YWqwTe940UdCc) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Lay It All On Me](https://open.spotify.com/album/6x9Bg511ppKcoJFWPjP9r5) | 3:05 |
 | 75 | [Drunk, Stoned, or Sober](https://open.spotify.com/track/7rmWdcMuBiqlVvSZga6pUM) | [Josh David](https://open.spotify.com/artist/6cXFSmw85OTvCKHnZnVBy8) | [Drunk, Stoned, or Sober](https://open.spotify.com/album/2l5vi8KM2igaDFI5tupyGa) | 2:54 |
-| 76 | [Every Boy's Girl](https://open.spotify.com/track/2OjCphtFcgMncFiRZFyuZ0) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Every Boy's Girl](https://open.spotify.com/album/5rVr44whWhl5vQP096mjiY) | 3:09 |
+| 76 | [Every Boy's Girl](https://open.spotify.com/track/5Abo95RRTF7gNxK43aJIP9) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 3:09 |
 | 77 | [Mrs\. Lonely](https://open.spotify.com/track/0uGCJblPOqTraD776sNNdW) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Mrs\. Lonely](https://open.spotify.com/album/7tOOBhnmQnnoRZm00KHFZO) | 3:43 |
 | 78 | [Good On You](https://open.spotify.com/track/5EY8kdEyyGf9Lx0bBGUGZa) | [Steven Cali](https://open.spotify.com/artist/5r6D8shj3aoncfvLAhMyUD) | [Good On You](https://open.spotify.com/album/5Zcxg4zmO2UoWPYnceUknq) | 2:36 |
 | 79 | [Lonely Half](https://open.spotify.com/track/2BQnFxkXGlhK6DEKys1vcB) | [Nolan Gray](https://open.spotify.com/artist/1OYSaj41rLrzYgckKdMTBN) | [Lonely Half](https://open.spotify.com/album/69A6wpjebCtcaZMANUcJoZ) | 2:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 84 | [Run Girl Run](https://open.spotify.com/track/3JdC1sHodJSQKB6CeIhTFr) | [Jess Antonette](https://open.spotify.com/artist/5TSuYlF2Nq7kAiSQ8Qe20G) | [Run Girl Run](https://open.spotify.com/album/3Qff5lmanAuoqWVx86RTuZ) | 2:42 |
 | 85 | [All Night Longer](https://open.spotify.com/track/2ZyUI5u4aeGZKhOl8cqehj) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/5jKe6XfmMaepzDQlJMwRTN) | 2:55 |
 
-Snapshot ID: `MCwyODA2MjhhZmZmNWNjNThhZmRjYzBmMzVlYjFiZWJkNWEyNGFhMjg5`
+Snapshot ID: `MCw2OGE3MDlkZTkyYTY3ODQ3N2NjZTZkOTAwYmFkZTI2ZmJkMTViNzBk`

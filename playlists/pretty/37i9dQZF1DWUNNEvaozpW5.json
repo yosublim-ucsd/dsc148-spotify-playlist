@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa con Fito.",
-  "num_followers": 570160,
+  "num_followers": 569823,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjlmNTc2MjRkMmE4YmNjYTgwN2QzZDQ5YjQ1NjAyZmMwMjkwYjg4",
+  "snapshot_id": "MCxkNGY0NWI2NjRiZDM2YzYwMTZiYTkzYjA2M2E5ZjgwNzRmZTFiYzI0",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "El \u00daltimo de la Fila, los Burros & los R\u00e1pidos...Historia de una Banda (Autobiograf\u00eda S\u00f3nica)",
-        "url": "https://open.spotify.com/album/7ah8WaQyfxS1d0NpIwSB3A"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Rock & Roll Star - 30 a\u00f1os",
         "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 214560,
       "name": "Cadillac solitario",
       "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "El \u00daltimo de la Fila, los Burros & los R\u00e1pidos...Historia de una Banda (Autobiograf\u00eda S\u00f3nica)",
+        "url": "https://open.spotify.com/album/7ah8WaQyfxS1d0NpIwSB3A"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Te entiendo",
-        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
       "artists": [
         {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 240814,
-      "name": "Te entiendo",
-      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+        "name": "Te entiendo",
+        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+      "duration_ms": 240814,
+      "name": "Te entiendo",
+      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Marines A Pleno Sol",
         "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 192106,
       "name": "El imperio contraataca",
       "url": "https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Mundo Amador",
+        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
+      },
+      "artists": [
+        {
+          "name": "Raimundo Amador",
+          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Ay Que Gustito Pa' Mis Orejas",
+      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "Ur\u00f3boros",
         "url": "https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Mundo Amador",
-        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
-      },
-      "artists": [
-        {
-          "name": "Raimundo Amador",
-          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Ay Que Gustito Pa' Mis Orejas",
-      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
     },
     {
       "added_at": "2024-02-01 23:01:00",

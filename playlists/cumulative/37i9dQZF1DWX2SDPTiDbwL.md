@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-62 songs - 4 hr 18 min
+63 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Daydream](https://open.spotify.com/track/01MsqwaG0kCMTBJUAEkFAV) | [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Spanish Kiss](https://open.spotify.com/album/4Fpko3OsvVUPla3xgiI8y7) | 6:21 | 2023-09-01 |  |
 | [Deep Green Moss](https://open.spotify.com/track/5AVkWOBydjuuJSbSP1i30b) | [Woodworks](https://open.spotify.com/artist/6FQvXfhjXqjvOhfHIa5CTY) | [Deep Green Moss](https://open.spotify.com/album/4q83V4R8vbdJOhLgbOOPCT) | 2:18 | 2023-09-01 |  |
 | [Dos Cruces](https://open.spotify.com/track/40yYzeImyqUkNcz0Fh7bVj) | [Chico García](https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK) | [Guitarra Española \- Pasion Latina Vol.3 \(Spanish Guitar \- Latin Passion\)](https://open.spotify.com/album/1vzaRM0Jm4sHyAuqZCNx6e) | 2:52 | 2023-09-01 |  |
-| [Dust In The Wind](https://open.spotify.com/track/4f3SRf6hsznSu41rTYJF8Y) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Flamenco Guitar Classics](https://open.spotify.com/album/2NN0ktOwwRa05rYdXG5Jzh) | 3:22 | 2023-09-01 |  |
+| [Dust In The Wind](https://open.spotify.com/track/4f3SRf6hsznSu41rTYJF8Y) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Flamenco Guitar Classics](https://open.spotify.com/album/2NN0ktOwwRa05rYdXG5Jzh) | 3:22 | 2023-09-01 | 2024-02-05 |
+| [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 | 2024-02-01 |  |
 | [Elenion](https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 4:18 | 2023-09-01 |  |
 | [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2023-09-01 |  |

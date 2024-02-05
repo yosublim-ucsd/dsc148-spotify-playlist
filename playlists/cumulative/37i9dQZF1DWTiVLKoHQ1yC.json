@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Lofthaus",
+        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "Lofthaus",
+      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
+    },
+    {
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 231830,
       "name": "Shizumu",
       "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"

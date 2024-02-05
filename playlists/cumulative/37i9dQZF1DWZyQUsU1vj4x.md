@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-188 songs - 11 hr 44 min
+189 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Sirens](https://open.spotify.com/track/2jYHFtUZkROTD0nxW9U3uV) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 3:37 | 2022-01-27 |  |
 | [Sirens](https://open.spotify.com/track/7tT2BrYZMf6QDRaoOKni7Y) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Run Lola Run](https://open.spotify.com/album/4QEIDOQyIMdhJ1M7Ta3vau) | 3:37 | 2022-10-21 | 2022-11-13 |
 | [Sirens](https://open.spotify.com/track/7wtcwNsW2Wn6lhFokzJQ7N) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Sirens](https://open.spotify.com/album/0w0fVz3l0eVHYEDj1a81Fe) | 3:37 | 2019-10-31 | 2022-07-29 |
-| [Small Minds](https://open.spotify.com/track/0CP7grqQw8tVNmOjJlMNdA) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:17 | 2023-11-10 |  |
+| [Small Minds](https://open.spotify.com/track/0CP7grqQw8tVNmOjJlMNdA) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 4:17 | 2023-11-10 | 2024-02-05 |
+| [Small Minds](https://open.spotify.com/track/4lTzGMCPPpaN157TlQEqux) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/7L34N3XXZnO92a5xxn6zox) | 4:17 | 2024-01-29 |  |
 | [Small Minds](https://open.spotify.com/track/5udZQ5BrYVsggZZovH97QN) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 4:17 | 2022-01-27 | 2024-01-27 |
 | [Small Minds](https://open.spotify.com/track/7xXMKuvRMO41D6FucI7BGv) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 4:17 | 2019-10-31 | 2022-10-16 |
 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 | 2019-10-31 |  |

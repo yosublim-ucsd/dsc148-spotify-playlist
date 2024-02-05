@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-69 songs - 3 hr 44 min
+70 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 |  |
 | [Felicidad \(De la serie 'Berlin' de Netflix\)](https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO) | [Pedro Alonso](https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO), [Tristan Ulloa](https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M) | [Felicidad \(De la serie 'Berlín' de Netflix\)](https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ) | 3:20 | 2024-01-29 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 4:35 | 2024-01-30 |  |
-| [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 | 2024-01-30 |  |
+| [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 | 2024-01-30 | 2024-02-05 |
 | [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2024-01-29 | 2024-01-31 |
 | [Hypnagogic](https://open.spotify.com/track/2K2DuY8cgFXw0CbSk9RTVx) | [YESNOMAYBE](https://open.spotify.com/artist/3JpFrZxpB4sIKorJuTSfbm) | [Hypnagogic](https://open.spotify.com/album/3iSkxhQOLekkgwijdOGMo3) | 3:09 | 2024-01-29 | 2024-02-02 |
+| [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-02-04 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-29 |  |
 | [Ik Sta Altijd Voor Je Klaar](https://open.spotify.com/track/2EzAxECY5fwgRWp8DJgy7g) | [Milo](https://open.spotify.com/artist/5S5dmk3QOstGborv89x64n), [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Ik Sta Altijd Voor Je Klaar](https://open.spotify.com/album/6Xu2TWS223BQ9QSy9x3Dtr) | 2:59 | 2024-01-29 |  |
 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-30 |  |

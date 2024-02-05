@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 58213,
+  "num_followers": 58226,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJiZGJiNTgwNDYwNDgyYTNiNjU4NjZkOTA1NzllY2I1MWE1OWZk",
+  "snapshot_id": "MCw3YmUzODI5N2FkMTNiYTEzZDE4YmY1NThiZjhlOTk5MmI2NjI5Mzcy",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Eternal Atake",
+        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "P2",
+      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Eternal Atake",
-        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "P2",
-      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Opp Stoppa (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Zaramay: Bzrp Music Sessions, Vol. 31",
         "url": "https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V"
       },
@@ -1051,46 +1051,6 @@
       "duration_ms": 219545,
       "name": "Zaramay: Bzrp Music Sessions, Vol. 31",
       "url": "https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Only You Freestyle",
-        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 248936,
-      "name": "Only You Freestyle",
-      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "Lock It Up (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1123,22 +1083,42 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "TattleTales",
-        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 202666,
-      "name": "TROLLZ",
-      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
+      "duration_ms": 170226,
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Only You Freestyle",
+        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 248936,
+      "name": "Only You Freestyle",
+      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1159,22 +1139,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6f9LKRKpSTI5m2O0yBlWQS"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+      "duration_ms": 202666,
+      "name": "TROLLZ",
+      "url": "https://open.spotify.com/track/3xIzkKqp7oe37NEVrcPjGS"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1195,6 +1175,26 @@
       "duration_ms": 239120,
       "name": "Los Bo",
       "url": "https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-09-01 14:43:51",

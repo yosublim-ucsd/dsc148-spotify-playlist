@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,189 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,146 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
 | 50 | [Stuck In Paradise](https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U) | 2:04 |
 
-Snapshot ID: `MCwzZWQ0MTRjMjgyYzc4MDg5YTAxY2M3NmU3OGE2NjVkYTY4ZDUzOGJk`
+Snapshot ID: `MCxlYjY4MTUyYmIyMzdhZjdmYTg3OThmMGY1YTY2MmE0NWM5YzUwNWJl`

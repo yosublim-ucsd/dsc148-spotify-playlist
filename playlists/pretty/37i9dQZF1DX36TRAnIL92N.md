@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,638 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,090 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 42 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
 | 43 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 44 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
-| 45 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
-| 46 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
+| 45 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
+| 46 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
 | 47 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
 | 48 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 | 49 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
 | 50 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
 
-Snapshot ID: `MCw0MjBiZTA5MDdmOWFkYzhhZDU3Yjk5M2FmYzRmYjllZWQxMDJiNGM0`
+Snapshot ID: `MCxiNjczYzI4M2Y5MmNkY2IyMDFiMDNiOGRkMTZhMWI2NDdlM2QyODJk`

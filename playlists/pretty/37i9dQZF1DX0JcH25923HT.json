@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 424801,
+  "num_followers": 424840,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmU0YmJhODVmOTg5M2NjNTY5ODlmMDFhMTk2NWY4YjE4YzljYTM1",
+  "snapshot_id": "MCxhMWI1NTZhZjJmYjAwOTA4MmZhZjU5MGIyMzI0YTczZmUyOGExYWE0",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -83,6 +83,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
         "url": "https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn"
       },
@@ -107,30 +131,6 @@
       "duration_ms": 264000,
       "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
       "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -635,6 +635,46 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Hello Cotto",
+        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 217250,
+      "name": "Hello Cotto",
+      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
       },
@@ -679,58 +719,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Hello Cotto",
-        "url": "https://open.spotify.com/album/1QQmv8TccnAUiTYsX6Z02I"
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "Hello Cotto",
-      "url": "https://open.spotify.com/track/422Avi2VjqZKCVzstKmqog"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 240253,
-      "name": "Hablamos Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 194851,
-      "name": "Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -763,22 +767,50 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Un Ratito Mas",
-        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+        "name": "Caile",
+        "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
       },
       "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 283120,
-      "name": "Un Ratito Mas",
-      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+      "duration_ms": 300187,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -919,34 +951,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Caile",
-        "url": "https://open.spotify.com/album/2QtRthdUjkWEBAp5guyNLJ"
+        "name": "#Ysya2020 Vol. 5 - Silbando",
+        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
         }
       ],
-      "duration_ms": 300187,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
+      "duration_ms": 119438,
+      "name": "#Ysya2020 Vol. 5 - Silbando",
+      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -967,26 +987,6 @@
       "duration_ms": 206760,
       "name": "Ayer Me Llam\u00f3 Mi Ex",
       "url": "https://open.spotify.com/track/3ef2QlCUWO29UvqJaU3MUi"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "#Ysya2020 Vol. 5 - Silbando",
-        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-        }
-      ],
-      "duration_ms": 119438,
-      "name": "#Ysya2020 Vol. 5 - Silbando",
-      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Chosen Few: New Generation",
+        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 258146,
       "name": "Quieres Enamorarme (feat. Bryant Myers, Juhn & Baby Rasta)",
       "url": "https://open.spotify.com/track/4zbok3tDaKsnL76CQ07L4L"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Chosen Few: New Generation",
-        "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/60PBNJm2fk3TnhZU3Ltida"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 276768,
-      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
-      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 216916,
       "name": "Ella Es una G",
       "url": "https://open.spotify.com/track/0auXrMuY60r1lfRozhloTk"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+        "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 276768,
+      "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
+      "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179078,
-      "name": "Es Mejor",
-      "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "La Oscuridad",
         "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 304733,
       "name": "Ojala",
       "url": "https://open.spotify.com/track/63EJDEfcZwwRlPt5qEWPjV"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179078,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Arre",
-        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 168032,
-      "name": "Arre",
-      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Calle Amor",
         "url": "https://open.spotify.com/album/3sZC4DBqa36m3u2xh08U7K"
       },
@@ -2131,18 +2115,46 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+        "name": "Arre",
+        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+      "duration_ms": 168032,
+      "name": "Arre",
+      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2187,30 +2199,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/7BgcHmgYP3sp0AAYLKyc0s"
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 214615,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/1thzPqoQxXhh6YHhANIFnj"
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2251,6 +2251,22 @@
       "duration_ms": 259200,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Bonus Trap",
+        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2303,22 +2319,6 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Bonus Trap",
-        "url": "https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3EO0tGvdBCw6vdChaNvVlc"
     },
     {
       "added_at": "2022-06-08 18:27:09",

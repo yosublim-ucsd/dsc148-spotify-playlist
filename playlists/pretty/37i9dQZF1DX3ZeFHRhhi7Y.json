@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmY3YTI4ZDk1MGVhNDIzYTkzMjg5ZDc0MzljZDZjMWMyMDIwYjQ3",
+  "snapshot_id": "MCxlOWEzOTQ5OTRlYWI0NDFiOTQ4ZGIzOTc3MWYzYTc1MzNlY2UzMDU5",
   "tracks": [
     {
       "added_at": "2024-01-08 08:51:35",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 191462,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2024-01-08 08:51:35",
-      "album": {
         "name": "Get A Guitar",
         "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 160371,
       "name": "Get A Guitar",
       "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
+    },
+    {
+      "added_at": "2024-01-08 08:51:35",
+      "album": {
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "CHESHIRE",
-        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Cheshire",
-      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
-    },
-    {
-      "added_at": "2024-01-08 08:51:35",
-      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "added_at": "2024-01-08 08:51:35",
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "We play",
-        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
-    },
-    {
-      "added_at": "2024-01-08 08:51:35",
-      "album": {
         "name": "Not Shy",
         "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
+    },
+    {
+      "added_at": "2024-01-08 08:51:35",
+      "album": {
+        "name": "We play",
+        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
-    },
-    {
-      "added_at": "2024-01-08 08:51:35",
-      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2024-01-08 08:51:35",
       "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+    },
+    {
+      "added_at": "2024-01-08 08:51:35",
+      "album": {
         "name": "Heng:gar\u00e6",
         "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 201773,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm"
+    },
+    {
+      "added_at": "2024-01-08 08:51:35",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2024-01-08 08:51:35",
@@ -1579,22 +1595,6 @@
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"
-    },
-    {
-      "added_at": "2024-01-08 08:51:35",
-      "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2024-01-08 08:51:35",

@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 566045,
+  "num_followers": 565682,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTNkMjE4Y2VjYmNkNGUyNWEyNjNjZjFmYjU2ZmE2YTFlMzRlYmY4",
+  "snapshot_id": "MCw4NmZkM2YyMzQ4MGZhODZlOWQzNmE3NWI1ZGI4MzcwNzA4NzAwNWU5",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "En Otra",
-        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 131697,
-      "name": "En Otra",
-      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 251146,
       "name": "La Cumbia De Los Trapos",
       "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "En Otra",
+        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 131697,
+      "name": "En Otra",
+      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "DISCULPE OFICIAL",
-        "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "PACOREMIX",
-          "url": "https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 122455,
-      "name": "DISCULPE OFICIAL",
-      "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -603,18 +599,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "DISCULPE OFICIAL",
+        "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "PACOREMIX",
+          "url": "https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+      "duration_ms": 122455,
+      "name": "DISCULPE OFICIAL",
+      "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -879,26 +879,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "TRUCHO",
-        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
+        "name": "YO SOY TU MAESTRO (Remix)",
+        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         },
         {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
         }
       ],
-      "duration_ms": 144000,
-      "name": "TRUCHO",
-      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+      "duration_ms": 205000,
+      "name": "YO SOY TU MAESTRO - Remix",
+      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -927,30 +927,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "YO SOY TU MAESTRO (Remix)",
-        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "YO SOY TU MAESTRO - Remix",
-      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 165605,
       "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
       "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "TRUCHO",
+        "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TRUCHO",
+      "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 137500,
       "name": "TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 114860,
       "name": "FUMAN TWO",
       "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 180662,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Tranka",
         "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 164323,
       "name": "Tranka",
       "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 180662,
-      "name": "Hasta Que Salga el Sol",
-      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "AL RITMO | E2",
-        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
+        "name": "M\u00e1s Duros que Nunca",
+        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Flor De Piedra",
+          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
         }
       ],
-      "duration_ms": 176842,
-      "name": "AL RITMO | E2",
-      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
+      "duration_ms": 238933,
+      "name": "La Jarra Loca",
+      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1875,6 +1871,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "AL RITMO | E2",
+        "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "AL RITMO | E2",
+      "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 152125,
       "name": "El Whatsapp",
       "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "M\u00e1s Duros que Nunca",
-        "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
-      },
-      "artists": [
-        {
-          "name": "Flor De Piedra",
-          "url": "https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "La Jarra Loca",
-      "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
     },
     {
       "added_at": "2024-02-02 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "For skating and grooving. ",
-  "num_followers": 329630,
+  "num_followers": 329703,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGUzZmQ3ZjQ0YjAzZDdiODg1NmQxZmJiNjg2NTg2N2E4NDk5YzA5",
+  "snapshot_id": "MCxlNjNhODgxMDkyNjExMDY2YjgwZDFiNDRlMTMyYzFmM2I1YWMwYTFm",
   "tracks": [
     {
       "added_at": "2023-07-13 18:57:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-13 18:57:11",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-07-13 18:57:11",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 365466,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2023-07-13 18:57:11",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-07-13 18:57:11",
@@ -555,26 +555,18 @@
     {
       "added_at": "2023-07-13 18:57:11",
       "album": {
-        "name": "The Weekend (Funk Wav Remix)",
-        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 171805,
-      "name": "The Weekend - Funk Wav Remix",
-      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2023-07-13 18:57:11",
@@ -595,18 +587,26 @@
     {
       "added_at": "2023-07-13 18:57:11",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "The Weekend (Funk Wav Remix)",
+        "url": "https://open.spotify.com/album/5enEsi887wD3qGoMCK4jLr"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+      "duration_ms": 171805,
+      "name": "The Weekend - Funk Wav Remix",
+      "url": "https://open.spotify.com/track/0P6AWOA4LG1XOctzaVu5tt"
     },
     {
       "added_at": "2023-07-13 18:57:11",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-07-13 18:57:11",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2023-07-13 18:57:11",
+      "album": {
         "name": "Vol. 3... Life And Times Of S. Carter",
         "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 283066,
       "name": "Big Pimpin'",
       "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
-    },
-    {
-      "added_at": "2023-07-13 18:57:11",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
-      },
-      "artists": [
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
     },
     {
       "added_at": "2023-07-13 18:57:11",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-07-13 18:57:11",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Poppy Ajudha",
-          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
-        }
-      ],
-      "duration_ms": 280878,
-      "name": "Disco Yes",
-      "url": "https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS"
-    },
-    {
-      "added_at": "2023-07-13 18:57:11",
-      "album": {
         "name": "Free - The Strictly Collection",
         "url": "https://open.spotify.com/album/22lrjYvBGWwOfZ535fJXlT"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 233293,
       "name": "Free (Mood II Swing Radio Edit)",
       "url": "https://open.spotify.com/track/2mkdZTHKimOJ86Hg0RWSKc"
+    },
+    {
+      "added_at": "2023-07-13 18:57:11",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 280878,
+      "name": "Disco Yes",
+      "url": "https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS"
     },
     {
       "added_at": "2023-07-13 18:57:11",

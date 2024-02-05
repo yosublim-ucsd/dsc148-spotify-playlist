@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin w/ tour mates <a href=\"https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74?si=c1be7e2940d844f0\">Liz Phair</a> and <a href=\"https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij?si=YxaujGp8SUiTnZgRi5epLw\">Blondshell</a>, who highlight some of their favorites.",
-  "num_followers": 202170,
+  "num_followers": 202240,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRmMDFlZDkwMDVlZTMxYjMxYjE4ODM2NWM5ZmE1NjNkZDkzNmFi",
+  "snapshot_id": "MCw1MGEzNDc5NDFjMDFjYWNlNjc0YmRiNGZjMmViMTVjYTdmMWZmY2M4",
   "tracks": [
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Elizabeth Fraser",
-          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
         }
       ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-12-06 16:33:13",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
         }
       ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
-      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "This Is a Long Drive for Someone with Nothing to Think About",
         "url": "https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 342000,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -1783,6 +1767,22 @@
       "duration_ms": 343893,
       "name": "Carry the Zero",
       "url": "https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
         "name": "Lovelife",
         "url": "https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 357693,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/6q03mlzKsM1m3TLpi6T6Cw"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2023-11-27 17:30:04",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-11-27 17:30:04",
       "album": {
-        "name": "Songs of Faith and Devotion (2006 Remaster)",
-        "url": "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "I Feel You - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy"
-    },
-    {
-      "added_at": "2023-11-27 17:30:04",
-      "album": {
         "name": "Enter The Vaselines (Deluxe Edition)",
         "url": "https://open.spotify.com/album/630p98oUEIBRflGJRRInCt"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 225760,
       "name": "Son Of A Gun",
       "url": "https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8"
+    },
+    {
+      "added_at": "2023-11-27 17:30:04",
+      "album": {
+        "name": "Songs of Faith and Devotion (2006 Remaster)",
+        "url": "https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "I Feel You - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy"
     },
     {
       "added_at": "2023-11-27 17:30:04",

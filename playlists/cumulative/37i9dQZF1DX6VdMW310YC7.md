@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,560 songs - 4 day 11 hr 25 min
+1,561 songs - 4 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Falling Water](https://open.spotify.com/track/75MC4sxH4yELz4ji8P7LCc) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Water](https://open.spotify.com/album/3V9PaTsr7dfhF550S9jSWW) | 2:32 | 2021-09-03 | 2022-12-29 |
 | [Falls \- TOKiMONSTA Remix](https://open.spotify.com/track/6ynI3DRrH45h6ajAQctUOf) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Falls Remixes](https://open.spotify.com/album/3wwpsa3qCiEeuw7MDacC1Q) | 3:48 | 2020-03-16 | 2020-07-03 |
 | [Far Behind](https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Far Behind](https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP) | 3:54 | 2022-08-19 | 2022-09-03 |
+| [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 | 2024-01-26 |  |
 | [Favours](https://open.spotify.com/track/2qw0O8LXratT32TdreMuup) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [Between Us](https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D) | 3:54 | 2020-03-20 | 2020-06-12 |
 | [Faxing Berlin](https://open.spotify.com/track/2xFnqwhg3eY69bM6M7kVbv) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/26OQwhLRLkFpFp3OJ873w7) | 8:41 | 2020-05-22 | 2020-07-03 |
 | [Feel](https://open.spotify.com/track/5o5N0Mdh10WHKeQyUD93tU) | [Sizzle Bird](https://open.spotify.com/artist/6HL3uLHjsLddvoSXVGDfbQ) | [Feel](https://open.spotify.com/album/3T6Ap9r2qjJFSf5ODg1RB0) | 3:01 | 2020-05-18 | 2020-07-18 |
@@ -1182,7 +1183,7 @@
 | [Sea To Sky](https://open.spotify.com/track/7CGhUAQcsn81EVNqCHfxGc) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Sea To Sky](https://open.spotify.com/album/6vfjmNMRImYGCdH0Umbven) | 4:24 | 2022-03-18 | 2022-07-27 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-04-29 | 2022-12-29 |
 | [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 |  |
-| [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 |  |
+| [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-02-05 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 | 2022-12-29 |

@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-189 songs - 11 hr 44 min
+192 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,12 +117,15 @@
 | [Orbit Around the Moon](https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI) | [Joe Meek & the Blue Men](https://open.spotify.com/artist/0RtKMoqVNlddAnmrHSztA6) | [I Hear a New World: An Outer Space Music Fantasy](https://open.spotify.com/album/2y7yQUuTXpNcbN6eOxQqRn) | 2:49 | 2021-08-17 |  |
 | [Our Day Will Come](https://open.spotify.com/track/6sm15CfUCPMrO8DRSk0JiL) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha), [The Electric Blues Society](https://open.spotify.com/artist/60DncTVUou9uWXQOygUqn9) | [Music from Patch Cord Productions](https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75) | 2:35 | 2021-08-17 | 2022-07-29 |
 | [Our Day Will Come](https://open.spotify.com/track/7fFCd6xySYmnpvXu4dIJX3) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha), [The Electric Blues Society](https://open.spotify.com/artist/60DncTVUou9uWXQOygUqn9) | [Music from Patch Cord Productions](https://open.spotify.com/album/2rDr9iY1cIdIN9Bfu46iYr) | 2:35 | 2021-08-17 |  |
-| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2021-08-17 |  |
+| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2021-08-17 | 2024-02-05 |
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2021-08-17 | 2024-02-01 |
 | [Oxygene, Pt\. 2](https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:46 | 2021-08-17 | 2024-02-02 |
-| [Oxygene, Pt\. 2](https://open.spotify.com/track/1Gt7o5s9iZWkPfRqeJHiru) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:47 | 2021-08-17 |  |
-| [Oxygene, Pt\. 4](https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 4:06 | 2021-08-17 |  |
+| [Oxygene, Pt\. 2](https://open.spotify.com/track/1Gt7o5s9iZWkPfRqeJHiru) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:47 | 2021-08-17 | 2024-02-05 |
+| [Oxygene, Pt\. 4](https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 4:06 | 2021-08-17 | 2024-02-05 |
 | [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 | 2021-08-17 | 2024-02-01 |
+| [Oxygène, Pt\. 1](https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:39 | 2021-08-17 |  |
+| [Oxygène, Pt\. 2](https://open.spotify.com/track/7vLKG4ww0P8seUUsbgpcz3) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:46 | 2021-08-17 |  |
+| [Oxygène, Pt\. 4](https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 4:06 | 2021-08-17 |  |
 | [Paris 2079](https://open.spotify.com/track/1ECyj4HTmkIivTif7IHFaq) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 1:55 | 2021-08-17 |  |
 | [Pencerenin Perdesini](https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4) | [Gökçen Kaynatan](https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF) | [Pencerenin Perdesini / Beyoğlu'nda Gezersin](https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU) | 2:24 | 2022-04-28 |  |
 | [Pizzicato Samba](https://open.spotify.com/track/0hgCu26O2p3ndloW2aXHsS) | [Dana Countryman](https://open.spotify.com/artist/2TPk0Xw81wqOb8wHTSXkHO), [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx) | [The Happy Electropop Music Machine](https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl) | 2:41 | 2021-08-17 |  |

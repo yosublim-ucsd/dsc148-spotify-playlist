@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,078 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,138 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 37 | [The Great Awakening](https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [The Great Awakening](https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7) | 3:30 |
 | 38 | [Rejoice](https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1) | 3:47 |
 | 39 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
-| 40 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 |
+| 40 | [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 |
 | 41 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 |
-| 42 | [Good God](https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 2:42 |
+| 42 | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/track/1dd52Rf0sGaWMLlDqDLZ2L) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [This I Know \(Jesus Loves Me\)](https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP) | 3:42 |
 | 43 | [Always](https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 4:08 |
 | 44 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 45 | [Easy To Praise](https://open.spotify.com/track/31qTmjToXtN5jh0zyo7GtZ) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [Wild Faith](https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 99 | [Praise The Lord](https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN) | 3:18 |
 | 100 | [To Not Worship You](https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus](https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD) | 3:45 |
 
-Snapshot ID: `MCw2ZjlhY2VmZmNiOWVjNTkyZjIxMGU5Njk1NGEyOWMxMDc5ZGExMWJi`
+Snapshot ID: `MCw2ZjMzNjcwOWFhODNkODgxOTczN2JmMGZmNzM1NjlkOWE3NTNmZDVl`

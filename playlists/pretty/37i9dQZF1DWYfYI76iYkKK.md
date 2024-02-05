@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,467 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,392 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 36 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 37 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 | 38 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 |
-| 39 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
-| 40 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
-| 41 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
-| 42 | [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 |
+| 39 | [時光厚禮](https://open.spotify.com/track/6uoLPWe7aBoQjWEHFGrKf9) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/6beMU56PrsOxkTTF6PPB8f) | 3:51 |
+| 40 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
+| 41 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
+| 42 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 43 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 | 44 | [Miss missed Love](https://open.spotify.com/track/353Npsz4g0PKfmlkq0HFur) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [9522](https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb) | 3:06 |
 | 45 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [雙棲動物](https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [雙棲動物](https://open.spotify.com/album/6g9c1fHNzNIVHZPP9YpDaF) | 4:53 |
 | 50 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
 
-Snapshot ID: `MCw0OWQ0YzQ5OTM0NzcwNzc4MDcxOGM2NWM5NWYwMDllYWRjNWYxYjUw`
+Snapshot ID: `MCw0M2JkNGM1Y2JhNzllMTE5YjhhNjkxNDJjNTNhZjkyNzliZTdhYmFj`

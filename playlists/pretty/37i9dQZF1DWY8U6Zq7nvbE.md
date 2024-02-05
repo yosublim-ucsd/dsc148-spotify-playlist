@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,658 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,355 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 37 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 38 | [Lovely](https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Lovely](https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M) | 3:09 |
 | 39 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 |
-| 40 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
-| 41 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
+| 40 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
+| 41 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
 | 42 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
 | 43 | [Little Lies](https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Little Lies](https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV) | 3:17 |
 | 44 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
 | 45 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
 | 46 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
 | 47 | [Here I Go Again \- Acoustic](https://open.spotify.com/track/5UvJJ6UTSQsVVsq0WgUWRV) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Here I Go Again \- Acoustic EP](https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3) | 4:12 |
-| 48 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
-| 49 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 |
+| 48 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 |
+| 49 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
 | 50 | [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 |
 | 51 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
 | 52 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 66 | [All of me \- Acoustic](https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [All of me \- Acoustic](https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd) | 4:28 |
 | 67 | [Kissing Other People \- Acoustic](https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People \(Acoustic\)](https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T) | 3:12 |
 | 68 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
-| 69 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
-| 70 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
+| 69 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
+| 70 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 71 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |
-| 72 | [OTW \- Acoustic Version](https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [OTW \(Acoustic Version\)](https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei) | 3:21 |
-| 73 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
+| 72 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 |
+| 73 | [OTW \- Acoustic Version](https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [OTW \(Acoustic Version\)](https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei) | 3:21 |
 | 74 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 |
 | 75 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 |
 | 76 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 |
 | 77 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 4:12 |
-| 78 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
-| 79 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
+| 78 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
+| 79 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
 | 80 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 |
 | 81 | [I'm Good \(Blue\)](https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I'm Good \(Blue\)](https://open.spotify.com/album/27wqComza4OEQnzS4AniQe) | 2:55 |
 | 82 | [SOS](https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [SOS](https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 |
 | 100 | [Unforgettable](https://open.spotify.com/track/5YljSVhTtJ41C2H72vExEU) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Unforgettable](https://open.spotify.com/album/2N76uyM3yxfn8Jpo00EMiL) | 2:32 |
 
-Snapshot ID: `MCw4ZmY4OTA1ODg1Mjk0MzQzYTc0OWVmZGFiMjk3NDJlOTBkNWYzNzZm`
+Snapshot ID: `MCxiY2I5NjBhNzc0MDA1YWJjZjhiZmEwNGYxOWUxOWNhZTA5OGU0NGFi`

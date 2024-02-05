@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,749 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,855 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 79 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 80 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 81 | [Rainbow Badge](https://open.spotify.com/track/58maRxsmhNQcne43mcphIV) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Pokéwave III](https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw) | 3:28 |
-| 82 | [Shall We Dance?](https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM) | 2:31 |
-| 83 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
-| 84 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
+| 82 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
+| 83 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
+| 84 | [Shall We Dance?](https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [Summer 99](https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM) | 2:31 |
 | 85 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
 | 86 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
 | 87 | [Ritmo.](https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6), [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:35 |
 | 88 | [Dizzy Dream](https://open.spotify.com/track/05Jt5VDLzONX0wNK7v6B1U) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Dizzy Dream](https://open.spotify.com/album/4g3u7WfYQsbQ5UTCwCgudZ) | 2:50 |
-| 89 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
-| 90 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 |
-| 91 | [Dance Dance Cochayuyo!](https://open.spotify.com/track/0poQqEQWvsao56183reAT7) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [Dance Dance Cochayuyo!](https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF) | 2:47 |
-| 92 | [What You Need](https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 2:41 |
+| 89 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 |
+| 90 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 91 | [What You Need](https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Bae 5](https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN) | 2:41 |
+| 92 | [Dance Dance Cochayuyo!](https://open.spotify.com/track/0poQqEQWvsao56183reAT7) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [Dance Dance Cochayuyo!](https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF) | 2:47 |
 | 93 | [Tropical Feeling](https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Tropical Feeling](https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K) | 4:52 |
 | 94 | [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 |
 | 95 | [SOULLL](https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg) | 2:56 |
-| 96 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
-| 97 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
+| 96 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
+| 97 | [Hide & Seek](https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Muse](https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH) | 2:44 |
 | 98 | [SAILORSATURDAYS](https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC) | [Kokonoku](https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy) | [SAILORSATURDAYS](https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM) | 4:00 |
-| 99 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
-| 100 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
+| 99 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
+| 100 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
 
-Snapshot ID: `MCw1YTdlYWVkMTQ0ZTk1MmRhNzBjMDcxZDg1NWM0NmJiMjQwZTZjYjgy`
+Snapshot ID: `MCwyNDhjMjRjYzg0MGFiOWU0MWYwMjVkZjZhYjM0MjkzYTM2NDgxZjk3`

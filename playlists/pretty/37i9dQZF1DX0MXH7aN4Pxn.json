@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 676249,
+  "num_followers": 675755,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzc0NWFhYjYzZGM4ZjNmNTAzNmNlZDM5YjNmNTY5YTE0ZGIwMzVj",
+  "snapshot_id": "MCwxYzZhNjdiYTk4ZjZkOGJkNDJjZGMzY2NhZGNmNWY5OTE2Njc1ZDI4",
   "tracks": [
     {
       "added_at": "2024-01-26 12:16:12",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 161658,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
         "name": "JOY (Push The Button)",
         "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 235198,
       "name": "JOY (Push The Button)",
       "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0U4c4E1ZSNsv5HVoJ6QR0d"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 161658,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Against The Wall",
-        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        },
-        {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        }
-      ],
-      "duration_ms": 205061,
-      "name": "Against The Wall",
-      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "Chunky",
         "url": "https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 151229,
       "name": "Rinse & Repeat",
       "url": "https://open.spotify.com/track/6lo7WipynUbiHfmmcpn3Qa"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 175413,
       "name": "My House",
       "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1575,22 +1575,26 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Outta My Head",
-        "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
+        "name": "My Head is A Jungle - MK Remix / Radio Edit",
+        "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
       },
       "artists": [
         {
-          "name": "Charlie Knox",
-          "url": "https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto"
+          "name": "lusttqwe",
+          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
         },
         {
-          "name": "THRDL!FE",
-          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
+          "name": "rufflws",
+          "url": "https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp"
+        },
+        {
+          "name": "Lythx",
+          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
         }
       ],
-      "duration_ms": 158692,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
+      "duration_ms": 206007,
+      "name": "My Head is A Jungle - MK Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1615,26 +1619,22 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "My Head is A Jungle - MK Remix / Radio Edit",
-        "url": "https://open.spotify.com/album/1V2K4IdlYAMC73lZyNTE7W"
+        "name": "Outta My Head",
+        "url": "https://open.spotify.com/album/7vl0y5eLEBIdeASytoZOWA"
       },
       "artists": [
         {
-          "name": "lusttqwe",
-          "url": "https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR"
+          "name": "Charlie Knox",
+          "url": "https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto"
         },
         {
-          "name": "rufflws",
-          "url": "https://open.spotify.com/artist/6XeLF1KiaS5aBmp2d1fghp"
-        },
-        {
-          "name": "Lythx",
-          "url": "https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d"
+          "name": "THRDL!FE",
+          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
         }
       ],
-      "duration_ms": 206007,
-      "name": "My Head is A Jungle - MK Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/1AUdrHbGmrPgWkda6JjylP"
+      "duration_ms": 158692,
+      "name": "Outta My Head",
+      "url": "https://open.spotify.com/track/73HFI78kF6Hr3PjOpdcU2t"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
+        "name": "Look Right Through (MK Vocal Edit)",
+        "url": "https://open.spotify.com/album/2FJ9DFtrwULvEZJzq1xfUQ"
+      },
+      "artists": [
+        {
+          "name": "Storm Queen",
+          "url": "https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Look Right Through - MK Vocal Edit",
+      "url": "https://open.spotify.com/track/1rjqA5A929xIcko5FCgOyN"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
         "name": "Coming Home (feat. Anabel Englund)",
         "url": "https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 196440,
       "name": "Coming Home (feat. Anabel Englund)",
       "url": "https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
-        "name": "Look Right Through (MK Vocal Edit)",
-        "url": "https://open.spotify.com/album/2FJ9DFtrwULvEZJzq1xfUQ"
-      },
-      "artists": [
-        {
-          "name": "Storm Queen",
-          "url": "https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Look Right Through - MK Vocal Edit",
-      "url": "https://open.spotify.com/track/1rjqA5A929xIcko5FCgOyN"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Do You Believe",
-        "url": "https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln"
-      },
-      "artists": [
-        {
-          "name": "Ejeca",
-          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
-        }
-      ],
-      "duration_ms": 147229,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "All Cried Out EP (feat. Alex Newell)",
         "url": "https://open.spotify.com/album/53dunLhacsNqh6K6lBqWaV"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 255735,
       "name": "All Cried Out (feat. Alex Newell) - Extended Mix; Extended",
       "url": "https://open.spotify.com/track/2p934EJUd219ADTUlstcXg"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Do You Believe",
+        "url": "https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln"
+      },
+      "artists": [
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "duration_ms": 147229,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V"
     },
     {
       "added_at": "2024-01-26 12:16:12",

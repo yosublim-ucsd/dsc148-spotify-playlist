@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,296 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518,447 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 3 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/3b8vIZo54D5aIHjukUCYuy) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:34 |
 | 4 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 5 | [Boca Com Boca](https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Original Brasil](https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4) | 3:56 |
-| 6 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
-| 7 | [Amor e Fé \- Acústico](https://open.spotify.com/track/4XcWXKMKp53c8OU3HHlxgL) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Cheiro do Mato \(Acústico\)](https://open.spotify.com/album/58UBmFSA3MNkDloRrt2Mxr) | 5:22 |
+| 6 | [Amor e Fé \- Acústico](https://open.spotify.com/track/4XcWXKMKp53c8OU3HHlxgL) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Cheiro do Mato \(Acústico\)](https://open.spotify.com/album/58UBmFSA3MNkDloRrt2Mxr) | 5:22 |
+| 7 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 8 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 9 | [Céu Azul \- Ao Vivo](https://open.spotify.com/track/1z1EeTXwnz3gvoUvzvkkdw) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara: Edição Luxo \(Ao Vivo\)](https://open.spotify.com/album/6oXMHZ4TuFId1OgRb4Eb3Y) | 3:20 |
 | 10 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 52 | [Sorte](https://open.spotify.com/track/2xuG9kIWSOUKxYYjCzmuSq) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Início, Meio e Fim](https://open.spotify.com/album/5TahEqfBGN6qUwRCNYk7xW) | 3:15 |
 | 53 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi) | 2:22 |
 | 54 | [Outra Vez \- Ao Vivo](https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Sol Lua Sol, ao Vivo em São Paulo \(Ao Vivo\)](https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla) | 4:17 |
-| 55 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
-| 56 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 |
+| 55 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 |
+| 56 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
 | 57 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 | 58 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 59 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 94 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
 | 95 | [Interestelar](https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4) | [Interestelar](https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ) | 3:46 |
 | 96 | [Outra Vez \- Acústico](https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Outra Vez \(Acústico\)](https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W) | 3:09 |
-| 97 | [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 |
+| 97 | [Valeu a Pena \- Acústico](https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Valeu a Pena \(acústico\)](https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL) | 3:04 |
 | 98 | [Sutileza](https://open.spotify.com/track/2oMR14X1A6nvvpzWBD7Qdq) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Sutileza](https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN) | 3:15 |
 | 99 | [Amiga](https://open.spotify.com/track/3f6zlOjEvYJVgvPyodrnU7) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Salma e Mac](https://open.spotify.com/album/2Q16sGZ2lP7iTooxAr85ZJ) | 3:18 |
 | 100 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
 
-Snapshot ID: `MCw2OWE4ODVhMWQxNmQyM2I2MTA0MWM4OTA3ZDFmNDRiYTllOTc4Y2M2`
+Snapshot ID: `MCxkMDA3MDkzNDkzYjVlZTg1NjhiNWE4YWMyMDZmZWYxNjQzNjA1NTI5`

@@ -3240,10 +3240,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 215773,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE"
+    },
+    {
+      "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/4T6wBXGejn8MQnSTHnddAC"
+      },
+      "artists": [
+        {
+          "name": "World Mestizo Ensemble",
+          "url": "https://open.spotify.com/artist/5r1CCpk0rhguhNGqff1ETw"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213746,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/7jfL8bZ1D0B7rAaieB0vg8"
     },
     {
       "album": {

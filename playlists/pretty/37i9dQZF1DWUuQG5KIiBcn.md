@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,794 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,195 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 20 | [El Numero Uno](https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R) | [Los Incomparables De Tijuana](https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN) | [Los Corridos Del Millon](https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e) | 3:56 |
 | 21 | [El Sinaloense y el Kora](https://open.spotify.com/track/2zmsNHtqzzYhLdHri1cKry) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:27 |
 | 22 | [Juan Martha](https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:10 |
-| 23 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 |
+| 23 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 24 | [Hermanos Mata](https://open.spotify.com/track/65FVNeobrosMmZPQDMo185) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:48 |
-| 25 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
+| 25 | [Catarino y Los Rurales](https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [El Heredero Del Cartel](https://open.spotify.com/album/4bq24Gh63VIRn6v41VJVhs) | 2:54 |
 | 26 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
 | 27 | [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 |
 | 28 | [Carrera A Muerte](https://open.spotify.com/track/2rJBndq82AOiGEEE84im02) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:39 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 50 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 51 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
 | 52 | [Laurita Garza](https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Corridos Bien Perrones](https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic) | 3:10 |
-| 53 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
-| 54 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
+| 53 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
+| 54 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
 | 55 | [El Corrido De La Amapola](https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:09 |
 | 56 | [Veinte Mujeres](https://open.spotify.com/track/0fwA0r7bGtfi9QGEStLkZM) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 3:02 |
 | 57 | [El Centenario](https://open.spotify.com/track/5hApUHRz3FFnwEWcJDXEo7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos A Quema Ropa](https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
 | 75 | [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 |
 
-Snapshot ID: `MCw4YzJhYzQ0NDcwODY3MTc5NmE4NGYxYWViMGJkMjc1NzA1MzA5NTBl`
+Snapshot ID: `MCw2MmJmMGQ3MGExMDU3NzQyNGYwNTVkZjk0OGFiZjcxYmQ5Y2M0ZDUz`

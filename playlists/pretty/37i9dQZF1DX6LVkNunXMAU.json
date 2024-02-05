@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56559,
+  "num_followers": 56550,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTcyMGI1YWI4MjU3MDRjYmMwY2E3NTAwOGVlNWE3NDYyOTZhZjI0",
+  "snapshot_id": "MCw2MDM3MjI5ZTVmODFhY2NiMmVjM2ZjY2ViNTY3MmQwZThjMjA2YmI0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:52:25",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "2:42",
+        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+      },
+      "artists": [
+        {
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+        }
+      ],
+      "duration_ms": 171388,
+      "name": "2:42",
+      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "2:42",
-        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
       "artists": [
         {
-          "name": "SANTACRUZ",
-          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "duration_ms": 171388,
-      "name": "2:42",
-      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -879,18 +895,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+        "name": "Mis Amantes",
+        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
       },
       "artists": [
         {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
         }
       ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+      "duration_ms": 229622,
+      "name": "Mis Amantes",
+      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -915,22 +935,18 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Mis Amantes",
-        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
       "artists": [
         {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
         }
       ],
-      "duration_ms": 229622,
-      "name": "Mis Amantes",
-      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -947,22 +963,6 @@
       "duration_ms": 176193,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "SAD",
         "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 224693,
       "name": "SAD",
       "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "lo-fi",
-        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
-      },
-      "artists": [
-        {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "lo-fi",
-      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "lo-fi",
+        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "duration_ms": 175392,
+      "name": "lo-fi",
+      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Perderse (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5AsFyNt74exZrhSxo1pAXn"
       },
@@ -1643,6 +1643,30 @@
       "duration_ms": 193082,
       "name": "Perderse - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Leo Salinas",
+          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
+        },
+        {
+          "name": "Paula P\u00e1vez",
+          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
+        }
+      ],
+      "duration_ms": 236086,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1703,30 +1727,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Volc\u00e1n",
-        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        },
-        {
-          "name": "Leo Salinas",
-          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
-        },
-        {
-          "name": "Paula P\u00e1vez",
-          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
-        }
-      ],
-      "duration_ms": 236086,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
-      },
-      "artists": [
-        {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+      },
+      "artists": [
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
     }
   ],
   "unique_name": "mandarina",

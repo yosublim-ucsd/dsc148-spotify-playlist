@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,847 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,835 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 109 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 | 110 | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Wiggle It \(feat\. Mura Masa & Big Freedia\)](https://open.spotify.com/album/0CEB3BMVJolbpLymxvXWDE) | 1:13 |
 
-Snapshot ID: `MCxjYmYyY2ExM2ExNGYzZTFjY2JjMTg5MzdjYjAxYjBmZjRmZjNhMDBj`
+Snapshot ID: `MCxkMjc3OWQ3NmY3YThhMzQwZmJjOWIwZmQ4NjQwZTRlNWVjMWI3Y2Zj`

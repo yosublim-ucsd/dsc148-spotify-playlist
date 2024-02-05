@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 40576,
+  "num_followers": 40641,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTliMWY2OWI5MGIwMzZkY2M0OTY3M2Y4ODI3ODcyZDdiYzQ4ODRl",
+  "snapshot_id": "MCw3ZjNmMzk5YjA0MTkwYjAwYzYyZTFlNTk3YjdjMDZjNzkxMDVmM2Jh",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -861,24 +861,20 @@
       "url": "https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Strike The Ground",
-        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
         }
       ],
-      "duration_ms": 317146,
-      "name": "Simple Matter",
-      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
+      "duration_ms": 297960,
+      "name": "Can't Give Up Now",
+      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -897,20 +893,24 @@
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
       },
       "artists": [
         {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
         }
       ],
-      "duration_ms": 297960,
-      "name": "Can't Give Up Now",
-      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+      "duration_ms": 317146,
+      "name": "Simple Matter",
+      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
     },
     {
       "added_at": "2023-12-15 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,938 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,996 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 72 | [Celos](https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:41 |
 | 73 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 3:18 |
 | 74 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
-| 75 | [Fotografia](https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3) | [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Fotografia](https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T) | 3:45 |
+| 75 | [Barco a Venus](https://open.spotify.com/track/11glwadtd8zwDamSDOX5cJ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [¿Dónde Está el Pais de las Hadas? \(Bonus Tracks Edition\)](https://open.spotify.com/album/395Ts8cMrWtmDHxrlYcTxz) | 3:21 |
 
-Snapshot ID: `MCxkMWIzMzUyNjJjODRjNTY5ZmUxZDgzOWMwNDUxNjMwMjg5MWJkYmEy`
+Snapshot ID: `MCxiZmZmYmQ1ZmYxYzM1ODczOTg0Yzk4MWU4NzNiOGI2MTY5NGU4ZDAx`

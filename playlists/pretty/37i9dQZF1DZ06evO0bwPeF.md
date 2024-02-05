@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,599 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,603 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 40 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 | 41 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA3YTZlMmQxNGM5NjVhMjI1NmZlMDE2N2EzNDIyMThlYQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBjYzNiMDVmN2JhODU1ZDU5YmU5MzhjNzJkMTdlMjdkNg==`

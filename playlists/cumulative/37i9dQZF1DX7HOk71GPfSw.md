@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,943 songs - 3 day 16 hr 27 min
+1,945 songs - 3 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [CUT MY HEART OUT](https://open.spotify.com/track/087UWFehhhqmHr79g9H1kn) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [CUT MY HEART OUT](https://open.spotify.com/album/19luyasFEMkdg7KBXUQKjY) | 2:32 | 2023-10-27 |  |
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-09-03 | 2022-10-22 |
 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 | 2020-10-13\* | 2021-01-08 |
-| [Cyberia](https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Cyberia](https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T) | 2:41 | 2024-01-17 |  |
+| [Cyberia](https://open.spotify.com/track/0dP30l5UIOLDaHiIpVm9mM) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:41 | 2024-01-22 |  |
+| [Cyberia](https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Cyberia](https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T) | 2:41 | 2024-01-17 | 2024-02-05 |
 | [CYBERKISS 2 U\*](https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [CYBERKISS 2 U\*](https://open.spotify.com/album/49GiU05EkgbbgeEORDQ3IZ) | 3:08 | 2022-09-10 | 2022-10-22 |
 | [CYBERPUNK 2.0.2.0.](https://open.spotify.com/track/2z2VjbY2PFhz2BPyDLqYfk) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CYBERPUNK 2.0.2.0.](https://open.spotify.com/album/1igcsf8lYNqt40AK8LRrCx) | 5:12 | 2020-10-13\* | 2021-01-08 |
 | [d hielo](https://open.spotify.com/track/092Vvrq3s7ajxb3MsLUD1Y) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [d hielo](https://open.spotify.com/album/48enb8VUU4OTCGd39GJz5I) | 3:23 | 2023-12-08 | 2024-01-23 |
@@ -1085,7 +1086,8 @@
 | [Mallowball](https://open.spotify.com/track/53jpwl02J12MCTFbmSZX2L) | [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm) | [Mallowball](https://open.spotify.com/album/5aScFzH4dECMfjrSnsvi2J) | 1:51 | 2022-09-23 | 2022-10-22 |
 | [MAMi ISSUES](https://open.spotify.com/track/6Tz4kklT7SfiCdG3jYBoL2) | [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K), [Jay Cas](https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z) | [MAMi ISSUES](https://open.spotify.com/album/5xfRdxojvdENwUuMUhTpSl) | 2:41 | 2023-11-10 |  |
 | [Maneki Neko](https://open.spotify.com/track/3OW0blV0z3iBPA2t6an8pd) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Maneki Neko / Edison](https://open.spotify.com/album/0mSHhU7ol9v4rT8aAdRyMp) | 3:09 | 2022-02-25 | 2022-04-29 |
-| [Mantis](https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Mantis](https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD) | 2:31 | 2023-10-27 |  |
+| [Mantis](https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Mantis](https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD) | 2:31 | 2023-10-27 | 2024-02-05 |
+| [Mantis](https://open.spotify.com/track/7hWuZeWZjSclI6TO6tcQmN) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 2:31 | 2024-01-22 |  |
 | [Marathon](https://open.spotify.com/track/0zDRnQ4QrSrZ5miTxAQvvP) | [omniboi](https://open.spotify.com/artist/3I4kM4D2rNnlG8JwEH5bHx), [Celadon City](https://open.spotify.com/artist/4Y6byJbyJi1zcBKMc1vwuE) | [Panorama](https://open.spotify.com/album/2r9KUGokNx9AtexlIK3E5n) | 2:54 | 2023-12-08 | 2024-01-23 |
 | [marrow](https://open.spotify.com/track/35lGCQ5ASOCgZDN39WSwZn) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [coldrose](https://open.spotify.com/artist/7aslPJhbsESPPq1APe7eGc), [Wstdyth](https://open.spotify.com/artist/473j1XbDfmy2WVVbAWs2JC) | [marrow](https://open.spotify.com/album/3xAq4AvA7K2WLibFYFXuu2) | 2:38 | 2020-10-13\* | 2020-12-11 |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2022-04-29 | 2022-11-12 |

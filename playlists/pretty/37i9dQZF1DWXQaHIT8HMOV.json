@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: $hyli",
-  "num_followers": 1937,
+  "num_followers": 1938,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDQ3YjFlNTAyZjBjZDM2YjVmNTBiN2I2OTMyY2E4NDk1NWUwMGFm",
+  "snapshot_id": "MCxhYTY4MDQ0Y2Q5MDUxNzgwNGZjZjI3ZDg2NWJkNWViMjEyMmIzYTM1",
   "tracks": [
     {
       "added_at": "2024-02-02 13:42:03",
@@ -151,26 +151,6 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "Bedroom Essentials",
-        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kitaka",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        },
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Tutu Mama",
-      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 144000,
       "name": "Summer Bae",
       "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
+        "name": "Bedroom Essentials",
+        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Tutu Mama",
+      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
+        "name": "Omwenge",
+        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "Omwenge",
+      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
-        "name": "Omwenge",
-        "url": "https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "Omwenge",
-      "url": "https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "SANKOFA",
-        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Day",
-      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
         "name": "Bwereere",
         "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
@@ -539,18 +523,34 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "Binkolele",
-        "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
+        "name": "SANKOFA",
+        "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
       },
       "artists": [
         {
-          "name": "Kataleya & Kandle",
-          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 191211,
-      "name": "Binkolele",
-      "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
+      "duration_ms": 129600,
+      "name": "Lucky Day",
+      "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
+        "name": "Nwanilaako",
+        "url": "https://open.spotify.com/album/37hfU05WeAHrchmEGW5O40"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Nwanilaako",
+      "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "Nwanilaako",
-        "url": "https://open.spotify.com/album/37hfU05WeAHrchmEGW5O40"
+        "name": "Binkolele",
+        "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Kataleya & Kandle",
+          "url": "https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4"
         }
       ],
-      "duration_ms": 194455,
-      "name": "Nwanilaako",
-      "url": "https://open.spotify.com/track/3LqicxLoiOglpMim5kwit2"
+      "duration_ms": 191211,
+      "name": "Binkolele",
+      "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh"
-      },
-      "artists": [
-        {
-          "name": "Mike Mungu",
-          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
-        }
-      ],
-      "duration_ms": 170724,
-      "name": "Tuli Ntinda",
-      "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
         "name": "Love Ganja",
         "url": "https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK"
       },
@@ -775,22 +759,6 @@
     {
       "added_at": "2024-02-02 13:42:03",
       "album": {
-        "name": "Kimugunyu",
-        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 180781,
-      "name": "Kimugunyu",
-      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/2Sw5Bk9fsTJbBJQUS3GRXp"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 165250,
       "name": "Back",
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
+        "name": "Kimugunyu",
+        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 180781,
+      "name": "Kimugunyu",
+      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh"
+      },
+      "artists": [
+        {
+          "name": "Mike Mungu",
+          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
+        }
+      ],
+      "duration_ms": 170724,
+      "name": "Tuli Ntinda",
+      "url": "https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -859,6 +859,22 @@
       "duration_ms": 236483,
       "name": "Matatu",
       "url": "https://open.spotify.com/track/1Wp8txZfHt7ENBFv4C78pC"
+    },
+    {
+      "added_at": "2024-02-02 13:42:03",
+      "album": {
+        "name": "Local User",
+        "url": "https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK"
+      },
+      "artists": [
+        {
+          "name": "Ratigan Era",
+          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "Local User",
+      "url": "https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F"
     },
     {
       "added_at": "2024-02-02 13:42:03",
@@ -939,22 +955,6 @@
       "duration_ms": 202666,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
-    },
-    {
-      "added_at": "2024-02-02 13:42:03",
-      "album": {
-        "name": "Local User",
-        "url": "https://open.spotify.com/album/4QRbdXprHRHrcjyJ3vONzK"
-      },
-      "artists": [
-        {
-          "name": "Ratigan Era",
-          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
-        }
-      ],
-      "duration_ms": 152659,
-      "name": "Local User",
-      "url": "https://open.spotify.com/track/5AGCOTqQFkduMlmnnJ956F"
     },
     {
       "added_at": "2024-02-02 13:42:03",

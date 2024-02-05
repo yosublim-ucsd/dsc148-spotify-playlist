@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,751 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,897 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 21 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
 | 22 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
 | 23 | [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 |
-| 24 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
-| 25 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
+| 24 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
+| 25 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:12 |
 | 26 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
 | 27 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 28 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 34 | [Rollin' Stone](https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:07 |
 | 35 | [No Good](https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:35 |
 | 36 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
-| 37 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
+| 37 | [Boom Boom \(feat\. Jimmie Vaughah\) \(2007 \- Remaster\)](https://open.spotify.com/track/707t1ODCETCCgiZNQVEbMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 4:18 |
 | 38 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
-| 39 | [Boom Boom \(feat\. Jimmie Vaughah\) \(2007 \- Remaster\)](https://open.spotify.com/track/707t1ODCETCCgiZNQVEbMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [Boom Boom](https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN) | 4:18 |
+| 39 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 |
 | 40 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 41 | [Motherless Children](https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Boulevard](https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E) | 4:51 |
 | 42 | [Albert's Shuffle](https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Al's Big Deal](https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn) | 6:54 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 55 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
 | 56 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 |
 | 57 | [All for Business](https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Chicago Blues Legend](https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI) | 3:19 |
-| 58 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
-| 59 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
+| 58 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
+| 59 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
 | 60 | [You Don't Love Me](https://open.spotify.com/track/5VGPp0EyyQqUKbtEDxMmUe) | [Willie Cobbs](https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q) | [Fernwood Rhythm 'N' Blues From Memphis](https://open.spotify.com/album/6qqJGRcDQjmfiIxNcyvEsh) | 2:36 |
 
-Snapshot ID: `MCxkY2Q1ZTZhYzVmN2IyOTZhYjNhMTcwNmIzZTc4OGU2ZWNmYjI3MTkx`
+Snapshot ID: `MCw4Y2ZhZDA1OTc4MWMzZGMwNmVmNDkwYTlhNzdiZTRhZjBiZWY0YmFl`

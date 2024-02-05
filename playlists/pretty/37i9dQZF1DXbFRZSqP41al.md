@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,075 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418,216 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 27 | [Hypa Hypa](https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [MMXX \- Hypa Hypa Edition](https://open.spotify.com/album/7uDmK1TgEQsyXTFn1eGPyF) | 3:33 |
 | 28 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
 | 29 | [Sunshine!](https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
-| 30 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
-| 31 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 30 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 31 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 32 | [Broken Heart](https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU) | 3:07 |
 | 33 | [Right Now](https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:45 |
 | 34 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 50 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 
-Snapshot ID: `MCxlYWVmNWJmODM4N2JkZjhkYmQzYTA1YmQ0MzMyMzU5MGRlNGM5MDYz`
+Snapshot ID: `MCxhNzhiODMxZjBkMDM2YjE1MDhjYTk1YmNlY2M5OGFmOWRlMzQwYWUx`

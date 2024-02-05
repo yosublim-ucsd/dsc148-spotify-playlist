@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
-  "num_followers": 273544,
+  "num_followers": 273747,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjI1MjZjNGQwZjhlMGQ4NjY0NWRiN2I2MDMwMzI3NjUyMjc0MjM5",
+  "snapshot_id": "MCw2MWFlOWFmMTllNWI5OTViNmNjYmNkZjYwNzI3YTFhZDM4MjFkMDAw",
   "tracks": [
     {
       "added_at": "2023-11-28 00:20:32",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Como Pude Enamorarme De Ti",
-        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
+        "name": "M\u00e1s Capaces Que Nunca",
+        "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
       "artists": [
         {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
         }
       ],
-      "duration_ms": 131440,
-      "name": "C\u00f3mo Pude Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
+      "duration_ms": 191360,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -743,22 +747,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "M\u00e1s Capaces Que Nunca",
-        "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
+        "name": "Como Pude Enamorarme De Ti",
+        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
       },
       "artists": [
         {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
-        {
-          "name": "Jos\u00e9 Manuel Zamacona",
-          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
+      "duration_ms": 131440,
+      "name": "C\u00f3mo Pude Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "added_at": "2023-11-28 00:20:32",

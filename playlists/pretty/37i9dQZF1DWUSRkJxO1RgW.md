@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,181 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,125 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,24 +34,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 24 | [Pasemos a Otro Tema](https://open.spotify.com/track/40raAOaR57uIMomRKtPsZz) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Nadie Sale Vivo de Aquí](https://open.spotify.com/album/5S0820c1RDZbzf6F0mHTXC) | 2:22 |
 | 25 | [Amor Descartable](https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Relax](https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3) | 3:30 |
 | 26 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 4:46 |
-| 27 | [El Extraño del Pelo Largo](https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:53 |
+| 27 | [El Genio del Dub \- Remasterizado 2008](https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 5:21 |
 | 28 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |
 | 29 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
-| 30 | [El Genio del Dub \- Remasterizado 2008](https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 5:21 |
+| 30 | [El Extraño del Pelo Largo](https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:53 |
 | 31 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
 | 32 | [Ciudad De Pobres Corazones](https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ciudad De Pobres Corazones](https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj) | 5:28 |
 | 33 | [Buscando un Símbolo de Paz](https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:42 |
 | 34 | [Bailando en las Veredas](https://open.spotify.com/track/2q4WF7KqM5yvVoQNCyHHZd) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 4:16 |
-| 35 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
+| 35 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 |
 | 36 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 |
-| 37 | [Mi Novia Se Cayó en un Pozo Ciego \- Remasterizado 2008](https://open.spotify.com/track/38inVmG6skP7NI1CkyVZ7s) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 3:57 |
+| 37 | [Estallando Desde el Océano](https://open.spotify.com/track/7379uubtjZDDT6Phsj4nhj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:34 |
 | 38 | [Barbazul Versus el Amor Letal](https://open.spotify.com/track/4raoyZZLL6wsxihsGjuNev) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/1yfbnWxr2stypbpB3K0547) | 4:19 |
 | 39 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
-| 40 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
-| 41 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
-| 42 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
+| 40 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
+| 41 | [Era En Abril](https://open.spotify.com/track/5JQNTG6ExMEnlFZy27xRkw) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Tiempos Dificiles](https://open.spotify.com/album/37NSEn4idb7uJRjiDexLmM) | 4:44 |
+| 42 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
 | 43 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
-| 44 | [El Satánico Dr\. Cadillac \- Remasterizado 2008](https://open.spotify.com/track/1GcL18n7WMpc6xRwY7D0bE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Satánico Dr\. Cadillac](https://open.spotify.com/album/5VNRf3l7z1prtgHuKNhsc8) | 4:01 |
+| 44 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
 | 45 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 46 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |
 | 47 | [Lunes Por La Madrugada \- 1994 Remastered Version](https://open.spotify.com/track/5M6b21Y9Igl0uAfFeRHX3y) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1 \(1994 Remastered Version\)](https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [Jugando Hulla Hulla](https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:42 |
 
-Snapshot ID: `MCxjOTM2NjYyNDQ4ZjVmYWM0MGFlMjllY2U2OWU3OTM5NWFjNzQxYThk`
+Snapshot ID: `MCw5ZjJiMzE3ZWFjZjA5NmUzZDQ0NDQ3YTE3YzQwZThmNDg5MWNmZTkw`

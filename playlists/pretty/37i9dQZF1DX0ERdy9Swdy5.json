@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 700474,
+  "num_followers": 700499,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDZiZjM5YmUwZDBlZjlmMjdiYzRjNDBlMGM5ZjkyMjNkNzQ4MTAz",
+  "snapshot_id": "MCwzYjAxYmVjNjc5Y2JjZGFmMzQ2MjBhZDBhNzU1ZjMxZmZhMTc4OGZm",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:14",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Por Derecho Propio",
         "url": "https://open.spotify.com/album/519dNSSpFOivv1krsuQnC2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 343200,
       "name": "Usted",
       "url": "https://open.spotify.com/track/217OiircokozWB5frngZOs"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Agradecimiento",
+        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Si Te Preguntan",
-      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
+      "duration_ms": 320800,
+      "name": "Pagina de Amor",
+      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -811,34 +811,18 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Agradecimiento",
-        "url": "https://open.spotify.com/album/5lxFeS4lOHmN40iv7LsCWr"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 320800,
-      "name": "Pagina de Amor",
-      "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
-        "name": "Pal Pueblo",
-        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Es Mi Mujer",
-      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
+      "duration_ms": 287266,
+      "name": "Si Te Preguntan",
+      "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -871,6 +855,22 @@
       "duration_ms": 281013,
       "name": "Todo",
       "url": "https://open.spotify.com/track/03T7M7m00T0WMGdS3z3WWn"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Pal Pueblo",
+        "url": "https://open.spotify.com/album/07JdIFh18naO244frEGUqi"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Es Mi Mujer",
+      "url": "https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1"
     },
     {
       "added_at": "2023-10-19 19:33:14",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Exitos y M\u00e1s",
-        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Ella se Hizo Deseo",
-      "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Un Alto en el Camino",
         "url": "https://open.spotify.com/album/6zjMkgvzUOUiID1lJcFIgN"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
+        "name": "Exitos y M\u00e1s",
+        "url": "https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Ella se Hizo Deseo",
+      "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
         "name": "14 \u00c9xitos Duros Como Guayacan",
         "url": "https://open.spotify.com/album/36uyTCJM4iwiMY9OJ0kFI9"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-19 19:33:14",
       "album": {
-        "name": "Sensual",
-        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 277706,
-      "name": "Me Mata La Soledad",
-      "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
-    },
-    {
-      "added_at": "2023-10-19 19:33:14",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 303373,
       "name": "He Tratado",
       "url": "https://open.spotify.com/track/2gdstZk4Jgqng7bDB4TsZ5"
+    },
+    {
+      "added_at": "2023-10-19 19:33:14",
+      "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 277706,
+      "name": "Me Mata La Soledad",
+      "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
     },
     {
       "added_at": "2023-10-19 19:33:14",

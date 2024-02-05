@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 699568,
+  "num_followers": 699483,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWU2ZjY4ODA4ZDk0ZWNkYzdhOWQ2NmNmM2M3MjgzMWI2ODQwYzVm",
+  "snapshot_id": "MCwwMTIxNTFmNjIzOTMxMmZlNDI1ODIxMmU4NmIzZGYwNDBmNTE1NTlj",
   "tracks": [
     {
       "added_at": "2023-09-21 12:18:37",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 187120,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -699,6 +683,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
     },
     {
       "added_at": "2023-09-21 12:18:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-21 12:18:37",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2023-09-21 12:18:37",
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203293,
       "name": "Girls Got Rhythm",
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2023-09-21 12:18:37",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2023-09-21 12:18:37",

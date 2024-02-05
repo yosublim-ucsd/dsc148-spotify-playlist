@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 472186,
+  "num_followers": 472037,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
+  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Don't Hate Me",
-        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 251010,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "We Are Between",
         "url": "https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Don't Hate Me",
+        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 251010,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "STATUES (v2)",
-        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
-      },
-      "artists": [
-        {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
-        }
-      ],
-      "duration_ms": 293354,
-      "name": "STATUES (v2)",
-      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Take Back The Night",
         "url": "https://open.spotify.com/album/0KO8BT7pSqGZugqBiKwieo"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220960,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "Burn the Empire",
+      "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "SAY IT",
         "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
+        "name": "The Present Is a Foreign Land",
+        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Burn the Empire",
-      "url": "https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO"
+      "duration_ms": 201177,
+      "name": "Going Clear",
+      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1159,22 +1175,6 @@
       "duration_ms": 191993,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/30Yt23yIvh2IuxgjofSDC9"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "The Present Is a Foreign Land",
-        "url": "https://open.spotify.com/album/0S3bsk74dllX4ggb3Ojyyi"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 201177,
-      "name": "Going Clear",
-      "url": "https://open.spotify.com/track/2IqGnFjQy69Xr8eyphvdoq"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Broken Equipment",
         "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 197853,
       "name": "Pillar on the Bridge of You",
       "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "I Feel Like I'm Falling",
+        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
+      },
+      "artists": [
+        {
+          "name": "HOKO",
+          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "I Feel Like I'm Falling",
+      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     },
     {
       "added_at": "2023-09-08 20:23:35",

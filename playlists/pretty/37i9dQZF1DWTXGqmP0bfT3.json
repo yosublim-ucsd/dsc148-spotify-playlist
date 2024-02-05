@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 327298,
+  "num_followers": 327628,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmIxNGIzYjNiYzczNTRhMTdjMzNjMDU1OWYyZGFkZjEzN2IwMmM5",
+  "snapshot_id": "MCwyYmY1NmRlZTM3ZWI1YTQyYTc5YWFlZjljYWNiNjFhYmE5ZWFhMmMz",
   "tracks": [
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
+      "duration_ms": 218080,
+      "name": "Demons Are a Girl's Best Friend",
+      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1279,22 +1295,6 @@
       "duration_ms": 244254,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "The Sacrament of Sin",
-        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Demons Are a Girl's Best Friend",
-      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Sanctified with Dynamite",
+      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "Disarm the Descent (Special Edition)",
         "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Sanctified with Dynamite",
-      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 321161,
-      "name": "Until the World Goes Cold",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
         "name": "Sunset on the Golden Age",
         "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 202586,
       "name": "Drink",
       "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
     },
     {
       "added_at": "2024-01-29 16:20:38",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-01-29 16:20:38",
       "album": {
+        "name": "Miasma (feat. Winston McCall)",
+        "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 258153,
+      "name": "Miasma (feat. Winston McCall)",
+      "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
+    },
+    {
+      "added_at": "2024-01-29 16:20:38",
+      "album": {
         "name": "A Man with a Plan",
         "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 253346,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
-    },
-    {
-      "added_at": "2024-01-29 16:20:38",
-      "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     }
   ],
   "unique_name": "Energy Booster: Metal",

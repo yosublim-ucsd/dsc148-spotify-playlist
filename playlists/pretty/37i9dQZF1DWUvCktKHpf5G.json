@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 222120,
+  "num_followers": 222141,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTQ0NGUyYTgxMjY1ZjY1MjkyNjU4Yjc0MGYxNTQ1YTNiYTI1NjM3",
+  "snapshot_id": "MCwwZmVhNGRkYjg4OWJiNTUwMjYyY2Y4MWM5YmM1NjMzZWMxNWRkM2Vk",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "DUBAI",
         "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Tak Tiki Tak",
-        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 212406,
-      "name": "Tak Tiki Tak",
-      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "The Love & Sex Tape",
-        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1203,26 +1183,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Poblado",
-        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+        "name": "The Love & Sex Tape",
+        "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
       },
       "artists": [
         {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Poblado",
-      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+      "duration_ms": 225365,
+      "name": "Nos Comemos Vivos",
+      "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1247,6 +1223,30 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Poblado",
+        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Poblado",
+      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Despues De Las 12",
-        "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 194218,
-      "name": "Despues De Las 12",
-      "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "Podemos Repetirlo",
         "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Despues De Las 12",
+        "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 194218,
+      "name": "Despues De Las 12",
+      "url": "https://open.spotify.com/track/3kYTY4EZu7vJYCL7ojqk5H"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2023-12-22 06:00:00",
       "album": {
-        "name": "Te Cambie Por El",
-        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170695,
-      "name": "Te Cambie Por El",
-      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 200494,
       "name": "Fabuloso",
       "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Te Cambie Por El",
+        "url": "https://open.spotify.com/album/6bHnkWxT6LqkySnS1yeOTW"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170695,
+      "name": "Te Cambie Por El",
+      "url": "https://open.spotify.com/track/20j2PxqYHqamcH6g8vPMSp"
     },
     {
       "added_at": "2023-12-22 06:00:00",

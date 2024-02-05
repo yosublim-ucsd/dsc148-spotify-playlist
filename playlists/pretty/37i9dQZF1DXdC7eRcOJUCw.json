@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 130703,
+  "num_followers": 130726,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWYzMjFhYTY0ZmQzYjNjZjIzNGI4ZTVhYzQ5OGYzZGNiNmE5ZGQ5",
+  "snapshot_id": "MCxiOTE4MDQ5OWUyOTUxN2FiMjk1ZDA3YmIzYjBiYWVlNDk5MmI4MzBl",
   "tracks": [
     {
       "added_at": "2023-12-15 15:33:16",
@@ -319,22 +319,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 257209,
+      "name": "Si No Piensas Cambiar",
+      "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 257209,
-      "name": "Si No Piensas Cambiar",
-      "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
         "name": "Alquimia",
         "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Todo Todo",
-        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Todo Todo",
-      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -711,6 +695,22 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
         "name": "Divas Rancheras",
         "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206506,
       "name": "El Herradero",
       "url": "https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2023-12-15 15:33:16",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-12-15 15:33:16",
       "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/1RjuklhG6FAws09NVCQ4Hj"
+    },
+    {
+      "added_at": "2023-12-15 15:33:16",
+      "album": {
         "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
         "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 169489,
       "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
       "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
-    },
-    {
-      "added_at": "2023-12-15 15:33:16",
-      "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/1RjuklhG6FAws09NVCQ4Hj"
     },
     {
       "added_at": "2023-12-15 15:33:16",

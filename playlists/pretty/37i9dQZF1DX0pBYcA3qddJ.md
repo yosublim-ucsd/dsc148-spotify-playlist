@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,154 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,149 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 81 | [はひふへほ](https://open.spotify.com/track/1Sqhfgp5UXzJYjejD7pWUv) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [はひふへほ](https://open.spotify.com/album/2Ztz1foS02OoeUVM4LTYVu) | 3:12 |
 | 82 | [Aono & Akine](https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Aono ＆ Akine \(From "Blue Orchestra" Original Soundtrack\)](https://open.spotify.com/album/6bc3Y0oULpmOEZQlwDzq6x) | 2:37 |
 | 83 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
-| 84 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 84 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 85 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
-| 86 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 86 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 87 | [1995](https://open.spotify.com/track/2ibGtnA91vq3CmYc0Z3lXx) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [1995](https://open.spotify.com/album/34ZCIBYmH0rmPvcC3Gtj64) | 3:39 |
 | 88 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 |
 | 100 | [Poolgirl, Poolboy](https://open.spotify.com/track/1LTQcQsBIYGMCtmUcBxcjO) | [Cidres](https://open.spotify.com/artist/2bsA35SnFBfEwlbJTykSsO) | [Poolgirl, Poolboy](https://open.spotify.com/album/1KKTiuprfwmoaAQ4NjqK5s) | 3:08 |
 
-Snapshot ID: `MCwwNzAyZjg0Nzg1NzU2YjU0MGRhYzVmOGE1ODc0ZDY5ZDJlZGFiMGZh`
+Snapshot ID: `MCwwZjFkNjM1NmM0NGIzZTQwN2Q3YjVkYTVjOWM3ZTc1OTI2NmY3NDZl`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Robot95 y Lucho SSJ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,080 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,951 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ICEY ICEY](https://open.spotify.com/track/5WRg0aYTGQjSxDsCIkx5dn) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [ICEY ICEY](https://open.spotify.com/album/37Fb9oGq9GOPkxC5a9MaBa) | 2:21 |
-| 2 | [Tesla](https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kacha](https://open.spotify.com/artist/3AsYAOJY7ZcWPGoBbEJWAj) | [Tesla](https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH) | 3:02 |
+| 2 | [Tesla](https://open.spotify.com/track/3S4zdBo7Vf8RHsYCgfMceY) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [Tesla](https://open.spotify.com/album/6GMnDpdnoQIovasah5i6n7) | 3:02 |
 | 3 | [GaD \#24](https://open.spotify.com/track/3bYyFMBbSEKt1HdFmHtwA7) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [GaD \#24](https://open.spotify.com/album/4WGALPSbZSZm9S2K7CDgil) | 3:16 |
 | 4 | [Lujo Exclusivo](https://open.spotify.com/track/7gShEnurZgO2ObzbFgyFWg) | [Abad 33](https://open.spotify.com/artist/5vprSuF3Z3mqqi4ouKTXNn), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [Risky Business](https://open.spotify.com/album/1wdtyKDoImqAKXk7HNXVYr) | 2:08 |
 | 5 | [Flight 0013](https://open.spotify.com/track/0sXAKR4jUDxcLGHonBMWgf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Dave Garsía](https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [Flight 0013](https://open.spotify.com/album/6qyzUHavb4QGwPRLRSP1GC) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [Ferragamo](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ferragamo](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw4ZWRkZjAxMzlkZWNhZThhNzUwOGI3YjNmMGE4YTIyNDYwY2Q3ZDhm`
+Snapshot ID: `MCwxNDgyYmYzMzM1YWMyMWU3YWQ2ZDI1MTAwMDUyNmU4MDRlMTg5YzUy`

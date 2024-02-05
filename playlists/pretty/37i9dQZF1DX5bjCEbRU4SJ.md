@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,748 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,410 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [After Midnight](https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 2:20 |
 | 70 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
 
-Snapshot ID: `MCwzNWE4ZmQyYzlmNGIxOWZhNGU3NDczOGQ0OWYzYWU1MzI1Zjk0YThl`
+Snapshot ID: `MCxhMmJjMTVjZmU3NTg5NTdiMWYwNTAwMjFiYjQwZGY2N2E2NGI2MTMw`

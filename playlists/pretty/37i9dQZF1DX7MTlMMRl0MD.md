@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce & Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,860,858 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,858,296 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 63 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 |
 | 64 | [Madre](https://open.spotify.com/track/1e89wmECkzDpPCr9op4Pxf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Madre](https://open.spotify.com/album/44TzyeLPqQZT2ipNqJwQ4r) | 3:39 |
 
-Snapshot ID: `MCxjMTgwM2QxZGMxMzIyMjNlYjg1YmJkYmEyN2VhMDE1ODBhOWQ4YzNm`
+Snapshot ID: `MCw2MjBhNGRiNDk3MjgyNzk4OGRhNjU2OTdiZmJhYzg4ZDkzYzQyNjg0`

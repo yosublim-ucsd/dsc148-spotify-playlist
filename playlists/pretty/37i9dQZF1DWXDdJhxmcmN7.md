@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,559 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,572 likes - 100 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 29 | [New Home](https://open.spotify.com/track/5KKQG2TeOKq7iOEjMkOUVu) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [New Home](https://open.spotify.com/album/0A6MhfkctyoEnqlnkamG18) | 2:12 |
 | 30 | [Copihue](https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Copihue](https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR) | 2:37 |
 | 31 | [Amorcito corazón lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito corazón lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 |
-| 32 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
-| 33 | [abduccion \(bonus andromeda\)](https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [abducción](https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN) | 1:36 |
+| 32 | [abduccion \(bonus andromeda\)](https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [abducción](https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN) | 1:36 |
+| 33 | [Ukelele At Night](https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Bryan Pelayo](https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 1:33 |
 | 34 | [Areca](https://open.spotify.com/track/3r5sRubnsV13HpvP1Hv3E8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/39i5NpLsjgm59O39sy0iks) | 1:59 |
 | 35 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
 | 36 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 40 | [Saguaro](https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Saguaro](https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb) | 2:12 |
 | 41 | [jazmin](https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines, Vol.1](https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc) | 2:33 |
 | 42 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
-| 43 | [Looking for the Stars](https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Bluewerks Vol 13: Midnight Melodies](https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o) | 2:33 |
-| 44 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 |
+| 43 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 |
+| 44 | [Looking for the Stars](https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Bluewerks Vol 13: Midnight Melodies](https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o) | 2:33 |
 | 45 | [Lost Memories](https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lost Memories](https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR) | 2:26 |
 | 46 | [i shouldn't have done that...](https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r) | [AGM](https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg) | [somewhere, nowhere.](https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC) | 1:52 |
 | 47 | [La Villa](https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [La Villa](https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu) | 2:24 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 61 | [making out](https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [making out](https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl) | 2:39 |
 | 62 | [22 Hrs.](https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones para Escuchar Frente a la Ventana](https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy) | 2:59 |
 | 63 | [Buena Onda](https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Buena Onda](https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT) | 2:20 |
-| 64 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
-| 65 | [van life](https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [van life](https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt) | 2:15 |
+| 64 | [van life](https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [van life](https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt) | 2:15 |
+| 65 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
 | 66 | [Timeless Era](https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Timeless Era](https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP) | 1:41 |
 | 67 | [Duerme](https://open.spotify.com/track/1b7XK2lhy8hy9HAK4pFOpC) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Duerme](https://open.spotify.com/album/3lSsZLGP5WLfjoGM5n9xF6) | 2:06 |
 | 68 | [Dark Thoughts](https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had) | [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [Dark Thoughts](https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E) | 1:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 90 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 |
 | 91 | [Amor Amor](https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n) | [Amor Amor](https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt) | 2:16 |
 | 92 | [Efecto Foehn](https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N) | [Shō.gun](https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8) | [Efecto Foehn](https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF) | 2:09 |
-| 93 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 |
-| 94 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 |
+| 93 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 |
+| 94 | [Viernes Azul](https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Viernes Azul](https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz) | 3:34 |
 | 95 | [Maybe](https://open.spotify.com/track/6I6t6DkS15e6BQx41qmd9h) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Maybe](https://open.spotify.com/album/4jVTyZYM7bfjfafbpAHD3N) | 2:47 |
 | 96 | [Not Fun](https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD) | [Chili Dog](https://open.spotify.com/artist/514loz93308G5SYu5YPG6a) | [Not Fun](https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh) | 2:26 |
 | 97 | [Hide n Seek](https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Hide n Seek](https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [At The Park](https://open.spotify.com/track/0ABMPgRydyvZBTd6h2dypH) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [At The Park](https://open.spotify.com/album/5wF63eoWoqdESDwqKZST4G) | 2:02 |
 | 100 | [Llamar La Atención](https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Llamar La Atención](https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg) | 2:21 |
 
-Snapshot ID: `MCw1ZDJiMzU1YjZlNmMwYzQ0NjgxODhjOTQyMjc4M2E2YjM3ZDY5Yjg4`
+Snapshot ID: `MCw2ODYxOTQ1N2EzZTI4NTFhZTU5ZjE4OGNmZjA2NDdlYTQ0NmFkMDE3`

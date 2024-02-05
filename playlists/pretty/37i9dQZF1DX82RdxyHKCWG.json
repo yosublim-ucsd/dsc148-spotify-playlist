@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Lil Nas X",
-  "num_followers": 125227,
+  "num_followers": 125224,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGVmNGU5MWI4ZWRmNDJlY2M1MGIxZWJhZmI4ZDA4MWYzNTVmMWE1",
+  "snapshot_id": "MCw2ZmE0NDI5MDhkOTQwMDkyMjUwNzkwYjA5MTg0ZjU2YjVmNTI5NTQy",
   "tracks": [
     {
       "added_at": "2024-02-02 18:52:34",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-02-02 18:52:34",
       "album": {
-        "name": "B\u00e9cane - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "B\u00e9cane - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
-    },
-    {
-      "added_at": "2024-02-02 18:52:34",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-02-02 18:52:34",
+      "album": {
+        "name": "B\u00e9cane - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "B\u00e9cane - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
       "added_at": "2024-02-02 18:52:34",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-02 18:52:34",
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2024-02-02 18:52:34",
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
-    },
-    {
-      "added_at": "2024-02-02 18:52:34",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-02-02 18:52:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-02-02 18:52:34",
       "album": {
-        "name": "INSANO",
-        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "ELECTROWAVEBABY",
-      "url": "https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF"
-    },
-    {
-      "added_at": "2024-02-02 18:52:34",
-      "album": {
         "name": "Bota Ni\u00f1a",
         "url": "https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 209693,
       "name": "Bota Ni\u00f1a",
       "url": "https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB"
+    },
+    {
+      "added_at": "2024-02-02 18:52:34",
+      "album": {
+        "name": "INSANO",
+        "url": "https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "ELECTROWAVEBABY",
+      "url": "https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF"
     },
     {
       "added_at": "2024-02-02 18:52:34",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-02-02 18:52:34",
       "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
+    },
+    {
+      "added_at": "2024-02-02 18:52:34",
+      "album": {
         "name": "Lonely At The Top (Remix)",
         "url": "https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 155454,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD"
-    },
-    {
-      "added_at": "2024-02-02 18:52:34",
-      "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "added_at": "2024-02-02 18:52:34",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-02 18:52:34",
       "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
+    },
+    {
+      "added_at": "2024-02-02 18:52:34",
+      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 112421,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/1AcLopklm3BN9tvIS1Qion"
-    },
-    {
-      "added_at": "2024-02-02 18:52:34",
-      "album": {
-        "name": "All The Boys",
-        "url": "https://open.spotify.com/album/1sDb15lhCdE9wI8yTP7w6i"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 151906,
-      "name": "All The Boys",
-      "url": "https://open.spotify.com/track/09mqylqFZIQprBxExnZ5Xr"
     }
   ],
   "unique_name": "SUPERNOVA",

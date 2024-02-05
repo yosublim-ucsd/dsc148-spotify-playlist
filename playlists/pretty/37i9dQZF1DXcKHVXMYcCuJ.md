@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Gotta catch 'em all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,105 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,101 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 9 | [Kool Thing](https://open.spotify.com/track/1ZozGivTAYsOwhy6LVHsPX) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 4:06 |
 | 10 | [Let’s Go](https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Pursuit](https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC) | 3:31 |
 | 11 | [The Night I Drove Alone](https://open.spotify.com/track/5iZw5AzGiQx5rmmocWBFOz) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC) | 2:13 |
-| 12 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
-| 13 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
+| 12 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
+| 13 | [Millennial](https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Millennial](https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp) | 1:46 |
 | 14 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 |
 | 15 | [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 |
 | 16 | [Reckless Tongue](https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/1IA50NRu9M8eJFPOp0iyV8) | 2:58 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 21 | [Tired Of Sex](https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:01 |
 | 22 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 |
 | 23 | [Pale](https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 3:10 |
-| 24 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
-| 25 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
+| 24 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
+| 25 | [Life In A Jar](https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 3:42 |
 | 26 | [Sunday](https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [A Thousand Leaves](https://open.spotify.com/album/2SDi8NTSiq6qQ2WTkrp9X4) | 4:51 |
 | 27 | [Milquetoast](https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Betty](https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q) | 3:53 |
 | 28 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 49 | [Vertigo Flowers](https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 3:24 |
 | 50 | [Shining Light](https://open.spotify.com/track/10B3eGl539TNdvxhvHITNx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Free All Angels](https://open.spotify.com/album/4jz1np59eWO1ErBVPk1PZS) | 5:09 |
 | 51 | [June](https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:23 |
-| 52 | [License to Confuse \- Remastered](https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bakesale: Deluxe Edition](https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh) | 1:46 |
-| 53 | [Berlin Chair](https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B) | [You Am I](https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw) | [Sound As Ever](https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay) | 2:34 |
+| 52 | [Berlin Chair](https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B) | [You Am I](https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw) | [Sound As Ever](https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay) | 2:34 |
+| 53 | [License to Confuse \- Remastered](https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bakesale: Deluxe Edition](https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh) | 1:46 |
 | 54 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
 | 55 | [Grounded](https://open.spotify.com/track/6BWchF8jHCuZ1Ebk9Av4HG) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Wowee Zowee](https://open.spotify.com/album/0OHDiDMyxzWJfwtoeHNCf4) | 4:14 |
 | 56 | [Jesus Stole My Girlfriend](https://open.spotify.com/track/5p6GEo6wrwLpicbGyNH1A4) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 2:57 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 75 | [Apple Cider, I Don't Mind](https://open.spotify.com/track/02SdGsV2CdVzFNaMiI33Uk) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Holy Ghost](https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7) | 1:57 |
 | 76 | [Thru The Eyes Of Ruby \- Remastered 2012](https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 7:38 |
 | 77 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
-| 78 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
-| 79 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
+| 78 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
+| 79 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
 | 80 | [Fuct](https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Money](https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy) | 3:27 |
 | 81 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
 | 82 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 89 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
 | 90 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 91 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 92 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
-| 93 | [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 |
-| 94 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
+| 92 | [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 |
+| 93 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
+| 94 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 |
 | 95 | [Night Tryst](https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 3:23 |
 | 96 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 |
 | 97 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 |
 | 100 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 
-Snapshot ID: `MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy`
+Snapshot ID: `MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4`

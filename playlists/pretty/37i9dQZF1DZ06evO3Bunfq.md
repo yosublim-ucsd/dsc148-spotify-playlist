@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,505 likes - 45 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,561 likes - 45 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 22 | [La Misión \(Episodio 2\)](https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Misión \(Episodio 2\)](https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi) | 5:23 |
 | 23 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 |
 | 24 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 |
-| 25 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
-| 26 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
+| 25 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
+| 26 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
 | 27 | [Lírica Onírica](https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:15 |
 | 28 | [16 Toneladas](https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j) | 3:26 |
 | 29 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 44 | [Te Enganchaste Mal \- Radio Edit](https://open.spotify.com/track/0LU0C4fZDavfWtUN4PhRr9) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Bakles](https://open.spotify.com/artist/1pJjYafqmpogl5o0OzkaP4), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Te Enganchaste Mal \(Radio Edit\)](https://open.spotify.com/album/2Ig1ZdiAEwjyubp9YBWiqZ) | 3:28 |
 | 45 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBiODU0NjEwOTg3NWQ5ZmU2MTcyNjk2MTlkN2VlMDQwNQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA5ZWY2OGM2MmQzNDBjMGVkODQyMWRhMTc1OTczZTcyOQ==`

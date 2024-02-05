@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Sophie Faith",
-  "num_followers": 306139,
+  "num_followers": 306191,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjM0MGEwNDExNjIxNzZiNzBhZGMyMWE0NDU0YmRiN2FhOWM3MTEy",
+  "snapshot_id": "MCw5NGQ4NTQ2NTg4ZTE4Yjc2YjE2NjczYmVkNjM1M2Y5MTc5NzgwYTM1",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
+      },
+      "artists": [
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 302822,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 220204,
       "name": "The Way You Look At Me",
       "url": "https://open.spotify.com/track/1xnarNBibYchqPjKRuwZzO"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
-      },
-      "artists": [
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 302822,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -801,6 +801,30 @@
       "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
+      "added_at": "2024-02-02 13:50:02",
+      "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
       "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
@@ -835,22 +859,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Friday Film Special",
         "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
       },
@@ -863,6 +871,22 @@
       "duration_ms": 249675,
       "name": "Friday Film Special",
       "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -951,22 +975,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
-      },
-      "artists": [
-        {
-          "name": "TIANNA",
-          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
-        }
-      ],
-      "duration_ms": 162307,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
       },
@@ -1019,6 +1027,22 @@
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5mCZBxFQoF2jW6NmCKAZ6y"
+      },
+      "artists": [
+        {
+          "name": "TIANNA",
+          "url": "https://open.spotify.com/artist/5dmtTFDrjcJrZAGk1RbgoM"
+        }
+      ],
+      "duration_ms": 162307,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5bHVvFGDTLsUPsgSV8Qi4c"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1083,114 +1107,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
-      },
-      "artists": [
-        {
-          "name": "Ash Walker",
-          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
-        },
-        {
-          "name": "Kennebec",
-          "url": "https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc"
-        }
-      ],
-      "duration_ms": 161283,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
-    },
-    {
-      "added_at": "2024-02-02 13:50:02",
-      "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Mother Tongue",
-        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
-      },
-      "artists": [
-        {
-          "name": "Maya Law",
-          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
-        }
-      ],
-      "duration_ms": 204217,
-      "name": "Mother Tongue",
-      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Cheap Cigars",
         "url": "https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx"
       },
@@ -1217,6 +1133,42 @@
       "url": "https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe"
     },
     {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
+      },
+      "artists": [
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        },
+        {
+          "name": "Kennebec",
+          "url": "https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc"
+        }
+      ],
+      "duration_ms": 161283,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+    },
+    {
       "added_at": "2024-01-12 11:23:55",
       "album": {
         "name": "Twenties",
@@ -1235,30 +1187,50 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
-        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Jean Baylor",
-          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 270602,
-      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
-      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/2E94ztb8o0S5aHE8kEbS1c"
+      },
+      "artists": [
+        {
+          "name": "Maya Law",
+          "url": "https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6"
+        }
+      ],
+      "duration_ms": 204217,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/26nbjJWqDmzzZyMetpzjOP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1319,6 +1291,34 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
+        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jean Baylor",
+          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
+        }
+      ],
+      "duration_ms": 270602,
+      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
+      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Fragile Eyes",
         "url": "https://open.spotify.com/album/2G9G69vAI4Ek21msHECI0E"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 264870,
       "name": "Fragile Eyes",
       "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Powerful Lady",
-        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
-      },
-      "artists": [
-        {
-          "name": "Alice Markham",
-          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
-        }
-      ],
-      "duration_ms": 260594,
-      "name": "Powerful Lady",
-      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1371,6 +1355,22 @@
       "duration_ms": 235433,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Powerful Lady",
+        "url": "https://open.spotify.com/album/5ij9621I1TcRmDvA89336G"
+      },
+      "artists": [
+        {
+          "name": "Alice Markham",
+          "url": "https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o"
+        }
+      ],
+      "duration_ms": 260594,
+      "name": "Powerful Lady",
+      "url": "https://open.spotify.com/track/2O4rnCK71CUylfIGhN5cua"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "INA CRUELER",
-        "url": "https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5"
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
         }
       ],
-      "duration_ms": 214062,
-      "name": "ina crueler",
-      "url": "https://open.spotify.com/track/435lsRWOBWySRYcJ03DX4X"
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI"
     }
   ],
   "unique_name": "Jazz UK",

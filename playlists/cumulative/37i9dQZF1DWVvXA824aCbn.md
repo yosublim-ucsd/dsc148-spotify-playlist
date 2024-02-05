@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-534 songs - 1 day 10 hr 5 min
+535 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Forever and ever](https://open.spotify.com/track/2ydGIFOEzRCyMXr4ZolD6j) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Forever and ever](https://open.spotify.com/album/4wxQDdcPhzvEj55fuCDcG8) | 4:19 | 2023-06-15 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
-| [Free](https://open.spotify.com/track/6wYs5HI0HGlKnt6bJTu5ZA) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Live From The Cotton Club, Vol\. 1](https://open.spotify.com/album/2St8sotmw8P7XhW3YswwLw) | 12:22 | 2021-02-03 |  |
+| [Free](https://open.spotify.com/track/6wYs5HI0HGlKnt6bJTu5ZA) | [Joey Calderazzo](https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4) | [Live From The Cotton Club, Vol\. 1](https://open.spotify.com/album/2St8sotmw8P7XhW3YswwLw) | 12:22 | 2021-02-03 | 2024-02-05 |
 | [From This Moment On](https://open.spotify.com/track/0nKuLOun4rfWPa1dF0eRAD) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [From This Moment On](https://open.spotify.com/album/2VT0gVnwet0udySQKwTjyV) | 4:04 | 2022-06-14 |  |
 | [Full of soul](https://open.spotify.com/track/4Oofu5XdM33FwrkDu5zttD) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Full of soul](https://open.spotify.com/album/7ehA2g9p0NlrYvQ7zkkOGU) | 2:50 | 2023-09-08 |  |
 | [Gentle rain](https://open.spotify.com/track/55E7VD2WRuFCr4tBRKWiK6) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 3:44 | 2020-10-20\* | 2021-01-21 |
@@ -520,6 +520,7 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [When Your Lover Has Gone](https://open.spotify.com/album/37JPTyLv4CmNEQzlQfjSRI) | 2:43 | 2023-04-20 |  |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-09-22 |  |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
+| [Whispers of the Forest](https://open.spotify.com/track/5SJm0GUkKjN3GzJQdwY8RS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Whispers of the Forest](https://open.spotify.com/album/6j4y9U6qH8AiJPOudBRWLR) | 3:27 | 2024-02-02 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-11-24 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/47HEGzYmGFAwcLnAbmxHcU) | [Tony Ballantine](https://open.spotify.com/artist/5rJn0jM1nGVlQO49gW7Xw9) | [Visions EP](https://open.spotify.com/album/1uUYYSEjoDz4CAhUlVhFBM) | 2:50 | 2020-10-20\* | 2020-11-05 |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2021-01-27 |  |

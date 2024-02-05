@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 485870,
+  "2024-02-05": 486092,
   "date_first_scraped": "2022-04-14",
   "description": "Sitar, flute, and sounds inspired by India.",
   "name": "Indian Chill",
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 305120,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0JQ0zIQxvpz8XvMphwdRZj"
@@ -2061,6 +2061,24 @@
       "duration_ms": 305120,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2G05MCwb1Cnk1csGaU3ZY5"
+    },
+    {
+      "album": {
+        "name": "Devotion 1: Blessings of the Heart",
+        "url": "https://open.spotify.com/album/3JXXSLswIpf1GNoptaXXvx"
+      },
+      "artists": [
+        {
+          "name": "Kiran Murti",
+          "url": "https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5Ap8FLACa9WqPzIxmI4jki"
     },
     {
       "album": {

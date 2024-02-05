@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-268 songs - 21 hr 53 min
+270 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2022-06-03 | 2022-07-23 |
 | [Hip Trumpets](https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [KVISION](https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR) | [Hip Trumpets](https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4) | 3:15 | 2023-09-01 |  |
-| [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 | 2023-12-15 |  |
+| [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 | 2023-12-15 | 2024-02-05 |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 | 2023-11-05 |
 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 |  |
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 | 2023-12-09 |
@@ -120,10 +120,11 @@
 | [La Nariz Rosada](https://open.spotify.com/track/3do6W1ZZXTJJKtlykfJygL) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [DJ Mara](https://open.spotify.com/artist/1OUuxQNvF1uRYOtLgv9Ood) | [La Nariz Rosada](https://open.spotify.com/album/2tSCpX7cYOsbZc09ABcBVt) | 4:40 | 2022-08-26 | 2023-12-09 |
 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 | 2023-03-17 | 2023-08-25 |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
+| [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 | 2024-02-02 |  |
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
 | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/track/7fP89DrqJcr5cmvWBdkBBP) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto) | [Likkle Drop \(feat\. Kwame\)](https://open.spotify.com/album/4ERrzPJu5Yh3QluUblMids) | 2:56 | 2023-08-11 | 2023-09-29 |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
-| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 |  |
+| [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 | 2022-06-03 | 2024-02-05 |
 | [Love No Limit \- ReFreak](https://open.spotify.com/track/23L2ACZRwd2ayCUH2DJra1) | [Brandon Lucas](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Love No Limit \- ReFreak](https://open.spotify.com/album/7yOIRhmL6SFqPycQsNFBxw) | 4:42 | 2022-06-03 | 2022-07-29 |
 | [Love The Way You](https://open.spotify.com/track/2phBDqpIBoQOZ8W3pfIhet) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Love The Way You](https://open.spotify.com/album/1ooQcg0fUojEzoY9QIFNFL) | 4:36 | 2022-06-03 | 2022-07-28 |
 | [Lovelee Dae](https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Blaze \(Kevin Hedge\)](https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy) | [Lovelee Dae](https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg) | 6:22 | 2022-06-03 |  |
@@ -206,6 +207,7 @@
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-06-03 | 2022-09-30 |
 | [So Sweet \- Matthias Tanzmann Remix](https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [So Sweet \(Matthias Tanzmann Remix\)](https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5) | 5:33 | 2022-11-11 | 2022-12-31 |
 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 |  |
+| [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 | 2024-02-02 |  |
 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 | 2023-08-25 |  |
 | [Steamroller](https://open.spotify.com/track/1Hp1FU6me1dv5q4ei6qnbp) | [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy) | [Steamroller EP](https://open.spotify.com/album/0frpqLt1rPcJSi5ZAqemSx) | 6:10 | 2022-06-03 | 2022-07-28 |
 | [street knowledge.](https://open.spotify.com/track/711gJWmej4ldX9N7BJQvbR) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [summer '23](https://open.spotify.com/album/2EbpNouTaGpQLUPQ6xfXJ4) | 6:19 | 2023-08-25 | 2023-11-11 |

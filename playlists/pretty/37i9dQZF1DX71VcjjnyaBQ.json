@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 395934,
+  "num_followers": 395996,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTFlYTg0NGYzYTNhYWQ5ZTRjY2VlODdjNTY0MTFjM2U5N2FlMzMz",
+  "snapshot_id": "MCwwNGE5MTBjNjQwZTg5MjY5YzJiMmFkMGQ1YmFjOTFkMzY2MzBhZmRj",
   "tracks": [
     {
       "added_at": "2024-01-31 09:19:10",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
+      },
+      "artists": [
+        {
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -639,30 +639,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
-        }
-      ],
-      "duration_ms": 182412,
-      "name": "Lookin' Up",
-      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi"
+        }
+      ],
+      "duration_ms": 182412,
+      "name": "Lookin' Up",
+      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
       "artists": [
         {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         }
       ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1067,6 +1051,22 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
-      },
-      "artists": [
-        {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1235,6 +1219,22 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
+        "name": "central park west",
+        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 268915,
+      "name": "central park west",
+      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 270613,
       "name": "The Rumor",
       "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
-        "name": "central park west",
-        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 268915,
-      "name": "central park west",
-      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
       "artists": [
         {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1471,22 +1487,6 @@
       "duration_ms": 258906,
       "name": "A.M. Hours",
       "url": "https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
-        }
-      ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
         "name": "Love Is in the Air",
         "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2024-01-31 09:19:10",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-31 09:19:10",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
-    },
-    {
-      "added_at": "2024-01-31 09:19:10",
-      "album": {
         "name": "The Starter",
         "url": "https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
+    },
+    {
+      "added_at": "2024-01-31 09:19:10",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
     },
     {
       "added_at": "2024-01-31 09:19:10",

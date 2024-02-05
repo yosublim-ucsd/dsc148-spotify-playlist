@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-64 songs - 8 hr 43 min
+65 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 | 2021-12-23 |  |
 | [Om Mani Padme Hum](https://open.spotify.com/track/6S7QB6lkpJz25glAK3gTC0) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 9:57 | 2021-12-23 |  |
 | [On the Other Ocean](https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb) | [David Behrman](https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 6:50 | 2021-12-23 |  |
-| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2023-12-04 |  |
+| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2023-12-04 | 2024-02-05 |
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2022-04-11 | 2024-02-01 |
+| [Oxygène, Pt\. 1](https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:39 | 2023-12-04 |  |
 | [Performance One \- Part 1](https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 20:49 | 2021-12-23 |  |
 | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/track/3gxcuLf2ZMpOTEyreIwRcN) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 23:31 | 2021-12-23 |  |
 | [Rosetti Noise/Chrystal Garden And A Coda](https://open.spotify.com/track/2oWwrX6JGdRC4cUnJlYiWF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 14:19 | 2021-12-23 |  |

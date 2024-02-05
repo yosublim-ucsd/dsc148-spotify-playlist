@@ -2,9 +2,9 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> New music from Royel Otis, Hovvdy, The Smile and more..\.  Cover: Royel Otis
+> Congrats to all Grammy winners! Cover: Jack Antonoff \(Producer of the Year\)
 
-1,992 songs - 4 day 23 hr 39 min
+1,993 songs - 4 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-21 | 2023-06-10 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 | 2023-02-11 |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-17 | 2023-11-25 |
-| [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-11-16 | 2023-02-10 |
+| [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-11-16 |  |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-11 | 2022-11-25 |
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-11-16 | 2022-11-27 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 | 2022-09-03 |
@@ -1079,6 +1079,7 @@
 | [Mantra](https://open.spotify.com/track/5t8ykLn9zmfzzFtA5bWBlc) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Mantra](https://open.spotify.com/album/3yBPUOCTZbu2FdwvR2piFY) | 6:28 | 2023-10-18 | 2024-01-06 |
 | [Many Times](https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Many Times](https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q) | 2:06 | 2021-09-23 | 2022-06-24 |
 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-30 | 2023-07-22 |
+| [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-02-05 |  |
 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 | 2022-05-19 | 2022-07-15 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-25 | 2022-05-20 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-04-05 | 2022-03-11 |
@@ -1215,7 +1216,7 @@
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-02-22 | 2021-05-21 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-20 | 2022-04-07 |
 | [not okay \(feat\. mazie\)](https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [not okay \(feat\. mazie\)](https://open.spotify.com/album/660EN7ZkbkMuho9k4ajJgC) | 2:43 | 2021-08-20 | 2022-02-03 |
-| [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-17 | 2023-10-19 |
+| [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-03-17 |  |
 | [Not Strong Enough](https://open.spotify.com/track/72GNW1xKoi5BAhMYAW6e7e) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:54 | 2023-03-01 | 2023-04-04 |
 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 | 2021-08-20 | 2022-02-08 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-20 | 2023-05-21 |

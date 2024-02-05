@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 107870,
+  "2024-02-05": 107899,
   "date_first_scraped": "2024-01-30",
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Huracanes del Norte",
@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "10 Corridos Pesados",
+        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "La Dama De Rojo",
+      "url": "https://open.spotify.com/track/0SMCBKXblOFj4B3x3TK9up"
+    },
+    {
+      "album": {
         "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
         "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 195000,
       "name": "La Suburban Dorada",
       "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 158346,
       "name": "Si Los Caminos Hablaran",
       "url": "https://open.spotify.com/track/3fqs5Bm6c0SxgWxzoxukWt"

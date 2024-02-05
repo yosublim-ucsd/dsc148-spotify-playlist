@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,345 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,097 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 15 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
 | 16 | [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:14 |
 | 17 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
-| 18 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
-| 19 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
+| 18 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
+| 19 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
 | 20 | [Eu Fiquei Com a Puta](https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6) | [Eu Fiquei Com a Puta](https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C) | 2:18 |
 | 21 | [Tiro Foto, Mas Não Posto](https://open.spotify.com/track/2zytQKmpGW9dvhEGnXiBTP) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Tiro Foto, Mas Não Posto](https://open.spotify.com/album/2F5juQtLZImwXCTtCWFMeS) | 2:24 |
 | 22 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCw1NWE5ZGNhOTY4MWZlYzFmYWZkNTE0OTIwZTA1ZjExNjAxZDU4MjM0`
+Snapshot ID: `MCxjMmNjZjg3ZjkwNDU2MTQ0MWI2YjM5OWFhZjUxNjk3ODhkYmU3ZmM2`

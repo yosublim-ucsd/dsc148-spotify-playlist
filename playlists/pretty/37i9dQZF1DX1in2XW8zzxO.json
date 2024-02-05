@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 61534,
+  "num_followers": 61612,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmZiMmYzMTNhMjU0ZGM4NTA4ZjVlZDRjMmM0Y2M3Mjk4Y2FjMTE4",
+  "snapshot_id": "MCxkNWFiZDVjMDAyYjQ2N2M1MmFhYjU2MmE2MzE0MTQ2OGI0MzNhNmYx",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "La Maluka",
-        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
-      },
-      "artists": [
-        {
-          "name": "Blaqnick & MasterBlaq",
-          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "La Maluka",
-      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Woza La!",
         "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 484285,
       "name": "Woza La!",
       "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "La Maluka",
+        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
+      },
+      "artists": [
+        {
+          "name": "Blaqnick & MasterBlaq",
+          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "La Maluka",
+      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "DALI DALI",
-        "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
-      },
-      "artists": [
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        }
-      ],
-      "duration_ms": 385731,
-      "name": "Moratata (feat. Leemckrazy & TitoM)",
-      "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
         "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "DALI DALI",
+        "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        }
+      ],
+      "duration_ms": 385731,
+      "name": "Moratata (feat. Leemckrazy & TitoM)",
+      "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
       "added_at": "2024-01-25 23:01:00",

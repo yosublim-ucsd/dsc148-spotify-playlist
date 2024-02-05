@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Ariel Donato, MC Cabelinho, Marina Sena",
-  "num_followers": 290917,
+  "num_followers": 290841,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGQzNWQ4OTNlZmM5YzRjN2E5NjNjZTQ4ODE2MzU1NGYyY2ZjZjQ2",
+  "snapshot_id": "MCxlODM4OTdhMGEwZTZhOTZjMzJiYTA2YzgzZjIyNTdlYTc4MDJkMmFi",
   "tracks": [
     {
       "added_at": "2024-02-02 18:51:33",
@@ -727,6 +727,30 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Samba Hype 1: A Braba",
         "url": "https://open.spotify.com/album/4kxWbCKgqCm6C2rwkVUbqf"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 349533,
       "name": "Samba Hype 1: A Braba",
       "url": "https://open.spotify.com/track/4ncArYsKIB6jL0iPN6CnF6"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1367,26 +1343,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
       "artists": [
         {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1407,6 +1383,30 @@
       "duration_ms": 201792,
       "name": "No Azul do Teu Olhar",
       "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2024-02-02 18:51:33",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2024-02-02 18:51:33",
       "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2024-02-02 18:51:33",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
-    },
-    {
-      "added_at": "2024-02-02 18:51:33",
-      "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2024-02-02 18:51:33",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: <a href=\"https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=JvKPycNvTJCSkQ73WwDcDA\"> Jeriq </a> and <a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=q5HdY1aKQ0aPWERT9SuRMw\"> PsychoYP</a>",
-  "num_followers": 42455,
+  "num_followers": 42528,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTM0N2MwOGI1YmFjN2VmNjVlNGUzYWE5NDVjYzgxNDNjZjI2YzFm",
+  "snapshot_id": "MCw1YWMxMGM4Njk1YTRkYTlmZWU4MmM4MzMzMDg5ZGI0NWFiODgwZGNi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:57:22",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
-        "name": "Jowo",
-        "url": "https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4"
-      },
-      "artists": [
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
         "name": "Guy Man",
         "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
@@ -1295,30 +1275,6 @@
     {
       "added_at": "2024-02-02 05:57:22",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 186401,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
-    },
-    {
-      "added_at": "2024-02-02 05:57:22",
-      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -1355,6 +1311,30 @@
       "duration_ms": 166556,
       "name": "Philo - Remix",
       "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 186401,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
     },
     {
       "added_at": "2024-02-02 05:57:22",
@@ -1423,6 +1403,26 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-02-02 05:57:22",
+      "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     }
   ],
   "unique_name": "Naija Bars ",

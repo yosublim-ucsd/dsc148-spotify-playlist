@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
-  "num_followers": 413990,
+  "num_followers": 414055,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzZjMDU0Y2VjOTI1ZWE3ODY2Yzk1ZTFmODBjOWQ5NTAyODBjZWNm",
+  "snapshot_id": "MCwxNjgzODk2ZTBkOGRjYjA3ZWRjNDEwNGZhYmNlZDI5MTQzOWRiYjVk",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 135233,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Ode an den Bass",
+        "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "duration_ms": 200042,
+      "name": "Ode an den Bass",
+      "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -47,18 +63,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Ode an den Bass",
-        "url": "https://open.spotify.com/album/1gAnk5qZJAA3T01vufMMDD"
+        "name": "F\u00fcr immer Fr\u00fchling",
+        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
       },
       "artists": [
         {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+          "name": "soffie",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
         }
       ],
-      "duration_ms": 200042,
-      "name": "Ode an den Bass",
-      "url": "https://open.spotify.com/track/5BfQq5cdMr5f5PVSz6yRpq"
+      "duration_ms": 120000,
+      "name": "F\u00fcr immer Fr\u00fchling",
+      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -95,22 +111,6 @@
       "duration_ms": 151555,
       "name": "Nichts f\u00fcr immer",
       "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "F\u00fcr immer Fr\u00fchling",
-        "url": "https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN"
-      },
-      "artists": [
-        {
-          "name": "soffie",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "F\u00fcr immer Fr\u00fchling",
-      "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -204,8 +204,8 @@
       },
       "artists": [
         {
-          "name": "Mika",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/27ym8iukxLqQCcA5xbmSfM"
         }
       ],
       "duration_ms": 173321,

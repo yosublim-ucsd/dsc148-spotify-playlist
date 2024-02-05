@@ -4,7 +4,7 @@
 
 > Soft rock for that free and easy feeling.
 
-118 songs - 7 hr 50 min
+119 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 | 2021-04-22 |  |
 | [Help Is On Its Way \- 2010 Digital Remaster](https://open.spotify.com/track/64RnIqEMPUPx3MTzPwcfKO) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(2010 Remaster\)](https://open.spotify.com/album/6CIFONNOVR9frrraKZpiPi) | 4:07 | 2021-04-22 | 2022-10-19 |
 | [Help Is On Its Way \- Remastered 2022](https://open.spotify.com/track/6HnGsS6ovVsC6dLB3CtxYh) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(Remastered 2022\)](https://open.spotify.com/album/2y1AfhFTokE1bObd4Dcakg) | 3:57 | 2021-04-22 |  |
-| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2022-06-29 |  |
+| [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 | 2022-06-29 | 2024-02-05 |
+| [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 | 2023-03-15 |  |
 | [Honey Don't Leave L.A.](https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:05 | 2021-04-22 |  |
 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 | 2021-04-22 |  |
 | [How Can This Be Love](https://open.spotify.com/track/0I2h9T7HeYjP9yALFN8dJt) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Lonely Boy: The Greatest Hits](https://open.spotify.com/album/3ZpJBQ3ffRxqFtYOOKTbov) | 3:59 | 2021-04-22 |  |

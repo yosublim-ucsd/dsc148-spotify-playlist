@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 568551,
+  "2024-02-05": 568568,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Chile.",
   "name": "Top 50 - Chile",
@@ -6139,7 +6139,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 200575,
       "name": "FINA",
       "url": "https://open.spotify.com/track/46iMG1GYMxKfW0UVQkuWOp"
@@ -6509,6 +6509,28 @@
       "duration_ms": 159753,
       "name": "GATA ONLY",
       "url": "https://open.spotify.com/track/168MV3IHHPbkhhkvI9htP3"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {

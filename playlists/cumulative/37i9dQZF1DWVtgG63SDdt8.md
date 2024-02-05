@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-5,336 songs - 14 day 20 hr 9 min
+5,337 songs - 14 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4239,7 +4239,8 @@
 | [Still There's Something](https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Melody Lynn](https://open.spotify.com/artist/382qatBmbrqa56uxbMhsNM) | [Still There's Something](https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV) | 3:38 | 2023-05-19 | 2023-06-10 |
 | [Stone](https://open.spotify.com/track/1Ugp9UQyfz25y1JPA2z0pu) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Stone](https://open.spotify.com/album/580JJVevsUusyRA0qKo2MM) | 4:07 | 2022-02-25 | 2022-03-05 |
 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 | 2022-04-29 | 2022-05-14 |
-| [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 | 2024-02-02 |  |
+| [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 | 2024-02-02 | 2024-02-05 |
+| [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J) | 1:42 | 2024-02-02 |  |
 | [STOPPIN NUN](https://open.spotify.com/track/4dP6YpdS9YAbXBhXd5vVbA) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOPPIN NUN](https://open.spotify.com/album/3yn9tEgkqgbtib4dedUfsP) | 2:02 | 2023-05-19 | 2023-06-03 |
 | [Store Run](https://open.spotify.com/track/6YG19lUmx3VD0Bb9ZhqqNI) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp) | [Store Run](https://open.spotify.com/album/7eJz9GFM9ESswFwfklwOTH) | 1:56 | 2022-06-17 | 2022-07-02 |
 | [Storefront Praise Medley](https://open.spotify.com/track/71KTO4lbwryFrP204wqwTg) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Storefront Praise Medley](https://open.spotify.com/album/774M5IhMIUtf5sqVxB131x) | 5:23 | 2022-04-08 | 2022-04-23 |

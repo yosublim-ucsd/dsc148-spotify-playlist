@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 483823,
+  "num_followers": 483638,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM0YjFkYWRkZGIwYWU3ZmY4MGM5MDBjM2JjMzQxZTVlYmQ2OWNl",
+  "snapshot_id": "MCw3YjJiM2M1ODc0ZmU4NTI4ZDA4YzVkN2Q2MjQ3OGU4YjA4NmNmOGE2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Feeling Irie",
-        "url": "https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH"
-      },
-      "artists": [
-        {
-          "name": "General Degree",
-          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Feeling Irie",
-      "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 181434,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Feeling Irie",
+        "url": "https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH"
+      },
+      "artists": [
+        {
+          "name": "General Degree",
+          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Feeling Irie",
+      "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
-        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        }
-      ],
-      "duration_ms": 208860,
-      "name": "Woii",
-      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Push Time",
         "url": "https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 181333,
       "name": "Push Time",
       "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Woii",
+      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
     },
     {
       "added_at": "2022-10-13 23:00:00",

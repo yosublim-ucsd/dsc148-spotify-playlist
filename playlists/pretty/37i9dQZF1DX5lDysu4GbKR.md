@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,903 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,717 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 14 | [burn out](https://open.spotify.com/track/7D4W8nqlPMDsr3IjogAT3S) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:24 |
 | 15 | [SOMEWHERE FAR](https://open.spotify.com/track/0y6DaC0f8sGqzbU5UKoPEb) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [SOMEWHERE FAR](https://open.spotify.com/album/3unR1FTn8GilyeSvUchaXt) | 2:24 |
 | 16 | [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 |
-| 17 | [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 |
+| 17 | [Southern Comfort](https://open.spotify.com/track/44KX6krxJOPMNDBalsklXs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/73z5oOi2581XQ9UVF5d4hM) | 3:41 |
 | 18 | [I'm Different \- Live Acoustic](https://open.spotify.com/track/1j7CmVk7HFc73iA4tKi4Ks) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different \(Live Acoustic\)](https://open.spotify.com/album/6BAdIDnSPtkC8KEunpVEGZ) | 3:15 |
 | 19 | [Biting These Bullets](https://open.spotify.com/track/26DRE0b2MT2ym9LxVpfgDa) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Biting These Bullets](https://open.spotify.com/album/7h5jbvfnzdxDUtKd9vUj8U) | 3:22 |
 | 20 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 89 | [Back of My Hand \(Live\)](https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Original Songs and Sound \(Deluxe Version\)](https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud) | 4:25 |
 | 90 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 |
 
-Snapshot ID: `MCxlYjIxOWZlYTQyM2U4MjBmNTc0MDIyYWUwNTlkMzgxYjQwNjQ0MjIy`
+Snapshot ID: `MCwzYWNlNzJlYzQ5MTE3MzgxNGU3NGJhZjg3ZWNmNTU5ZWY2ZWI3NjU5`

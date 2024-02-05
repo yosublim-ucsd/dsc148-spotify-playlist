@@ -113,6 +113,28 @@
     },
     {
       "album": {
+        "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
+        "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "DJ Ess",
+          "url": "https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151273,
+      "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
+      "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
+    },
+    {
+      "album": {
         "name": "#doyalike",
         "url": "https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu"
       },
@@ -21090,7 +21112,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"

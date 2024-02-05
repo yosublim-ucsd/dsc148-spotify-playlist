@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 71427,
+  "2024-02-05": 71414,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hungary.",
   "name": "Top 50 - Hungary",
@@ -239,6 +239,28 @@
       "duration_ms": 337348,
       "name": "12+1",
       "url": "https://open.spotify.com/track/52GlArsRTqvo36GXJQa7ab"
+    },
+    {
+      "album": {
+        "name": "HOLNAP MEG\u00c1LLNAK AZ \u00d3R\u00c1K / 16 TONNA FEH\u00c9R H\u00d3",
+        "url": "https://open.spotify.com/album/40iAszpmvlF8Uc0lc4elvz"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "KizzaPing69",
+          "url": "https://open.spotify.com/artist/5IVSpWZzjjPeT4I9AxjBro"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "16 TONNA FEH\u00c9R H\u00d3",
+      "url": "https://open.spotify.com/track/5LgnPDZJkCfi1GgsWqoqlK"
     },
     {
       "album": {
@@ -5619,7 +5641,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -6395,10 +6417,28 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 169795,
       "name": "Gengetek ellen",
       "url": "https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC"
+    },
+    {
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "Gengetek ellen",
+      "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
     },
     {
       "album": {
@@ -7561,6 +7601,36 @@
       "duration_ms": 203845,
       "name": "HOLNAP",
       "url": "https://open.spotify.com/track/7GuOjfD2btfoHsZMVy261f"
+    },
+    {
+      "album": {
+        "name": "HOLNAP MEG\u00c1LLNAK AZ \u00d3R\u00c1K / 16 TONNA FEH\u00c9R H\u00d3",
+        "url": "https://open.spotify.com/album/40iAszpmvlF8Uc0lc4elvz"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/2SeiQ2B37PXI8EawwJnFIw"
+        },
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        },
+        {
+          "name": "Dom Beats",
+          "url": "https://open.spotify.com/artist/1yAZdGybNCElJvIPLFaYMO"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "HOLNAP MEG\u00c1LLNAK AZ \u00d3R\u00c1K",
+      "url": "https://open.spotify.com/track/6DWhDivRPga2RL1A75heOa"
     },
     {
       "album": {
@@ -9236,6 +9306,24 @@
     },
     {
       "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138883,
+      "name": "Kitart\u00e1st",
+      "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
+    },
+    {
+      "album": {
         "name": "Kitart\u00e1st",
         "url": "https://open.spotify.com/album/76wjdpRI7WPbx3jYHBFVGU"
       },
@@ -9247,7 +9335,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 146192,
       "name": "Kitart\u00e1st",
       "url": "https://open.spotify.com/track/7GAi2oVUykl3Zlw4zBlaRp"
@@ -11919,7 +12007,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,391 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,401 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 31 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 |
 | 32 | [Sunkwa](https://open.spotify.com/track/7MM1ADW5xnIGkxG8N3kkHP) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 2:50 |
 | 33 | [Sugarcane \- Remix](https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gregory Bortey Newman](https://open.spotify.com/artist/6uNKMzEUQhiTskricpo2yw) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 4:11 |
-| 34 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
+| 34 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 |
 | 35 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 36 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 |
 | 37 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
 | 38 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 39 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 40 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 |
-| 41 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 |
+| 41 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 42 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
 | 43 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 44 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 |
 | 80 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 |
 
-Snapshot ID: `MCw1MTZjOTk1MmZjZTcyYzc3M2FlYjA0MGM2M2E3NjQ2NTA3NWI4NDJm`
+Snapshot ID: `MCxhNTEzZjMwMDU0N2YyYzQyNDRlNjg3MDM2NjUzNzA2NTAyNGU2NzAy`

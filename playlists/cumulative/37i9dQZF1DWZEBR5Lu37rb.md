@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-139 songs - 9 hr 47 min
+140 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [NTA](https://open.spotify.com/track/1Asv77Jhpw1FA6YjA5wwuV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [NTA](https://open.spotify.com/album/1BBx9Jp1fkh2yDd68hQXEG) | 3:26 | 2022-02-10 |  |
 | [Nyota Yako](https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [T I D Singles](https://open.spotify.com/album/2M8BcYuMxICp6yaB7VeRIr) | 4:51 | 2022-02-10 | 2024-01-02 |
 | [Nyota Yako](https://open.spotify.com/track/03tmpdJzhAdQgEPOvG8KWr) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Nyota Yako](https://open.spotify.com/album/2Lj9jCdLSXzRg7jeSF05mj) | 4:51 | 2023-03-17 |  |
-| [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-02-10 |  |
+| [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 | 2022-02-10 | 2024-02-05 |
+| [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 | 2023-11-28 |  |
 | [Odo nwom](https://open.spotify.com/track/7oTOQksidsMI5biGbCS0hB) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:57 | 2022-02-10 |  |
 | [Olufunmi](https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Compilation](https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg) | 5:04 | 2023-10-27 |  |
 | [Olufunmi](https://open.spotify.com/track/77MQN7u2xs3tlGS5CMMj4Y) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Call My Name](https://open.spotify.com/album/5dVJp3wBd86sYrMpZsCiE2) | 5:09 | 2023-03-17 | 2023-06-12 |

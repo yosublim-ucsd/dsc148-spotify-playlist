@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 145128,
+  "num_followers": 145182,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTRhMTllMGUzZGI0NDFiMDEwZWZhNTgwYzAwOTBjNmNlMTE2OWJh",
+  "snapshot_id": "MCxiMWRmZTQwNWY4MzliODkyNDM3ZjRiYjE1NDJlNjFmMjQ0ZmZiNWZm",
   "tracks": [
     {
       "added_at": "2020-10-24 04:53:42",
@@ -375,18 +375,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
+        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+      "duration_ms": 174946,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -407,18 +407,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 174946,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Esta Es Mi Vida",
-        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Espacio sideral",
-      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Esta Es Mi Vida",
+        "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Espacio sideral",
+      "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Qu\u00e9 Vida la M\u00eda",
-      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Qu\u00e9 Vida la M\u00eda",
+      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Luz Y Sombra",
         "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 280040,
       "name": "Las Mil Y Una Noches",
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2020-10-24 04:53:42",

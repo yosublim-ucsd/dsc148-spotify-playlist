@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 270768,
+  "num_followers": 270730,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDIwNTY4YzkzMGQyMWE5ZDExMTA2NDQzMDM4NmM2MGYxMDhhY2Nk",
+  "snapshot_id": "MCw1Njk4NTkwNzNhZmVhZWQwYjFiOTUzZTVkMjM5Mzk1MmNlNmI4ZTQx",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
-      },
-      "artists": [
-        {
-          "name": "Carlos Carreira",
-          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Jur\u00e9",
-      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Mujer Que Camina",
         "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 322013,
       "name": "Mujer Que Camina",
       "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Carreira",
+          "url": "https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Jur\u00e9",
+      "url": "https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -719,18 +719,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
+        "name": "El Tren de los Regresos (Parada Especial)",
+        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Yordano",
+          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
+        },
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 185617,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
+      "duration_ms": 200520,
+      "name": "D\u00edas de Junio",
+      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -771,22 +775,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "El Tren de los Regresos (Parada Especial)",
-        "url": "https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3"
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
       "artists": [
         {
-          "name": "Yordano",
-          "url": "https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ"
-        },
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 200520,
-      "name": "D\u00edas de Junio",
-      "url": "https://open.spotify.com/track/0YhoKaP08VuwzTkWXBJQ0M"
+      "duration_ms": 185617,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Flor Y El Abejorro",
-        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 249740,
-      "name": "La Flor Y El Abejorro",
-      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 253354,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Flor Y El Abejorro",
+        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 249740,
+      "name": "La Flor Y El Abejorro",
+      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
       "added_at": "2021-07-29 16:46:05",

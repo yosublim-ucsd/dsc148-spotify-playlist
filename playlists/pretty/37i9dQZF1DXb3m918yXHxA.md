@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,085 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,248 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 46 | [Too Hot](https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 4:55 |
 | 47 | [Magic](https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 4:31 |
 | 48 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 |
-| 49 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
+| 49 | [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 |
 | 50 | [Love Is the Answer](https://open.spotify.com/track/2jto2mk883akXynLqkdung) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dr\. Heckle & Mr\. Jive](https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h) | 4:44 |
 | 51 | [Nothin' You Can Do About It](https://open.spotify.com/track/3AFGpmbpdctoSsLYiu07vl) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:47 |
 | 52 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 129 | [Can't Be Seen](https://open.spotify.com/track/1l4laa9Q0HgJ4a4yTd08f5) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 3:01 |
 | 130 | [Gotta Get Back to Love](https://open.spotify.com/track/2QQYco5UET8Ur8DMNcyfSE) | [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt) | [Runaway](https://open.spotify.com/album/3GHUVmq8M8L0qoj65DOtTK) | 3:30 |
 
-Snapshot ID: `MCw0ZWYzYWYxMmM1NWRlZDM1MzcxYzgzYTcyYWI3NjY0MmUzOTc1ZmUx`
+Snapshot ID: `MCxjYTQzYmJlMTJjNzU3ZjQwNmFkOTVmM2MzOTQ4OGVlM2UzMDcxODA1`

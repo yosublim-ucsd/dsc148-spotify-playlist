@@ -1,12 +1,12 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 277733,
+  "num_followers": 277900,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2EwMWM1OGU5NTEwYjM5MzkzNzMyYjYyZTg4YjAwNjc0NGM0Y2Mz",
+  "snapshot_id": "MCwyNjhlN2I5NzhjNWYzYjEwYTJlYmY3ODA0MTVjMzllMDllOGZkZDBj",
   "tracks": [
     {
       "added_at": "2024-02-01 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Kaikai Kitan / Ao No Waltz",
-        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "Kaikai Kitan",
-      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157200,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
+        "name": "Kaikai Kitan / Ao No Waltz",
+        "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Kaikai Kitan",
+      "url": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "more than words",
-        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+        "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
+        "url": "https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 289720,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+      "duration_ms": 262984,
+      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
+      "url": "https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u9752\u3068\u590f",
-        "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        },
-        {
-          "name": "Sonoko Inoue",
-          "url": "https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 307066,
-      "name": "\u70b9\u63cf\u306e\u5504",
-      "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1103,6 +1099,26 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
+        "name": "\u9752\u3068\u590f",
+        "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        },
+        {
+          "name": "Sonoko Inoue",
+          "url": "https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ"
+        }
+      ],
+      "duration_ms": 307066,
+      "name": "\u70b9\u63cf\u306e\u5504",
+      "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
+    },
+    {
+      "added_at": "2024-02-01 03:00:00",
+      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2024-02-01 03:00:00",
-      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -1167,34 +1167,34 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
-        "url": "https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 262984,
-      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30fc\u30af",
-      "url": "https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV"
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
     },
     {
       "added_at": "2024-02-01 03:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-02-01 03:00:00",
       "album": {
-        "name": "CRAZY IN LOVE",
-        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 191462,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2024-02-01 03:00:00",

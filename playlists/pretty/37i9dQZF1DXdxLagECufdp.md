@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,376 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,381 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 24 | [Piel Canela](https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Mambo Ska](https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6) | 2:51 |
 | 25 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 26 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 |
-| 27 | [Vamos a Morir](https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 3:55 |
-| 28 | [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 |
+| 27 | [Khade sukar / How Beautiful](https://open.spotify.com/track/11qTgJvOSQQgW2NZ1cjRFB) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Rávágok A Zongorára/Hit The Piano](https://open.spotify.com/album/0HDfjaHDB5c8PIzpg5H6je) | 3:27 |
+| 28 | [Vamos a Morir](https://open.spotify.com/track/2IFFqBY6Khw7vgVezoXXkY) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda, Pt\. 1](https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc) | 3:55 |
 | 29 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 |
 | 30 | [Mentira](https://open.spotify.com/track/1NpqV60GHzxPrINvbo14tH) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 3:20 |
 | 31 | [A pic](https://open.spotify.com/track/229qb30DJB2xQM4Mgt3muY) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT) | [Radio Cortex 2](https://open.spotify.com/album/43okl0zDTPNLy226YoY58X) | 3:10 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 35 | [El Futuro Es Nuestro \(feat\. Goran Bregović\)](https://open.spotify.com/track/0vJWanOoPwLdy4sgyM1FGC) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 4:26 |
 | 36 | [Bubamara \(Main Version\)](https://open.spotify.com/track/6lFMUE3wCWMxw63N0GKeUJ) | [Dr Nele Karajlic](https://open.spotify.com/artist/6S93eD0WtHS03m2IdOdlsx) | [Muzika Iz Filma "Crna Macka Beli Macor"](https://open.spotify.com/album/5IbXHF05fEGWn70rtON4ZZ) | 3:55 |
 | 37 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
-| 38 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
+| 38 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
 | 39 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
-| 40 | [Georgian Lessons 1\-6](https://open.spotify.com/track/7LRNTyc8LdVLCsVG99Rfht) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2) | [BalkanBeats Soundlab](https://open.spotify.com/album/0KcQc9aXSMvzhhx2lRfp1Y) | 3:41 |
+| 40 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
 | 41 | [The Stojka Empire](https://open.spotify.com/track/1jijW2TdA9x8XDrsQIPv7N) | [\[dunkelbunt\]](https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3), [Harry Stojka](https://open.spotify.com/artist/3UoFXEOzD4kf5aPTplFX5c), [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Morgenlandfahrt](https://open.spotify.com/album/5yOdpBaqNL30wYZNaAa9bI) | 5:39 |
 | 42 | [Khelipe Cheasa](https://open.spotify.com/track/0ejUrxuNZlxET3wuoepkXa) | [Boban i Marko Markovic Orkestar](https://open.spotify.com/artist/45NfIph232CCNfn07NoSbs) | [Devla](https://open.spotify.com/album/1w1BcVgQEOkWma7R7NhkFx) | 3:45 |
 | 43 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 49 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
 | 50 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
 
-Snapshot ID: `MCwzM2UxYjk4YTBlM2I1ZTE5MjljNTc1ZWEzM2I5MGE3NTJiMjJjNTVk`
+Snapshot ID: `MCwzZWI2ZmNiMTgzZmY2OTg1MzM5MDE4M2ViOTJjZWNkOTdjMzg1NGVl`

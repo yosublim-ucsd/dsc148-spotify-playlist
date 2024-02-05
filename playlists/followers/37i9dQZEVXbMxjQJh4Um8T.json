@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 6551,
+  "2024-02-05": 6553,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Andorra.",
   "name": "Viral 50 - Andorra",
@@ -209,6 +209,28 @@
     {
       "album": {
         "name": "Casanova",
+        "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
+    },
+    {
+      "album": {
+        "name": "Casanova",
         "url": "https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71"
       },
       "artists": [
@@ -231,6 +253,24 @@
       "duration_ms": 243806,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
+    },
+    {
+      "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "album": {
@@ -267,7 +307,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
@@ -314,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Els teus ulls",
+        "url": "https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Els teus ulls",
+      "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
@@ -325,7 +383,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -347,10 +405,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
+    },
+    {
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
     },
     {
       "album": {
@@ -369,6 +449,28 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "album": {
@@ -443,7 +545,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -461,7 +563,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -508,6 +610,28 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
+    },
+    {
+      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -523,7 +647,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
@@ -581,7 +705,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
@@ -759,7 +883,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
@@ -777,7 +901,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
@@ -825,10 +949,44 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 252040,
       "name": "No Te Quieren Conmigo",
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
+    },
+    {
+      "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
     },
     {
       "album": {
@@ -947,7 +1105,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -1005,7 +1163,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -1045,6 +1203,28 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
       "album": {
@@ -1221,7 +1401,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -1265,10 +1445,32 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
+    },
+    {
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183890,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
     },
     {
       "album": {
@@ -1367,7 +1569,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"

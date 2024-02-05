@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 67617,
+  "num_followers": 67656,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTQ4NjE4OTUyYTc1YjBmMDg1NTliNTA0ZWI3ZmI4ZTc5OTg4Yzhk",
+  "snapshot_id": "MCxjYzc3NTcyZTU3ZTQ4ZGQ4ZWFhZjM5ZDY3MDE1ZjFiODczNTUxMmJk",
   "tracks": [
     {
       "added_at": "2024-01-30 18:27:53",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Calm Waves",
-        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Calm Waves",
-      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Sleep Sequence",
         "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203374,
       "name": "Sleep Sequence",
       "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Shores",
+          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
       },
       "artists": [
         {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1175,6 +1159,22 @@
       "duration_ms": 141724,
       "name": "Hush",
       "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Tangerine Dreams",
         "url": "https://open.spotify.com/album/2IfctRtqYFXXcUXuYsO8HI"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 170958,
       "name": "Tangerine Dreams",
       "url": "https://open.spotify.com/track/0LXhz2plYEUrE4HFjAASLD"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Waves of Harmony",
         "url": "https://open.spotify.com/album/55DECemDNrUt9gvi7zCwpn"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 158490,
       "name": "Waves of Harmony",
       "url": "https://open.spotify.com/track/5JEUb6ZynRuW2tuhk3oPE1"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Parallels",
         "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 216015,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Soft Meadow",
         "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/37DwKVq9tG6vzYVhORPRmL"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/61HSo5TNO6zcd1zjsjO4o5"
     },
     {
       "added_at": "2024-01-30 18:27:53",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-01-30 18:27:53",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
-      },
-      "artists": [
-        {
-          "name": "Gentle Dreams",
-          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
-        }
-      ],
-      "duration_ms": 160188,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
-    },
-    {
-      "added_at": "2024-01-30 18:27:53",
-      "album": {
         "name": "Desiderio",
         "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 154726,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
+    },
+    {
+      "added_at": "2024-01-30 18:27:53",
+      "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+      },
+      "artists": [
+        {
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+        }
+      ],
+      "duration_ms": 160188,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
     },
     {
       "added_at": "2024-01-30 18:27:53",

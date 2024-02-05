@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 > Listen to the music from Hazbin Hotel, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,212 likes - 14 songs - 34 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 78,531 likes - 14 songs - 34 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 | 13 | [Out For Love](https://open.spotify.com/track/7MeAsrKeb2yyOvYn9cdYcb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR) | [Hazbin Hotel Original Soundtrack \(Part 3\)](https://open.spotify.com/album/4Hh6784LclgtBfDb62ojn3) | 1:30 |
 | 14 | [Ready For This](https://open.spotify.com/track/44q2aFehhEpojgA5qEkurR) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Leslie Kritzer](https://open.spotify.com/artist/0VJgvx0e4MTvL1A9o2HKQz), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 3\)](https://open.spotify.com/album/4Hh6784LclgtBfDb62ojn3) | 3:29 |
 
-Snapshot ID: `MCxjZTNjOWZkMTY4OGFiNGIwNDc2ODJhNTA2MGMyNjdjYTFlODQzMDlk`
+Snapshot ID: `MCxlNDA3YjE4NDcxNzFkM2JhYzM5ZjY1OWNkM2Q2NzRkYmEyYmMzMzQ0`

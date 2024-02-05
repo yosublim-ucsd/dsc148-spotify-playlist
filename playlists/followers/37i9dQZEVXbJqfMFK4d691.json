@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 103959,
+  "2024-02-05": 103934,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bolivia.",
   "name": "Top 50 - Bolivia",
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 193820,
       "name": "Bailando Conmigo",
       "url": "https://open.spotify.com/track/50oP4ToVfNdIQTDHr4dTyC"
@@ -3547,7 +3547,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
@@ -5233,10 +5233,32 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
+    },
+    {
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
     },
     {
       "album": {
@@ -5783,7 +5805,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
@@ -6054,6 +6076,28 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
+    },
+    {
+      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -6069,7 +6113,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
@@ -9644,6 +9688,28 @@
     },
     {
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141079,
+      "name": "Piel",
+      "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
+    },
+    {
+      "album": {
         "name": "Pink Venom",
         "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
       },
@@ -11611,7 +11677,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
@@ -13448,6 +13514,28 @@
     },
     {
       "album": {
+        "name": "Voy A Desaparecer",
+        "url": "https://open.spotify.com/album/74Ci28bLZ6dodLKbRnX4rt"
+      },
+      "artists": [
+        {
+          "name": "Luis Vega",
+          "url": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t"
+        },
+        {
+          "name": "JAVVI ELIAS",
+          "url": "https://open.spotify.com/artist/0wdQR6Qd64uSVhNJy7M2F0"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Voy A Desaparecer",
+      "url": "https://open.spotify.com/track/1dwiWawlwPw5G8TF4ik9ni"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -13724,6 +13812,32 @@
     },
     {
       "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi"
+    },
+    {
+      "album": {
         "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
@@ -13743,7 +13857,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"

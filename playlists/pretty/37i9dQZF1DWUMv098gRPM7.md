@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Zeina
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,097 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,104 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 35 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 36 | [Start Over](https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 2:10 |
 | 37 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
-| 38 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
-| 39 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
+| 38 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
+| 39 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 |
 | 40 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 |
 | 41 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |
 | 42 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 44 | [All That Matters](https://open.spotify.com/track/70XP39KE8vTgxtRXcwfxJA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 3:11 |
 | 45 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 |
 | 46 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 |
-| 47 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
-| 48 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 |
+| 47 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 |
+| 48 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
 | 49 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
 | 50 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
 | 51 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 71 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 72 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
 | 73 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
-| 74 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
-| 75 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
+| 74 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
+| 75 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 
-Snapshot ID: `MCxkZTcwZjJlZTRjMDBmYjU5MzRhMGJlMWJlNmJmODhlNmUxOTM1NDAw`
+Snapshot ID: `MCw1M2I1ZDAzZDBjYjA1OWRhMjZjMjNmZDJmNDgwYjMzOTU1YzgxN2Yz`

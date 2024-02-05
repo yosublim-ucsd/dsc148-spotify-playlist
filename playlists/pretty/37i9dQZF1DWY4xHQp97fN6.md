@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,675,303 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,672,136 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 28 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 |
 | 29 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 30 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 |
-| 31 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 31 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 32 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 |
 | 33 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 |
 | 34 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 99 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
 | 100 | [Vette Motors](https://open.spotify.com/track/0HrWshW3SuFJ6nKS9ba9Mh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:53 |
 
-Snapshot ID: `MCxkMjA5Mjk3Y2Y1MWQwNjA0YWVkNDkxMzdkZmU4NDUwODdhYTQyZTU4`
+Snapshot ID: `MCwyYzg1ZTY2YTRlN2RiNDkyNzhmZWViMTUwNDdlYWI2OGJjOGNmNzJk`

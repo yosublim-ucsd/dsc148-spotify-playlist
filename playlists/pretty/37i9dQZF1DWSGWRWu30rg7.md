@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aditya Manggala
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,856 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,807 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Someday](https://open.spotify.com/track/6kNB7SRt6K46eyPhCDGsRW) | [Aditya Manggala](https://open.spotify.com/artist/5zbVsdxrowwWTBlVp3Wgw6) | [Someday](https://open.spotify.com/album/5eNnocR9R4mLQeUq4tPa3q) | 3:11 |
-| 2 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 |
+| 2 | [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 |
 | 3 | [Why Can't I](https://open.spotify.com/track/5umoaDBuH6bIV7oazLwouw) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [Why Can't I](https://open.spotify.com/album/335eRtnoExauLL8Zbj0MoK) | 3:20 |
 | 4 | [Just A Dream](https://open.spotify.com/track/6yLhCLptkOqe3I3Ipd5mxW) | [Xeva Al Gazel](https://open.spotify.com/artist/6eJAxZZ18R9bsueqikw05i) | [Just A Dream](https://open.spotify.com/album/2LRJgVsRE4Gaad22zgV1Aa) | 3:53 |
 | 5 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 70 | [Lukisan Hati](https://open.spotify.com/track/3CbxrtGkEJdlS1Evhw5xuZ) | [Devandaru](https://open.spotify.com/artist/3etpdjvsu7htAwDXLju00K) | [Lukisan Hati](https://open.spotify.com/album/1JxkSy8s69ss5SWOZAdcC7) | 3:43 |
 | 71 | [Dimiliki Dia](https://open.spotify.com/track/4oYO0bHAPtZFDhgnBBZuKQ) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Dimiliki Dia](https://open.spotify.com/album/5ZMba9BNuaqMcnNjoAhDqo) | 3:48 |
 
-Snapshot ID: `MCw3OTZiNzM0MmQ4NjM0YjIyZjZmYTg5NzczNzNkZDc0NGI2YWNhNmQ2`
+Snapshot ID: `MCw5OWQ1NjM3NjEwZWViYzk4ZjIyNmZjODE4NzUwZWU3OTQ1NmIzMjQx`

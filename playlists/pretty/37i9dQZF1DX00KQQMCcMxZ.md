@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,733 likes - 38 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,770 likes - 38 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 13 | [Midsummer Evening Birds](https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:02 |
 | 14 | [Forest Birds HD](https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Spring Birds](https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg) | 2:38 |
 | 15 | [Morning in the Mist](https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 4:31 |
-| 16 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 |
-| 17 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
+| 16 | [A Chit\-Chat With Nature](https://open.spotify.com/track/5l7eXwfI0dz67heP7I8CfY) | [Robbins Island Music Group](https://open.spotify.com/artist/3HGpQkENCx0Yl4vFTPde3t) | [Nature Sounds of Walden Pond: Forest Sounds, Lapping Waves, Soft Winds, Distant Thunder and Soothing Rains](https://open.spotify.com/album/0te5cli7s8MZ7dw0iwdmK9) | 4:10 |
+| 17 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 |
 | 18 | [In the Midst of Nature](https://open.spotify.com/track/4M9fhkESWwMVlTQqJpHJUw) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [In the Midst of Nature](https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N) | 2:01 |
 | 19 | [Soothing Morning Birds](https://open.spotify.com/track/3sZivg4AWg8IqDtiDD5o4x) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 3:08 |
 | 20 | [Early Birds Light Wind](https://open.spotify.com/track/2nwyDCSpu0vXIxN0IbzyHJ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:37 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 28 | [Morning In The Forest](https://open.spotify.com/track/2P6dfQcVKTJvWxnGKGYmS8) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Nature Nice](https://open.spotify.com/album/3VBGYlSRKVgUOSE7YkI1a8) | 2:02 |
 | 29 | [The Sounds of the Sky](https://open.spotify.com/track/73RYAYjcirAJVcqjuq9HwS) | [Hidden Gems Nature](https://open.spotify.com/artist/6nP9UVlxfeIgsZ26YwUcm2) | [A Winged World](https://open.spotify.com/album/0xshgnZXiGB7WsOCKMvfig) | 2:08 |
 | 30 | [Summer Afternoon Birds](https://open.spotify.com/track/1eQ0j21AheIK1cYojGTPYJ) | [Jungleur](https://open.spotify.com/artist/2vLNINQQ80zgWfjTKU6Hna) | [Summer Afternoon Birds](https://open.spotify.com/album/0njhmaly6h4vDo1FmpHOGm) | 2:20 |
-| 31 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
-| 32 | [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 |
+| 31 | [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 |
+| 32 | [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 |
 | 33 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 |
 | 34 | [Peaceful Birds Singing](https://open.spotify.com/track/6ZxXt9Pmy7x6OVzxzngHWw) | [Hola Pájaros](https://open.spotify.com/artist/50vXpS8CxYIfp65eisEQWU) | [Peaceful Birds Singing](https://open.spotify.com/album/17HeEfEffSnIpbQTr5xgEY) | 2:00 |
 | 35 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00KQQMCcMxZ.md) - [plain]
 | 37 | [When calm comes](https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [When Calm Comes](https://open.spotify.com/album/7DFoMVRYA9Mhmp1bqN3gdu) | 2:33 |
 | 38 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 |
 
-Snapshot ID: `MCw4ZDc1MTM4YmI1MDdjZTBiNDEwMjIzMjJjYTljNTU3MGM2Y2FhOWY1`
+Snapshot ID: `MCxiYzdlMDNhYjFmMGQ4MTMwMTRkMWQ2NzJlNmQ0ZDIyOGRkYWRhOTA5`

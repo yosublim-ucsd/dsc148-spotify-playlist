@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,385 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,384 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 13 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 |
 | 14 | [Ahora Estoy Solo](https://open.spotify.com/track/2RdTRx9fjrxCW1bLZsCDob) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Super Cumbias \(Remastered\)](https://open.spotify.com/album/1XeQOKWV65fT6734OdV6qd) | 3:07 |
 | 15 | [Tomame O Dejame](https://open.spotify.com/track/3X0jce1hWcs0sP2AIO94pK) | [Tropical Caribe](https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f) | [A Bailar La Cumbia \- 20 Exitos](https://open.spotify.com/album/00lFBQtaRZLtvBHLrONEVf) | 3:20 |
-| 16 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
+| 16 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 |
 | 17 | [Sera que nunca le sucedio](https://open.spotify.com/track/5llQvY4EAgURqmbcFj75Gi) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:02 |
 | 18 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 19 | [Amor Platonico](https://open.spotify.com/track/189ZkWdzkPWrNy5HmGW4XA) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:07 |
 | 20 | [El Último Beso](https://open.spotify.com/track/3XhpZzA5EHDXnY2tICXeqz) | [Los Roller's](https://open.spotify.com/artist/7mQa3XflwD72PWFe55CjWt) | [El Último Beso](https://open.spotify.com/album/0gpAzMT34MHus5D1QgYPf4) | 2:32 |
 | 21 | [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 |
-| 22 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 |
+| 22 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
 | 23 | [Máquina Del Tiempo](https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Invencible \(El Patrón\)](https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS) | 3:56 |
 | 24 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 25 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Todo Biento](https://open.spotify.com/track/33noWMO0SPfWArA58YHLtr) | [Pipa Para Tabaco](https://open.spotify.com/artist/6Y1u9VzC9SOmr9pbUACwjg) | [Vas A Morir Con Eso](https://open.spotify.com/album/1VNzUYcY2Hi5YcjSu352pR) | 3:03 |
 | 50 | [Tú y yo](https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [Qmbia Base](https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY) | 3:37 |
 
-Snapshot ID: `MCw3MjlmYjc1NzI4NDA4NjRmMmFhM2E2MjgyNTVkNDcwNmVlOGRmMzc5`
+Snapshot ID: `MCxjZWViZWI5NDExNmIyYzdiNTI3NDAyYjllZmY0MWQzNTUwZGQyNThh`

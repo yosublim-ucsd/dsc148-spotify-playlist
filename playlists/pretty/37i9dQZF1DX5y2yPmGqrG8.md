@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,312 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,335 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 37 | [After Midnight](https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Filoxiny](https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps) | 4:43 |
 | 38 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
 | 39 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 |
-| 40 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
-| 41 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
+| 40 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 |
+| 41 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 |
 | 42 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 |
 | 43 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
 | 44 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
-| 45 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
-| 46 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
-| 47 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
+| 45 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 46 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 |
+| 47 | [No Step on Wing](https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 4:46 |
 | 48 | [Space 8](https://open.spotify.com/track/6kpoN7Z1mahkMePKztQdHt) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 17:32 |
 | 49 | [Broken Hearted Kota](https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Broken Hearted Kota](https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv) | 5:11 |
 | 50 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 |
 
-Snapshot ID: `MCwxOTFjZDUzMDQwYjE4NWVhZGM0MzczMTNjZmI0MTJiMTFmNTQyMTky`
+Snapshot ID: `MCxiODg3YjA2ZmRmZDVhNzUwYTc1M2I1NzlhOWEyMGFlMGQ1OTY2YzBk`

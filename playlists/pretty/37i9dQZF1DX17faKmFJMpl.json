@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 3429,
+  "num_followers": 3433,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTNlMWY2MjM5YmRhZDQ5NGQ1M2Y1ZjJkMTUxOWRlZjA1OTcwYmYw",
+  "snapshot_id": "MCxkNzdmM2FjNjNlOTZhOGM1MzJhNDVlMWY4MzM1ZmZjNTJhYWMxZjY2",
   "tracks": [
     {
       "added_at": "2023-08-10 14:02:26",
@@ -827,66 +827,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Epik High & MYK",
-          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "It\u2019s Me (feat. Epik High & MYK)",
-      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/3GJg3berJSA1ZuNY6DbiRA"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Tablo",
-          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
-        },
-        {
-          "name": "Mithra Jin",
-          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "\ub0b4\ub9ac\ub9c9 (feat. Tablo, Mithra Jin)",
-      "url": "https://open.spotify.com/track/5TdSTn8VjEHE611v4Uhw3o"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Best of Best",
-        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 188969,
-      "name": "\ud0c4\ub760",
-      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "One Nation",
         "url": "https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq"
       },
@@ -927,6 +867,66 @@
       "duration_ms": 276066,
       "name": "One Nation (feat. DJ R2, Bone Thugs-n-Harmony, BAECHIGI, Outsider, Illinit, \ucde8\ub7a9, Leo Kekoa)",
       "url": "https://open.spotify.com/track/0SwKwiD9RGhgBBLQ0kLCBC"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Epik High & MYK",
+          "url": "https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "It\u2019s Me (feat. Epik High & MYK)",
+      "url": "https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Best of Best",
+        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 188969,
+      "name": "\ud0c4\ub760",
+      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/3GJg3berJSA1ZuNY6DbiRA"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Mithra Jin",
+          "url": "https://open.spotify.com/artist/025L56GiNRsa5jSK7HO1ke"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "\ub0b4\ub9ac\ub9c9 (feat. Tablo, Mithra Jin)",
+      "url": "https://open.spotify.com/track/5TdSTn8VjEHE611v4Uhw3o"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
         }
       ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
+      "duration_ms": 293041,
+      "name": "\ub7a9\uad50 1\ub9c9",
+      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 293041,
-      "name": "\ub7a9\uad50 1\ub9c9",
-      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
         "name": "GO HARD Part 1 : \uc591\uac00\uce58",
         "url": "https://open.spotify.com/album/1ldHyFmrirxBjgsXS0hEZf"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 182033,
       "name": "\ud76c\uadc0\uc885 (feat. YDG)",
       "url": "https://open.spotify.com/track/4K9utewCqeRnV2Q64Daflb"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1227,6 +1227,62 @@
       "duration_ms": 254640,
       "name": "\ub208\uc744 \ub728\uba74",
       "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Andre",
+        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
+      },
+      "artists": [
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        }
+      ],
+      "duration_ms": 230797,
+      "name": "Spell My Name Right - Original Version",
+      "url": "https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
+      },
+      "artists": [
+        {
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
+        },
+        {
+          "name": "Mad Clown",
+          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Strike The Gold (feat. The Quiett)",
+      "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1279,62 +1335,6 @@
       "duration_ms": 333946,
       "name": "Hip Hop For Respect (feat. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominic, Garion, Dok2, Sean2Slow, MC Sungchun)",
       "url": "https://open.spotify.com/track/4arB8dvHCT1jlEPfYrAU2N"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1SW0tDZHq8t4YkuFWddBNa"
-      },
-      "artists": [
-        {
-          "name": "Soul Company",
-          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
-        },
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Strike The Gold (feat. The Quiett)",
-      "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
-        "name": "Andre",
-        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
-      },
-      "artists": [
-        {
-          "name": "yankie",
-          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
-        }
-      ],
-      "duration_ms": 230797,
-      "name": "Spell My Name Right - Original Version",
-      "url": "https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Lastman Standing",
-      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
-    },
-    {
-      "added_at": "2023-08-10 14:02:26",
-      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216821,
       "name": "Handalas",
       "url": "https://open.spotify.com/track/0VGwwzutmfWbxQfRqQnbme"
+    },
+    {
+      "added_at": "2023-08-10 14:02:26",
+      "album": {
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Lastman Standing",
+      "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1803,26 +1803,18 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2ltQS10O2Tz9PyE3PeeEUr"
+        "name": "MP Hip Hop 2000 CHO (Remastered)",
+        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
       },
       "artists": [
         {
-          "name": "45RPM",
-          "url": "https://open.spotify.com/artist/6cg6vjoGLVykkubJKlM3mL"
-        },
-        {
-          "name": "GR",
-          "url": "https://open.spotify.com/artist/0tO7pmmw1hr3pCmE1VhKqm"
-        },
-        {
-          "name": "DJWrecky",
-          "url": "https://open.spotify.com/artist/6znZC6QEC5XwlITtAoGBQE"
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
         }
       ],
-      "duration_ms": 221746,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3UkVMgfOi815K5da9exWM3"
+      "duration_ms": 248026,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB"
     },
     {
       "added_at": "2023-08-10 14:02:26",
@@ -1847,18 +1839,26 @@
     {
       "added_at": "2023-08-10 14:02:26",
       "album": {
-        "name": "MP Hip Hop 2000 CHO (Remastered)",
-        "url": "https://open.spotify.com/album/3wjbQMnYUtj5Dh8Wh7qF4n"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2ltQS10O2Tz9PyE3PeeEUr"
       },
       "artists": [
         {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
+          "name": "45RPM",
+          "url": "https://open.spotify.com/artist/6cg6vjoGLVykkubJKlM3mL"
+        },
+        {
+          "name": "GR",
+          "url": "https://open.spotify.com/artist/0tO7pmmw1hr3pCmE1VhKqm"
+        },
+        {
+          "name": "DJWrecky",
+          "url": "https://open.spotify.com/artist/6znZC6QEC5XwlITtAoGBQE"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB"
+      "duration_ms": 221746,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3UkVMgfOi815K5da9exWM3"
     },
     {
       "added_at": "2023-08-10 14:02:26",

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 115384,
+  "2024-02-05": 115379,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS\">Max Martin</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Max Martin",
@@ -39,6 +39,24 @@
       "duration_ms": 203146,
       "name": "(Hey Why) Miss You Sometime",
       "url": "https://open.spotify.com/track/0l6lfl4PcrbPmBE08I6zp2"
+    },
+    {
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "(You Drive Me) Crazy",
+      "url": "https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv"
     },
     {
       "album": {
@@ -769,7 +787,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 199373,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1rW6UUZRQWW34j4zCQDkfX"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 205745,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3DXXKDbbZKyAZfNb96ST3q"
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 197546,
       "name": "God is a woman",
       "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 210266,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
@@ -4053,7 +4071,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 228240,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/1bq6XxdA59f5qJS5mw67Sc"
@@ -4269,7 +4287,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
@@ -5447,7 +5465,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -5523,7 +5541,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 155202,
       "name": "Never Ending Song",
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
@@ -5559,7 +5577,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4"
@@ -5635,7 +5653,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 205920,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
@@ -6151,7 +6169,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 189160,
       "name": "Play It Again",
       "url": "https://open.spotify.com/track/2MdtJWg3tsw1oPbpbIVzJK"
@@ -6855,7 +6873,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 234693,
       "name": "Scream",
       "url": "https://open.spotify.com/track/12eMQUn2GzfsfsQLH53M19"
@@ -7021,6 +7039,24 @@
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
+    },
+    {
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "Show Me the Meaning of Being Lonely",
+      "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
     },
     {
       "album": {
@@ -7901,7 +7937,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242626,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/0aKWpnMZCR42M9lLhnzJEZ"
@@ -7919,7 +7955,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 204800,
       "name": "The Call",
       "url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT"
@@ -7973,7 +8009,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -8951,7 +8987,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 220440,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28"
@@ -8969,7 +9005,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 225760,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA"

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Natalia Lafourcade y Kevin Johansen.",
-  "num_followers": 120883,
+  "num_followers": 120907,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjI2NGQ4ZDgxZjFjYWRkYWQ2NTkyMjc3ZTA0N2QzNjc1NzAyOWM1",
+  "snapshot_id": "MCxmMzkzZjE0ZjIwYTc0OGYwMTIxMjAzZTVjZmYyOWY5OWEwMDFjMjFk",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "M\u00e1s Normal De Lo N... (83%)",
+        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 262593,
+      "name": "En Vez de Huir",
+      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "TEMPLO KOMODO",
         "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 269932,
       "name": "Un Golpe de Suerte",
       "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "M\u00e1s Normal De Lo N... (83%)",
-        "url": "https://open.spotify.com/album/6PC2b8OigqaVPbTZMMENQW"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 262593,
-      "name": "En Vez de Huir",
-      "url": "https://open.spotify.com/track/4mB1OMRN8CnaAmWoW1wjba"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Soy lo que Doy",
+        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Soy lo que Doy",
+      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Soy lo que Doy",
-        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Soy lo que Doy",
-      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 216891,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
       "artists": [
         {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 216891,
-      "name": "Yo Soy",
-      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
       },
       "artists": [
         {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
         },
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
         }
       ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1487,6 +1487,26 @@
       "duration_ms": 240949,
       "name": "Luna de Xelaj\u00fa",
       "url": "https://open.spotify.com/track/74h3Z5m48Id4A9ueVx7A3g"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "lo_divino",
         "url": "https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A"
       },
@@ -1563,6 +1563,26 @@
       "duration_ms": 201919,
       "name": "lo_divino",
       "url": "https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1599,26 +1619,6 @@
       "duration_ms": 208262,
       "name": "Paraguas",
       "url": "https://open.spotify.com/track/1cNA9ubMLg2L4EFk3GtErb"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Para la Pena No",
-        "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
-      },
-      "artists": [
-        {
-          "name": "Chinoy",
-          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 225287,
-      "name": "Para la Pena No",
-      "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Palabra",
         "url": "https://open.spotify.com/album/2mvupK1yZloMAMd35WrNxB"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 205181,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/666OthmuNXcPPkJVGfNbnq"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Para la Pena No",
+        "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
+      },
+      "artists": [
+        {
+          "name": "Chinoy",
+          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 225287,
+      "name": "Para la Pena No",
+      "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Sonrisa Valiente - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/61erUSPD0TaNOQ1P1oWymd"
+      "duration_ms": 270049,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 210413,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        }
-      ],
-      "duration_ms": 270049,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/4NsXyQdZ80dXlGwLMyzUEz"
     }
   ],
   "unique_name": "Cancionistas",

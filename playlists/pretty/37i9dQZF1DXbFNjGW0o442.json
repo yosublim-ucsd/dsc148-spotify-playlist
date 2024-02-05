@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTE4ZjQ3NDY3YzYyZjJmNTMzYjM3MzNkYzM2MmFkODFjNjVhZDQ2",
+  "snapshot_id": "MCw2ODFlMTI2NzZhMmVkNjljZjdkMzFjZDllMjczNjYxNmI3ZWRlM2Zl",
   "tracks": [
     {
       "added_at": "2024-01-18 22:08:26",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 254467,
-      "name": "En la Frente",
-      "url": "https://open.spotify.com/track/301FbBvHswuh1YLtmWNwQh"
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "No Te Perdono",
         "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 203792,
       "name": "No Te Perdono",
       "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 254467,
+      "name": "En la Frente",
+      "url": "https://open.spotify.com/track/301FbBvHswuh1YLtmWNwQh"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Arriba Es Abajo",
         "url": "https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 247349,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Ojos que ladran",
         "url": "https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 152264,
       "name": "Somos 2",
       "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
       },
       "artists": [
         {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "Metr\u00f3poli",
+          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
         }
       ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+      "duration_ms": 192811,
+      "name": "H\u00e9roes An\u00f3nimos",
+      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
       "artists": [
         {
-          "name": "Metr\u00f3poli",
-          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 192811,
-      "name": "H\u00e9roes An\u00f3nimos",
-      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 189230,
       "name": "Juego",
       "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 193312,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1259,6 +1243,22 @@
       "duration_ms": 328773,
       "name": "Ojos En El Carro",
       "url": "https://open.spotify.com/track/5vSdXnvrAuaz8jIRv9zsPY"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 193312,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Buenas Noches Terr\u00edcolas",
-        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 247970,
-      "name": "MANIQU\u00cd",
-      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Mujer Contra Mujer",
         "url": "https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+        "name": "Buenas Noches Terr\u00edcolas",
+        "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
       "artists": [
         {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
         }
       ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+      "duration_ms": 247970,
+      "name": "MANIQU\u00cd",
+      "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1419,6 +1403,22 @@
       "duration_ms": 220561,
       "name": "give/UP",
       "url": "https://open.spotify.com/track/2rVDacOFhSBzcPzfG9ITfm"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "Tiro de Gracia",
+        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
+      "duration_ms": 222911,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1531,6 +1531,54 @@
       "duration_ms": 188330,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Dulce Fuerte Grave",
+        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
+      },
+      "artists": [
+        {
+          "name": "Flopa",
+          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
+        }
+      ],
+      "duration_ms": 224119,
+      "name": "Vengas Conmigo",
+      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
+    },
+    {
+      "added_at": "2024-01-18 22:08:26",
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 203094,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
     },
     {
       "added_at": "2024-01-18 22:08:26",
@@ -1555,38 +1603,6 @@
     {
       "added_at": "2024-01-18 22:08:26",
       "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 203094,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Tiro de Gracia",
-        "url": "https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
         "name": "Primera Temporada",
         "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 137261,
       "name": "V\u00f3mito",
       "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
-    },
-    {
-      "added_at": "2024-01-18 22:08:26",
-      "album": {
-        "name": "Dulce Fuerte Grave",
-        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
-      },
-      "artists": [
-        {
-          "name": "Flopa",
-          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
-        }
-      ],
-      "duration_ms": 224119,
-      "name": "Vengas Conmigo",
-      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
     },
     {
       "added_at": "2024-01-18 22:08:26",

@@ -1,36 +1,28 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
-  "num_followers": 202743,
+  "num_followers": 202764,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I0ODY2NTU0NDQ2YzhmMTM2YmI4YjlkYzgxMDMxMzk0ZDU5NDdk",
+  "snapshot_id": "MCxkMTRlOTlkOWQ2MTEyNmYzN2M3MzczMzUwNmRiOTdiOTM1MGNkMzk4",
   "tracks": [
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "VETRI NERI",
-        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 164776,
-      "name": "VETRI NERI",
-      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -71,18 +63,26 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "VETRI NERI",
+        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+      "duration_ms": 164776,
+      "name": "VETRI NERI",
+      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -139,26 +139,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 167339,
       "name": "IL MALE CHE MI FAI (feat. Marracash)",
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -295,6 +295,30 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 179863,
+      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 179863,
-      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -483,22 +483,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 155862,
-      "name": "PIOVE (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
+      "duration_ms": 202600,
+      "name": "LEI (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -523,22 +523,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         },
         {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 202600,
-      "name": "LEI (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+      "duration_ms": 155862,
+      "name": "PIOVE (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "P Secondigliano (2020 Remaster)",
+        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "P Secondigliano - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -603,42 +623,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "CENERE",
-        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "P Secondigliano (2020 Remaster)",
-        "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Nicola Siciliano",
-          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "P Secondigliano - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
@@ -659,22 +643,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Non Fare Cos\u00ec",
-      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 186213,
       "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
       "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Non Fare Cos\u00ec",
+      "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "CENERE",
+        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
       "artists": [
         {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -771,6 +771,22 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -827,22 +843,6 @@
       "duration_ms": 211840,
       "name": "2% (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 230922,
+      "name": "CRUDELIA - I nervi",
+      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
         "name": "Mi fist (Remastered version)",
         "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
@@ -971,30 +987,6 @@
       "duration_ms": 264689,
       "name": "Note killer",
       "url": "https://open.spotify.com/track/0QTPU4o8visZ7pz55n8Mco"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1059,42 +1051,26 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         },
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 211660,
-      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1123,6 +1099,30 @@
       "duration_ms": 252991,
       "name": "Polvere (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 211660,
+      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Lunga Vita a Sto",
         "url": "https://open.spotify.com/album/4yx0csnN5jtVjPXwHTI626"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 209571,
       "name": "Dende",
       "url": "https://open.spotify.com/track/2JeocKJi1eXYfLYxN4sdxJ"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Io In Terra",
-        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "Apnea",
-      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Bellaria",
         "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211518,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Io In Terra",
+        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
     },
     {
       "added_at": "2024-01-18 23:01:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-01-18 23:01:00",
       "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Catrame (feat. Tedua)",
-      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
-    },
-    {
-      "added_at": "2024-01-18 23:01:00",
-      "album": {
         "name": "Crack Musica",
         "url": "https://open.spotify.com/album/5jEMsm5dqdur3YKs8RL56B"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 251653,
       "name": "Cavallini (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3StzACYDEYmfOOWNU83iRs"
+    },
+    {
+      "added_at": "2024-01-18 23:01:00",
+      "album": {
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Catrame (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
     },
     {
       "added_at": "2024-01-18 23:01:00",

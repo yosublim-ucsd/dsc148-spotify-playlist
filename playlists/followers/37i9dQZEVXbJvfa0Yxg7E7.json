@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 541346,
+  "2024-02-05": 541192,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -1179,6 +1179,32 @@
       "duration_ms": 385523,
       "name": "Alone In The Night",
       "url": "https://open.spotify.com/track/6JlOnI9nWyluM2IArokGOV"
+    },
+    {
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/4jpDfcgPVYPR5ZU1vjH150"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174286,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0eTqbLJxlFQ6QFw5H8oSEq"
     },
     {
       "album": {
@@ -3082,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "bli",
+        "url": "https://open.spotify.com/album/5RUmdLme36fw8Mi2thcokz"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187287,
+      "name": "bli",
+      "url": "https://open.spotify.com/track/4Zc5ZPMts0EXhc7L1rcnO6"
+    },
+    {
+      "album": {
         "name": "BLI HER",
         "url": "https://open.spotify.com/album/3Q5Lk8enCvr2FXqo65Y46j"
       },
@@ -3551,6 +3599,28 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
+    },
+    {
+      "album": {
+        "name": "Break it right",
+        "url": "https://open.spotify.com/album/5CBj3lNptULvGczrjG4frf"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186774,
+      "name": "Break it right",
+      "url": "https://open.spotify.com/track/3qkSIN599GE3OYKiK1zboR"
     },
     {
       "album": {
@@ -11754,6 +11824,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
         "name": "Home for Christmas",
         "url": "https://open.spotify.com/album/7H5YWCG8buEmoYUF2uDl6H"
       },
@@ -13439,7 +13527,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -15097,7 +15185,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 166806,
       "name": "Kite",
       "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
@@ -17919,7 +18007,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 184346,
       "name": "Michelin Stjerner",
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
@@ -18715,7 +18803,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -21067,6 +21155,24 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "album": {
@@ -23835,7 +23941,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91"

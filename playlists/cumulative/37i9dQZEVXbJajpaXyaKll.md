@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-65 songs - 3 hr 35 min
+66 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Buscando Money \- Extended Mix](https://open.spotify.com/track/4lHnvThqH1OC6AIh5MFOF4) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 5:16 | 2024-01-29 |  |
 | [Bzrp \#58 Young Miko Techengue](https://open.spotify.com/track/1vgUIfjzRou1mXfjMnGoqf) | [Seba Zuccala](https://open.spotify.com/artist/0KtkK1DKIoNSNRw5qcTAtc) | [Bzrp \#58 Young Miko Techengue](https://open.spotify.com/album/2jXD7bC1znmfDzDVfQYUx4) | 3:01 | 2024-01-30 | 2024-02-03 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2024-01-29 |  |
+| [CLEARED \- Remix](https://open.spotify.com/track/54L7uacUGRkvoLokUlNWfH) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [Meet The Lilithz](https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5) | 2:06 | 2024-02-04 |  |
 | [CONTENT EXPLICIT](https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [CONTENT EXPLICIT](https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X) | 2:35 | 2024-01-29 | 2024-02-03 |
 | [Cuarteto Sessions \#3](https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#3](https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA) | 8:20 | 2024-01-29 |  |
 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-30 |  |
-| [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF) | [FACUU DJ](https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt) | [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/album/1YjrqGTdjvrobcwxv89Ggo) | 2:25 | 2024-01-29 |  |
+| [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/track/4zYWtqpOzMlBeyyIvD9IIF) | [FACUU DJ](https://open.spotify.com/artist/6IvYk2Vx3G6VY6AXBqDudt) | [Donde Te Pillemos Tarara Tarara Rkt](https://open.spotify.com/album/1YjrqGTdjvrobcwxv89Ggo) | 2:25 | 2024-01-29 | 2024-02-05 |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 |  |
 | [El Amor de Mi Vida](https://open.spotify.com/track/6Ftdo8MIbxI2IgUpyhWpOT) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Mix Cumbia](https://open.spotify.com/album/25t18KDGrTFqwlT936wCK2) | 1:41 | 2024-01-29 | 2024-02-04 |
 | [El Hechizo RKT \(Techengue\) \- Remix](https://open.spotify.com/track/4XMXxeAxTaHxfPGZetCWak) | [Dj Taurus](https://open.spotify.com/artist/0HrRe20mw7pYwR5eN0ejab), [MorFed](https://open.spotify.com/artist/1eIC9s8LYgcW6h5kPEqDJe) | [El Hechizo RKT \(Techengue\) \[Remix\]](https://open.spotify.com/album/0T5WpE0E0NginETjKIVfaI) | 3:50 | 2024-01-29 | 2024-01-31 |

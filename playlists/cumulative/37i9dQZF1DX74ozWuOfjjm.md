@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-538 songs - 1 day 4 hr 55 min
+539 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 | 2022-07-03 | 2023-03-01 |
 | [Hazardous](https://open.spotify.com/track/5dXBl4xlY7k7uDM2iW2Uyw) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Hazardous](https://open.spotify.com/album/6nyfNXsxawX9x4X0ovoCTb) | 2:46 | 2022-10-02 | 2023-02-01 |
 | [He Said](https://open.spotify.com/track/2EJsZgcZUA9NcY2vKKXUMC) | [Jordan Gavet](https://open.spotify.com/artist/07Zk7DnHt6dFfnNh5H9fLd) | [He Said](https://open.spotify.com/album/5ZmCYJDWBHmrGQFJ5E1qTD) | 3:08 | 2022-12-31 | 2024-01-18 |
-| [Headlights](https://open.spotify.com/track/6nRzf6wHopbJ55QtoquiFE) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Headlights](https://open.spotify.com/album/6e5NpIfiFm93UrLn0O33Gd) | 3:24 | 2023-07-24 |  |
+| [Headlights](https://open.spotify.com/track/6k793Z8lIsDHmJ1goVLZ2X) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Patchwork](https://open.spotify.com/album/3EMeOe1E7GL3EcfNgJDqqL) | 3:24 | 2024-01-17 |  |
+| [Headlights](https://open.spotify.com/track/6nRzf6wHopbJ55QtoquiFE) | [Shannen James](https://open.spotify.com/artist/3FByq9nQILZhHHI8U2n7AE) | [Headlights](https://open.spotify.com/album/6e5NpIfiFm93UrLn0O33Gd) | 3:24 | 2023-07-24 | 2024-02-05 |
 | [Headroom](https://open.spotify.com/track/60H0HIt7mIPD3dZnlOCc97) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Headroom](https://open.spotify.com/album/2pE7v0KHgpvx2ss1ggtbDF) | 3:55 | 2022-04-05 | 2022-10-03 |
 | [Healed](https://open.spotify.com/track/25aXkVesKv9EZKHfZQ29PZ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Healed](https://open.spotify.com/album/3qRbOKBRvy4YhOW4aemjTk) | 3:19 | 2023-06-30 |  |
 | [heart attack](https://open.spotify.com/track/4K3A14MMct4xoScHJK8oux) | [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [heart attack](https://open.spotify.com/album/1HEpoOySrZ7XMUCvLOZ0by) | 3:02 | 2022-12-31 | 2024-01-18 |

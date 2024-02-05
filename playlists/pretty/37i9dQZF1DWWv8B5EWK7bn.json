@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 176547,
+  "num_followers": 176635,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjlkMTc2YzIxMjJmOWNkNjgyNDNiMWU2NzA2OGYzMDNkYjE5ZGFh",
+  "snapshot_id": "MCxlN2ZlOWRhNzFjZGY0MWE2MzgxN2RmZTI3MWY3ZDkxNTlmNGVmY2Q3",
   "tracks": [
     {
       "added_at": "2024-01-30 05:23:45",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw"
     },
     {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Silver Ladders",
@@ -473,20 +457,20 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
-      "added_at": "2023-08-10 05:47:21",
+      "added_at": "2021-10-15 03:46:13",
       "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2023-10-22 04:22:10",
@@ -515,6 +499,22 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
+    },
+    {
+      "added_at": "2023-08-10 05:47:21",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2023-09-25 03:39:17",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
-    },
-    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -627,6 +611,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2023-09-25 03:39:17",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -781,6 +781,26 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 447453,
+      "name": "Corner Of My Sky",
+      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -805,26 +825,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "Inner Song",
-        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 447453,
-      "name": "Corner Of My Sky",
-      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -839,22 +839,6 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2023-12-22 16:06:56",
@@ -875,6 +859,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Moot!",
         "url": "https://open.spotify.com/album/6E2kC2kf3D5iXQDY3KQBgT"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 297239,
       "name": "Right is Alright, Wrong is to Belong",
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
-    },
-    {
-      "added_at": "2022-07-19 04:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 187307,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -923,6 +907,22 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "added_at": "2022-07-19 04:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 187307,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Life, and Another",
@@ -989,6 +973,22 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
       "added_at": "2023-06-02 00:24:20",
       "album": {
         "name": "Open the Gates",
@@ -1003,26 +1003,6 @@
       "duration_ms": 159093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -1071,6 +1051,26 @@
       "duration_ms": 209817,
       "name": "Behind The Sun",
       "url": "https://open.spotify.com/track/6C47LOLFv234e3YO5HFj6D"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2024-01-03 18:12:32",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
       "added_at": "2023-09-25 01:38:39",
       "album": {
         "name": "The Path",
@@ -1283,6 +1267,22 @@
       "duration_ms": 262560,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
+    },
+    {
+      "added_at": "2023-08-08 03:45:10",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2022-11-17 22:51:20",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/0JOiqhfNPuIsNUBJpsPdPy"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Sunset Dreams",
-        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
-    },
-    {
       "added_at": "2022-04-20 13:58:09",
       "album": {
         "name": "Las Olas Contra Todos",
@@ -1647,6 +1631,22 @@
       "duration_ms": 165113,
       "name": "Las Olas Contra Todos",
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
+    },
+    {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Sunset Dreams",
+        "url": "https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
       "added_at": "2021-10-15 03:46:13",

@@ -1,12 +1,12 @@
 {
   "description": "music, waves, friends and a good time.",
-  "num_followers": 10156,
+  "num_followers": 10171,
   "original_name": "Fiesta en Bote",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjdlYmEyZGFjNjAzM2FkYTdjNjY0ZWVhMDQzYmEzMWZmMDIwMTU1",
+  "snapshot_id": "MCw1NTc5NjlhNWM3ZjliYTBhYWM4M2U1YTUzYjhhOGU4OWQ4MmM3MmRk",
   "tracks": [
     {
       "added_at": "2024-01-25 23:21:06",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1215,26 +1215,22 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+        "name": "Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 204563,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+      "duration_ms": 148644,
+      "name": "Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1275,6 +1271,30 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 204563,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
         "name": "L\u00edderes",
         "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 274946,
       "name": "Algo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
-        "name": "Hombres y Mujeres",
-        "url": "https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 148644,
-      "name": "Hombres y Mujeres",
-      "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "DOMINGO DE BOTE",
-      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 177293,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1487,38 +1487,58 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "LA CHAMBA",
-        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 173617,
-      "name": "LA CHAMBA",
-      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
         }
       ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1551,42 +1571,22 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+        "name": "LA CHAMBA",
+        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+      "duration_ms": 173617,
+      "name": "LA CHAMBA",
+      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
     },
     {
       "added_at": "2024-01-25 23:21:06",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-01-25 23:21:06",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
-    },
-    {
-      "added_at": "2024-01-25 23:21:06",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 197333,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
+    },
+    {
+      "added_at": "2024-01-25 23:21:06",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2024-01-25 23:21:06",

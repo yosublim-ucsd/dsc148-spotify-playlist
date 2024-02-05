@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Projector Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,365 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,938 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Ku Tak Mampu Lagi](https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:14 |
 | 50 | [Harum Setangkai Doa](https://open.spotify.com/track/57sZ5s9Imwl2n8nZ3vUzZ9) | [In\-Team](https://open.spotify.com/artist/4V3ZO3RnRFdpS10jbUTJaT) | [Harum Setangkai Doa](https://open.spotify.com/album/3okTO25DClQagipjqohPRQ) | 4:49 |
 
-Snapshot ID: `MCw4MmQ4MDE4ZTEyN2M0MDRlNzNmZTQwOTE5OTkxMjFiNGRkMjE3YTgz`
+Snapshot ID: `MCw5OWExYzZiMDQzODY5NTAzYmQzNzFmNjVjZjc5NzgyYjk4NTFmNGNj`

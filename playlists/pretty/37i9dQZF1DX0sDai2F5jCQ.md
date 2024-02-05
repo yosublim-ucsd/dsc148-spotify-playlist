@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,683 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,609 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 26 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
 | 27 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 |
 | 28 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 |
-| 29 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 29 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 30 | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/track/4JC0XKvkodYsMurv5khQWI) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [MULTIMILLIONAIRE \(w/ Trippie Redd & Odetari\)](https://open.spotify.com/album/5FmiDGF563dGPCfCLaiUKU) | 2:01 |
 | 31 | [Gutta](https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Gutta](https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG) | 3:53 |
 | 32 | [Us Against the World](https://open.spotify.com/track/4TaS4giQQK01vKzBB40AEY) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Us Against the World](https://open.spotify.com/album/5m2xRmSB1D30YZHDHr8556) | 2:19 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 68 | [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 |
 | 69 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 
-Snapshot ID: `MCw2MTEzMjkwNTE3NGU4MTM4NzQzMTk3MzY5NmEyMTUzZjE2NjY0YzAw`
+Snapshot ID: `MCwwOTM1NGI1MjY2YjdkMWVkMWM0ZGFlZWM5YzU5MDg0NTk4NzFiNzI0`

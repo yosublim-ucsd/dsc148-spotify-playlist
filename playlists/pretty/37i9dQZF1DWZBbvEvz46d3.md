@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,989 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,995 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 26 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
 | 27 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 |
 | 28 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 |
-| 29 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 |
+| 29 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
 | 30 | [Wszystko](https://open.spotify.com/track/2ANM8tbPDekzhNOhJ55bV6) | [Kamil Holden Kryszak](https://open.spotify.com/artist/7pQ9JOUN2x6CCUhAEtCpdj), [Justyna Święs](https://open.spotify.com/artist/3jWejUYPufnWdb1eMRxIUQ) | [Piosenki o miłości \(Muzyka z filmu\)](https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ) | 4:32 |
 | 31 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
-| 32 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
-| 33 | [Dzień dobry, kocham Cię](https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR) | [Strachy Na Lachy](https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk) | [Piła tango](https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx) | 3:21 |
+| 32 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 |
+| 33 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 |
 | 34 | [Na zawsze i na wieczność](https://open.spotify.com/track/4Dw3fQrWGRteHRDeCAIrIY) | [Wilki](https://open.spotify.com/artist/1hxJUOxvX3SXaVYz4qaFyM) | [Obrazki](https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC) | 3:13 |
 | 35 | [Najnowszy Klip](https://open.spotify.com/track/35UvOH0tRlSCdtWtaXuiWh) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:49 |
 | 36 | [Trudno Tak \(Razem Być Nam Ze Sobą\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 47 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Never Ending Sorry](https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe) | 3:49 |
 | 48 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
 | 49 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
-| 50 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
-| 51 | [Syreny](https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Składam się z ciągłych powtórzeń](https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3) | 3:36 |
+| 50 | [Syreny](https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Składam się z ciągłych powtórzeń](https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3) | 3:36 |
+| 51 | [Byle jak](https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Monkey Business](https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb) | 3:00 |
 | 52 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 |
 | 53 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 54 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 58 | [Miłość miłość](https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Złoto](https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW) | 3:45 |
 | 59 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 |
 | 60 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 61 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
-| 62 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
-| 63 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
+| 61 | [A Wszystko To...\(Bo Ciebie Kocham\)](https://open.spotify.com/track/0CBj18X3J7MabwDqKeMxuo) | [Ich Troje](https://open.spotify.com/artist/0bRV6QPqD18yNy76IeBr10) | [3](https://open.spotify.com/album/4kgB9pui0fAMwB44axR3C1) | 3:59 |
+| 62 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
+| 63 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 64 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 65 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 66 | [Bezdroża \(feat\. Mateusz Ziółko\)](https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS), [Mateusz Ziółko](https://open.spotify.com/artist/0bfBH61NEvZOmVTUyUL1yO) | [Tamta dziewczyna](https://open.spotify.com/album/10xXsahXWCsHQDS5IR82QN) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 74 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
 | 75 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |
 
-Snapshot ID: `MCw2M2I5MDg5YTQyMTY2YzJjY2QzODYxY2U0M2JhZDZjOWMzNGY1MjEx`
+Snapshot ID: `MCxlMmQ2NTNkZjc1Y2VmMjNlZjg4NTBmMTU1MmI5M2FjYzU0Njg1ZTk5`

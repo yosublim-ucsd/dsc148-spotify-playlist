@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 41 min
+91 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 | 2022-06-01 |  |
 | [El Tigre](https://open.spotify.com/track/3vRgtOCXF9pTeVQFjwOf67) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Tigre](https://open.spotify.com/album/3qHFfrawqIxQZ4nWLfo41w) | 2:54 | 2023-08-27 |  |
 | [El Tocayo](https://open.spotify.com/track/50fRErqQKkkXLXcf2oQd95) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:19 | 2022-06-01 | 2022-08-18 |
+| [En La Capi Esta El Respaldo](https://open.spotify.com/track/2ItzTIdBXGbJ5SpCbOXvQq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 3:26 | 2024-02-04 |  |
 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 | 2023-11-10 |  |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-06-01 |  |
 | [En Tu Perra Vida \(En Vivo\)](https://open.spotify.com/track/2JOPvzXMlX7ig83CKq9rpq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Vivo Desde La Valeria en la Feria de Leon Guanajuato \(En Vivo\)](https://open.spotify.com/album/6L4bFbsQuIFQtybo9k1hXs) | 4:04 | 2022-08-07 | 2022-10-07 |
@@ -75,7 +76,7 @@
 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 | 2022-06-01 |  |
 | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 | 2022-12-12 |  |
 | [Maestra del Engaño \- En Vivo](https://open.spotify.com/track/27BVgB1VHa9RrUhi2mGrHu) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Maestra del Engaño \(En Vivo\)](https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql) | 2:42 | 2022-06-01 | 2023-07-24 |
-| [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 | 2022-06-01 |  |
+| [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 | 2022-06-01 | 2024-02-05 |
 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 | 2022-06-01 |  |
 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 | 2022-06-01 |  |
 | [Pa' Olvidarme de tus Besos](https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Pa' Olvidarme de tus Besos](https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy) | 3:07 | 2023-07-29 |  |

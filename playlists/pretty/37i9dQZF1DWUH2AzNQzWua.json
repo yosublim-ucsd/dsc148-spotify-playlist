@@ -1,12 +1,12 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3945326,
+  "num_followers": 3944068,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmQ2YWNiZTQ0YjI1ODkwNzUxOTdkZGQ0ZmIzYzc4MGI4ODc3YTY2",
+  "snapshot_id": "MCxjNmJkYmZmNjkxMWU4YmM1YWJmNGM2MmRjOTIzMzg3ZTFjZTEwNmM3",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:25",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2023-10-23 17:16:25",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
-    },
-    {
-      "added_at": "2023-10-23 17:16:25",
-      "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2023-10-23 17:16:25",

@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 27355,
+  "num_followers": 27384,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjliNTkwYzdmZWY5NTVmMWZkZTA4ZDE1Mjc4ZjIxYWI0ZDYzZThj",
+  "snapshot_id": "MCxiZDYxNDBmYmEyODA5MGIzMmMwYjgyOTliOWY0N2ZjZWMzM2I5ZGRk",
   "tracks": [
     {
       "added_at": "2024-01-18 14:03:29",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Love Bird",
-      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
+      "duration_ms": 729293,
+      "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
       },
       "artists": [
         {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 729293,
-      "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
+      "duration_ms": 229733,
+      "name": "Love Bird",
+      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -735,30 +735,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Illumination!",
-        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        },
-        {
-          "name": "Jimmy Garrison Sextet",
-          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
-        },
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 385653,
-      "name": "Half And Half",
-      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Speak Like A Child (Expanded Edition)",
         "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 481266,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Illumination!",
+        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Jimmy Garrison Sextet",
+          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
+        },
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 385653,
+      "name": "Half And Half",
+      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 342360,
       "name": "Perception - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "The Best Of Art Blakey",
-        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 669306,
-      "name": "Free For All",
-      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Life Between The Exit Signs",
         "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 222013,
       "name": "Margot",
       "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "The Best Of Art Blakey",
+        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 669306,
+      "name": "Free For All",
+      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Destination...Out!",
-        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
+        "name": "Forest Flower: Charles Lloyd At Monterey",
+        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 624335,
-      "name": "Kahlil The Prophet",
-      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
+      "duration_ms": 644400,
+      "name": "East of the Sun - Live@Monterey",
+      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Forest Flower: Charles Lloyd At Monterey",
-        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
+        "name": "Destination...Out!",
+        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 644400,
-      "name": "East of the Sun - Live@Monterey",
-      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
+      "duration_ms": 624335,
+      "name": "Kahlil The Prophet",
+      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
-    },
-    {
-      "added_at": "2024-01-18 14:03:29",
-      "album": {
         "name": "Black Fire",
         "url": "https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ"
       },
@@ -1463,8 +1447,8 @@
     {
       "added_at": "2024-01-18 14:03:29",
       "album": {
-        "name": "Consequence",
-        "url": "https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
       "artists": [
         {
@@ -1472,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 332840,
-      "name": "Consequence - Remastered",
-      "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
     },
     {
       "added_at": "2024-01-18 14:03:29",
@@ -1491,6 +1475,22 @@
       "duration_ms": 510973,
       "name": "Omega - Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering",
       "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
+    },
+    {
+      "added_at": "2024-01-18 14:03:29",
+      "album": {
+        "name": "Consequence",
+        "url": "https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 332840,
+      "name": "Consequence - Remastered",
+      "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
     },
     {
       "added_at": "2024-01-18 14:03:29",

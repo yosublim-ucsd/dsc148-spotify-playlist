@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,145 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,278 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 43 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
 | 44 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 |
 | 45 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 |
-| 46 | [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 |
+| 46 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 |
 | 47 | [2 Bob](https://open.spotify.com/track/1gWk3Nj3bDPlRLBUlmoEco) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:20 |
 | 48 | [Sinzia](https://open.spotify.com/track/4mJmoECoteOkbB8BBn1M6Y) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf) | [Nameless Re\-Invented \(2006\-2014\)](https://open.spotify.com/album/2Jd8SpLLLOS8Yz9Tvt08bY) | 4:28 |
 | 49 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
 
-Snapshot ID: `MCxiODNkMmY1Nzg5NzRjZDY2MWIyNGIwMmE0YTVjMDc5YWQzZDE4MTZk`
+Snapshot ID: `MCxlNGNkMjBmYjVmYzRlNjc3MWUxOTY4MGZmZWM5YThlODNjZjkwNDJj`

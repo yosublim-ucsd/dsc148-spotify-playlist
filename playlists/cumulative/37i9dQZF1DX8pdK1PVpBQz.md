@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: Gold Fang\. Artwork: Isu Kim
+> The best new music by independent artists and labels\. Cover: Donny Benet\. Artwork: Isu Kim
 
 3,057 songs - 6 day 23 hr 49 min
 

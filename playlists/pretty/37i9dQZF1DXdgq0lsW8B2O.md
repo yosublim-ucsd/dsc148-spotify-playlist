@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,133 likes - 46 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,187 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 7 | [Gloaming](https://open.spotify.com/track/7AZRjbDLxQQMOZFA3qI6DA) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/5kxfj6a0DEAgfFxVbihErw) | 8:32 |
 | 8 | [Toucan Ocean](https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 3:49 |
 | 9 | [Sequent 'C' \- Remastered 2018](https://open.spotify.com/track/2hRsN3reHuwyLaHq2S1z0Q) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 2:21 |
-| 10 | [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 |
+| 10 | [Oxygène, Pt\. 1](https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:39 |
 | 11 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 |
 | 12 | [Old Land](https://open.spotify.com/track/7crAkwlQExlgVnomwIlYrd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 4:13 |
 | 13 | [Deep Distance](https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 5:49 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 45 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
 | 46 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MCwwYjIzMzcwYzY1N2M2M2NjZDhkOWI4MjQ4MGQ0MGVmZGExNjZhZTQx`
+Snapshot ID: `MCxlMmJjNWY4ZDg4NmVlNzQwMzFlZWIxNWNlNWVmNmE2MDMzNmRhNDBi`

@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Mike Parker, Artwork: Fanélie Muselier
 
-2,109 songs - 4 day 18 hr 29 min
+2,111 songs - 4 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,8 @@
 | [Even Cowboys Cry](https://open.spotify.com/track/2Flwyxc5x80f8xB3QnINX7) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Even Cowboys Cry](https://open.spotify.com/album/7a1v917mUdCTxFDLuW0wFJ) | 3:10 | 2023-10-11 | 2023-11-30 |
 | [Evergreen](https://open.spotify.com/track/117cBAoieEBMOAQrpAE5eo) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [Evergreen](https://open.spotify.com/album/3TDVbSqrqBczPT38y4yW0x) | 3:32 | 2023-10-04 | 2023-11-30 |
 | [Every Beer Every Bar](https://open.spotify.com/track/66kkbT3TzR2SHGJNN2xFfR) | [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Every Beer Every Bar](https://open.spotify.com/album/1xpJh1XNYDywg4t8mGpS1F) | 3:10 | 2022-07-20 | 2022-08-04 |
-| [Every Boy's Girl](https://open.spotify.com/track/2OjCphtFcgMncFiRZFyuZ0) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Every Boy's Girl](https://open.spotify.com/album/5rVr44whWhl5vQP096mjiY) | 3:09 | 2024-01-10 |  |
+| [Every Boy's Girl](https://open.spotify.com/track/2OjCphtFcgMncFiRZFyuZ0) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Every Boy's Girl](https://open.spotify.com/album/5rVr44whWhl5vQP096mjiY) | 3:09 | 2024-01-10 | 2024-02-05 |
+| [Every Boy's Girl](https://open.spotify.com/track/5Abo95RRTF7gNxK43aJIP9) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 3:09 | 2024-01-31 |  |
 | [Every Girl is You](https://open.spotify.com/track/0lAx3Dr6YfbiYwQybhc7BZ) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Every Girl is You](https://open.spotify.com/album/3N0dPnPvxemLw9DtNTwfyz) | 2:59 | 2022-08-26 | 2022-09-29 |
 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 | 2021-12-01 | 2022-01-13 |
 | [Every Rain](https://open.spotify.com/track/0bcjnTMLmSrCvNtI8VfUCw) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Every Rain](https://open.spotify.com/album/55LqPCrWZZ7nNFicZpSrzD) | 3:16 | 2024-01-31 |  |
@@ -1530,7 +1531,8 @@
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-19 | 2022-03-03 |
 | [Same Thing](https://open.spotify.com/track/7jbPbGIEibefB9TY35B5na) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Same Thing](https://open.spotify.com/album/2LfLp4KxZEcLVBFkiTSgXB) | 2:46 | 2023-10-11 | 2023-11-30 |
 | [Same Thing She Told Me](https://open.spotify.com/track/6l0r13fJCdDCU3Em9HadTb) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Same Thing She Told Me](https://open.spotify.com/album/3TZ1NW8Q7QUE6CDlkcUoGo) | 3:22 | 2022-08-03 | 2022-09-15 |
-| [Same You](https://open.spotify.com/track/52Gw0J24KpdvITqjngF6Pb) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Same You](https://open.spotify.com/album/0KclLvZwxANfpNl6dptLCh) | 2:33 | 2024-01-24 |  |
+| [Same You](https://open.spotify.com/track/3TZXrcuetPGOovtsSnMtjc) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [From The Writin' Room](https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI) | 2:33 | 2024-01-31 |  |
+| [Same You](https://open.spotify.com/track/52Gw0J24KpdvITqjngF6Pb) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [Same You](https://open.spotify.com/album/0KclLvZwxANfpNl6dptLCh) | 2:33 | 2024-01-24 | 2024-02-05 |
 | [Savannah](https://open.spotify.com/track/77TZYA7R03qohGlTzoD0f5) | [Blaine Bunting](https://open.spotify.com/artist/4k1ZyHpZJlHZhe7ToMeJab) | [Savannah](https://open.spotify.com/album/32y9M0MDZgwf20YRdy9TYw) | 3:38 | 2023-03-29 | 2023-05-11 |
 | [Save Me From This Song](https://open.spotify.com/track/2nmFjRhx7NHV7jgU2SktZh) | [Marla](https://open.spotify.com/artist/4KGccd6ADo9fqCxcoX0SYX) | [Save Me From This Song](https://open.spotify.com/album/4NWpCjygqmwKr1BdrkzfYR) | 3:03 | 2022-11-02 | 2023-01-20 |
 | [Save Us](https://open.spotify.com/track/3gaOOGwAT50h3WQ6bYtsJA) | [BERLYN](https://open.spotify.com/artist/6vzNavT1orYAE5afPzlFJT) | [Save Us](https://open.spotify.com/album/0AwvsNRt4JPR2jcxz5xinl) | 3:12 | 2023-04-12 | 2023-05-24 |

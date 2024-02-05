@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 41824,
+  "num_followers": 41868,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI4ODkzZjM5YzQ4ODA5OTZkNGQ0YmQ0NjJjY2YzY2M3ZjBiNjg3",
+  "snapshot_id": "MCw5YWIzZDhhMzg4MDRkMWEwYmYxODJmZmE1YTc3YzgyZjMyMDQ0N2Qy",
   "tracks": [
     {
       "added_at": "2023-10-13 15:20:09",
@@ -179,26 +179,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
       "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Qu\u00e9 Agon\u00eda - Remix",
-      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+      "duration_ms": 205320,
+      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -231,22 +227,26 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
-      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
     },
     {
       "added_at": "2023-10-13 15:20:09",

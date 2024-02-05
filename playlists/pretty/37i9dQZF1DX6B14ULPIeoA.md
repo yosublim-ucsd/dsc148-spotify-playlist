@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,598 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,616 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 61 | [Cucurrucucú paloma](https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 5:02 |
 | 62 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 63 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
-| 64 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
-| 65 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
+| 64 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Pero Te Vas A Arrepentir](https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp) | 4:26 |
+| 65 | [Brisas](https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx) | [Gerardo Paz](https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik) | [Chacra](https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx) | 2:07 |
 | 66 | [Me La Avente](https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Me La Avente](https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ) | 2:36 |
 | 67 | [Piel canela](https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 3:20 |
 | 68 | [A Traves Del Vaso](https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz) | [Yolanda Streep](https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8) | [A Traves Del Vaso](https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Volver, Volver](https://open.spotify.com/track/3f8BsxS5vySEQzocBF2CMQ) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 | 100 | [Solo Vine A Despedirme](https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Solo Vine A Despedirme](https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm) | 3:21 |
 
-Snapshot ID: `MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi`
+Snapshot ID: `MCwzMmM5ZmYxN2NkYjY2NTM4ODQ1MmNiZGQzYjJiZmY0M2Q0ZWNlZDBk`

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 1219557,
+  "2024-02-05": 1220234,
   "date_first_scraped": "2023-06-08",
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
   "name": "This Is Kanye West",
@@ -253,7 +253,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 135920,
       "name": "Father Stretch My Hands Pt. 1",
       "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 374413,
       "name": "No More Parties In LA",
       "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 320680,
       "name": "Ultralight Beam",
       "url": "https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS"

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-250 songs - 15 hr 39 min
+251 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 4:52 | 2023-01-06 |  |
 | [Genesis](https://open.spotify.com/track/5BVoixzxMMa48lOGq0ZtBO) | [Nightcrawler](https://open.spotify.com/artist/74GPpxM5i8gN1sgNXh8JKu), [Dana Jean Phoenix](https://open.spotify.com/artist/2bMw6rIx4S9uymqxxQ1vkh) | [Metropolis](https://open.spotify.com/album/5US6OaklSFTeajFmaxfeBe) | 4:10 | 2020-12-21 | 2023-02-10 |
 | [Give Me a Reason](https://open.spotify.com/track/0s1bzOaz2BgIbvYhwGwpmq) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5dfc4xJu4rrdd7oufQu73H) | 4:25 | 2023-08-31 | 2024-01-13 |
-| [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 | 2024-01-11 |  |
+| [Give Me a Reason](https://open.spotify.com/track/4nTEiPwyWb4TrFewWkmys4) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 4:25 | 2024-01-11 | 2024-02-05 |
+| [Give Me a Reason](https://open.spotify.com/track/4s2JGLY3tPJiVM7GCq24Dt) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/00ascaJUZ2aaXQiivvSxdv) | 4:25 | 2024-01-11 |  |
 | [Give Me a Reason](https://open.spotify.com/track/5D5pXBwMzqo9Q7Htm54vPR) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 4:16 | 2023-04-28 | 2023-09-01 |
 | [Glory](https://open.spotify.com/track/2wyJJdRfduBBlajANLriZX) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Glory](https://open.spotify.com/album/69qLInN32cz1MR7iIukpej) | 5:19 | 2023-08-31 |  |
 | [Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Good Vibrations](https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw) | 3:00 | 2021-09-01 | 2023-09-01 |

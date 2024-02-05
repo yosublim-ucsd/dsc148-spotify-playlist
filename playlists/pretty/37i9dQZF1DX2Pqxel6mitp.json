@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 80173,
+  "num_followers": 80237,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2E2MmYwYzhlNzA3MzU1YjY2NTg3MTJjZTE1MjJkNzBiZjNkZGY2",
+  "snapshot_id": "MCxjZTcwMTM0NWZhY2ZjOTU1ZjcwY2ZhYWI3Y2Y0MmQxNTg5YzhlZGIz",
   "tracks": [
     {
       "added_at": "2023-11-24 19:23:20",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "I'm Leaving (The Circle Session, 2023)",
-        "url": "https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 319011,
-      "name": "I'm Leaving - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 195226,
       "name": "Perpetual Blues Machine",
       "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "I'm Leaving (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/0cQqT0QeuqNC52MPYhpwTv"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 319011,
+      "name": "I'm Leaving - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/6f1OkhQzergSERbJT4IIbe"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "The Easy Blues",
-      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
         }
       ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+      "duration_ms": 201506,
+      "name": "The Easy Blues",
+      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -699,6 +683,22 @@
       "duration_ms": 144613,
       "name": "That's All Right",
       "url": "https://open.spotify.com/track/4ejf5eNPwEMjmN92vgArBz"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Blues Up The River",
-      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Country Blues Guitar",
         "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
       "artists": [
         {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+      "duration_ms": 154760,
+      "name": "Blues Up The River",
+      "url": "https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -835,6 +819,22 @@
       "duration_ms": 174067,
       "name": "Liar",
       "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
       "artists": [
         {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
         }
       ],
-      "duration_ms": 218357,
-      "name": "How to Love",
-      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1015,6 +999,22 @@
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Buffalo Nichols",
+        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "How Many Miles",
-        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
-      },
-      "artists": [
-        {
-          "name": "Bo Ramsey",
-          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
-        },
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Wounded Dog",
-      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "How Many Miles",
+        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
+      },
+      "artists": [
+        {
+          "name": "Bo Ramsey",
+          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Wounded Dog",
+      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Keep Sinking",
-      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Keep Sinking",
+      "url": "https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Otis Spann Is The Blues (Remastered)",
-        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Take A Little Walk With Me - Remastered",
-      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Otis Spann Is The Blues (Remastered)",
+        "url": "https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Take A Little Walk With Me - Remastered",
+      "url": "https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Shake Sugaree",
+        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Edward Williams",
+          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Keep on Lovin You (feat. Billy Branch)",
         "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 315842,
       "name": "Keep on Lovin You (feat. Billy Branch)",
       "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Shake Sugaree",
-        "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Shake Sugaree",
-      "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 247630,
       "name": "Another Weary Soul",
       "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Dirtiest Little Darling / Railroad Bill",
-        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
-      },
-      "artists": [
-        {
-          "name": "Blind Boy Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        },
-        {
-          "name": "NO",
-          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Dirtiest Little Darling",
-      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 169826,
       "name": "Small Town Nashville Blues",
       "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Dirtiest Little Darling / Railroad Bill",
+        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
+      },
+      "artists": [
+        {
+          "name": "Blind Boy Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        },
+        {
+          "name": "NO",
+          "url": "https://open.spotify.com/artist/7d7puoArkvCslRGWxOxFFC"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Dirtiest Little Darling",
+      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
     }
   ],
   "unique_name": "Black Coffee Blues",

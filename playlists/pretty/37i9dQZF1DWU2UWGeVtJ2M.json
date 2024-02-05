@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 157313,
+  "num_followers": 157245,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDY5ZjdjMmNlYzcxOTM3Njc4OGUxNDBhOTlmOWI5MzZmYmYxNWZm",
+  "snapshot_id": "MCw2ZWUxNjE2NTcwODhmNTBmZDg4NDAwMTYzYTE0NmNkMTY2ZjQ1ZDQ0",
   "tracks": [
     {
       "added_at": "2024-01-29 03:21:36",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 140571,
       "name": "Wish I Was Better",
       "url": "https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 185991,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+      "duration_ms": 185991,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "GRADIENT",
-        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
-      },
-      "artists": [
-        {
-          "name": "Josh Makazo",
-          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Amniotic (Deluxe Version)",
         "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "GRADIENT",
+        "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/3t52A63M852sUyVOYWPheG"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Breakup Season",
         "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 192750,
       "name": "Breakup Season",
       "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
+        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 241661,
+      "name": "A day in the water",
+      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
-      },
-      "artists": [
-        {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
-        }
-      ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     },
     {
       "added_at": "2024-01-29 03:21:36",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-01-29 03:21:36",
       "album": {
+        "name": "Me In Dat Blue",
+        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        }
+      ],
+      "duration_ms": 259680,
+      "name": "Can't Find",
+      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
+    },
+    {
+      "added_at": "2024-01-29 03:21:36",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2024-01-29 03:21:36",
-      "album": {
-        "name": "Me In Dat Blue",
-        "url": "https://open.spotify.com/album/5nWNY2ELKVX8cfukWR0Rfx"
-      },
-      "artists": [
-        {
-          "name": "LINION",
-          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
-        }
-      ],
-      "duration_ms": 259680,
-      "name": "Can't Find",
-      "url": "https://open.spotify.com/track/7KKuseiLhKfoP353BjJduf"
     },
     {
       "added_at": "2024-01-29 03:21:36",

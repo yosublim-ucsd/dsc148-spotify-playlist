@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,164 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,201 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 25 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 |
 | 26 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
 | 27 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
-| 28 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 |
-| 29 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
+| 28 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
+| 29 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 |
 | 30 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
 | 31 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 |
 | 32 | [Higher](https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Higher](https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb) | 3:18 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 71 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
 | 72 | [Take You Higher](https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Lazers Not Included](https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB) | 4:47 |
 | 73 | [Know What It Means](https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d) | 2:40 |
-| 74 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
-| 75 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
+| 74 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 |
+| 75 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
 
-Snapshot ID: `MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm`
+Snapshot ID: `MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz`

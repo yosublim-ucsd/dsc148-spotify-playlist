@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 160593,
+  "num_followers": 160742,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjdhMTE1Y2FkZjBjYWUwNjFhYTBlMGQ4ZjNiYjdmYWRjZTE4ZGUy",
+  "snapshot_id": "MCxiNWFhNDNkODgyODcwZGJlZWU2NjVhMDBmYmNlOTFmZjcyMzEwOGI4",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "birthday cake",
-        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "birthday cake",
-      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+        "name": "birthday cake",
+        "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
         }
       ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+      "duration_ms": 205280,
+      "name": "birthday cake",
+      "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 188323,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 188323,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
         "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165280,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
     },
     {
       "added_at": "2024-01-26 05:00:00",

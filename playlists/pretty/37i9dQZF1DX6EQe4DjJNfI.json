@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166204,
+  "num_followers": 166155,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGUyNjVmM2I0MjNhNmRkMGFiOTk1MGRlNzU0YjhhZTMwYjhkODg2",
+  "snapshot_id": "MCw3NDNhMmFhZDcxMmQ5ZGRmNDJlNWRkNWI5YTUwMWFmMTcyNzI1ZWYw",
   "tracks": [
     {
       "added_at": "2024-02-02 03:01:00",
@@ -48,7 +48,7 @@
           "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 105000,
+      "duration_ms": 104988,
       "name": "Fala a Verdade",
       "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
     },
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 189233,
       "name": "Nessa Vida",
       "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Que Falta Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Que Falta Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -663,22 +683,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -695,6 +699,22 @@
       "duration_ms": 204604,
       "name": "perco o ar",
       "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -739,42 +759,18 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Que Falta Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/0MuYje3mI6lrvkPGSGqRNx"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "Annick",
-          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 123711,
-      "name": "Que Falta Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/5BWxwtkreVb8ez9fL5ivrp"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
-        "name": "Pode Ir",
-        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
-      },
-      "artists": [
-        {
-          "name": "Ikinya",
-          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
-        },
-        {
-          "name": "Grito Filmes",
-          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
-        }
-      ],
-      "duration_ms": 153371,
-      "name": "Pode Ir",
-      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -803,22 +799,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Pode Ir",
+        "url": "https://open.spotify.com/album/2ZnCFXgpCWI1AVuPySlRk2"
+      },
+      "artists": [
+        {
+          "name": "Ikinya",
+          "url": "https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU"
+        },
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        }
+      ],
+      "duration_ms": 153371,
+      "name": "Pode Ir",
+      "url": "https://open.spotify.com/track/1dHm9SJdbZ9YrlnqgsPnHF"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Caixa Postal",
         "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 183529,
       "name": "Caixa Postal",
       "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2024-02-02 03:01:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Serour",
+          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/1diSltAeuabmNpBXw3qt9Q"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Serour",
-          "url": "https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/2QQeS6hFZXB8AOCKjyCiNC"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-02 03:01:00",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-02-02 03:01:00",
-      "album": {
         "name": "Roupa de Ontem",
         "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 278000,
       "name": "Roupa de Ontem",
       "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "added_at": "2024-02-02 03:01:00",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-02-02 03:01:00",

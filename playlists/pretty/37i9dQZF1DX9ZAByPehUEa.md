@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,282 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,358 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 74 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 75 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 
-Snapshot ID: `MCwzMWI1M2Y4MTJjN2YwMzljMGJiNzdkNmRlNThhYzQ5MGVjOTMwNTE5`
+Snapshot ID: `MCw5YmYzZTJlMTdlNGZmNWFhZjcwOTAxYTBmZDFhOGJjYjc3NjI3YmIz`

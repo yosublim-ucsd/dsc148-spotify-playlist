@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,460 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,462 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 18 | [Signs](https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Signs](https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq) | 2:53 |
 | 19 | [Dynamite \- Stonebridge Remix Radio Edit](https://open.spotify.com/track/3woqA7BkmDe9ROuGkqo7WT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Dynamite \(The Remixes\)](https://open.spotify.com/album/1QIRKG66PdTq9PKf7ooDQA) | 3:35 |
 | 20 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
-| 21 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
+| 21 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
 | 22 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
 | 23 | [Me On You](https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Me On You](https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme) | 3:16 |
 | 24 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
-| 25 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
+| 25 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
 | 26 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 |
 | 27 | [Break Your Heart \- Mixin Marc And Tony Svejda Radio Edit](https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Jersey Shore Soundtrack](https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX) | 4:26 |
 | 28 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 44 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 45 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhODg5Y2FmN2VhNTg1ZWU4ZGE1MzE2NmUyYmYwMWQ2ZA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAyNDlhYmRjOWZhMDQ1OTIwYzgxYTMxZWUwNjRlZmU0MQ==`

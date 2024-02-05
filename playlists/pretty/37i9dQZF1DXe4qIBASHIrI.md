@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,863 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,918 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 26 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 27 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
 | 28 | [No Confíes en Mí](https://open.spotify.com/track/7zZeubbxso576F3fKIBeUz) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Confíes en Mí](https://open.spotify.com/album/5gGuyWPDktZv2xu9R0vGIS) | 4:09 |
-| 29 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
-| 30 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 29 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 30 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 |
 | 31 | [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 |
 | 32 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
 | 33 | [No](https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Sí, Yo Soy](https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe) | 3:38 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 35 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
 | 36 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 37 | [Eres](https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:50 |
-| 38 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
-| 39 | [Miedo](https://open.spotify.com/track/7btzzrPbkP9hoxa3cUPhSd) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 4:08 |
-| 40 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 38 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 39 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
+| 40 | [Miedo](https://open.spotify.com/track/7btzzrPbkP9hoxa3cUPhSd) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 4:08 |
 | 41 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 42 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 43 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 80 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
 | 81 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
 | 82 | [Mirando a las muchachas](https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Méjico Máxico](https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV) | 4:35 |
-| 83 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
-| 84 | [Meta y Dinero](https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Meta y Dinero](https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs) | 2:13 |
+| 83 | [Meta y Dinero](https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Meta y Dinero](https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs) | 2:13 |
+| 84 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 85 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 |
 | 86 | [Si](https://open.spotify.com/track/1LN0Ut0IBHSrx4Urexq8xb) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 3:20 |
 | 87 | [No Puedo Parar](https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [No Puedo Parar](https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 |
 | 100 | [Lo Que Puedes Dar](https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV) | [Los Fascinantes](https://open.spotify.com/artist/5uOmmoQtUqCtXiTGv2qpFQ) | [Lo Que Puedes Dar](https://open.spotify.com/album/2vhtpNGqAkUnfz8Jwg6JkV) | 2:52 |
 
-Snapshot ID: `MCw2Yjc4NDQ5YWRlYTkxNjYzZGMwMDY3Yzg2NjQwNWI0NjYzY2ZjYzQ1`
+Snapshot ID: `MCxjMTcwOTgzYzA3OGI3MDEyNWExZGNhYWNmMjU0MmY3YjM4OWRjMjYy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30022\u67082\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30022\u67083\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -8100,7 +8100,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
@@ -8400,7 +8400,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 376375,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6"
@@ -10380,7 +10380,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 131434,
       "name": "HAITE",
       "url": "https://open.spotify.com/track/2fu0mblB8cp6MtM9nwtZrL"
@@ -10456,7 +10456,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 246699,
       "name": "Hana",
       "url": "https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh"
@@ -11182,7 +11182,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
@@ -12464,7 +12464,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 251333,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
@@ -12598,7 +12598,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
@@ -15806,7 +15806,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
@@ -16742,7 +16742,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 250853,
       "name": "Meteor -\u30df\u30fc\u30c6\u30a3\u30a2-",
       "url": "https://open.spotify.com/track/2WVLxptmqfKfGLve79U5s6"
@@ -17524,7 +17524,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 286314,
       "name": "more than words (Tour 2023 \u201cif i were an angel,\u201d)",
       "url": "https://open.spotify.com/track/4rTcxRnyFXYLTkXl4JcKo2"
@@ -28394,7 +28394,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 238939,
       "name": "Turn the Lights Back On",
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
@@ -29432,7 +29432,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 278118,
       "name": "W / X / Y",
       "url": "https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP"
@@ -29468,7 +29468,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 301466,
       "name": "Waiting In Vain - Bob Marley: One Love - Music Inspired By The Film",
       "url": "https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy"
@@ -30032,7 +30032,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -32414,7 +32414,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 198971,
       "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
@@ -35534,7 +35534,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 266693,
       "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
       "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
@@ -36348,7 +36348,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
       "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
@@ -37544,7 +37544,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 260133,
       "name": "\u30ed\u30d3\u30f3\u30bd\u30f3",
       "url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws"
@@ -38280,7 +38280,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 150506,
       "name": "\u507d\u9854",
       "url": "https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw"
@@ -38518,7 +38518,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 272746,
       "name": "\u5168\u529b\u5c11\u5e74",
       "url": "https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR"
@@ -40984,7 +40984,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 215853,
       "name": "\u6669\u9910\u6b4c",
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
@@ -41074,7 +41074,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 227469,
       "name": "\u6700\u9ad8\u5230\u9054\u70b9",
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
@@ -42415,6 +42415,24 @@
     },
     {
       "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO"
+    },
+    {
+      "album": {
         "name": "\u795d\u798f",
         "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
       },
@@ -43000,7 +43018,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA"

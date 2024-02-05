@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos!",
-  "num_followers": 1214536,
+  "num_followers": 1214397,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGZmZjNjYzM3M2E1OWIyYjk2ODM5YTVmOWNhNmMxYTU3YTFjMWMz",
+  "snapshot_id": "MCw0NzEwMzIxNjdlZDk0MDJhNTEwMDNiNDhkZmE3MWE3YWJkNTA3NjM0",
   "tracks": [
     {
       "added_at": "2020-11-17 04:03:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "El Que Busca Encuentra",
         "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Qu\u00e9 Vida la M\u00eda",
-      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Qu\u00e9 Vida la M\u00eda",
+      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -979,6 +963,54 @@
       "duration_ms": 267106,
       "name": "Color Esperanza",
       "url": "https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+    },
+    {
+      "added_at": "2022-04-23 02:38:21",
+      "album": {
+        "name": "El Que Busca Encuentra",
+        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 260613,
+      "name": "De la Noche a la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2xezpH0r1pT7kcx2TPNsZ0"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1019,38 +1051,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2022-04-23 02:38:21",
-      "album": {
-        "name": "El Que Busca Encuentra",
-        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 260613,
-      "name": "De la Noche a la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2xezpH0r1pT7kcx2TPNsZ0"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
         "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Tu Calorro",
+      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1247,22 +1263,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Tu Calorro",
-      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Afortunadamente No Eres Tu",
-        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "Afortunadamente No Eres Tu",
-      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 226800,
       "name": "Paris",
       "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Afortunadamente No Eres Tu",
+        "url": "https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Afortunadamente No Eres Tu",
+      "url": "https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 149173,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Odio Amarte",
-      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
-        "name": "Canciones De Hotel",
-        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "El Eco de Tu Voz",
-      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
       },
@@ -1567,6 +1535,38 @@
       "duration_ms": 122760,
       "name": "Je ne t'aime plus",
       "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Odio Amarte",
+      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "Canciones De Hotel",
+        "url": "https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+      "duration_ms": 183533,
+      "name": "El Eco de Tu Voz",
+      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
     },
     {
       "added_at": "2020-11-17 04:03:12",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2020-11-17 04:03:12",
       "album": {
-        "name": "Fantas\u00eda Pop",
-        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Baila Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
-    },
-    {
-      "added_at": "2020-11-17 04:03:12",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 274506,
       "name": "Tal Vez Quizas",
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2020-11-17 04:03:12",
+      "album": {
+        "name": "Fantas\u00eda Pop",
+        "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Baila Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0GB4zJkbXdXBbdJPgudwDx"
     }
   ],
   "unique_name": "Los 2000 M\u00e9xico",

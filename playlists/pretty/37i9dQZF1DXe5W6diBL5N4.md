@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: youra\(유라\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,902 likes - 309 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,026 likes - 309 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 138 | [Summer](https://open.spotify.com/track/5vSoyvZo568CGDvdygsLXN) | [ffpp](https://open.spotify.com/artist/0cmwhNwoxr4KixoRbYwMox) | [Summer](https://open.spotify.com/album/4ZqvsRCEQvVrrI5GDxqpfh) | 3:37 |
 | 139 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 |
 | 140 | [Journey For Myself](https://open.spotify.com/track/5ODpuzTGStXmxWK4qibI7b) | [INSEONG\(SF9\)](https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL) | [Into My Playlist Pt\. 10](https://open.spotify.com/album/1KjQdR198dy0I9ESATS6YC) | 4:11 |
-| 141 | [Dream](https://open.spotify.com/track/4DWUYqsX8qvSb0If0wwG8f) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [30th Anniversary Greatest Hits Part 1](https://open.spotify.com/album/21vQ7quxMSTKZDsgV77EL5) | 4:45 |
+| 141 | [Dream \- 2024 Remastered Ver.](https://open.spotify.com/track/6lCgjSldimVagQu0x0mfzK) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [Welcome to Samdal\-ri From CHO YONG PIL \(2024 Remastering\)](https://open.spotify.com/album/59eHTHX4i8v1j6TqTN1oBY) | 4:44 |
 | 142 | [N!kes \(Prod\. Justy\)](https://open.spotify.com/track/4vbb1kJJVDqZreoL24fQ5M) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [N!kes \(Prod\. Justy\)](https://open.spotify.com/album/0ocTb6LXBHcZG1bxdbz8xk) | 2:42 |
 | 143 | [HBD](https://open.spotify.com/track/5a8w6zysgXWnwUf4gz59ev) | [PARK HANDAM](https://open.spotify.com/artist/6oMnjA2BIMislXc0RIGVKF) | [HBD](https://open.spotify.com/album/5u7Z903fojlhdzPumQ0i3H) | 2:34 |
 | 144 | [My Heart](https://open.spotify.com/track/3VcUf5LAEe3qMkEowJFy4K) | [Jeong Jinwoon](https://open.spotify.com/artist/0TP4BhbuNVvO5aIPJlTFjh) | [Bargobargo X Jeong Jinwoon](https://open.spotify.com/album/74jrif7JTQJt38X6T3KO8Z) | 3:28 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 308 | [Rush Hour](https://open.spotify.com/track/1yVBxh2jsIunYaCEIQ9j0r) | [Highway](https://open.spotify.com/artist/0nmg6RNT1HaWcMmG28C9kI) | [UNIVERSE TICKET \- LEVEL STATION](https://open.spotify.com/album/1N2QUGuwoXWJCg4qOklNDh) | 2:40 |
 | 309 | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/track/6e53jSfKBohJjJhqURJRC7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [차우주](https://open.spotify.com/artist/1Ug3giuJFaBEuBuoYbZVno) | [Right Now \(Feat\. 차우주\)](https://open.spotify.com/album/0u0JzT8CCZ2pch383vj08S) | 3:23 |
 
-Snapshot ID: `MCw3N2VjYTVhYWY3MzdkZTAyYWVjNzBiZmQ0N2FlYTIyNTZmZjVkYjQ5`
+Snapshot ID: `MCxjNWM3ZmZlMzkyNGRiNzFjNDA4OTU0MTNkMWRhODUwMDIzYzQyYjlm`

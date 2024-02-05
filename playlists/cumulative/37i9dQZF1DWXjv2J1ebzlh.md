@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,198 songs - 6 day 4 hr 2 min
+2,199 songs - 6 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1471,7 +1471,8 @@
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/4D9uQHmo0HA8yRtU7NuFAz) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/16XSVHKfgfOzG7tYyZhqOz) | 2:32 | 2022-07-12 | 2022-07-29 |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 | 2022-07-27 | 2023-12-21 |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/0XARqKRaNIdIuRn8KIH449) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya), [Som Tres](https://open.spotify.com/artist/3KPIgglSGTB02qXJecKzNV) | [Show Em Simonal](https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU) | 3:15 | 2022-07-12 |  |
-| [Nereci](https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC) | 3:19 | 2022-06-09 |  |
+| [Nereci](https://open.spotify.com/track/6Iob8qYmUUTenQRi4u3tfs) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/6nNxchWJHFDd31sbiWlKPC) | 3:19 | 2022-06-09 | 2024-02-05 |
+| [Nereci](https://open.spotify.com/track/6kbq7yE8CbAqWkP1opSd7v) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Marizinha](https://open.spotify.com/artist/2E7RJStNCRGdzJbT1AzpwA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:19 | 2023-11-29 |  |
 | [Netseweth Sifassan Nagh](https://open.spotify.com/track/2SWXWkmpjPsZDYeOhbmjdO) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 4:27 | 2022-07-12 | 2022-11-20 |
 | [Netseweth Sifassan Nagh](https://open.spotify.com/track/57m0xwokoN3J49tso8tGDJ) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:27 | 2022-10-31 |  |
 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 | 2022-06-09 | 2023-11-04 |

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 1878,
+  "2024-02-05": 1879,
   "date_first_scraped": "2022-05-30",
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 273746,
       "name": "Quijote",
       "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 930200,
       "name": "The Harp of New Albion: II. The Orchestra of Tao",
       "url": "https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM"

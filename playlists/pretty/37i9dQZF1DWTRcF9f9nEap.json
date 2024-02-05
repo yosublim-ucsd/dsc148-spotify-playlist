@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 87133,
+  "num_followers": 87192,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDMwYzE4YTA2Mzg3YTZlYzY0MDVlZTVkM2FjOTYzNWMyOGJhZTc4",
+  "snapshot_id": "MCw5ZGRmZTMwNzM3OThlNzU3OWU3ZDBmMTY3Y2FkYzk2OTc0N2QyNTgz",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Dark Was the Night, Cold Was the Ground",
-      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 175040,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "Dark Was the Night, Cold Was the Ground",
+      "url": "https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Fight For Your Mind",
         "url": "https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -403,8 +371,8 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
       },
       "artists": [
         {
@@ -412,9 +380,25 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -467,6 +451,22 @@
       "duration_ms": 134066,
       "name": "Available Space",
       "url": "https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
-      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "South Of I-10",
         "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 380266,
       "name": "Congo Square",
       "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 135106,
+      "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
+      "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Best - Southern Blues",
         "url": "https://open.spotify.com/album/69k6vuhXTWhAo8z6JzUSuW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 237680,
       "name": "Taylor's Rock",
       "url": "https://open.spotify.com/track/6fpaDrwoD72oLtksI0Ei88"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2023-01-16 21:05:55",

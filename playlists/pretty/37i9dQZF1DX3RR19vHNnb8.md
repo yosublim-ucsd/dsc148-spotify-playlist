@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,424 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,460 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 50 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/album/4REcDrYHUkwAsyFH51SbOi) | 2:53 |
 
-Snapshot ID: `MCw1MmY2NTBhNWJmMjg4ZGRmZDRhN2I0ZTRjYTYzYWIyOTQ2ZDA2Mjkx`
+Snapshot ID: `MCxkZGJlODJjYzAwMTJjOWJkYWQyMTY4YWVmN2FmZjA5MzkwYTMwNDk4`

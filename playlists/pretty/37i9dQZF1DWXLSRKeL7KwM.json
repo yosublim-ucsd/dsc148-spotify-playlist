@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 387983,
+  "num_followers": 388162,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTAwNzJiYjk0YzMyYWJjMDBmYTZiZmEyMTNkZTE3NzZjMTQ4NjZj",
+  "snapshot_id": "MCwwYzQ0MDgwODEzZmVjZTQzYzM3NDcxMDY5ZmEzZjlhOWVlNzk0OWU3",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Mama's Broken Heart",
-      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Mama's Broken Heart",
+      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Look What God Gave Her",
-      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0BYiDyfOOhzFrX9ENunvbk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/4h5OVQQbeqw3lNaFIbmlzG"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Look What God Gave Her",
+      "url": "https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 193773,
       "name": "Runnin' Outta Moonlight",
       "url": "https://open.spotify.com/track/4vlJejZrcujj0nSCqIBeWn"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1431,38 +1431,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Three Chord Country and American Rock & Roll",
-        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
-      },
-      "artists": [
-        {
-          "name": "Keith Anderson",
-          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Pickin' Wildflowers",
-      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Three Chord Country and American Rock & Roll",
+        "url": "https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y"
+      },
+      "artists": [
+        {
+          "name": "Keith Anderson",
+          "url": "https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Pickin' Wildflowers",
+      "url": "https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 221573,
       "name": "Bottoms Up - Remix",
       "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Dirt Road Down",
-        "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
       "artists": [
         {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 165920,
-      "name": "Dirt Road Down",
-      "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
+      "duration_ms": 206720,
+      "name": "Mud On the Tires",
+      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+        "name": "Dirt Road Down",
+        "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 206720,
-      "name": "Mud On the Tires",
-      "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
+      "duration_ms": 165920,
+      "name": "Dirt Road Down",
+      "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Current Mood",
-        "url": "https://open.spotify.com/album/5htnpjNpTeoE7B5XaTdzmC"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "I'd Be Jealous Too",
-      "url": "https://open.spotify.com/track/7mJfhO152PFsTEaDvd2FVv"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 200306,
       "name": "Save a Horse (Ride a Cowboy)",
       "url": "https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Current Mood",
+        "url": "https://open.spotify.com/album/5htnpjNpTeoE7B5XaTdzmC"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "I'd Be Jealous Too",
+      "url": "https://open.spotify.com/track/7mJfhO152PFsTEaDvd2FVv"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Girl to Girl",
-        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Back Then, Right Now",
-      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 205626,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Girl to Girl",
+        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/3wgo9ePs5s7OMO6yHQJB1T"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "What A Song Can Do (Chapter One)",
-        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Like A Lady",
-      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "To Us It Did",
         "url": "https://open.spotify.com/album/3DMERTbdgd3MG3lLTonBrZ"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 165647,
       "name": "To Us It Did",
       "url": "https://open.spotify.com/track/35v4CE7o8XHvXPDjGPsp15"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "What A Song Can Do (Chapter One)",
+        "url": "https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Like A Lady",
+      "url": "https://open.spotify.com/track/5SulrwmIUDbU5TQQtoYHhL"
     },
     {
       "added_at": "2024-01-05 05:00:00",

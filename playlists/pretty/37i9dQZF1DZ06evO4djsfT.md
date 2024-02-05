@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,175 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,188 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 10 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 |
 | 11 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 |
 | 12 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 |
-| 13 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
-| 14 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 |
+| 13 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 |
+| 14 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
 | 15 | [Not Today Satan](https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:06 |
 | 16 | [Let It Reign \(feat\. Bizzle\)](https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:19 |
 | 17 | [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 26 | [Too God](https://open.spotify.com/track/69M2s5Rm5aLPcCbznvrZnT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:47 |
 | 27 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 |
 | 28 | [The Name \(feat\. Koryn Hawthorne\)](https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
-| 29 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
-| 30 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
+| 29 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
+| 30 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
 | 31 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
 | 32 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
 | 33 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 44 | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 |
 | 45 | [Sideways](https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:14 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjODIzOTU2M2ZkZGE3MDA3ZGZjMDNhZWIxZTg4NWY2YQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA3NTdkZDBjZGViMDRhMzEzZjYxMzE1YjUyZDgwOWJmNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,314 likes - 122 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,348 likes - 122 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 85 | [We Found Love \(Bossa Nova Style\) \[Originally Performed By Rihanna and Calvin Harris\]](https://open.spotify.com/track/0YJRmdHf7PJKqBq564BKLW) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:47 |
 | 86 | [Sign Your Name Across My Heart](https://open.spotify.com/track/3ZnwYceO2sv5z0UcpaLicf) | [Lydia Gray](https://open.spotify.com/artist/0VMYRZ6lRJtkOpIvFLomZ0), [Ed Eastridge](https://open.spotify.com/artist/02VVc5i9QRuXc4qt0ajyVo) | [Sign Your Name Across My Heart](https://open.spotify.com/album/1PXUyxo34edj0nByI1vzuD) | 4:50 |
 | 87 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
-| 88 | [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 |
+| 88 | [Self Control](https://open.spotify.com/track/7jfL8bZ1D0B7rAaieB0vg8) | [World Mestizo Ensemble](https://open.spotify.com/artist/5r1CCpk0rhguhNGqff1ETw) | [Acoustic](https://open.spotify.com/album/4T6wBXGejn8MQnSTHnddAC) | 3:33 |
 | 89 | [Slide \- Bossanova](https://open.spotify.com/track/08BnZm0xqnkkEEmKrmYwWk) | [Ensolarada](https://open.spotify.com/artist/6XMzyCi31KFN2dlSsd25D7) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:53 |
 | 90 | [Hard Woman](https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [A New Beginning](https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT) | 3:54 |
 | 91 | [Dance Monkey \- Bossa Nova Remix](https://open.spotify.com/track/3xuSelqcHuvS1NWquuSKnh) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey \(Bossa Nova Remix\)](https://open.spotify.com/album/3qGEwfgSvUD1lV7qWmoy81) | 3:18 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 121 | [Goodbyes](https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw) | [Lo Cabana](https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC) | [Goodbyes](https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7) | 2:10 |
 | 122 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 |
 
-Snapshot ID: `MCxhNmI1NzkzMmVkOTRiZmUzMzdhY2IyOWU3MmFlZWUxYjM0OGJlMTJm`
+Snapshot ID: `MCxkMGZjODRlY2ExNjEwOWRkOTA0ODA2YzJiNTExMGUzNTUyODc5ZGYy`

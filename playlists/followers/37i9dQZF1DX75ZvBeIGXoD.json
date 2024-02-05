@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 26324,
+  "2024-02-05": 26313,
   "date_first_scraped": "2024-01-30",
   "description": "a perfect soundtrack for eating the Mariah Carey happy meal in your car",
   "name": "oh no, our christmas tree, it's broken",
@@ -133,10 +133,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 256648,
       "name": "Another Year",
       "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P"
     },
     {
       "album": {

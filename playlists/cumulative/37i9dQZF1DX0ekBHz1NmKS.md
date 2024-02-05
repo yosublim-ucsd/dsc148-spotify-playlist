@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-975 songs - 2 day 3 hr 18 min
+976 songs - 2 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Come Get Me Out](https://open.spotify.com/track/54DpQsG4eustUJp2hKKWcS) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don't look at the moon...](https://open.spotify.com/album/0GEc7foEpk3JCkR1kh8fK6) | 3:22 | 2023-10-13 | 2024-01-26 |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2023-12-14 |  |
-| [Confession](https://open.spotify.com/track/6x5NfhXW4N83aGsWGlnH2k) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Confession](https://open.spotify.com/album/1Kol1YbKzCk03Msogtesdd) | 3:12 | 2024-01-25 |  |
+| [Confession](https://open.spotify.com/track/6x5NfhXW4N83aGsWGlnH2k) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Confession](https://open.spotify.com/album/1Kol1YbKzCk03Msogtesdd) | 3:12 | 2024-01-25 | 2024-02-05 |
 | [CONVERSATIONS](https://open.spotify.com/track/1pVK5e5Ho07k8qYsyyF9sA) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [CONVERSATIONS](https://open.spotify.com/album/2iHT5ztZf8K1MSBEHYSaD4) | 3:36 | 2024-01-18 |  |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
@@ -636,6 +636,7 @@
 | [Owe You](https://open.spotify.com/track/3JYUzjSvKi2StnQApd5YnD) | [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D), [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Owe You](https://open.spotify.com/album/18hdjoechcQD4ddgF65NDw) | 3:22 | 2022-06-16 | 2022-06-20 |
 | [Painkiller](https://open.spotify.com/track/2aEqEiwun5jNzh0fnkBBIc) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Painkiller](https://open.spotify.com/album/0IaCkrFp4j5trgWJLjR8XI) | 2:24 | 2023-11-30 |  |
 | [Painkiller](https://open.spotify.com/track/2CGSIAkgrchoFLl4YWS4ob) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Painkiller](https://open.spotify.com/album/2Ycb3yb7yRlTLuzZsf32AU) | 2:53 | 2022-04-28 | 2022-06-21 |
+| [Pannkaksfrukost](https://open.spotify.com/track/3ldBwzqcOSe4iefDalhUN7) | [Immanuel](https://open.spotify.com/artist/2yrh7Lu0JyS9B8jaUUoA43) | [Pannkaksfrukost](https://open.spotify.com/album/24BGAjPh4QNr4brfBFgeM0) | 2:14 | 2024-02-02 |  |
 | [Pathetic](https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv) | [Fibes, Oh Fibes!](https://open.spotify.com/artist/0MGJBcGDyvsk2Qczlmvx8W) | [Pathetic](https://open.spotify.com/album/2t0Nh8aldfMsfg4dEuYmxO) | 3:57 | 2022-04-01 | 2022-07-27 |
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |

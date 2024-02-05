@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 69702,
+  "num_followers": 69775,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDQ5OGViNGUzNWFlZDg0NDA3NjE5NWYyOTg5ODI3M2FlZThjZGRh",
+  "snapshot_id": "MCxhNzBkYjU5OWFlMmU1MGMwZTYxMzNiNDc3YWE2MzkyZjBiODE0MGU4",
   "tracks": [
     {
       "added_at": "2024-02-01 12:01:22",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 353600,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
         "name": "Picture Of Heath",
         "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 385666,
       "name": "For Miles And Miles",
       "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "The Ivory Hunters",
         "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
     },
     {
       "added_at": "2024-02-01 12:01:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-02-01 12:01:22",
       "album": {
-        "name": "Subconscious-Lee",
-        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Fishin' Around",
-      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
-    },
-    {
-      "added_at": "2024-02-01 12:01:22",
-      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 352440,
       "name": "Solar",
       "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+    },
+    {
+      "added_at": "2024-02-01 12:01:22",
+      "album": {
+        "name": "Subconscious-Lee",
+        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Fishin' Around",
+      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
     },
     {
       "added_at": "2024-02-01 12:01:22",

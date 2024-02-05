@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,667 songs - 3 day 23 hr 4 min
+1,668 songs - 3 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1202,6 +1202,7 @@
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-10 | 2022-06-18 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-21 | 2023-04-29 |
 | [Rodeo](https://open.spotify.com/track/3n7bTMRshWeaIcl8mfJboJ) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [Casse Croûte Sampler Vol\. 01](https://open.spotify.com/album/5nhCaLvXOG3NYQJObiBahC) | 3:49 | 2022-09-02 | 2022-09-10 |
+| [Roll Deep](https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [JSED](https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq) | [Roll Deep](https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c) | 2:40 | 2024-02-04 |  |
 | [Roll Out](https://open.spotify.com/track/71UwgcOkkTPVarPPAjpTBk) | [Brad Wood \(UK\)](https://open.spotify.com/artist/6jVDb9wCqGfbWdhEhMfdKX) | [Roll Out](https://open.spotify.com/album/1tIkoqZ1zPyrubTCxWQwl3) | 3:35 | 2022-07-29 | 2022-08-06 |
 | [Room 2 \- Edit](https://open.spotify.com/track/2agDmUuQsLVAJP89qHs8dJ) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Beats 4 Eats Part\. I](https://open.spotify.com/album/4po1t87GmYVQgB6ZROK2FQ) | 2:56 | 2023-04-15 | 2023-04-22 |
 | [Roots](https://open.spotify.com/track/19WnFg2fHSpNOzM8z7b9u3) | [Bruno Fernz](https://open.spotify.com/artist/6iM1c656vyqxLVaxaVLhLI) | [Roots](https://open.spotify.com/album/4S2UTjJUlp33VBn7ButR82) | 5:39 | 2023-12-16 | 2023-12-23 |

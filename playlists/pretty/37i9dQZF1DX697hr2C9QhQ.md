@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,015 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,061 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 37 | [Teenage Kicks](https://open.spotify.com/track/6UP5zTAuR4NFc1uZ3MHjvA) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Undertones](https://open.spotify.com/album/6lpgN6d9rlnFpZBzyQlDrE) | 2:28 |
 | 38 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
 | 39 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
-| 40 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
-| 41 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
+| 40 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
+| 41 | [Don't Believe A Word](https://open.spotify.com/track/4OSDItus4110bQdykTdpy7) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Johnny The Fox](https://open.spotify.com/album/3E54AKQSvQlQekosA4SuT3) | 2:18 |
 | 42 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 |
 | 43 | [The Great Defector](https://open.spotify.com/track/5r1y7XYDcTtDLJHzFgODOu) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Blue Lights on the Runway](https://open.spotify.com/album/4iBvB6NJeMSZ6bgOZC1OCS) | 4:40 |
 | 44 | [Dearg Doom](https://open.spotify.com/track/4LywX4vWjHOS07VuVWC7GD) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Táin \(Bonus Tracks Version\)](https://open.spotify.com/album/0nxIa7m4erGJeFTLbVrtzS) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [Revelate](https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM) | [Fitzcarraldo](https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu) | 3:46 |
 | 50 | [Heyday](https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi) | [Mic Christopher](https://open.spotify.com/artist/1ufuQpaky2uZ7bDvhf6Ujq) | [Skylarkin](https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28) | 3:52 |
 
-Snapshot ID: `MCw1YzliNzA3OTg2ZDIzMGFmNDkzZjYzNmIwZTFmM2IzNGMzMjZkNTVk`
+Snapshot ID: `MCwzMGU5NTUzZjk4YWYwZDBiZjhhNjc3ZTNiODgwOTYwMzA1MmNlYmQ2`

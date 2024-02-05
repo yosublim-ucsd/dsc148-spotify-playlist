@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,394 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,705 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 26 | [Señora](https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:42 |
 | 27 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
 | 28 | [Yo por Él](https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:37 |
-| 29 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
-| 30 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
+| 29 | [Irremediable](https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 3:52 |
+| 30 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
 | 31 | [En Su Lugar \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:01 |
 | 32 | [Noche De Copas](https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:08 |
 | 33 | [Maldita Primavera \- Utilizar el código MXF011400504](https://open.spotify.com/track/4ySUZAN05ItrB1q2j7r0gA) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Lo Esencial de Yuridia](https://open.spotify.com/album/06bdXqlNr3oJe6CwEdc6SJ) | 3:04 |
@@ -46,17 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 36 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 |
 | 37 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 | 38 | [Eclipse Total del Amor \(Total Eclipse of the Heart\) \(with Patricio Borghetti\)](https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Patricio Borghetti](https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP) | [Habla el Corazón](https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy) | 5:24 |
-| 39 | [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 |
+| 39 | [Déjame Volver Contigo](https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:56 |
 | 40 | [Quererte a Ti](https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:45 |
-| 41 | [Déjame Volver Contigo](https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:56 |
-| 42 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
-| 43 | [Me Olvidarás](https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 4:15 |
-| 44 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 |
-| 45 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
+| 41 | [No Soy](https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Habla Ahora](https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ) | 3:16 |
+| 42 | [Me Olvidarás](https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Nada Es Color De Rosa](https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln) | 4:15 |
+| 43 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
+| 44 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
+| 45 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 |
 | 46 | [Para Decir Adiós](https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [6](https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU) | 3:19 |
-| 47 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 |
-| 48 | [Como Tú](https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Como Tú](https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p) | 3:42 |
-| 49 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
-| 50 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
+| 47 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
+| 48 | [Cuando Es Amor](https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Cuando Es Amor](https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ) | 3:09 |
+| 49 | [Detrás de Mi Ventana](https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:34 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmZTk4MWY2MDVkNGQ4MzI1ODk1NGZjYWFhZTllNzRmNA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA3YjFkM2NjYmY1MWMxMWY3ODE4ODA4NDcxYTQwZjA0ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 105262,
+  "num_followers": 105261,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjU5NzBjYTEyOTAzNDgxMDZlNDU2NzBjNWQ0Y2FjYjlmYTdiYmMz",
+  "snapshot_id": "MCw1NzIwMjY5NjBjMjhiOGRhYzk4ZmM3MzNjYjkyMGM3ZDdhNTU1NTY4",
   "tracks": [
     {
       "added_at": "2024-01-12 16:09:12",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "A D\u00f3nde Vamos?",
-        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "A D\u00f3nde Vamos?",
-      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
-    },
-    {
-      "added_at": "2024-01-12 16:09:12",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-01-12 16:09:12",
+      "album": {
+        "name": "A D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "A D\u00f3nde Vamos?",
+      "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+        "name": "17 Canciones para Autopista",
+        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
       },
       "artists": [
         {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
+      "duration_ms": 224520,
+      "name": "Ahinoa",
+      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
     },
     {
       "added_at": "2024-01-12 16:09:12",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-01-12 16:09:12",
       "album": {
-        "name": "17 Canciones para Autopista",
-        "url": "https://open.spotify.com/album/3WFYSQRWwDzbJxs8HR3RhC"
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
       },
       "artists": [
         {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
         }
       ],
-      "duration_ms": 224520,
-      "name": "Ahinoa",
-      "url": "https://open.spotify.com/track/7ezFSRjTh80pqJ4xYN59yr"
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
     },
     {
       "added_at": "2024-01-12 16:09:12",

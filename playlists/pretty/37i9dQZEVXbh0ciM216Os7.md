@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 |
 | 2 | [Spit](https://open.spotify.com/track/1rubr0oXYT9I1Wl8Mgev0w) | [Quincy Hinch](https://open.spotify.com/artist/1jgl5XGLiX9n7HRErI9FvW), [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Behind The Boards](https://open.spotify.com/album/0y11ieJOte06nHbeT4m3wp) | 2:20 |
 | 3 | [We sell weed \- Remixed](https://open.spotify.com/track/7qNAcy7CI9m27UqOQmMDBO) | [Caspa Clark](https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [We sell weed \(Remixed\)](https://open.spotify.com/album/2PY4IMlXomWsyNxR8KTtsp) | 3:29 |
-| 4 | [Little Bit Yours \- Sam Luck Remix](https://open.spotify.com/track/17zdTab7uFdCEfuwx4A0ti) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR), [Sam Luck](https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek) | [Little Bit Yours \(Remixes\)](https://open.spotify.com/album/5RfC315DdabDXG7hVHruC3) | 4:30 |
+| 4 | [Emerald Dragon](https://open.spotify.com/track/0I07BcifgosVW75c9jTMGP) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Jake Luhrs](https://open.spotify.com/artist/6htXyTdNQiuQCUZqxZDG2Y), [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Emerald Dragon](https://open.spotify.com/album/0weiSKnI7wKtBOfS9ANQi3) | 3:57 |
 | 5 | [The Equable](https://open.spotify.com/track/0ZJlWerfrs7GjOo5NdpSYv) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [The Equable](https://open.spotify.com/album/1FJJvfqsXOOZGk1YJxiRYU) | 6:28 |
-| 6 | [Emerald Dragon](https://open.spotify.com/track/0I07BcifgosVW75c9jTMGP) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Jake Luhrs](https://open.spotify.com/artist/6htXyTdNQiuQCUZqxZDG2Y), [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Emerald Dragon](https://open.spotify.com/album/0weiSKnI7wKtBOfS9ANQi3) | 3:57 |
+| 6 | [Little Bit Yours \- Sam Luck Remix](https://open.spotify.com/track/17zdTab7uFdCEfuwx4A0ti) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR), [Sam Luck](https://open.spotify.com/artist/5BVku7Olml0ffWJU8OWFek) | [Little Bit Yours \(Remixes\)](https://open.spotify.com/album/5RfC315DdabDXG7hVHruC3) | 4:30 |
 | 7 | [Pas possible](https://open.spotify.com/track/7hF9l8mdFuknxwtxwOtLBx) | [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [HHHistory](https://open.spotify.com/album/3PqWqzEL9q9fWUk5tU4jGI) | 3:10 |
 | 8 | [Hit Em Up \- Slowed Version](https://open.spotify.com/track/0zJ2lrSdgF9STBy38FMsDG) | [Mykill Millz](https://open.spotify.com/artist/2gbJRlQ7xdVqvalACATtHm), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hit Em Up \(Slowed Version\)](https://open.spotify.com/album/6hR6W1UT5bDw49o8pPDn8X) | 1:44 |
 | 9 | [So Much \(For\) Stardust \- Edit](https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust \[Edit\]](https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH) | 3:52 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 26 | [FACTS](https://open.spotify.com/track/2ue12T2b9JXlErJJ6NSs8W) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf), [Ben Shapiro](https://open.spotify.com/artist/3gkJWMJxN26opykgDVsYtY) | [FACTS](https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i) | 3:20 |
 | 27 | [HISS](https://open.spotify.com/track/5DjC1aw5JXAzPKojrLiSID) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/1XC0UNyzPu6eThQz8XJE0J) | 3:12 |
 | 28 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 |
-| 29 | [Father to a Son](https://open.spotify.com/track/5BgGeoSWQeCNrxs0OTBivx) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:54 |
+| 29 | [1981](https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:09 |
 | 30 | [Ally's Song](https://open.spotify.com/track/7KHWN1YP0PY8deaq0IykBe) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 3:09 |
 
-Snapshot ID: `Mjg0NDc1MDAsMDAwMDAwMDA1NTE1M2MwOWRjMmZhZWJiMzgyYzc4NWFkZTc2MGE2Ng==`
+Snapshot ID: `Mjg0NDc1MDAsMDAwMDAwMDAyZmIxMmJmZDEwMDUzZmRjZmYyZWQ3ODNmYjA5NzVhYw==`

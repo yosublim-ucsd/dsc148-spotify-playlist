@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,679 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,352 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 9 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 10 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 11 | [Pacas De Billetes](https://open.spotify.com/track/1EZk1gal98tb4lNI862KzO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 |
-| 12 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
-| 13 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 |
+| 12 | [Adrenalina](https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Adrenalina](https://open.spotify.com/album/2BvDucJawFOjYW93odCdow) | 2:30 |
+| 13 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 14 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
 | 15 | [El de La Codeina](https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Todo Es Diferente](https://open.spotify.com/album/0ECIYdy6byWnFYoY6Bn8CN) | 2:08 |
 | 16 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 45 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
 | 46 | [Mi Bello Ángel](https://open.spotify.com/track/26HLrRjZ4we5h4wp8KOnEt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:08 |
 | 47 | [Cuento](https://open.spotify.com/track/3MP9oRQ2LVNzgzgS1aRU2d) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:49 |
-| 48 | [El Chamaquito](https://open.spotify.com/track/7n6GRe3u1y7UYSXk3LUt9q) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 1:55 |
-| 49 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |
-| 50 | [F1](https://open.spotify.com/track/6bf11IBgO6k84wRuTSbci2) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [F1](https://open.spotify.com/album/6DWBiI2xUByeqXbRYTu5EL) | 2:34 |
+| 48 | [Proyecto X](https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Proyecto X](https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs) | 2:38 |
+| 49 | [El Chamaquito](https://open.spotify.com/track/7n6GRe3u1y7UYSXk3LUt9q) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 1:55 |
+| 50 | [Diablo](https://open.spotify.com/track/2xmH5KTkTsRWAxxHbXJkoL) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [En Donde Quedo Yo](https://open.spotify.com/album/0fFL3CyMKpIA6OOfjKlDWo) | 2:48 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjNmFjZDYzMDQ5MTdjZGM3MTU2NTE1NWE0YTI2ZjJkOQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA3Njg5ZjcxYzQ1ZDllMTVmNjNjZGUwMjkxOGI0NDAzNw==`

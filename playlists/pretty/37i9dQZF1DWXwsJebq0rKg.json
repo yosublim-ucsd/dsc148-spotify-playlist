@@ -1,12 +1,12 @@
 {
   "description": "La favorita de dios, and she knows \ud83c\udf3c",
-  "num_followers": 26350,
+  "num_followers": 26524,
   "original_name": "coquette \ud83c\udf80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzU0OTU4ZTBlMDk1YmRiMTZlNzUwODRkNTZkNjVjYTQ0MzljYTY5",
+  "snapshot_id": "MCxmMTczYjY0NWIxZTAxYTliZjlhOTQ1M2I1NjY1N2FkOTM5NDNiMGVh",
   "tracks": [
     {
       "added_at": "2024-01-19 22:37:18",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-19 22:37:18",
       "album": {
+        "name": "Premiers \u00e9mois",
+        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "\u00c9coute Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q"
+    },
+    {
+      "added_at": "2024-01-19 22:37:18",
+      "album": {
         "name": "Lovelove U",
         "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
-    },
-    {
-      "added_at": "2024-01-19 22:37:18",
-      "album": {
-        "name": "Premiers \u00e9mois",
-        "url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "\u00c9coute Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q"
     },
     {
       "added_at": "2024-01-19 22:37:18",

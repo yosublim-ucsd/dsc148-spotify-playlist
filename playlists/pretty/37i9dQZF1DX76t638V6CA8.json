@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2076567,
+  "num_followers": 2076743,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTg5NDA1OGU4MmRiNjQ1ODNiNjJhOWY5ZjBhNmZlOWFhNWY3OTQ5",
+  "snapshot_id": "MCwwYTdhNWY1MTNiOGM2ZTk5ZmRkYzUxNmRiYWFiODhkZWY3MTU1OWNj",
   "tracks": [
     {
       "added_at": "2023-11-24 01:37:50",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 339249,
-      "name": "Off The Grid",
-      "url": "https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 339249,
+      "name": "Off The Grid",
+      "url": "https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -1015,6 +1031,22 @@
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Poppin' Them Thangs",
+      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1039,38 +1071,6 @@
       "duration_ms": 206546,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
-      },
-      "artists": [
-        {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Poppin' Them Thangs",
-      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 210338,
       "name": "Long Story Short (with Lil Wayne)",
       "url": "https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
+        "name": "Thot Shit",
+        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
         "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
         "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 236665,
       "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
       "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
-        "name": "Thot Shit",
-        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Thot Shit",
-      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
     },
     {
       "added_at": "2023-11-24 01:37:50",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-11-24 01:37:50",
       "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2023-11-24 01:37:50",
-      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2023-11-24 01:37:50",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2023-11-24 01:37:50",

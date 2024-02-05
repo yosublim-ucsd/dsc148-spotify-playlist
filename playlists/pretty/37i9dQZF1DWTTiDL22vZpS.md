@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,731 likes - 65 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,761 likes - 65 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 28 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 29 | [Dicen](https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 3:45 |
 | 30 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
-| 31 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
-| 32 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
+| 31 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
+| 32 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
 | 33 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 |
 | 34 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
 | 35 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 45 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
 | 46 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
 | 47 | [Tuyonama \(feat\. Charles Ans\)](https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cool Love](https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe) | 3:24 |
-| 48 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
-| 49 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 |
+| 48 | [Latin Boogie](https://open.spotify.com/track/7xk1G9o26AhKlqsaGpQYnn) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Latin Boogie](https://open.spotify.com/album/2hVem4tCpldixCXBUM5ECo) | 3:25 |
+| 49 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
 | 50 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 |
 | 51 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 52 | [Tu y Yo](https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Tu y Yo](https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H) | 4:14 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 56 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 |
 | 57 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 | 58 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
-| 59 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
+| 59 | [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 |
 | 60 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 |
-| 61 | [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 |
+| 61 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 | 62 | [Time Flies](https://open.spotify.com/track/0O6CZiLgMKYbBQ7qPM2enO) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [TTT](https://open.spotify.com/album/7qOQ37eoRAF8YR1MehRim6) | 3:25 |
 | 63 | [Zoo Lion](https://open.spotify.com/track/0Yt3DQ6IvtZrEqPHjDKTPO) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Zoo Lion](https://open.spotify.com/album/0GUY5NcH7vjSYeeyfnMdXF) | 4:26 |
-| 64 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
-| 65 | [Inventing](https://open.spotify.com/track/3np005N2JmmcJzQQTk0w2t) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 3:30 |
+| 64 | [Inventing](https://open.spotify.com/track/3np005N2JmmcJzQQTk0w2t) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 3:30 |
+| 65 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 |
 
-Snapshot ID: `MCw2ZTZiYjg0YWI5MTk3YTkyMmJiZWJkNjRlMGQ5MzRkMzVlYTI4Yzg5`
+Snapshot ID: `MCw5ZjVmZTE2ZjUwY2RmMjc3NjdlMjA1ZTk2MTBiYzQwOWM2ZGY0YjQ5`

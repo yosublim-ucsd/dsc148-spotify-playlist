@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 
 > Floor fillers and big streamers of 2012.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,141 likes - 64 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,217 likes - 64 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ke4jVST4o8.md) - [plain]
 | 58 | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/track/3JNqJPbbS1KhVzStLyxw1h) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Get It Started \(feat\. Shakira\)](https://open.spotify.com/album/78yPCn5PoKJLrIV8DtLLnc) | 4:05 |
 | 59 | [Kick out the Epic Motherfucker](https://open.spotify.com/track/2FvbZDwZPpGc0JqINP7WV7) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [The Rules of Dada](https://open.spotify.com/album/7j3RkUHvdtlb08534NqGB2) | 3:22 |
 | 60 | [Turn Up The Love](https://open.spotify.com/track/2R0eIBJGHpiv1nKbSzW4zq) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [Cover Drive](https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP) | [Dirty Bass](https://open.spotify.com/album/14H11tknOJqYyi3fD6BhMe) | 3:15 |
-| 61 | [Mammoth \- Radio Version](https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Mammoth](https://open.spotify.com/album/39vWIvcvAv0hEJrpaVieDg) | 2:40 |
-| 62 | [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 |
+| 61 | [Love Is All I Got](https://open.spotify.com/track/3INFQGizSgnmEJJlLIUJt1) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Calamari Tuesday](https://open.spotify.com/album/6eamRXvrKVz5VN1noerGMr) | 3:05 |
+| 62 | [Mammoth \- Radio Version](https://open.spotify.com/track/1j5jW3sBFEWYMPkO5Tl1oX) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Mammoth](https://open.spotify.com/album/39vWIvcvAv0hEJrpaVieDg) | 2:40 |
 | 63 | [Hungry Hearts](https://open.spotify.com/track/6kILX4JxWPMGSe7lNWZmqL) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Hungry Hearts](https://open.spotify.com/album/6H4pJ3ttHtF4fFYHaw93Cb) | 3:45 |
 | 64 | [Drinking from the Bottle \(feat\. Tinie Tempah\)](https://open.spotify.com/track/1oHxIPqJyvAYHy0PVrDU98) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:00 |
 
-Snapshot ID: `MCw2NTc4ZWEzNzllNzc3MTE4ZWQ3NzNlOGNmOWExNzE3ZjY3Mzg4OTFj`
+Snapshot ID: `MCxkNDc2N2VmZmI1YWUzOTg2NGI4NGY0ZjA2M2Y5ODBhNjQ5MmVlOWE5`

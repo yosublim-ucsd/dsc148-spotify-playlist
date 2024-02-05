@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 669681,
+  "num_followers": 669282,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDM0NDNhMGYxMDc4NzhhNTI5MDNlYTY5MzczYjA1OTg0M2ZjM2Jk",
+  "snapshot_id": "MCwwMmE0MjQ2Mzg0ZTk5NjExNGJhYjZlNmRhOTk5NDU5YmI1MDI2YmY0",
   "tracks": [
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
+        "name": "Lukas Nelson & Promise Of The Real",
+        "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 376333,
+      "name": "Find Yourself",
+      "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
-        "name": "Lukas Nelson & Promise Of The Real",
-        "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 376333,
-      "name": "Find Yourself",
-      "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1359,22 +1343,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "Age of Apathy",
-        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "B61",
-      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 463653,
       "name": "Away From The Mire",
       "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/48I5zrBAbKfGp7lqfBZ0Ll"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "The Million Masks Of God",
-        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 171746,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "The Million Masks Of God",
+        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
     },
     {
       "added_at": "2023-12-27 17:00:21",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-27 17:00:21",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2023-12-27 17:00:21",
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 265096,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
+    },
+    {
+      "added_at": "2023-12-27 17:00:21",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2023-12-27 17:00:21",

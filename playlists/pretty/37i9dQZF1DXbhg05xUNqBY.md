@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,263 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,258 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,20 +56,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 46 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
 | 47 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
 | 48 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
-| 49 | [Meet Me There](https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:14 |
-| 50 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
+| 49 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
+| 50 | [Meet Me There](https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:14 |
 | 51 | [Safe Place](https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:10 |
 | 52 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
 | 53 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
 | 54 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 |
 | 55 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 |
 | 56 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 57 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
-| 58 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 |
+| 57 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 |
+| 58 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 59 | [Safe Place \- Acoustic](https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place \(Acoustic\)](https://open.spotify.com/album/4AM1TkaWF2RRoHhgQ4i4te) | 2:58 |
 | 60 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 |
-| 61 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
-| 62 | [Rest On Us](https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmore](https://open.spotify.com/artist/3F4uNC54SZeUGL2AkZJEw1) | [Rest On Us](https://open.spotify.com/album/17ppxNXzGYBaJyVFnhuKhR) | 3:29 |
+| 61 | [Rest On Us](https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmore](https://open.spotify.com/artist/3F4uNC54SZeUGL2AkZJEw1) | [Rest On Us](https://open.spotify.com/album/17ppxNXzGYBaJyVFnhuKhR) | 3:29 |
+| 62 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
 | 63 | [Loved by You](https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Mystery](https://open.spotify.com/album/5U2Kd6Gd29iKv7FiQgsxto) | 4:52 |
 | 64 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 |
 | 65 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 69 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 | 70 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
 
-Snapshot ID: `MCw5N2JhYzkxYWRlMDg0NGE0ZDBmNzFlYmIxM2YxZjcyN2RjZDIzNTgw`
+Snapshot ID: `MCxlNTI2NmIzZTY5NjI1Zjc0OTYxMTYzMjk3MDI2OTcxYmE4NTQ2ZTU0`

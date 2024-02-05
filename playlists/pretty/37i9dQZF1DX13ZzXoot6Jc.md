@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,186 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,170 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 55 | [Summer Don't Go](https://open.spotify.com/track/7CwEDwMKJOimuaw6nOtE2r) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Summer Don't Go](https://open.spotify.com/album/3GK5RCU4e54nVBhEruifRK) | 2:48 |
 | 56 | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/track/0Z36IMMSzdvXlfBu8fwgmR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [No Bad Days \(featuring Jimmie Allen\)](https://open.spotify.com/album/4iTNzA2KHqSKeO1xR46INx) | 2:25 |
 | 57 | [amen](https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:09 |
-| 58 | [Good Ol' Days](https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4) | 2:46 |
-| 59 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
+| 58 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
+| 59 | [Good Ol' Days](https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4) | 2:46 |
 | 60 | [Singing In A Beer](https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 2:52 |
 | 61 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 62 | [If You Show Me Yours](https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [If You Show Me Yours](https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK) | 3:46 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 67 | [Do This Life](https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Do This Life](https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2) | 3:02 |
 | 68 | [Who Says You Can't Have Everything](https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 3:08 |
 | 69 | [Product Of \(Feat\. Lee Brice\)](https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x) | [Lewis Brice](https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Product Of \(Feat\. Lee Brice\)](https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY) | 2:53 |
-| 70 | [Sad Ass Country Song](https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
-| 71 | [Walking Each Other Home](https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gravel & Gold](https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4) | 3:45 |
+| 70 | [Walking Each Other Home](https://open.spotify.com/track/7Jbd2TWvjvJgBwaFbqJ06n) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gravel & Gold](https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4) | 3:45 |
+| 71 | [Sad Ass Country Song](https://open.spotify.com/track/3nn7clyurm04ygyjoRlBy6) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 | 72 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 |
 | 73 | [On Three](https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me \(Royal Edition Extended Version\)](https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9) | 2:40 |
 | 74 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 78 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 79 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 
-Snapshot ID: `MCwzMzM0MmE4ZTEzYzA4NThjNjlmMDcwODc1NDg5MTdkN2Q0NmM4ZmNl`
+Snapshot ID: `MCxhOTI5NmMxYjliMjRkNmYyY2NmOTBhMjAzNzYzZWI3OTZkNGFmM2Q4`

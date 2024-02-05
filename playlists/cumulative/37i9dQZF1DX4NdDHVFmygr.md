@@ -4,7 +4,7 @@
 
 > Les hits marocains du moment\. Cover: Moha K
 
-343 songs - 18 hr 29 min
+344 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,8 +154,9 @@
 | [Khalini](https://open.spotify.com/track/7vDAeo3f0EmI5ckfsMcI8b) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:02 | 2022-08-20 | 2023-02-10 |
 | [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 | 2023-02-13 |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-03-30 | 2023-04-18 |
-| [Khssara](https://open.spotify.com/track/4ZZg7deE4lu08qr1aXnCTV) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/3OhQgzqTqTI71TnKR7R9pR) | 2:26 | 2023-12-08 |  |
+| [Khssara](https://open.spotify.com/track/4ZZg7deE4lu08qr1aXnCTV) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/3OhQgzqTqTI71TnKR7R9pR) | 2:26 | 2023-12-08 | 2024-02-05 |
 | [Khssara](https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/46ePq8td3sKropIMIV3ahj) | 2:32 | 2023-05-09 | 2023-12-13 |
+| [Khssara](https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/1svd34TFBJ8ZfDFtuJZqUJ) | 2:32 | 2024-02-03 |  |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [KIF KIF](https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KIF KIF](https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF) | 3:47 | 2023-07-22 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2023-02-25 |

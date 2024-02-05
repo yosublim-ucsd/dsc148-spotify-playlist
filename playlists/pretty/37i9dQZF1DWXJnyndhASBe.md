@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Young Multi, Szpaku, Kubi Producent
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,515 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,543 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [TenTen](https://open.spotify.com/track/5zIHV3EPHI4K15kzz3DLuQ) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Export/Import](https://open.spotify.com/album/1CjxxyOmoQiTq5gXOSTtv9) | 2:11 |
 | 50 | [MIZANTROP](https://open.spotify.com/track/62nDbbCuUxzq6j5gj24cNr) | [Gedz](https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a), [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Dj Taek](https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R), [808Bros](https://open.spotify.com/artist/44DGXC4Jy2OEik8LhoHjFg) | [ANATEMA](https://open.spotify.com/album/4vgb7rCMlDpVZQONdLbs5O) | 3:35 |
 
-Snapshot ID: `MCw1YjRiMTAxOWU3NWFhNmRkMTNiZGFhMzNhMWViZDBmMTJkMTEwNzgz`
+Snapshot ID: `MCxlZTk5NTYzNjA0ODZkMjQzNTNkZDQ5MWZiMDU3YmU2YmM5ZTAwMTM2`

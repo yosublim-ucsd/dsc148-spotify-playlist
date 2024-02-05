@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 137962,
+  "num_followers": 137966,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2Q0ZTJhY2VmY2RkNDNjMWI0MzA5YzJkNTYwMTVjNjVhMDJkZjIy",
+  "snapshot_id": "MCw2NGFlZGM0MDViZTM1MjdlYjhmNzUyZWMzNGRlYjZiZWMwMmNjZTcw",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "Single Soon",
         "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "\u9752\u306e\u3059\u307f\u304b",
-        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 196466,
-      "name": "\u9752\u306e\u3059\u307f\u304b",
-      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+        "name": "\u9752\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
+      "duration_ms": 196466,
+      "name": "\u9752\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Back for More (with Anitta)",
-        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 131037,
-      "name": "Back for More (with Anitta)",
-      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Where The Shadow Ends",
         "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
@@ -1567,26 +1547,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         },
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1615,6 +1591,30 @@
       "duration_ms": 123624,
       "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-02-01 15:00:00",

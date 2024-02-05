@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> it's covers season, starring Remi Wolf & Norah Jones
+> congrats to the boys! cover: boygenius
 
-2,591 songs - 5 day 19 hr 32 min
+2,592 songs - 5 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2369,6 +2369,7 @@
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 | 2021-11-13 |
 | [TRU RELIGION](https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [TRU RELIGION](https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH) | 2:57 | 2022-05-12 | 2022-06-10 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-13 | 2023-03-07 |
+| [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2024-02-04 |  |
 | [True Love](https://open.spotify.com/track/7dAebAx3nuX2lea0yIETh5) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/08uPxu5CvOBN1r265LGqAK) | 4:11 | 2021-11-20 | 2022-01-08 |
 | [Truman](https://open.spotify.com/track/4bANgTflMHwX1p08mazG45) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [Truman](https://open.spotify.com/album/6Xa0GCko4t23SZQDaLc6Qj) | 3:28 | 2021-05-06 | 2021-12-02 |
 | [Trust Fall](https://open.spotify.com/track/7m0dDmoOZlAFiiauud1HBd) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Trust Fall / Just Like A Movie](https://open.spotify.com/album/6zSMEHTEV2vvOBaNJD1jLg) | 3:21 | 2019-09-06 | 2019-09-27 |

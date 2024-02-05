@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,494 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,525 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 50 | [No Time \(feat\. Gunna\)](https://open.spotify.com/track/5pHJv0bgNsT9nPoK2BjNBn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:39 |
 | 51 | [200 FOR LUNCH](https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:29 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhNThmYTgzNzc2ZWUyNWVjMjI2MzQ1YzgxYzM3MjY5Nw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBmYTFhNzI2ZGUzMjQwMzNiZWJmMDA2YzBmODUyODNjMQ==`

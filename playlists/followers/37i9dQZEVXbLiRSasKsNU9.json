@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 1770309,
+  "2024-02-05": 1769346,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -14449,7 +14449,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 275200,
       "name": "Friend Of A Friend",
       "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
@@ -22530,6 +22530,24 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -23790,6 +23808,28 @@
     },
     {
       "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO"
+    },
+    {
+      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -23981,7 +24021,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
@@ -28863,10 +28903,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
       "album": {
@@ -31231,7 +31289,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242000,
       "name": "Peak of Love",
       "url": "https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI"
@@ -33877,7 +33935,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -43131,7 +43189,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT"

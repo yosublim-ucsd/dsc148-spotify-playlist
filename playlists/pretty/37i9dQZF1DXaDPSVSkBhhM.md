@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,948 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,960 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 47 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
 | 48 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
 | 49 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
-| 50 | [Lugar Especial](https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Lugar Especial](https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT) | 3:24 |
+| 50 | [Miedo A Caer \(Opening 3 Latino Sub.amv\)](https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [CRISIS](https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R) | 2:54 |
 
-Snapshot ID: `MCxlNDI1MmM4ZjljYjRiYzMwNWM0ZDA2MjFmN2NlMjA2NGE5YjIyMjU4`
+Snapshot ID: `MCxkMzMxOWFlZmZhOWQ2NTFlNWUzNTlmMjdhNzg1NzIzYzJkMzVjOGZm`

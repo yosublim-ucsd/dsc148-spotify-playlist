@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: <a href="spotify:artist:0hCNtLu0JehylgoiP8L4Gh">Nicki Minaj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,238 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,248 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 40 | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/track/5IqtrnJJsCKEg1fansrY65) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0), [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [WHY WAIT? \(feat\. Cisco Swank\)](https://open.spotify.com/album/47oNZkfCMDynKbVxfUtfz5) | 2:44 |
 | 41 | [Love Drugs](https://open.spotify.com/track/7hLUesOSeZpIy0dFeKE4hL) | [Trey Moore](https://open.spotify.com/artist/7L6U6XFo8h39HKpTKNnRAJ) | [Psychedelic Love Drugs](https://open.spotify.com/album/3rarTA86lsS7Z9wh3yyY60) | 3:06 |
 | 42 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
-| 43 | [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
+| 43 | [Get Deady \(feat\. 41\)](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady \(feat\. 41\)](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 |
 | 44 | [Chow Lee "On The Radar" \(Freestyle Pt\. 2.2\)](https://open.spotify.com/track/5V8PgErxc6531VLn5qBadb) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Chow Lee "On The Radar" \(Freestyle Pt\. 2.2\)](https://open.spotify.com/album/0GUtmwjFes1WV7WYXQ46tP) | 2:28 |
 | 45 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 |
 | 46 | [Ghetto & Ratchet \- 26ar Remix](https://open.spotify.com/track/6IAuGFr3tmtiXMHWVhqXzE) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Ghetto & Ratchet \(26ar Remix\)](https://open.spotify.com/album/4HRefHhX66uA0SGFQb6gXN) | 2:44 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 58 | [Stuck In My Ways](https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Stuck In My Ways](https://open.spotify.com/album/0tLpo1x2gVMIgoHpRYvtNw) | 2:14 |
 | 59 | [Attachments](https://open.spotify.com/track/7r8U5TxVpwett8yGmUuoiW) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Attachments](https://open.spotify.com/album/4xvYlRKTn1Il04iydxqG7t) | 2:59 |
 
-Snapshot ID: `MCxiOTJjNWUxYzEyNzY5MGMxMWI3OTcxYzdhZTU0YTBmNzYzN2Y1ZmY4`
+Snapshot ID: `MCw3MjIzYTA3ODg1MDQzZTJlODQxMTIxNGEyMWE5MjZjZmUyZThiMTVh`

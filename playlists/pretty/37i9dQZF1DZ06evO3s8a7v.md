@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,854 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,874 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 22 | [Insta \- Remix](https://open.spotify.com/track/1K9b2N8P77GNFnx5Tw6MbA) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Insta \(Remix\)](https://open.spotify.com/album/6MZFJuzRUr28x1Fxs3sJxp) | 3:26 |
 | 23 | [No Bailo Pa Ti](https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [No Bailo Pa Ti](https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip) | 2:51 |
 | 24 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
-| 25 | [Como + Nadie](https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como + Nadie](https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C) | 3:03 |
-| 26 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
+| 25 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
+| 26 | [Como + Nadie](https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como + Nadie](https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C) | 3:03 |
 | 27 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
 | 28 | [Desbloqueo](https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Desbloqueo](https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d) | 3:12 |
 | 29 | [Online](https://open.spotify.com/track/1QpmpEDCrlVJJfyt5eFYSS) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:45 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 51 | [Fuego](https://open.spotify.com/track/1sOQKZHaEo2SKzVfUqMriM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Fuego](https://open.spotify.com/album/481GrNpsZ4fKzykR8FRxMi) | 2:46 |
 | 52 | [No Regreses](https://open.spotify.com/track/6CMH3PlVAObXs4aHHR4Hu8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:20 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA5NDRmYmMyZjNiMTU1M2EwOGZiMzA3MDc1ZmQxZGMwMg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlZDFjNjM4YmQwYzE4YTQyOTI3MWI4YzRiZjJkZjkyYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Adrián Barraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,188 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,127 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,21 +31,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 21 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
 | 22 | [Se Disfrazó](https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:26 |
 | 23 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 |
-| 24 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
+| 24 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
 | 25 | [Te Dejo](https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:05 |
 | 26 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 |
 | 27 | [Dile al Amor](https://open.spotify.com/track/6h7dFkekl5awWSe9IGtAfP) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Pa' Olvidar](https://open.spotify.com/album/42C8pktaxUVrz8NKQEtTC3) | 3:19 |
-| 28 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 |
+| 28 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 |
 | 29 | [El Karma](https://open.spotify.com/track/6mKQ6QdpAMc7cFrMVCqexx) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [El Karma](https://open.spotify.com/album/6C9xQuTD01lOujdRjYYwqx) | 2:56 |
 | 30 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:59 |
 | 31 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
-| 32 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
+| 32 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 |
 | 33 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 34 | [Pobre Corazón](https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw) | 3:18 |
-| 35 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 |
-| 36 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
-| 37 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
-| 38 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
+| 35 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
+| 36 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 |
+| 37 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
+| 38 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 39 | [¿Tiempo Para Qué?](https://open.spotify.com/track/2d3uKiGuZp67y9FfgTTSUc) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿Tiempo Para Qué?](https://open.spotify.com/album/0vFdLZhONSz29O1XxA1MEd) | 3:25 |
 | 40 | [Decide Qué Somos](https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 2:49 |
 | 41 | [Fue Tu Culpa](https://open.spotify.com/track/7hxPbThnIsDlQQwSCwBNbH) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Fue Tu Culpa](https://open.spotify.com/album/5NOb3XhFyTN9QQcfdjYHWd) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF3YtBdCala.md) - [plain]
 | 99 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 |
 | 100 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 
-Snapshot ID: `MCwzOWVkMDIyYjZkMjRhM2E3OGEwYWYwODVlNjI1ODUxYjg0ZDFhZTg0`
+Snapshot ID: `MCw5ZmY2ZjQ1NzNjYWYyMTdiNzBiNjk5MWY4MWRiNzk3OTY4Y2Q1NzM5`

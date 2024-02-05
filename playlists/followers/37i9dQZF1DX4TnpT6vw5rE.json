@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 742965,
+  "2024-02-05": 742532,
   "date_first_scraped": "2020-12-08",
   "description": "Melt into the Atmospheric Calm with these mellow beats and ambient tones.",
   "name": "Atmospheric Calm",
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 151500,
       "name": "Astrolabe",
       "url": "https://open.spotify.com/track/3WoGNWSOstLosLTgT8NxdC"
@@ -3413,7 +3413,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "Response",
       "url": "https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k"

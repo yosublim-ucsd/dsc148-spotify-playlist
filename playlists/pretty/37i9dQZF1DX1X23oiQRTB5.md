@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo x Tiakola au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,732 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,476,130 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 |
 | 40 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 |
 
-Snapshot ID: `MCw2Mjc1MGU4MzQ2OGFkOGQ4NjVlMjYyNDJlNTEzZTYyNGZiN2VjMzcz`
+Snapshot ID: `MCxmYTYxYmUxMDJjOTdiOGNjZGQzNDZmOTQ5NGM4YzQyNzdhNjNhYzhi`

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 48858,
+  "2024-02-05": 48884,
   "date_first_scraped": "2022-05-11",
   "description": "A different shade of the blues. Cover: Dan Auerbach",
   "name": "Alt-Blue",
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/1Rjo59fEVsnBdahY0ULQNd"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 226000,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/6tsRuvYMEMZkujPu4jiQCG"

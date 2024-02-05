@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144105,
+  "num_followers": 144101,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy",
+  "snapshot_id": "MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Millennial",
-        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 106420,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Diary (2009 Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Millennial",
+        "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 106420,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 222207,
-      "name": "Life In A Jar",
-      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 222207,
+      "name": "Life In A Jar",
+      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Bakesale: Deluxe Edition",
-        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 106613,
-      "name": "License to Confuse - Remastered",
-      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Sound As Ever",
         "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 154666,
       "name": "Berlin Chair",
       "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Bakesale: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 106613,
+      "name": "License to Confuse - Remastered",
+      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Here at All",
-        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "In Your Way",
-      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Wiretap Scars",
         "url": "https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 184613,
       "name": "Cut Your Ribbon",
       "url": "https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Here at All",
+        "url": "https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "In Your Way",
+      "url": "https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Remote Part",
-        "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
-      },
-      "artists": [
-        {
-          "name": "Idlewild",
-          "url": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "A Modern Way of Letting Go",
-      "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "To Be Everywhere Is to Be Nowhere",
         "url": "https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Remote Part",
+        "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
+      },
+      "artists": [
+        {
+          "name": "Idlewild",
+          "url": "https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "A Modern Way of Letting Go",
+      "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
     },
     {
       "added_at": "2024-01-18 09:41:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,335 likes - 125 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,393 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 53 | [Cinema \(feat\. Gary Go\) \- Skrillex Remix](https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Gary Go](https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Electroman](https://open.spotify.com/album/6NPb3Bb77dtZhnypL0W0fv) | 5:07 |
 | 54 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 |
 | 55 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
-| 56 | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/album/7KJTuTXYSnBGNgAxte3CSg) | 3:27 |
-| 57 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |
+| 56 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |
+| 57 | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [No Sleep \(feat\. Bonn\)](https://open.spotify.com/album/7KJTuTXYSnBGNgAxte3CSg) | 3:27 |
 | 58 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 |
 | 59 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 |
 | 60 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 122 | [Illmerica](https://open.spotify.com/track/4XXdQctUlL1FOmHBbdLkIp) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/2nwLEAdZJCiAbCWMKVcbe7) | 5:37 |
 | 123 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
 | 124 | [Go Bang](https://open.spotify.com/track/15Xt2CmLqrLJ0uBlDEEimX) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Go Bang](https://open.spotify.com/album/2Lo0bnJPGE0rS3vuq6PjSD) | 3:09 |
-| 125 | [Wakanda](https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Wakanda](https://open.spotify.com/album/2OkTrq8G5BkqtFtO9oSRhq) | 4:59 |
+| 125 | [The Hum](https://open.spotify.com/track/0h1yorZXMX1sRRLfq0aOAK) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Festival Favorites 2015 \- Armada Music](https://open.spotify.com/album/6bhnNR98I84d01XZmIzaJ1) | 3:31 |
 
-Snapshot ID: `MCxkYzk0ZTNlZDZjYTY5YjkyZTc0ZjczZDg4NDBlZDFiYzlmOWFiNTc2`
+Snapshot ID: `MCw3NzdhNDFiYTc0MmQwMTkyZmQ3OWYyMTE1NTA2OTU4NTc0YWVlMGJi`

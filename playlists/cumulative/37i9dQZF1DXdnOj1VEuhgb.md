@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 | 2024-01-25 |  |
+| [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [dehainc](https://open.spotify.com/artist/7Hz6CNU0L0sdoXL7EWLvhn), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 | 2024-01-25 |  |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-09 | 2023-03-31 |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2023-01-10 |  |
 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 | 2023-04-27 | 2023-10-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras de nuestro cancionero. Pedro Infante en portada.",
-  "num_followers": 329320,
+  "num_followers": 329298,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTFhNTgzNzlhYTQxYTc5YzllMDkwMWQ2YmQ4NWFlYzBmODc3Yzhk",
+  "snapshot_id": "MCwwNjc0ZTIwMzg1YTU5NzM2YWUwNWY4YTNiMTAyZmE2MmMxZWZlYmM0",
   "tracks": [
     {
       "added_at": "2023-11-28 00:16:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+        "name": "Mi Persona Preferida",
+        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 435493,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+      "duration_ms": 186653,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Mi Persona Preferida",
-        "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
       "artists": [
         {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
+      "duration_ms": 435493,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "Puras Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Mujeres Divinas",
         "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
@@ -739,6 +707,22 @@
       "duration_ms": 193333,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "Puras Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -803,6 +803,22 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -871,22 +887,6 @@
       "duration_ms": 172512,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 226324,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 207360,
       "name": "Cu\u00e1ndo sale la luna",
       "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Yo...El Aventurero",
-      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "A Todas Las Que Am\u00e9",
         "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 161426,
       "name": "Una P\u00e1gina M\u00e1s",
       "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Yo...El Aventurero",
+      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Boleros 20\u00b0 Aniversario",
-        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Respeta Mi Dolor",
-      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 159666,
       "name": "Y...",
       "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Respeta Mi Dolor",
+      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
     },
     {
       "added_at": "2023-11-28 00:16:59",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
-    },
-    {
-      "added_at": "2023-11-28 00:16:59",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
+    },
+    {
+      "added_at": "2023-11-28 00:16:59",
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-11-28 00:16:59",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
     },
     {
       "added_at": "2023-11-28 00:16:59",

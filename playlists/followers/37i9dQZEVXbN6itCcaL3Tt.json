@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 262065,
+  "2024-02-05": 261945,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Poland.",
   "name": "Top 50 - Poland",
@@ -16575,7 +16575,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 142222,
       "name": "Leje Wina",
       "url": "https://open.spotify.com/track/1feg6LWYEdvsjOLzAgWgDd"
@@ -18465,7 +18465,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -21077,7 +21077,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 143897,
       "name": "NIENAWIDZ\u0118 WARSZAWY!",
       "url": "https://open.spotify.com/track/1fMvF6nYKegKYL7n5NyDlW"
@@ -24809,7 +24809,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -27834,6 +27834,28 @@
     },
     {
       "album": {
+        "name": "Sierra Papa",
+        "url": "https://open.spotify.com/album/2sOJ3DFkL2ONmc97idKY2P"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155021,
+      "name": "Sierra Papa",
+      "url": "https://open.spotify.com/track/6EDANn1flWDjrP2JlbflgF"
+    },
+    {
+      "album": {
         "name": "RAMOTKA",
         "url": "https://open.spotify.com/album/3l94tcc4TTid1SSuHtYIJ2"
       },
@@ -28093,7 +28115,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 150943,
       "name": "Skippers",
       "url": "https://open.spotify.com/track/7cdysjeD8v2xua4R7rS9NL"

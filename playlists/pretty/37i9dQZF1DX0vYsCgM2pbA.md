@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,809 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,998 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 10 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
 | 11 | [Tonic \(Edit\)](https://open.spotify.com/track/4b9disSqE7Yvxgpo4W7lB5) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Tonic](https://open.spotify.com/album/4xbLjgXZNRWrMhWcWe7ww1) | 4:39 |
 | 12 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 |
-| 13 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 |
+| 13 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 | 14 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 |
-| 15 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 15 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 |
 | 16 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 |
 | 17 | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Love Tonight \(Robin Schulz Remix\)](https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS) | 3:04 |
 | 18 | [Pictures](https://open.spotify.com/track/36gRhO8ZVp0GhiSgWNuxI8) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Pictures](https://open.spotify.com/album/38lQOGTxfUXNG3noemTqxW) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
 | 60 | [Gravity](https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:29 |
 
-Snapshot ID: `MCxmZTg2NTU2Y2MzMGFmNzQ2NTk5Yjg1ZTQ3MzI2M2Q4YzJmMzhhODVm`
+Snapshot ID: `MCxlNTg5MWNkODAxMzI4M2MzMzJhYzE4ZjMzMjdlNDNhNDZmMTk4OTI4`

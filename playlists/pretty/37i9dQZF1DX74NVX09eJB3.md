@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 
 > Get ready to hit the jackpot with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,918 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,958 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 | 33 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/1gqTXnc7WXBI9AwcCiqcJ1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 3:41 |
 | 34 | [Life's Been Good](https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 8:56 |
 | 35 | [It's Hard to Be a Saint in the City](https://open.spotify.com/track/6s8q3fQNcayP7yEFpuF3wz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greetings from Asbury Park, N.J.](https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C) | 3:16 |
-| 36 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
+| 36 | [Hey Nineteen](https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb) | 5:09 |
 | 37 | [Lay Your Money Down](https://open.spotify.com/track/08spJmHxhvs6vl17C1hUZ6) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Lost Without Your Love](https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW) | 2:43 |
 | 38 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 39 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74NVX09eJB3.md) - [plain]
 | 49 | [Livin' It Up](https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Livin' It Up](https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH) | 4:21 |
 | 50 | [I Just Want To Celebrate](https://open.spotify.com/track/4iW98ZK1gNzcXmQ5TgTD9X) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [One World](https://open.spotify.com/album/06GIYaoyaDb2POMp79QomX) | 3:37 |
 
-Snapshot ID: `MCw5OGUzOWZkMGE0NzUxODgyNWQ0MDljMjc2YTBjYjE2Y2ZiYjJlYWQ3`
+Snapshot ID: `MCwxYTExYjc2M2ZlYmNhMGM1MzY3NjgzZTVmMTQ5NWU3N2IwMWQyNzVj`

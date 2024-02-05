@@ -4,12 +4,12 @@
 
 > Find the path back to an era of enlightenment.
 
-130 songs - 15 hr 8 min
+131 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 | 2021-10-27 |  |
-| [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 | 2021-10-27 | 2024-02-02 |
+| [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 | 2021-10-27 |  |
 | [Alchemy](https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Sands of Time: Selected Studio & Concert Recordings 1974\-1990](https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI) | 7:35 | 2021-10-27 |  |
 | [Aldebaran](https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv) | 3:05 | 2022-07-01 |  |
 | [Aldebaran \- 2009 Remaster](https://open.spotify.com/track/0c0atmDbuyQ2hV143MN70h) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/2L4XSyyDeIW30SawLTOlj4) | 3:05 | 2021-10-27 | 2022-07-29 |
@@ -60,7 +60,7 @@
 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 | 2022-10-04 |  |
 | [In the Beginning](https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0) | 8:01 | 2021-10-27 | 2023-04-29 |
 | [Inner Mood I](https://open.spotify.com/track/50Opcju39X1H46RK8Whe9A) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [Mooncircles](https://open.spotify.com/album/5sL2xScjNONX3p8dBmgohk) | 1:30 | 2021-10-27 |  |
-| [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 | 2022-07-01 | 2024-01-18 |
+| [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 | 2022-07-01 |  |
 | [Inside Celeste](https://open.spotify.com/track/7vGQ5QFaO8jnCr7R4L4kxA) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/6k6ghR0Lh0W0cCXCrbkFsU) | 2:57 | 2021-10-27 | 2022-07-29 |
 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 | 2021-10-27 |  |
 | [Keys To Imagination](https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Keys To Imagination](https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n) | 5:14 | 2021-10-27 |  |
@@ -87,11 +87,12 @@
 | [Oceans And Continents](https://open.spotify.com/track/0ed3H4bTqKqEVGfIlxFpSo) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4YZWubqC55tYqj1HjyUkUR) | 6:16 | 2022-07-01 | 2023-08-15 |
 | [Oceans And Continents](https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1) | 6:16 | 2021-10-27 | 2022-07-29 |
 | [Offener Himmel II](https://open.spotify.com/track/40rNG0wBj5qXRLQLfAcqRy) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 2:32 | 2021-10-27 | 2022-11-01 |
-| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2023-08-18 |  |
+| [Oxygene, Pt\. 1](https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:39 | 2023-08-18 | 2024-02-05 |
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2021-10-27 | 2024-02-01 |
-| [Oxygene, Pt\. 3](https://open.spotify.com/track/7wF3bVrKq8iA9c5mRc7LEE) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 3:15 | 2023-08-18 |  |
+| [Oxygene, Pt\. 3](https://open.spotify.com/track/7wF3bVrKq8iA9c5mRc7LEE) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 3:15 | 2023-08-18 | 2024-02-05 |
 | [Oxygene, Pt\. 3](https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 3:16 | 2021-10-27 | 2024-02-01 |
-| [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 | 2021-10-27 |  |
+| [Oxygène, Pt\. 1](https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:39 | 2023-08-18 |  |
+| [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 | 2021-10-27 | 2024-02-05 |
 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 | 2022-07-01 | 2024-02-02 |
 | [Part One](https://open.spotify.com/track/7gmRLabKpyT683fPSjgEKM) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/3FlqdjrK3JDnsMrUj0dhtZ) | 15:10 | 2021-10-27 | 2022-07-29 |
 | [Prism](https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK) | [Chris Spheeris](https://open.spotify.com/artist/42hAALNK37w5Zx8dnGGLZ6), [Paul Voudouris](https://open.spotify.com/artist/5Qwks7s6d53U9yYy9jyQfh) | [Passage](https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB) | 12:34 | 2021-10-27 |  |

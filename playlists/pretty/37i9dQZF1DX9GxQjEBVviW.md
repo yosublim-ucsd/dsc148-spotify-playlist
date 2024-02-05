@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,271 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,278 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 28 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
 | 29 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 30 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
-| 31 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
-| 32 | [Whispering Bells](https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Pennsylvania Vikings](https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD) | 2:23 |
+| 31 | [Whispering Bells](https://open.spotify.com/track/146DRoVAxV5jNjv04Pw6XJ) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Pennsylvania Vikings](https://open.spotify.com/album/3AEbuPJtClS1zNd8oTJLSD) | 2:23 |
+| 32 | [Heart And Soul](https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 2:17 |
 | 33 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 34 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
 | 35 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 41 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
 | 42 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
 | 43 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
-| 44 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
+| 44 | [My True Story](https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Presenting the Jive Five](https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI) | 2:34 |
 | 45 | [Heart and Soul](https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 1:53 |
-| 46 | [My True Story](https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Presenting the Jive Five](https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI) | 2:34 |
+| 46 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
 | 47 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 48 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
 | 49 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
 | 50 | [Speedoo \(Alternative Take\)](https://open.spotify.com/track/3fy76k7I8YMUOR7bn7EcM5) | [The Cadillacs](https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH) | [The Fabulous Cadillacs](https://open.spotify.com/album/5UoyKbXmb2JNJSFMxL1VpY) | 2:21 |
 
-Snapshot ID: `MCwwYjFiYTIxN2Q0YTU3MDY5ODBmYmRiM2Q5YTYwMjNmZTZlNjBhOWM0`
+Snapshot ID: `MCwwYjk3OGZjNjVhODU5NmI1ODRiZTVkMGMwNjU1MmU3OWRjMjk4ODA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,206 likes - 21 songs - 45 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,330 likes - 21 songs - 45 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 20 | [Actin A Smoochie](https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:13 |
 | 21 | [On The Radar \- Bonus](https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:04 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmYTgwN2VhMTk2NjY1OTdiY2RkOWM5ODNkYmE1NDkzMg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBkYTU5MTRjMjRjNTM2MzBjZmJlNzJkY2Q3M2ZjNTU1ZQ==`

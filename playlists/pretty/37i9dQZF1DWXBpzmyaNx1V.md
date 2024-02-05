@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Un paseo por la ciudad pintada de violeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,176 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,184 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 49 | [Purple Tones](https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Far In](https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e) | 3:26 |
 | 50 | [Jacaranda](https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jacaranda](https://open.spotify.com/album/574GqifDRYz5907qCC7TgU) | 4:09 |
 
-Snapshot ID: `MCw0NGIxYTliYmRmMDVjMGFkMmUwYTZmMGZlYTFkZDg3YjgwYjE4NDIx`
+Snapshot ID: `MCwwNzg0NzA2MTg4NGRkYmU2ZDRkZDk1ZDliZjU2OWQyMDFjNTMzMTdh`

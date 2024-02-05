@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Moha K, Lyna Mahyem
 
-186 songs - 11 hr 24 min
+187 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 | 2023-03-08 |  |
 | [Babour Ellouh \- Waves Edit](https://open.spotify.com/track/4yTsqKht7TgflJTNAhEtm9) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Babour Ellouh \(Waves Edit\)](https://open.spotify.com/album/1rpR2Xk0gSPO48EuRFzbaA) | 3:09 | 2022-04-21 | 2023-02-07 |
 | [Baby Baby](https://open.spotify.com/track/0xgP0lR6VpAl4ruqu6bE45) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby](https://open.spotify.com/album/59ilTq126YceY3mWtoTcbg) | 3:30 | 2021-12-09 | 2022-11-08 |
-| [Balader](https://open.spotify.com/track/2m0YJxsjID77nzp4VbmGGl) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Balader](https://open.spotify.com/album/2VGXJ485nnIL6QJ8JckfBm) | 2:56 | 2023-10-11 |  |
+| [Balader](https://open.spotify.com/track/2m0YJxsjID77nzp4VbmGGl) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Balader](https://open.spotify.com/album/2VGXJ485nnIL6QJ8JckfBm) | 2:56 | 2023-10-11 | 2024-02-05 |
 | [Balak](https://open.spotify.com/track/0WQqJD52PqOmSVtEYiX4NC) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Balak](https://open.spotify.com/album/58TtNp2W6dXurKZd23H0nL) | 3:47 | 2021-12-09 | 2023-02-07 |
 | [Balek](https://open.spotify.com/track/6y6ogtH99BJiEiBlEIY77A) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Balek](https://open.spotify.com/album/4De1zo3rJdvKQ0XAUndtOe) | 3:41 | 2022-01-01 | 2023-02-07 |
 | [Barrio](https://open.spotify.com/track/3fy5goGOStCVTzQFqEhBFR) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or), [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Barrio](https://open.spotify.com/album/1JFOBnADmbdY7CKxYqRAKx) | 4:37 | 2023-07-18 |  |
@@ -166,6 +166,7 @@
 | [Tesla](https://open.spotify.com/track/0SAznyiLIYzAQthw8n7o3t) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Tesla](https://open.spotify.com/album/1qx1Oo3nxg87rd2dwmaUAY) | 3:08 | 2023-04-05 | 2023-08-15 |
 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 | 2021-12-09 | 2023-06-10 |
 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 | 2021-12-09 | 2023-02-07 |
+| [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-02-04 |  |
 | [Tir Ellil](https://open.spotify.com/track/3le36Vlse8nzqBy2Wfylql) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Larbi Maestro](https://open.spotify.com/artist/67jF59wuJe0V1ByZ2eiUqT) | [Tir Ellil](https://open.spotify.com/album/4Nrh8I9mYMikyioVf5Gwrq) | 4:06 | 2021-12-09 | 2022-11-08 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-15 | 2023-10-18 |
 | [Toi & moi \(feat\. Mok Saib\) \- version acoustique](https://open.spotify.com/track/0W4h9LlrLvqE6B9u7KWdBz) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:19 | 2023-03-16 |  |

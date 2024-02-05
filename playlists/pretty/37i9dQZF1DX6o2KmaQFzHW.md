@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,864 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,874 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 8 | [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/track/3zMTlNMDjiTc4I9SWf2ZHI) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Soy Santiagueño, Soy Chacarera](https://open.spotify.com/album/3z3QEtltCiANqaYu8c4Scy) | 4:18 |
 | 9 | [El Olvidao](https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [La Fiesta del Violinero](https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL) | 3:00 |
 | 10 | [Canto a Monte Quemado](https://open.spotify.com/track/5duHZK8NLA4JlfLe1ohnvb) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 2:29 |
-| 11 | [Amor Salvaje](https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Amor Salvaje](https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7) | 3:15 |
+| 11 | [A Don Amancio](https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:29 |
 | 12 | [Sólo Le Pido a Dios \- En Directo](https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 4:39 |
 | 13 | [Soy Un Inconsciente](https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Amaneciendo](https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF) | 3:01 |
 | 14 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 18 | [Zamba para Olvidarte \(with Diego Torres\)](https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 5:02 |
 | 19 | [Entra a Mi Hogar](https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 3:19 |
 | 20 | [El tesoro de mi alma](https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Principio y Destino](https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36) | 2:43 |
-| 21 | [A Don Amancio](https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:29 |
+| 21 | [Amor Salvaje](https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Amor Salvaje](https://open.spotify.com/album/6GtBjRg2ZceYWVd7KJjSG7) | 3:15 |
 | 22 | [Chacarera Del Rancho](https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 2:41 |
 | 23 | [Luna Cautiva](https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:50 |
 | 24 | [Del Chucaro](https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:27 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 64 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
 | 65 | [La Oma](https://open.spotify.com/track/33m167IeZBbft2xQOuqjX3) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:17 |
 | 66 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
-| 67 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
-| 68 | [La Cautiva](https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Yo Digo Lo Que Siento](https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe) | 3:55 |
-| 69 | [Criollita Santiagueña](https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Para Que Vuelvas](https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n) | 3:02 |
-| 70 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
-| 71 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
+| 67 | [Criollita Santiagueña](https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Para Que Vuelvas](https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n) | 3:02 |
+| 68 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
+| 69 | [La Cautiva](https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Yo Digo Lo Que Siento](https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe) | 3:55 |
+| 70 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 |
+| 71 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
 | 72 | [Sueñero](https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 4:32 |
 | 73 | [Zamba para Decir Adiós](https://open.spotify.com/track/7JG9cdNOvJPwUu5sjEfsL0) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [De Colección](https://open.spotify.com/album/6TMGYks1T9yjraH2TIYzm0) | 3:33 |
 | 74 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 | 90 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 
-Snapshot ID: `MCxmOGE2YTc0MGE5Y2MzMjU5ZDJiNTI0NGY1YTQ4ZmMzYTY3MDhlZTBh`
+Snapshot ID: `MCw3MWMwMjM3NmE4MGYzMjM2YTkxY2NkZGJlNWI0YzU2Njk3ZjgwZTNj`

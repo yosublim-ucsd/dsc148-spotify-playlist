@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 53159,
+  "num_followers": 53166,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2QxZmFhZTk1ZmNmMGNiOTkwNDNlMWRjMjhlNTk5ODcxNDhiY2Y2",
+  "snapshot_id": "MCwwMTI5MGFkODhmZjUxMjFjMmY0MGMzNzY4MDM0MWJhZDUzYjhkODVm",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Sanguivore",
-        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 267864,
-      "name": "Cry To Heaven",
-      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "UK GRIM",
         "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 198542,
       "name": "UK GRIM",
       "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Sanguivore",
+        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 267864,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "How To Live With Yourself / Smoke Screen",
-        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "How To Live With Yourself",
-      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "The Four Before",
         "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 227309,
       "name": "Toneblerone",
       "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "How To Live With Yourself / Smoke Screen",
+        "url": "https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "How To Live With Yourself",
+      "url": "https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "DBSAC",
+        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 147764,
+      "name": "DBSAC",
+      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 166405,
       "name": "Erasure",
       "url": "https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -707,22 +739,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "DBSAC",
-        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 147764,
-      "name": "DBSAC",
-      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "I Gotta Feeling",
         "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 197648,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Phone Machine",
-        "url": "https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Phone Machine",
-      "url": "https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "No Guilt",
         "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 124120,
       "name": "No Guilt",
       "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Phone Machine",
+        "url": "https://open.spotify.com/album/7gP0mw9vv2bouxi3a5pgI5"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "Phone Machine",
+      "url": "https://open.spotify.com/track/5zTi9uSGOjdjN5N9bB56tI"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
-      },
-      "artists": [
-        {
-          "name": "HotWax",
-          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Pah!",
         "url": "https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 105000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "MK Nothing",
-        "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 204143,
-      "name": "MK Nothing",
-      "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Dubious Goals Committee",
         "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 134026,
       "name": "Dubious Goals Committee",
       "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "MK Nothing",
+        "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 204143,
+      "name": "MK Nothing",
+      "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Grade 2",
+        "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
+      },
+      "artists": [
+        {
+          "name": "Grade 2",
+          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
+        }
+      ],
+      "duration_ms": 182243,
+      "name": "Fast Pace",
+      "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Grade 2",
-        "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
-      },
-      "artists": [
-        {
-          "name": "Grade 2",
-          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
-        }
-      ],
-      "duration_ms": 182243,
-      "name": "Fast Pace",
-      "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
     },
     {
       "added_at": "2024-01-19 00:00:00",

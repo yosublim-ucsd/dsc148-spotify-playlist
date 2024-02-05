@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,703 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,723 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 46 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
 | 47 | [Finta De Fresitas](https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Finta De Fresitas](https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta) | 2:55 |
 | 48 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 |
-| 49 | [Recuérdame](https://open.spotify.com/track/5vF6b7gpsRYNLiGfgxmYTf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Recuérdame](https://open.spotify.com/album/5VqX6ku8XE7CVA2COJ9kxu) | 2:14 |
-| 50 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
+| 49 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
+| 50 | [Recuérdame](https://open.spotify.com/track/5vF6b7gpsRYNLiGfgxmYTf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Recuérdame](https://open.spotify.com/album/5VqX6ku8XE7CVA2COJ9kxu) | 2:14 |
 | 51 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmNDdhZjQ4YTA3ZWUzYWU2ZDk0ZjQzM2UxMDBjOGExMQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA2ZDBlYWY5NmQzNjA0NWQ1MzdmODAxNzZkYzg3NjhjZg==`

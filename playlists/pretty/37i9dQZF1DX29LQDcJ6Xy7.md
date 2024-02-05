@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,614 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,718 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 34 | [March Of The Pigs](https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 2:58 |
 | 35 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
 | 36 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 |
-| 37 | [Blizzard](https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Yggdrasil](https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa) | 3:14 |
-| 38 | [Tyler Hadley](https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 4:51 |
+| 37 | [Tyler Hadley](https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 4:51 |
+| 38 | [Blizzard](https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Yggdrasil](https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa) | 3:14 |
 | 39 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
 | 40 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
 | 41 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
@@ -63,16 +63,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 53 | [Lakes of Flame](https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Lakes of Flame](https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk) | 3:38 |
 | 54 | [Ikarus](https://open.spotify.com/track/1b6Ew1aj2KZ8P4v1WAHZXu) | [Ost+Front](https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs) | [Dein Helfer in der Not](https://open.spotify.com/album/1p28xpi0caBt3ccAqcK7ZY) | 3:31 |
 | 55 | [HYËNA](https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [HYËNA](https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa) | 5:02 |
-| 56 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
-| 57 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
+| 56 | [TILL THE END](https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi) | [NA CHUI](https://open.spotify.com/artist/7soJFrhNuBUefRervjk2kh) | [TILL THE END](https://open.spotify.com/album/38KsykfZ2memylz4uwThC6) | 5:14 |
+| 57 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 58 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
 | 59 | [Genius](https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51) | [Pitchshifter](https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i) | [www.pitchshifter.com](https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun) | 4:06 |
 | 60 | [Compliance](https://open.spotify.com/track/49zipa0IDIwCOAcuwHsyj9) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Compliance](https://open.spotify.com/album/7f26amusc28x2vnxTACxDN) | 5:02 |
 | 61 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
 | 62 | [Bring You Down \(Project Regeneration\)](https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 1](https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP) | 3:35 |
 | 63 | [Royal Leash](https://open.spotify.com/track/0thtR0AknaM6k7WktFah7z) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Majesty](https://open.spotify.com/album/0S0OF6IQa0Tr0lWivkrUD2) | 3:43 |
-| 64 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
-| 65 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
+| 64 | [Verrückt \- Original Version](https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON) | [Eisbrecher](https://open.spotify.com/artist/6ul6vL8Hg5jTulDi0Ac8ao) | [Die Hölle muss warten](https://open.spotify.com/album/4bTAdNqWfpiCs2tdjxCK5r) | 3:21 |
+| 65 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 66 | [Totuus](https://open.spotify.com/track/110q5eExcmrgf0fsE610ON) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Omen X](https://open.spotify.com/album/0rZ68Kxj4KqbhFABfIAQxv) | 3:26 |
 | 67 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 |
 | 68 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 80 | [Justice Way](https://open.spotify.com/track/6gshopMLlSl0KP4ZNHp7qw) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp) | [Justice](https://open.spotify.com/album/3Rl2iVccsforOkAyvahXa0) | 3:07 |
 | 81 | [Supernaut](https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY) | [1000 Homo DJs](https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb) | [Supernaut](https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ) | 6:42 |
 | 82 | [Medicate Me](https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58) | [Davey Suicide](https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [Rock Ain't Dead](https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz) | 3:49 |
-| 83 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
-| 84 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
+| 83 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
+| 84 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
 | 85 | [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 |
 | 86 | [My Disintegration](https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:20 |
 | 87 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Rabenherz](https://open.spotify.com/track/0ZGY8Yisqno96s7RDIs2GU) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Helheim \(Deluxe Edition\)](https://open.spotify.com/album/4CNkdDYpJS2lfg3kqf2mTY) | 3:12 |
 | 100 | [Killer Quinn](https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Killer Quinn](https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd) | 2:59 |
 
-Snapshot ID: `MCxmYWQ4ZTRmMzUwYjMwM2UwYzYyYzNlMDMzNGFkNWE4NWU3ZTlhYTcw`
+Snapshot ID: `MCw2YTRiZTk3YTA3NjAzNjU1ZGJjNzBjZTM1YzViODlhNjdjM2U5MDlm`

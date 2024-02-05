@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Henry Moodie
 
-370 songs - 22 hr 37 min
+371 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Patience](https://open.spotify.com/track/0v0EZLRftWKqvFfwurjw02) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Beautiful World](https://open.spotify.com/album/4pNAPDBOAeBwJ7JvVx7Fc1) | 3:22 | 2023-12-14 | 2024-01-11 |
 | [Patience](https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Beautiful World](https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk) | 3:22 | 2024-01-04 |  |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-04 | 2023-05-12 |
-| [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 | 2024-01-26 |  |
+| [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 | 2024-02-01 |  |
+| [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 | 2024-01-26 | 2024-02-05 |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-09-01 | 2023-09-22 |
 | [Pengingat](https://open.spotify.com/track/4xVBlNFpqerqcF1a9Qoo0N) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Pengingat](https://open.spotify.com/album/6DCVdHnNhGY8s7SAuAgJq8) | 4:00 | 2023-07-07 | 2023-09-08 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-05 |  |

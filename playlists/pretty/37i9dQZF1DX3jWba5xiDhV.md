@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,274 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,490 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 36 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 37 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
 | 38 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
-| 39 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
+| 39 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 41 | [I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:13 |
-| 42 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
+| 42 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
 | 43 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 44 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
 | 45 | [Tutta sola \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1b0TK4bq3WCqrw9WLTArF5) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [R](https://open.spotify.com/album/6ZqQ9hv1XAhLr8iQBeoWTD) | 3:02 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 50 | [E mò e mò \- Mixed By Erry Remix \(Radio Edit\)](https://open.spotify.com/track/0NOhqNiNfdtAWZdCYcu7K0) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Mixed By Erry](https://open.spotify.com/artist/7vdZ66oXssJ9V5kNRE37UN) | [E mò e mò \(Mixed By Erry Remix\)](https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA) | 3:12 |
 | 51 | [The Voice of Q \- 12" Mix](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 |
 | 52 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 |
-| 53 | [It's a War \- Purple Disco Machine & Lorenz Rhode Instrumental](https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [It's a War \(Purple Disco Machine & Lorenz Rhode Remix\)](https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ) | 6:41 |
-| 54 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
+| 53 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
+| 54 | [It's a War \- Purple Disco Machine & Lorenz Rhode Instrumental](https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN) | [Kano](https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [It's a War \(Purple Disco Machine & Lorenz Rhode Remix\)](https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ) | 6:41 |
 | 55 | [Balla Ba](https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Tac..!](https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT) | 3:56 |
 | 56 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
 | 57 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 75 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 
-Snapshot ID: `MCxmMjBkOTljN2U4NGRiMDBhNzg5MGI4MTQ0YzY2ZDVmYTFlNmUyYmM2`
+Snapshot ID: `MCxkN2RkMGRlNmNhNjJjMjU2MjBkNjc2NjYzODg5NTcwYzZkYzMxNjQ3`

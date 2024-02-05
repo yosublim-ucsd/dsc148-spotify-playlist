@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,493 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,505 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 31 | [Pack Up Your Sorrows](https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:53 |
 | 32 | [Hello In There](https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:04 |
 | 33 | [The Water Is Wide](https://open.spotify.com/track/1wn4WMOzOZo9PXAJdDlcGS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG), [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 5:04 |
-| 34 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
+| 34 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
 | 35 | [I Am A Poor Wayfaring Stranger](https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 4:41 |
-| 36 | [La Llorona](https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:40 |
+| 36 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
 | 37 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 |
 | 38 | [Blackbird](https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:24 |
-| 39 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
-| 40 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 |
+| 39 | [Llego Con Tres Heridas](https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:14 |
+| 40 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
 | 41 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 |
 | 42 | [God Is God](https://open.spotify.com/track/1l8Adf2L6CiKmLNH9JuTLz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:36 |
-| 43 | [Simple Twist Of Fate](https://open.spotify.com/track/6f39dg5y3Hj0p179o2Bu8z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:45 |
-| 44 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 |
-| 45 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
-| 46 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 |
-| 47 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 |
-| 48 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 |
-| 49 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
-| 50 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 |
+| 43 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 |
+| 44 | [Simple Twist Of Fate](https://open.spotify.com/track/6f39dg5y3Hj0p179o2Bu8z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:45 |
+| 45 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 |
+| 46 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 |
+| 47 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 |
+| 48 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
+| 49 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 |
+| 50 | [The Wild Mountain Thyme](https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:37 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAwNjAyYzBmODhiZGVjZWVkMTFlMzdjNTljYjA1YTM4Ng==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAyYmY4NmM5NGQ0MmVkYzdjZjJjY2Q1Y2VmMDJmZDJhZg==`

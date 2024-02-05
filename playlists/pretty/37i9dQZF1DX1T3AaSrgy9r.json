@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 120225,
+  "num_followers": 120289,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzRhNjdmOTQxMjQwMmQzZGUwMjE4OGFmNDllODNkMDU4NjMwZWEx",
+  "snapshot_id": "MCwzZjY4ZWEyZjM2YTZjMWM2ZTNmOTBiZTFhOTA2ZDFhMWM3YjQ0NjA3",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -519,26 +519,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Maxinquaye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Martina Topley-Bird",
-          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Hell Is Round The Corner",
-      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "A Little Less Conversation: Elvis vs JXL",
         "url": "https://open.spotify.com/album/3nZRriUOOM8Gvv3ox8ybn1"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 211506,
       "name": "A Little Less Conversation - JXL Radio Edit Remix",
       "url": "https://open.spotify.com/track/4rr0gWiMrF4sOIefs3IEvZ"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Maxinquaye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
+      },
+      "artists": [
+        {
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Martina Topley-Bird",
+          "url": "https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Hell Is Round The Corner",
+      "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Preemptive Strike",
-        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "You've Come A Long Way Baby",
         "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 413880,
       "name": "The Rockafeller Skank",
       "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Second Toughest In The Infants (Remastered)",
         "url": "https://open.spotify.com/album/2L4lA4O95iu8bvq5Nzo6aI"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 183013,
       "name": "Blueski - Remastered",
       "url": "https://open.spotify.com/track/4NAkTs45SKHRjC2sgzYKrc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Atom Bomb",
-        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
-      },
-      "artists": [
-        {
-          "name": "Fluke",
-          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Atom Bomb - Atomix 1",
-      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Atom Bomb",
+        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
+      },
+      "artists": [
+        {
+          "name": "Fluke",
+          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Atom Bomb - Atomix 1",
+      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Abc Music - The Radio 1 Sessions",
         "url": "https://open.spotify.com/album/2HQ7mb0QI0PCgj4ci7LEeZ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 260640,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/28BOzceMLCsn1AwusNQ55z"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

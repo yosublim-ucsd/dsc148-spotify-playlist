@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 68765,
+  "num_followers": 68804,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTVkN2Y5YzMwYjcwMjY1NDM4NzE2Zjc5MTU2ZWE3MjQxODBjOWVi",
+  "snapshot_id": "MCxkMjBiMmM3M2YyZDU4N2NiZjIzYTE0Y2E5YmQ1YzI2MmM3OTFmNzJm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 176431,
+      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
+      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Muy Dentro De Mi Corazon",
         "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
       },
@@ -841,22 +857,6 @@
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
-    },
-    {
       "added_at": "2021-12-29 23:46:57",
       "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
     },
     {
-      "added_at": "2021-12-29 23:46:57",
+      "added_at": "2023-01-04 22:41:14",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa"
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 176431,
-      "name": "Te Ir\u00e1 Mejor Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh"
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2023-01-04 22:41:14",

@@ -4,7 +4,7 @@
 
 > New music each and every Friday, with selects from prominent musicians across the map in honor of Black History Month\. Cover: <a href="spotify:artist:3ZpEKRjHaHANcpk10u6Ntq">Arya Starr</a>
 
-2,755 songs - 5 day 18 hr 1 min
+2,756 songs - 5 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1285,7 +1285,8 @@
 | [Jet](https://open.spotify.com/track/24gBzAjUXR3o9HqYlgLYxd) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Jet](https://open.spotify.com/album/3yRhhgfgtIaQXFpl1DOZpI) | 2:42 | 2023-03-03 | 2023-03-18 |
 | [JIGGA DAME](https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [JIGGA DAME](https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm) | 1:44 | 2022-05-20 | 2022-06-18 |
 | [Jooce](https://open.spotify.com/track/5Mf5fywUoo2xq7xfCEZBat) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Jooce](https://open.spotify.com/album/250Jh7pBvqkVZeJeGo5PjK) | 2:39 | 2022-10-14 | 2022-11-19 |
-| [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 | 2024-02-02 |  |
+| [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 | 2024-02-02 |  |
+| [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 | 2024-02-02 | 2024-02-05 |
 | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [JOY \(Unspeakable\) \(feat\. Pharrell Williams\)](https://open.spotify.com/album/6lSjMJHMD4vgXZ7pm8gwoB) | 5:12 | 2023-06-23 | 2023-10-07 |
 | [Joy In The Morning \- Remix](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Remix\)](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 | 2023-07-07 | 2023-09-02 |
 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP](https://open.spotify.com/album/3QPAXE08JQFgIc5lsmQEg1) | 3:26 | 2022-07-09 | 2022-08-06 |

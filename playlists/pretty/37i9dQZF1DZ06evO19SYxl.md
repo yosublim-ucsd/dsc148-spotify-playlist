@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,053 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,058 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 11 | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \- Unidos por el Rock](https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4), [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb), [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ) | [Te Vas a Acordar de Mí, Anda Borracho Pancho, Tlatelolco Místico, No Tengo Tiempo \(Unidos por el Rock\)](https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2) | 5:36 |
 | 12 | [Artesano de la Construccion](https://open.spotify.com/track/6IUlLJuUiCvqzuR3WWIKfS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:56 |
 | 13 | [Cristina](https://open.spotify.com/track/4HGvjkFxUsx5Hl0czvXbME) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:39 |
-| 14 | [Me Haces Volar](https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 2:47 |
-| 15 | [Castillos \- En Vivo](https://open.spotify.com/track/6qtBaM4AznwA5blaTnNp0v) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:11 |
+| 14 | [Castillos \- En Vivo](https://open.spotify.com/track/6qtBaM4AznwA5blaTnNp0v) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:11 |
+| 15 | [Me Haces Volar](https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Espíritu del Rock \(30 Aniversario\)](https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV) | 2:47 |
 | 16 | [Barrio Pobre](https://open.spotify.com/track/2on3XmXTtMA1dguAkhCzr2) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:21 |
 | 17 | [Ni una Más](https://open.spotify.com/track/13eFPA8zkZoJBEhCSz9sj1) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 5:00 |
 | 18 | [Pobre Rocanrolero](https://open.spotify.com/track/6PO1FpMte6nYYtpgKIa466) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 |
 | 50 | [Octubre](https://open.spotify.com/track/3yKdnG4abZ5HRLhp8lh4TG) | [Juan Hernández y Su Banda de Blues](https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Segunda Oportunidad \(Duetos: Caminando Voy\)](https://open.spotify.com/album/7HGHoQGRRbC0B6vh23FTy0) | 3:11 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhZmEyMDI3MDdiMjBmNDJiZTg4MDc5NzhhYTE1MTRkYg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA1ZTk2MTVmYTA3YzU0Njg3ZTI0MzYzNjMxNjJlZmVjOQ==`

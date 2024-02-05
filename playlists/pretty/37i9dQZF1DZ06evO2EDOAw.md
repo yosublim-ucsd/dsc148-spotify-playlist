@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,112 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,115 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 29 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
 | 30 | [Done For Me \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:36 |
 | 31 | [Why Me?](https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 3:26 |
-| 32 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 |
-| 33 | [You Loved Me \(feat\. Kierra "Kiki" Sheard\)](https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Heavens Are Telling](https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO) | 6:43 |
+| 32 | [You Loved Me \(feat\. Kierra "Kiki" Sheard\)](https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Heavens Are Telling](https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO) | 6:43 |
+| 33 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
 | 34 | [Mo' Better](https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 3:25 |
-| 35 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
+| 35 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 |
 | 36 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 |
 | 37 | [I Choose You \(Live\)](https://open.spotify.com/track/057URVa7OFE47yCgI57mcf) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:07 |
 | 38 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 43 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
 | 44 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 |
 | 45 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 |
-| 46 | [Come A Little Closer \- Live](https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N) | 5:10 |
-| 47 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
+| 46 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
+| 47 | [Come A Little Closer \- Live](https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N) | 5:10 |
 | 48 | [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 |
 | 49 | [Always Win \(Live\)](https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:25 |
 | 50 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBkMjg3MTNiNTliY2Q5ZTY0MmQzYWJjOTIzNjViYWZkNQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAzMDA2MTY3YjEwZThiMTNiZjllNDM0NDQyNTBhMDNhYw==`

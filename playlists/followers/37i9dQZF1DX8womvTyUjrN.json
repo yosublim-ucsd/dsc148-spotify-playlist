@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 283055,
+  "2024-02-05": 282843,
   "date_first_scraped": "2022-03-22",
   "description": "Fresh Latin pop on the rise. Cover: Zoe Gotusso",
   "name": "el nuevo pop",
@@ -397,7 +397,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
@@ -2070,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "COLIBR\u00cd",
+        "url": "https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235451,
+      "name": "COLIBR\u00cd",
+      "url": "https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg"
+    },
+    {
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4"
       },
@@ -2793,7 +2811,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 222187,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk"
@@ -4055,6 +4073,28 @@
       "duration_ms": 214173,
       "name": "Freno",
       "url": "https://open.spotify.com/track/1Rl7Xag6yJM2SpLzeobBgb"
+    },
+    {
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,053 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,192 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 29 | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/track/2eTkxblLeqdTSsb2ivafDX) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Galliyan Returns \(From "Ek Villain Returns"\)](https://open.spotify.com/album/0vjQeipdlzH33n9vnCwAAD) | 5:50 |
 | 30 | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabha Bhattacharya](https://open.spotify.com/artist/7uw9rkZ9mxuSBuURy86ERR) | [Phir Aur Kya Chahiye \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j) | 4:26 |
 | 31 | [Goodbye](https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu) | [lekhak](https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG) | [Goodbye](https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7) | 2:58 |
-| 32 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
-| 33 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 32 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 33 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
 | 34 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
 | 35 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 36 | [Jiyein Kyun](https://open.spotify.com/track/0up9rhm9qt2LW7cnoDFCMk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Dum Maaro Dum](https://open.spotify.com/album/5RM8pIBX8zU9g8U5WG4zfZ) | 4:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 79 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 80 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCwzOTNiMTIyYWY5Nzk1NDA2YWUzMGViYzg0YzI1N2NhNzBiZGM2ZDgz`
+Snapshot ID: `MCw5ZWEwMTRmM2Q0Y2M0ZjRhZThlNjM5NzIxNzMzN2U5NzI0MzY4NzIx`

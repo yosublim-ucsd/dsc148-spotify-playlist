@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 790383,
+  "2024-02-05": 789981,
   "date_first_scraped": "2021-12-21",
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Nolan Taylor",
   "name": "Fresh Folk",
@@ -11023,10 +11023,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 226836,
       "name": "Hand to Hand",
       "url": "https://open.spotify.com/track/4AaVY4XuXeHJZwUBSRSoC6"
+    },
+    {
+      "album": {
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226836,
+      "name": "Hand to Hand",
+      "url": "https://open.spotify.com/track/7i4onkA2fRuV0viFNWINID"
     },
     {
       "album": {
@@ -21181,10 +21199,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 160741,
       "name": "Party of the Century",
       "url": "https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb"
+    },
+    {
+      "album": {
+        "name": "Blue Raspberry",
+        "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160741,
+      "name": "Party of the Century",
+      "url": "https://open.spotify.com/track/2IAEIzMfn4mZoDzkvtSz1G"
     },
     {
       "album": {
@@ -23463,7 +23499,7 @@
     {
       "album": {
         "name": "Same Water",
-        "url": "https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo"
+        "url": "https://open.spotify.com/album/4Scuu3Z6gDXBg2N5yNNcVS"
       },
       "artists": [
         {
@@ -23474,6 +23510,24 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 260036,
+      "name": "Same Water",
+      "url": "https://open.spotify.com/track/5bmpMZDDkpOr2bGPptSruW"
+    },
+    {
+      "album": {
+        "name": "Same Water",
+        "url": "https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-04",
       "duration_ms": 260036,
       "name": "Same Water",
       "url": "https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g"

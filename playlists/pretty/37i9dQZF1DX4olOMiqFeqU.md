@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,395,096 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391,686 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
 | 50 | [Sana \- Single Version](https://open.spotify.com/track/7o7FQ0zdggnSP8nrsAIy1m) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/0ULmsFDDkOnwetCGrEvCSl) | 4:37 |
 
-Snapshot ID: `MCxhMGJlNmVlOTQ1M2ZlYjc2ODVmMTQ3ODFhZmQyNThhYmY1M2ZkY2Rj`
+Snapshot ID: `MCxiYmE3YWNhNmJiZjNiYmExM2ZiZGQ2Yjg1YmZlMzE1NGVmNDM2MTUw`

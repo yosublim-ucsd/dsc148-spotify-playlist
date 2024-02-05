@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,493 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,535 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 25 | [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 |
 | 26 | [Tjina](https://open.spotify.com/track/5l4S6LVL1AQfZC01pypXl6) | [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [For Your Soul \(Extended Edition\)](https://open.spotify.com/album/04znRkeBi2rTFkBx7VR7sf) | 5:19 |
 | 27 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
-| 28 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
-| 29 | [WeWe](https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 2:53 |
+| 28 | [WeWe](https://open.spotify.com/track/0cnxJjQ8T4GSz87TaIkwDY) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 2:53 |
+| 29 | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Omah Lay & Tempoe\)](https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X) | 3:02 |
 | 30 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 |
-| 31 | [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 |
+| 31 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
 | 32 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 |
-| 33 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
+| 33 | [Away](https://open.spotify.com/track/1rZyZOkUjlbfaqTLVvMNqx) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Away](https://open.spotify.com/album/4p3K0LdEHFQcpTJGeynS9w) | 2:17 |
 | 34 | [Gaza](https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:14 |
 | 35 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
 | 36 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 60 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
 
-Snapshot ID: `MCxjOWMxZDYyYTBhNTg0NzM5MjU3OGU1OWFjZDg5Mzc3Y2I0ZjIyNDc5`
+Snapshot ID: `MCw0MTVhNDg3MGU5ZmE1MzYyNTE5NTI4NDM3ZjYxYTg4ZGM5MWIzMTUz`

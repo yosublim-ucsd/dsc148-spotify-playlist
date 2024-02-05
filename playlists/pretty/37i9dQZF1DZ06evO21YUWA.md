@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,948 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,951 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 39 | [Avenue of Trees](https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:16 |
 | 40 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 41 | [The Panther of Small Favors](https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:17 |
-| 42 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
+| 42 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
 | 43 | [Sunlit Silhouette](https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:15 |
-| 44 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
+| 44 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 45 | [Breathless..\. I](https://open.spotify.com/track/06QBw5B9JnzsvKfTh4W37n) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [She Is A Phantom](https://open.spotify.com/album/5I9WHmMej5pixh8VO8LQCQ) | 1:39 |
 | 46 | [Bell Tower](https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [La Bella Vista](https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL) | 2:00 |
 | 47 | [Rub With Ashes](https://open.spotify.com/track/7lSSrxiRidWKKEzczh0hTv) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:02 |
 | 48 | [And Then I Turned Away](https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 3:30 |
 | 49 | [Come Back To Me In Dreams](https://open.spotify.com/track/0O1NkPpNFLqSMBWSVwgxgg) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 2:03 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjZTI4ZjQwNTM3OGE3ZDYyMmJlZTQyNmZmNDQ4OGY0NA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAxYzkwODE5MzYyMGFhMzkyNDM1YjY0NzYyMTBmNjM3Zg==`

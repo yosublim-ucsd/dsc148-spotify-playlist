@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,857 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,994 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 18 | [Tu Ritmo](https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:38 |
 | 19 | [Todo o Nada](https://open.spotify.com/track/2zdHRQTOBDk8mM8xBzziFh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:39 |
 | 20 | [Sin Frenos](https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:31 |
-| 21 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
+| 21 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
 | 22 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
-| 23 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
+| 23 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 |
 | 24 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 |
 | 25 | [Pensabas](https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Pensabas](https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2) | 4:52 |
-| 26 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 |
-| 27 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 |
-| 28 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 |
+| 26 | [Promesa](https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Gárgolas Forever](https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO) | 3:26 |
+| 27 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 |
+| 28 | [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 |
 | 29 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 |
 | 30 | [Paz Mental](https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:31 |
 | 31 | [Socio](https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 4:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 48 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
 | 49 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAzNGNiY2EzY2VhMDdmN2U5NTFjNDgzYzQzN2I3ZjhmZA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA0ZTI3Y2MzZWFkMDZiY2IxOTZlMjAwZDkyM2IwYjk0Yg==`

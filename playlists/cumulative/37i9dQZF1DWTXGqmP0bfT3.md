@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-282 songs - 19 hr 35 min
+283 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Ghosts](https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jeremy Mckinnon](https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw) | [Found In Far Away Places](https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL) | 4:49 | 2021-12-17 | 2022-06-01 |
 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 | 2023-11-27 |  |
 | [Hardwired](https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 3:09 | 2021-12-17 | 2022-07-29 |
-| [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-01-06 |  |
+| [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-01-06 | 2024-02-05 |
 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 | 2021-12-17 | 2023-05-13 |
 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 | 2021-12-17 |  |
 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 |  |
@@ -169,6 +169,7 @@
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-04-10 |  |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-06-21 | 2023-12-14 |
 | [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2022-06-21 | 2022-07-29 |
+| [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-29 |  |
 | [Middle Fingers Up](https://open.spotify.com/track/14ZX4MpuG9XW1MaZY5drY0) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [About That Life](https://open.spotify.com/album/3926CVdjmoTObtSVsKG2YY) | 2:37 | 2021-12-17 | 2022-01-07 |
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-12-13 |  |
 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 | 2021-12-17 | 2022-07-29 |

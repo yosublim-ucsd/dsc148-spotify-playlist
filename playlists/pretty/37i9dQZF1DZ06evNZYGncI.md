@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,841 likes - 45 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,838 likes - 45 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,36 +22,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 12 | [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 |
 | 13 | [Killpop](https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 3:45 |
 | 14 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 |
-| 15 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 |
-| 16 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
+| 15 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
+| 16 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 |
 | 17 | [Vermilion](https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:16 |
 | 18 | [\(sic\)](https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:19 |
-| 19 | [Dead Memories](https://open.spotify.com/track/0HAr4QR1xI8nwC7VfzYidu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:28 |
-| 20 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
+| 19 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
+| 20 | [Dead Memories](https://open.spotify.com/track/0HAr4QR1xI8nwC7VfzYidu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:28 |
 | 21 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 22 | [Surfacing](https://open.spotify.com/track/0iget4icTqUya9wtpvCTF2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:38 |
-| 23 | [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 |
-| 24 | [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 |
+| 23 | [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 |
+| 24 | [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 |
 | 25 | [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 |
 | 26 | [The Blister Exists](https://open.spotify.com/track/3q7GKmKaiktt57PVIxKOm8) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:19 |
-| 27 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 |
-| 28 | [Disasterpiece](https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 5:08 |
+| 27 | [Disasterpiece](https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 5:08 |
+| 28 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 |
 | 29 | [Solway Firth](https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:55 |
 | 30 | [Pulse of the Maggots](https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:19 |
-| 31 | [The Negative One](https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:25 |
-| 32 | [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
+| 31 | [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
+| 32 | [The Negative One](https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:25 |
 | 33 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 |
 | 34 | [Red Flag](https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:11 |
-| 35 | [AOV](https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:32 |
-| 36 | ['Til We Die](https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:45 |
+| 35 | ['Til We Die](https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:45 |
+| 36 | [AOV](https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:32 |
 | 37 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 |
 | 38 | [Birth Of The Cruel](https://open.spotify.com/track/7I6p0xNYahHpUUXj785URX) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:35 |
-| 39 | [Skeptic](https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:46 |
-| 40 | [Vendetta](https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:15 |
+| 39 | [Vendetta](https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:15 |
+| 40 | [Skeptic](https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:46 |
 | 41 | [Warranty](https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:51 |
 | 42 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 |
-| 43 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 |
-| 44 | [All Hope Is Gone](https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:44 |
+| 43 | [All Hope Is Gone](https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:44 |
+| 44 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 |
 | 45 | [Adderall](https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:40 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhZDhhZmQ3OTkxZGNlNGNmYWM5OTM4NGUxYjVkMDM1MA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA2NDI5YTA5YTRmMDYxOGVlMzhlM2UyNTYyZmNlNmJiNg==`

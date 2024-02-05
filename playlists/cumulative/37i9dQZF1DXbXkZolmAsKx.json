@@ -1876,6 +1876,24 @@
     {
       "album": {
         "name": "Replica",
+        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
+    },
+    {
+      "album": {
+        "name": "Replica",
         "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
       "artists": [
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 204826,
       "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
       "url": "https://open.spotify.com/track/3DSSI5YZv4L9a82RL5PnEY"

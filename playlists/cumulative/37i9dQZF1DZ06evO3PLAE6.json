@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Sleeping With The Blues",
+        "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
+      },
+      "artists": [
+        {
+          "name": "Bill Chambers",
+          "url": "https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149092,
+      "name": "Stories We Could Tell",
+      "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
+    },
+    {
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },

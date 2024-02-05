@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Jocelyn 9.4.0
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,472 likes - 72 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,480 likes - 72 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [進入下一層新的夢之前](https://open.spotify.com/track/2LmNW7kMeYp2wUqMpIAge6) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 2:45 |
 | 72 | [好人坏了 \(feat\. CED\)](https://open.spotify.com/track/3zC6x07wxGburedGJkkacF) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [好人坏了 \(feat\. CED\)](https://open.spotify.com/album/1Hw7Amnc4o3gODTMZW6RXh) | 3:27 |
 
-Snapshot ID: `MCxhODNlNTFkYzg4MTkxYmMxNmVjODc1ZDIxZGE3ZWE1Mjg0YmEzMGIz`
+Snapshot ID: `MCw3MzVkYjVhMWNhNWE5MGRlZTFlNmYzODk3NDA2OGIwN2MyYTM3NDZj`

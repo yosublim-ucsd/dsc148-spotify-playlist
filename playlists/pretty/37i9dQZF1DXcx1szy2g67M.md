@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de winter van 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,312 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,261 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 90 | [Best Friend](https://open.spotify.com/track/6SEnSnZvVF9jW5OGQpSgBc) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Best Friend](https://open.spotify.com/album/7kZ4FOhBJmEtYbrITAO6h7) | 2:27 |
 
-Snapshot ID: `MCw0MjkyMDQyYzE0NWU2YzM2MWQxMWE1YmM1YzVmMTRkZjc2ZDgwOWNh`
+Snapshot ID: `MCw1ZDZhYjQzNjFhNDNmMTc4Y2UxZGNlNDY4YmRjMTAzY2EwMTkwNzVj`

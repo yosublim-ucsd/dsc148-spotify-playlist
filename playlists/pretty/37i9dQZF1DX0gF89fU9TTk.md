@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,229 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,243 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 15 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 16 | [Fire in My Bones](https://open.spotify.com/track/7qWU0OsTG0JBlnCmWZe1vY) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Fire in My Bones](https://open.spotify.com/album/0zYrhn7yJQLoJfs4x9fcvy) | 4:32 |
 | 17 | [Everything](https://open.spotify.com/track/452Q2BzTFo0st9C4oXgtmi) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Everything](https://open.spotify.com/album/3qCRd5R6usAqUMpRYzJPFx) | 3:20 |
-| 18 | [Love Me Like You](https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Love Me Like You](https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he) | 3:03 |
-| 19 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 18 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 19 | [Love Me Like You](https://open.spotify.com/track/526NvYzKFMNDmJJV5trpyt) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Love Me Like You](https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he) | 3:03 |
 | 20 | [There For You](https://open.spotify.com/track/6pW1zSKjttBlcZ8mcogTZk) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [There For You](https://open.spotify.com/album/67cB4bGLUNvrhwUeRWlr7S) | 4:09 |
 | 21 | [Momentum](https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Be Okay \- EP](https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ) | 3:14 |
 | 22 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
 | 23 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
-| 24 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
+| 24 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
 | 25 | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/track/3nDaOQU9hOkwf1onF3rSuZ) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Jesus Is Coming Back \(feat\. Mandisa & Jonathan Traylor\)](https://open.spotify.com/album/0zGeEmwuASGbKeKnPdRiWA) | 3:33 |
-| 26 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
-| 27 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
+| 26 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
+| 27 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
 | 28 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 |
 | 29 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 30 | [I'll Fight for You](https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [I'll Fight for You](https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy) | 2:47 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 70 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 71 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 |
 | 72 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
-| 73 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
-| 74 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
+| 73 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
+| 74 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 75 | [Alibi](https://open.spotify.com/track/0ZLwiOjFDHVufIwDb5RBxI) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:01 |
 
-Snapshot ID: `MCw3NWVmMTZlOGU4NjU3YmQ4MDk0MWMxODYwZjZmYzY3MTY5NjQzMTU4`
+Snapshot ID: `MCw5MGJmYWY4ZjQ4MjBiNDRmY2I0YjM3MGQyNzkwNzRjMDY5ZGU0YmZm`

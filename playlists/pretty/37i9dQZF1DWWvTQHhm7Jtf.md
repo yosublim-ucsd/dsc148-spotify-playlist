@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,845 likes - 70 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,850 likes - 70 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 17 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 18 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
 | 19 | [Le château de corail](https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Comme ça](https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t) | 4:05 |
-| 20 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 21 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 |
-| 22 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
-| 23 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
+| 20 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 2:07 |
+| 21 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
+| 22 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 |
+| 23 | [My Gull](https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 2:10 |
 | 24 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 |
 | 25 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 26 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 65 | [The Loss of Wilderness](https://open.spotify.com/track/3l6Ls8YScCSAwjZMDha2Mo) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4k2tdCSF0SRtUPZySYmKhB) | 5:57 |
 | 66 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
 | 67 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
-| 68 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
-| 69 | [1/2 SCULPTURE](https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P) | 8:11 |
+| 68 | [1/2 SCULPTURE](https://open.spotify.com/track/4Ko0SCeXU64R5kCpD4q8al) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/5eTPgrJAq4Bbpq48vJ6l3P) | 8:11 |
+| 69 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
 | 70 | [Aurobindo](https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 8:07 |
 
-Snapshot ID: `MCw1YjM2NzQ5ZWJkODUwOTE1ZDAwZmQ3NzRiNGE3OTQ2NWYxOWM2ZWI2`
+Snapshot ID: `MCwyMzU3NzQ2N2RlNjQxZjZhOGM0NWQ1ZDMyMDUxNzQzZTYxMDMwYzM2`

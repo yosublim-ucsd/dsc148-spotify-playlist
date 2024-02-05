@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 238614,
+  "2024-02-05": 239046,
   "date_first_scraped": "2023-04-15",
   "description": "Tulum szn",
   "name": "Umami",
@@ -1857,12 +1857,16 @@
       },
       "artists": [
         {
+          "name": "JEWELS",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
           "name": "SOMMA",
           "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
         },
         {
-          "name": "JEWELS",
-          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
         },
         {
           "name": "Jabulile Majola",

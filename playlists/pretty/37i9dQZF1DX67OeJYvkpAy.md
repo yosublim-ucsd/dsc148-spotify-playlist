@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,351 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,357 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 47 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 |
 | 48 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 49 | [9AM](https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8) | 2:52 |
-| 50 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 50 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
 | 51 | [Trust Issues](https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo) | 2:00 |
-| 52 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
+| 52 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 53 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
 | 54 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 55 | [If I Die Young](https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/5dovlyUr9PQKLzUMPTErNS) | 3:09 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 91 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 92 | [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 |
 | 93 | [Drowning](https://open.spotify.com/track/4KX39Q6MDuzwYb4RWalM6o) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/2eJb5JmHCBNN4DWE7KGH6P) | 2:13 |
-| 94 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:01 |
-| 95 | [Married To Music](https://open.spotify.com/track/062H0gbvraLlfXPJRzg7e5) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/0quJWbGpn6BeNgLv2GphAC) | 3:01 |
+| 94 | [Married To Music](https://open.spotify.com/track/062H0gbvraLlfXPJRzg7e5) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/0quJWbGpn6BeNgLv2GphAC) | 3:01 |
+| 95 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:01 |
 | 96 | [Everyone Keeps Asking](https://open.spotify.com/track/5CnA7Zd6DNijdo3l7xruLr) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/0HGP6dcDqqRmEAdScLYwnM) | 3:23 |
 | 97 | [No Love Left](https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [No Love Left](https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC) | 2:51 |
 | 98 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 99 | [I Wanna Start My Life Again](https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/5f7YPCMOtutGSIpnM31Jfx) | 2:30 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCxjOTZiNDRjNzg1NjI4YjkxNzQzMjI2ZmFlMGI3YzI2YzY3MmMwMjk1`
+Snapshot ID: `MCwyZjZhZDExYTdiMzBhOGYyNDVlNzVjNDQ3YmJmODQzM2ZlZjdlNTMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,985 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,985 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 19 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 |
 | 20 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
 | 21 | [War Machine \- 2022 Remastered](https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:17 |
-| 22 | [Deuce](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 |
-| 23 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 22 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
+| 23 | [Deuce](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 |
 | 24 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 |
 | 25 | [God Of Thunder](https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 4:13 |
 | 26 | [Tears Are Falling](https://open.spotify.com/track/1hxt3chzYLAzS4NmSSi5A3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Asylum](https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast) | 3:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 46 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
 | 47 | [Black Diamond](https://open.spotify.com/track/6PmckFG2BhEELc5OM7O7DS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 5:14 |
 | 48 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
-| 49 | [Let Me Go, Rock 'N Roll](https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 2:15 |
-| 50 | [Forever \(Live\)](https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T) | 3:50 |
+| 49 | [Mr\. Speed](https://open.spotify.com/track/6IDOdsJrrQ5p205vENDADn) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Rock And Roll Over](https://open.spotify.com/album/6722nY178mLes49GPldnjj) | 3:18 |
+| 50 | [Let Me Go, Rock 'N Roll](https://open.spotify.com/track/6iwBE3iYSgeBI3OtBAPNc1) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hotter Than Hell](https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE) | 2:15 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDAyOWNhNWI1MGI5OTBkOTAwY2IzNGJjMGQyNDgwOTJlZQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA1OTk2NDM2NjI3YzRmYmQzODdlMzAyMDE2OGViYTYzNw==`

@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 132444,
+  "num_followers": 132462,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmI5MTBiZjgwYjU4YmFiYjk4ZjZlMTE1ODJhZWU3NjFmNjUwMjVk",
+  "snapshot_id": "MCw4OGUwZDFkOGQ3YWQwZjY1Y2IwODUxMTliZjdjMGViYjU5NjQxYjE1",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
-      },
-      "artists": [
-        {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
-        }
-      ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Burning Bright",
         "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "MOOD",
-        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Boats",
-          "url": "https://open.spotify.com/artist/2QIZbR4qIR1yoJr9RWkR7E"
-        }
-      ],
-      "duration_ms": 287123,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Boats",
+          "url": "https://open.spotify.com/artist/2QIZbR4qIR1yoJr9RWkR7E"
+        }
+      ],
+      "duration_ms": 287123,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Moment EP",
         "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 401695,
       "name": "Han Pan",
       "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1195,6 +1195,22 @@
       "duration_ms": 306720,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/00bz5bGRGFMfACJWfhMSxx"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "DJ-Kicks EP",
+        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Hungboo - DJ-Kicks",
+      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1287,22 +1303,6 @@
       "duration_ms": 262019,
       "name": "Beige 70 - Domenique Dumont Bilingual Remix",
       "url": "https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "DJ-Kicks EP",
-        "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Hungboo - DJ-Kicks",
-      "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 136618,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "I Wanna Know What Love Is",
         "url": "https://open.spotify.com/album/42ACxS8aXXzxIZCZnogHfV"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 171775,
       "name": "I Wanna Know What Love Is",
       "url": "https://open.spotify.com/track/1oG64RG7TgBHV3jxo0xenp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 214357,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+      "duration_ms": 195999,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

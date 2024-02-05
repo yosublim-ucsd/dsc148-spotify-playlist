@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-798 songs - 1 day 21 hr 8 min
+799 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-18 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-04-13 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
+| [ASÍ COMO QUIERO](https://open.spotify.com/track/3IPmqHXeShK75HyvOnT2Ws) | [Alexa Sotelo](https://open.spotify.com/artist/0pfLtVwR7ThIpVbT2I1DRm), [Dave Bolaño](https://open.spotify.com/artist/6kfMprr3qI5Bg2JNSGU7l7) | [ASÍ COMO QUIERO](https://open.spotify.com/album/5Y1ndLb9ggfbtHUr07rcbu) | 2:47 | 2024-02-04 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-02 | 2023-08-04 |
 | [Ay Ay Ay](https://open.spotify.com/track/0L8UUeoNglrdMIWkPOJW0v) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E), [Constantino](https://open.spotify.com/artist/5L6kvLHKRdGwr9bGx3srpH), [KIO "El Historiador"](https://open.spotify.com/artist/3bkz7ccHi6jiOIag1UyKkE) | [Trilogy EP](https://open.spotify.com/album/1PiCy9R4UAvkxVHhjiqqYX) | 2:09 | 2022-12-09 | 2023-01-24 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-14 |
@@ -452,7 +453,7 @@
 | [Melancolia](https://open.spotify.com/track/7ldMJuOcxPz0xeKcpIwkyp) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [X Amor](https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv) | 2:45 | 2023-12-16 | 2023-12-18 |
 | [MEMORIAS](https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:48 | 2022-04-02 | 2023-10-03 |
 | [Mencionar](https://open.spotify.com/track/5gEkHtIiOoTuKqcMyxVrqJ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:21 | 2024-01-20 | 2024-01-22 |
-| [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 | 2023-10-14 |  |
+| [MERCEDES CAROTA](https://open.spotify.com/track/3TYOH7ta0101NYssoH5GlU) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:22 | 2023-10-14 | 2024-02-05 |
 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 | 2022-09-04 | 2022-09-12 |
 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 | 2024-01-24 | 2024-01-28 |
 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 | 2021-03-27\* | 2021-04-26 |

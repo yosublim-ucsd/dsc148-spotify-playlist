@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
-  "num_followers": 1603310,
+  "num_followers": 1602617,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTQ1ZDBkNzA3MDFmNjBhMmIwZjA2OTU2YjEzMmRhNmYxYWI4OTIz",
+  "snapshot_id": "MCwwMTFjMjUyMmMzYTllZmZiZTcwYTRlYjdiMDFlN2M1MTk3NDk1NGJk",
   "tracks": [
     {
       "added_at": "2024-02-03 00:41:52",
@@ -407,6 +407,42 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 190067,
+      "name": "Never Die (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
       },
@@ -431,42 +467,6 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 190067,
-      "name": "Never Die (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
         "name": "Instincts",
         "url": "https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5"
       },
@@ -483,26 +483,6 @@
       "duration_ms": 236199,
       "name": "Instincts",
       "url": "https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
-        "name": "DeNiro & Pesci",
-        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "DeNiro & Pesci",
-      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -539,6 +519,46 @@
       "duration_ms": 185806,
       "name": "Formal Invite",
       "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "DeNiro & Pesci",
+        "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        }
+      ],
+      "duration_ms": 175648,
+      "name": "DeNiro & Pesci",
+      "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -627,42 +647,6 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 107992,
-      "name": "FLYGOD 2x",
-      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -687,22 +671,34 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "One Foot In",
-        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 164501,
-      "name": "One Foot In (with Stove God Cooks)",
-      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 107992,
+      "name": "FLYGOD 2x",
+      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -727,38 +723,22 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "Max Julien",
-        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+        "name": "One Foot In",
+        "url": "https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Max Julien",
-      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         },
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 171192,
-      "name": "Suicide in Selfridges",
-      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
+      "duration_ms": 164501,
+      "name": "One Foot In (with Stove God Cooks)",
+      "url": "https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -775,6 +755,22 @@
       "duration_ms": 108281,
       "name": "Burning Desire",
       "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -815,22 +811,6 @@
       "duration_ms": 130194,
       "name": "Ski'd Up",
       "url": "https://open.spotify.com/track/5t75pNr8pZCnllaSWw1LtK"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -887,22 +867,6 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
-      },
-      "artists": [
-        {
-          "name": "Jourden",
-          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
-    },
-    {
-      "added_at": "2024-02-03 00:41:52",
-      "album": {
         "name": "Lyrics to GO Vol. 5",
         "url": "https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql"
       },
@@ -915,6 +879,42 @@
       "duration_ms": 186000,
       "name": "Backstage in Minneapolis",
       "url": "https://open.spotify.com/track/41vQRKj7mWmwDWKnkrUJhI"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 171192,
+      "name": "Suicide in Selfridges",
+      "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
+    },
+    {
+      "added_at": "2024-02-03 00:41:52",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
       "added_at": "2024-02-03 00:41:52",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2024-02-03 00:41:52",
       "album": {
-        "name": "Penalty of Leadership",
-        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Speedy Recovery",
-      "url": "https://open.spotify.com/track/6M8zu9ivSmUA0vhiQVfUY4"
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
     }
   ],
   "unique_name": "Spilled Ink",

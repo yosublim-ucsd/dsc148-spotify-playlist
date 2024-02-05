@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,613 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,615 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 27 | [Magic Bus \- Mono Edit](https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:22 |
 | 28 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
 | 29 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 |
-| 30 | [Trick Of The Light](https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:47 |
-| 31 | [Batman](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
+| 30 | [Batman](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
+| 31 | [Trick Of The Light](https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:47 |
 | 32 | [5:15](https://open.spotify.com/track/5E7AQh3drqwYcIQkcdUs5Y) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:00 |
 | 33 | [Sparks](https://open.spotify.com/track/0Ly4wvpmDlFjh0h2CsmpVh) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:05 |
 | 34 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 49 | [Naked Eye \- Remake Version](https://open.spotify.com/track/7B6DdL3oTVHvq6HvQB8RH2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:59 |
 | 50 | [Is It In My Head?](https://open.spotify.com/track/5XSKoePK44z8EbM736fY57) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:43 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA2N2E1YmU3YmEzNzQzYWFiZDEzMDA0M2YxNjFmNTdhNQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBmY2U2ZTlhM2Y2NDFlOWIzZDU1ZGZlOTA3ZmMzNzQwMQ==`

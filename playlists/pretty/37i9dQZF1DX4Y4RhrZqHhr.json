@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 789305,
+  "num_followers": 789010,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTMwNTc1OTE0NTY2MzcwYzlmNjE1MGJmNzcyNjYxZmZjZDdlYTc3",
+  "snapshot_id": "MCw1ZWIzYjE3YmZiMjRkYzY3NTU0MThiNGY2MjZmNjdjZDJhZTUwNjFm",
   "tracks": [
     {
       "added_at": "2023-08-07 22:19:56",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 212640,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1135,6 +1135,26 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Waves (Robin Schulz Radio Edit)",
+        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Waves - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1163,26 +1183,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Waves (Robin Schulz Radio Edit)",
-        "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Waves - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -2031,26 +2051,6 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Call Your Name",
-        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 170976,
-      "name": "Call Your Name",
-      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -2687,6 +2667,26 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2879,6 +2879,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "World Hold On (Children of the Sky) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 199194,
+      "name": "World Hold On (Children of the Sky) - Radio Edit",
+      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Remix Hits, Vol.1",
         "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
       },
@@ -2943,26 +2963,6 @@
       "duration_ms": 186262,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "World Hold On (Children of the Sky) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4nJFwHTd4JySzd5vRehPQG"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 199194,
-      "name": "World Hold On (Children of the Sky) - Radio Edit",
-      "url": "https://open.spotify.com/track/3HGwI9qwq5XqBDeZBV3zti"
     },
     {
       "added_at": "2023-08-07 22:19:56",

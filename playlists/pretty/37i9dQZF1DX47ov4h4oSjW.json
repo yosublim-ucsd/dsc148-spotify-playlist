@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 103245,
+  "num_followers": 103218,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzI4Y2IwM2JmMTQ3NDM1OWQ1ZGZhYTI0NjUyZjgxNTc3MzlkNmM3",
+  "snapshot_id": "MCxhN2ExMTg2YjQ5YWE0NjU5YTZkOWI4NDJkZGViNmQ2MzVhMWVjMGE2",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 100013,
-      "name": "Written on the Sky",
-      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 85706,
       "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
       "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Maiestas",
+        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "duration_ms": 171452,
+      "name": "Maiestas",
+      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Home full of solipsism",
         "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 162495,
       "name": "Coelicolor",
       "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Maiestas",
-        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 171452,
-      "name": "Maiestas",
-      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
-      },
-      "artists": [
-        {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Ready Set Love",
-        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
-      },
-      "artists": [
-        {
-          "name": "Piotr Miteska",
-          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
-        }
-      ],
-      "duration_ms": 89918,
-      "name": "Ready Set Love",
-      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Under Cold Water",
         "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 126124,
       "name": "Under Cold Water",
       "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Ready Set Love",
+        "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
+      },
+      "artists": [
+        {
+          "name": "Piotr Miteska",
+          "url": "https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c"
+        }
+      ],
+      "duration_ms": 89918,
+      "name": "Ready Set Love",
+      "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Center of Gravity",
-        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
-      },
-      "artists": [
-        {
-          "name": "Carl Bonet",
-          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
-        }
-      ],
-      "duration_ms": 198739,
-      "name": "Mantra for Piano",
-      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 175025,
       "name": "Apology",
       "url": "https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Center of Gravity",
+        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
+      },
+      "artists": [
+        {
+          "name": "Carl Bonet",
+          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Mantra for Piano",
+      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Upraise",
-        "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
-      },
-      "artists": [
-        {
-          "name": "Eleanor Neylan",
-          "url": "https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE"
-        }
-      ],
-      "duration_ms": 147288,
-      "name": "Upraise",
-      "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Upraise",
+        "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Neylan",
+          "url": "https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE"
+        }
+      ],
+      "duration_ms": 147288,
+      "name": "Upraise",
+      "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In a Bar in Buenos Aires",
-        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "In a Bar in Buenos Aires",
-      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Greek",
         "url": "https://open.spotify.com/album/3XO6cd4LgCDGlNIZFcvaPf"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 164999,
       "name": "The Greek",
       "url": "https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In a Bar in Buenos Aires",
+        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 166900,
+      "name": "In a Bar in Buenos Aires",
+      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
+        "name": "For\u00eat Profonde",
+        "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
       },
       "artists": [
         {
-          "name": "Josef Passagio",
-          "url": "https://open.spotify.com/artist/0TQaVw4oiRmOcP5MIIZ9wF"
+          "name": "Ricard Paul",
+          "url": "https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu"
         }
       ],
-      "duration_ms": 126229,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
+      "duration_ms": 187382,
+      "name": "For\u00eat Profonde",
+      "url": "https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku"
     }
   ],
   "unique_name": "Piano Study",

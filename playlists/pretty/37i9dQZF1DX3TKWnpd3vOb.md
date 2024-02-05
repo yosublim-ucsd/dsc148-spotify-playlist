@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: We Are The Grand
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,206 likes - 90 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,988 likes - 90 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 51 | [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 |
 | 52 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
 | 53 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
-| 54 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 |
+| 54 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 |
 | 55 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
-| 56 | [Pálida Forma Nocturna](https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q) | [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Pálida Forma Nocturna](https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7) | 3:44 |
-| 57 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
-| 58 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 |
+| 56 | [TÚ](https://open.spotify.com/track/6gbu92nXkeh6Fdhgw0iqez) | [Upa!](https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n) | [TÚ](https://open.spotify.com/album/3utOqxCghBqv4aIryvCCwJ) | 3:55 |
+| 57 | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Un Pedazo Más de Tu Corazón](https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo) | 3:38 |
+| 58 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
 | 59 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
 | 60 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
 | 61 | [Como te amo \- Radio Edit](https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Como te amo \(Radio Edit\)](https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV) | 2:56 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 64 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
 | 65 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 |
 | 66 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 |
-| 67 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 |
-| 68 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 |
+| 67 | [Yod](https://open.spotify.com/track/6XTZFGXabuOw71RMOgtao3) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF) | [Yod](https://open.spotify.com/album/2HhVFAfXWf6eZeOU8R75jg) | 3:41 |
+| 68 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 |
 | 69 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
 | 70 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
 | 71 | [Tu mundo al revés](https://open.spotify.com/track/2BmAsbXWfUCLmuTSoRKvFy) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/4ARJfbBo30TOBB7n1M9IUE) | 3:44 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 78 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 79 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 80 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 |
-| 81 | [Fuego y Mar](https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Cuestiónalo Todo](https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT) | 3:44 |
-| 82 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 81 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 82 | [Fuego y Mar](https://open.spotify.com/track/632EQlodzA2oI40ZjZYa2n) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Cuestiónalo Todo](https://open.spotify.com/album/01VuGsVLgIYVbsh1TDPvhT) | 3:44 |
 | 83 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
 | 84 | [No Me Esperes Más](https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [No Me Esperes Más](https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV) | 3:11 |
 | 85 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 87 | [Dormir En Cadenas](https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Nuevos Paisajes](https://open.spotify.com/album/35sSZGSyZEcHMkNPcAZuHB) | 4:29 |
 | 88 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
 | 89 | [Eclipse](https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Eclipse](https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I) | 5:19 |
-| 90 | [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 |
+| 90 | [Diva](https://open.spotify.com/track/4XA016W1NpyZrKW0rzmip8) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Diva](https://open.spotify.com/album/207ZNb5QEsdVRPGwB5iS3l) | 3:24 |
 
-Snapshot ID: `MCw1YjNmNTQ1M2U5NDY3YThhYzg4YmJiZjM5YzljOTY1MmFhYjZjYjM5`
+Snapshot ID: `MCxkZTkyMDVhMzQzYzEwNTMwYWZmMWUyN2YyMTdmZGFlNWJlMGIxMWQ1`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 56 min
+95 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 | 2024-01-29 |  |
 | [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 | 2024-01-29 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2024-01-29 |  |
+| [Stay](https://open.spotify.com/track/6EiciPnoJR1o4D0vtaHqjl) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF) | 2:52 | 2024-02-04 |  |
 | [Stay](https://open.spotify.com/track/4esYXHSiNvHxioISETFdtS) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Stay](https://open.spotify.com/album/3gm0AOgoGy4TMNbVUQGm6k) | 2:54 | 2024-01-29 | 2024-02-02 |
 | [Sugar Rush](https://open.spotify.com/track/07jlo8nEfBOOkL3Rn1CTGN) | [Lion Sphere](https://open.spotify.com/artist/0z3YxKBfeFgP4PK1JQAdTw) | [Sugar Rush](https://open.spotify.com/album/1xZHrkLd5Nk9xMouzDEzHK) | 2:44 | 2024-01-29 |  |
 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 | 2024-01-29 |  |

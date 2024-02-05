@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-906 songs - 2 day 1 hr 45 min
+907 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Mi Decisión \- Remix](https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Decisión \(Remix\)](https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS) | 3:20 | 2022-06-27 | 2022-06-30 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-12 |  |
 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 | 2021-03-27\* | 2021-06-27 |
+| [Mi Palabra Contra la de Ellos \- En Vivo](https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Señorazo \(En Vivo\)](https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2) | 3:01 | 2024-02-04 |  |
 | [Mi Renuncia](https://open.spotify.com/track/4DbYIhHsCSzuraEvrbzl0k) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Que Sea un Motivo \(30 Años de Vida Artística\)](https://open.spotify.com/album/4vWUGT7oPoxqJ6f4kMb80E) | 3:20 | 2022-07-28 | 2022-07-30 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-25 | 2024-01-07 |
 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/1iLbUmb2b2btyAAcQ68a1p) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/album/5NwbUP5QkkMndzwJp9kkxr) | 3:09 | 2023-10-07 | 2023-11-04 |
@@ -871,7 +872,7 @@
 | [Vidax](https://open.spotify.com/track/3VT3Pp9b6rnMBtCisGdspb) | [The Willsi](https://open.spotify.com/artist/4MbvF2hlj5qeYCY7QXPzvB), [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Vidax](https://open.spotify.com/album/7HY9TCqPP7xQhyWoRpErhP) | 2:31 | 2022-11-02 | 2022-11-19 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-14 | 2022-08-25 |
 | [VIP Feat\. Totoy El Frio](https://open.spotify.com/track/37PGGNAF1QheeikFCvwqFI) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [VIP Feat\. Totoy El Frio](https://open.spotify.com/album/3gLMROXvvqfEly0VFvYQcB) | 4:05 | 2022-07-30 | 2022-08-01 |
-| [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 | 2023-11-11 |  |
+| [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 | 2023-11-11 | 2024-02-05 |
 | [Vispera de Año Nuevo](https://open.spotify.com/track/6mJpNBja0Ao9P5QJ9qq4Xr) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Exitos de Navidad y Año Nuevo](https://open.spotify.com/album/4ZmmY0dxnt7ez55Vz97GSf) | 2:32 | 2023-12-26 | 2024-01-04 |
 | [VISTA AL MAR](https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:00 | 2023-01-21 | 2023-03-15 |
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-11-29 | 2023-01-24 |

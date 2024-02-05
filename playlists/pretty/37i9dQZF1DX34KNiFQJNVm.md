@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho com Ana Castela, LUDMILLA com Mari Fernandez, Teto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,388 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,863 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 26 | [Tá no seu DNA \- Ao Vivo](https://open.spotify.com/track/0WpqRUBTj5qORZGrURMO9X) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá no seu DNA \(Ao Vivo\)](https://open.spotify.com/album/39wu1Gl4VI16gGPz1z9O7I) | 2:54 |
 | 27 | [Coração Âncora](https://open.spotify.com/track/2PIRztrsPMBPRyxMqKaEj9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Coração Âncora](https://open.spotify.com/album/75qI9jXApNfjOtkhxUr71P) | 2:31 |
 | 28 | [Calor Dobrado](https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Calor Dobrado](https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ) | 2:36 |
-| 29 | [Cruz de Ouro](https://open.spotify.com/track/22Y7uQ0pZ15zCasVWQUqev) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [LV](https://open.spotify.com/artist/5oOPlkoWKtkI7m0RuCaJxy) | [Cruz de Ouro](https://open.spotify.com/album/0PwQ89mXzz5uDdFkigKM19) | 2:55 |
+| 29 | [Cruz de Ouro](https://open.spotify.com/track/22Y7uQ0pZ15zCasVWQUqev) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Cruz de Ouro](https://open.spotify.com/album/0PwQ89mXzz5uDdFkigKM19) | 2:55 |
 | 30 | [Pavio Curto](https://open.spotify.com/track/3IlP1RAFlEACmDa4gsinnE) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Cold](https://open.spotify.com/artist/2yj5kYctrH6DViY3gKGUUm), [Dael](https://open.spotify.com/artist/6Uy2GiLcsMHecZeLAO2vWB), [izzat](https://open.spotify.com/artist/062i8CdoT1K5E18Ai4YwVE) | [Pavio Curto](https://open.spotify.com/album/0wfMwiJ0ULaky0Sb6nUCdX) | 3:55 |
 | 31 | [Ô Saudade Que Eu Tô](https://open.spotify.com/track/7duFrr838rZLvo7DkqZ0Ja) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG) | [Ô Saudade Que Eu Tô](https://open.spotify.com/album/2WNCkSAwcOzZUQhIwabMKX) | 2:55 |
 | 32 | [7 Garrafas de Gin](https://open.spotify.com/track/55A313IQGBKORt2EEgOM3X) | [Pedro Valoura](https://open.spotify.com/artist/5krhVnFX3kezL7eTCCvfWX), [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA) | [7 Garrafas de Gin](https://open.spotify.com/album/4PydrKEfn9YtAZtj1pCmYa) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Quando For Amor](https://open.spotify.com/track/6PsCWmX6LF9LoXJkUpqyAM) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quando For Amor](https://open.spotify.com/album/0Q9JIvxHTagHY3HTHKpYf5) | 3:47 |
 | 75 | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/track/6lVxenf5o3TB78HuqoEQqa) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw), [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg), [Moacyr Luz](https://open.spotify.com/artist/5VdzirhEjTkESMJw5sfbJN) | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/album/29IZBbR8KDO3JVOzE1Q03V) | 4:51 |
 
-Snapshot ID: `MCwyOGIzYmQ5Zjk0YzY0M2QxMTg1MWU2MTAyOGU0Yjg3ODQzZGFkZjBj`
+Snapshot ID: `MCxmMWYyZTY3Yjk5N2Y0NTE5ZjU1MWNhZWI4ZDM4YzhmZjIyMTJiODYy`

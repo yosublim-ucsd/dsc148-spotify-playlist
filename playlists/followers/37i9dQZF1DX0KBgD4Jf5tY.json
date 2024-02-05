@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 7945,
+  "2024-02-05": 7948,
   "date_first_scraped": "2022-01-09",
   "description": "Il meglio della musica indipendente italiana, aggiornata il terzo mercoled\u00ec di ogni mese. Cover: <a href=\"spotify:artist:0PvxzN9MSvVMYj0b0fuwzA\">Arianna Pasini</a>",
   "name": "Fresh Finds Italia",
@@ -3505,10 +3505,32 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 209110,
       "name": "Cattedrale",
       "url": "https://open.spotify.com/track/1TgzFBLwSxINLbMD8u4UgB"
+    },
+    {
+      "album": {
+        "name": "Inverno cenere",
+        "url": "https://open.spotify.com/album/2fPmkP5HVQpgf1DMJvFsba"
+      },
+      "artists": [
+        {
+          "name": "Brando Madonia",
+          "url": "https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh"
+        },
+        {
+          "name": "CARBONE",
+          "url": "https://open.spotify.com/artist/4H2y2DozNgECCjo87R1K1J"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209110,
+      "name": "Cattedrale",
+      "url": "https://open.spotify.com/track/69jgzHyONnInQo86OfEmtg"
     },
     {
       "album": {

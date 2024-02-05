@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 
 > Os hits do rock internacional e nacional estão reunidos nesta playlist\. Foto: Eddie Van Halen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,615 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,309 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmaoFmN75bi.md) - [plain]
 | 99 | [Rock Brigade \- Live On The BBC Radio One Friday Rock Show](https://open.spotify.com/track/5HBquPIN5WKhGch1AKFD9u) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [The Early Years](https://open.spotify.com/album/3ozS6TLtjaZko3cPAwvmAd) | 2:42 |
 | 100 | [Special K](https://open.spotify.com/track/0W6QtgkxPNJ7simo1UcBIr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Black Market Music](https://open.spotify.com/album/0PhJJToPch4jCjrfQjyarw) | 3:52 |
 
-Snapshot ID: `MCw5YTY1MTFhYmY2ODc2YmU2NjM4NDQ0ZTRhOTM2M2I0MWNmM2ViYWMw`
+Snapshot ID: `MCw5YzM1OTFhYjUwNWVjYzQxY2JiZGYzZDdlZGFhYTVlMTQ5Mjc1NmQx`

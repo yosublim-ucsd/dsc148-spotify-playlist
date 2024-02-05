@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 
 > This is Bruno Mars\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,765,486 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,764,888 likes - 42 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 13 | [Nothing on You](https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [May 25th](https://open.spotify.com/album/1aRkJ2n9HsHuyakKVXaMe6) | 1:47 |
 | 14 | [Nothin' on You \(feat\. Bruno Mars\)](https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 4:28 |
 | 15 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
-| 16 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
-| 17 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn) | 3:31 |
+| 16 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn) | 3:31 |
+| 17 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
 | 18 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 19 | [Grenade](https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:42 |
 | 20 | [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 41 | [24K Magic \- R3hab Remix](https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [24K Magic \(R3hab Remix\)](https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK) | 2:38 |
 | 42 | [Catch a Grenade \- The Hooligans Remix](https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 3:30 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjYTRkMzBmNWM5ZDlmNDI4Yzc4Mjg5OWE2NjQ4MjlmZQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBiZmMzMzdlODRjZGZjYmJjNTcyZDkwNThiM2U3MWFhMw==`

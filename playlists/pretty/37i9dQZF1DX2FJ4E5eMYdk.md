@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,650 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,680 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 13 | [Little White Dove](https://open.spotify.com/track/6GmpADghIK0gLem1FS2VGJ) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:49 |
 | 14 | [Amoeba \- Recorded At Electric Lady Studios](https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:44 |
 | 15 | [Imma Let My Body Move](https://open.spotify.com/track/3SQjRTSwHPDqTeenwzSqHq) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:45 |
-| 16 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
-| 17 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
+| 16 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
+| 17 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 18 | [Loading Zones](https://open.spotify.com/track/0Z6W8GqZLM7DmgKp2jY6Pd) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL) | 3:23 |
 | 19 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 20 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 21 | [Some Sunsick Day](https://open.spotify.com/track/7kXJUbAAPx2Bc4tKASpV5T) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/2B3pV6PcT7nwqrWrheOqWP) | 5:11 |
 | 22 | [O.N.E.](https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:40 |
 | 23 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
-| 24 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
-| 25 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 |
+| 24 | [Lady Luck](https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Atlantic Ocean](https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO) | 4:18 |
+| 25 | [Green & Gold](https://open.spotify.com/track/4VPpZXXeZHfpzvHNaPjLcF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 4:38 |
 | 26 | [250 Miles](https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi) | 4:52 |
 | 27 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 28 | [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 33 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
 | 34 | [Listening In](https://open.spotify.com/track/46D2L5WkfinP6scJ7sLX3Z) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:55 |
 | 35 | [The Roundabout](https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Golden Sings That Have Been Sung \(Deep Cuts Edition\)](https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6) | 4:41 |
-| 36 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
-| 37 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
+| 36 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
+| 37 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 38 | [Goodbye Summer](https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5) | [Shannon Shaw](https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq) | [Shannon In Nashville](https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt) | 2:43 |
 | 39 | [Replica](https://open.spotify.com/track/6oWRYpDQbgl8N6gkb5KSkR) | [Cory Hanson](https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6) | [The Unborn Capitalist From Limbo](https://open.spotify.com/album/21UK10eBA1kdKwRDON3q7H) | 4:08 |
 | 40 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 55 | [Far out Feeling](https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:38 |
 | 56 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
 | 57 | [That's Why](https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [Banshee](https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt) | 4:13 |
-| 58 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
-| 59 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
+| 58 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
+| 59 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
 | 60 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
 
-Snapshot ID: `MCxlMjg0ZDdiMTgwNGIxMWVlNjVkMWY3Mjc5NTQxMDFmMmRlNzQxNzhh`
+Snapshot ID: `MCxkM2NkYzY2NjlmNGI2YWE0YzRhZGNkNjUxNDk1NTJjMjZjOWM2YWFl`

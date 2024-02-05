@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,120 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,402 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 44 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 |
 | 45 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 |
 | 46 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
-| 47 | [Khssara](https://open.spotify.com/track/4ZZg7deE4lu08qr1aXnCTV) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/3OhQgzqTqTI71TnKR7R9pR) | 2:26 |
+| 47 | [Khssara](https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Khssara](https://open.spotify.com/album/1svd34TFBJ8ZfDFtuJZqUJ) | 2:32 |
 | 48 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 |
 | 49 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 |
 | 50 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 |
 
-Snapshot ID: `MCxkZmZlNDY0NGQ5YjM0ZDBiZjkzM2EyY2MwMjA2NDIxNDYwNjU1MTE5`
+Snapshot ID: `MCw3N2M4YjY4NWZkODU0OWIxMTY3ODZkMWNjZjUzYjgzMzU0ZGNiYjg3`

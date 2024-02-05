@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-331 songs - 19 hr 41 min
+332 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
 | [With U \(《男生男生配 Boys Like Boys》節目主題曲\)](https://open.spotify.com/track/4PMTllvedph40YFXskSmqV) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [With U](https://open.spotify.com/album/3kNZ0vA64unelkAEcpSiPs) | 2:36 | 2023-10-30 | 2023-11-28 |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
-| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 |  |
+| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 | 2024-02-05 |
 | [YOU SO PRETTY](https://open.spotify.com/track/7HgoxH8kyUWZZTS1o93XL6) | [溫璽揚](https://open.spotify.com/artist/2Fijvd4HSZroOdzEapceP1), [張婧](https://open.spotify.com/artist/5NPtjVTLt3DJmi5hOir6Gl) | [YOU SO PRETTY](https://open.spotify.com/album/6kqM8kHLwbqNytMzU8TuDN) | 3:23 | 2024-01-29 | 2024-01-30 |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 | 2024-01-12 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
@@ -96,6 +96,7 @@
 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 | 2022-08-15 |  |
 | [今晚嫁给我吧](https://open.spotify.com/track/479DlRu66IKVo9aENXdgRC) | [Chen Linong](https://open.spotify.com/artist/33L43pzLHkc0qhwnfPLWAt), [王彦霖](https://open.spotify.com/artist/1IOPUaQQonu28bwceG2kgU) | [今晚嫁给我吧](https://open.spotify.com/album/7x6BMToWLH2zObuxAgSZBa) | 3:59 | 2022-06-27 | 2022-07-17 |
 | [他来时的脚步](https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [嘟声后请留恋](https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2) | 3:03 | 2022-10-17 | 2023-01-10 |
+| [任性](https://open.spotify.com/track/67mW5GPTpEMBBS6KInmsYP) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Lennerd](https://open.spotify.com/artist/1k262uxFEei0Hjh3Z4WRdd) | [任性](https://open.spotify.com/album/6pwZo1wiIsDC557Di6vZ9z) | 2:53 | 2024-02-05 |  |
 | [任性點你](https://open.spotify.com/track/1mOpQrs0PwfALgqn8Mj6vE) | [楊淨宇](https://open.spotify.com/artist/6vzKW5EhkqIiFD3hoxU9Vb) | [任性點你](https://open.spotify.com/album/1UZm63FfvSI9ausbsqbpAt) | 3:11 | 2022-12-06 | 2022-12-13 |
 | [低頭戰](https://open.spotify.com/track/3PZHvFk65YHEhbXtI5T82Q) | [Amber An](https://open.spotify.com/artist/3a5LC9P4JzYWSWo6npWQsw), [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [低頭戰](https://open.spotify.com/album/1wCDig0yqUA0eP8tepQUv4) | 3:22 | 2022-06-06 | 2022-06-13 |
 | [住進你心窩](https://open.spotify.com/track/2dlgLXOZ4dLxOzQPEnjCV5) | [艾成](https://open.spotify.com/artist/2I8PVhkliy7HQXjblxm15w), [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY), [謝俊奇](https://open.spotify.com/artist/2YH8D70CBnOGuDegklDuLK) | [艾成的異想世界](https://open.spotify.com/album/2sl0Yv2sW69M9IavFZfczJ) | 3:49 | 2022-07-04 | 2022-07-29 |

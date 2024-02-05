@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 離婚伝説 \*👉 <a href="https://spice.eplus.jp/articles/325945?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,979 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,991 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [スイカ](https://open.spotify.com/track/0E9kvZOvFBKfZFxSVa6hnu) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Uri Nakayama](https://open.spotify.com/artist/2sF48SGYclMSUiGNj8x34b) | [SONORAS](https://open.spotify.com/album/3TIyWiEiWdbRPdgNsqoa4H) | 3:45 |
 | 80 | [Long Night out \- アツムワンダフル Recreation](https://open.spotify.com/track/0iyJmh8QdhR0ChB97XjH7k) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6), [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW) | [Long Night out \(アツムワンダフル Recreation\)](https://open.spotify.com/album/0OxxY99Tn9n5Miz4ZQZR36) | 4:20 |
 
-Snapshot ID: `MCxmNDI1MGMxNGNhMTJlYTFiNDVkODUwYjY5MmQ3NGM5N2RmZTYwYzgy`
+Snapshot ID: `MCxlMjk4ZTU2ZWJhMzc2YWFkNWIzODBjZjk4ZDVmZmMzMmMzOGRmNzY0`

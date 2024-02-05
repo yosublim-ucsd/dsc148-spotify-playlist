@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Michael Marcagi",
-  "num_followers": 71883,
+  "num_followers": 71920,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODQzYzQzOTU5NGFhNDY3ODY3NGExYmVkZTFiNzc1Nzg3Njg3Mjg5",
+  "snapshot_id": "MCxkZGQyZTcxMzlmNTliYzZlYjVjMjYxYjcxYWNlZDAyNWYyODYzMDBh",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 178573,
       "name": "London's Song",
       "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "How Much Longer?",
@@ -711,6 +695,22 @@
       "duration_ms": 243798,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Hello",
@@ -861,20 +877,20 @@
       "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+        "name": "Prospect",
+        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -895,18 +911,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Prospect",
-        "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -975,34 +991,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Never Learned To Dance",
+        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+      "duration_ms": 224080,
+      "name": "Never Learned To Dance",
+      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Never Learned To Dance",
-        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Never Learned To Dance",
-      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 203826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "No California",
         "url": "https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Last Man On Earth",
-        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 188813,
-      "name": "Last Man On Earth",
-      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 150180,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Last Man On Earth",
+        "url": "https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY"
+      },
+      "artists": [
+        {
+          "name": "Anna Bates",
+          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Last Man On Earth",
+      "url": "https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "You'd Never Know",
         "url": "https://open.spotify.com/album/11jeNPW1g0dK41iAtTb3uD"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 205317,
       "name": "You'd Never Know",
       "url": "https://open.spotify.com/track/1xE6GyHqCNnwiaraaLoK7f"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Witness (feat. Rajiv Dhall)",
-        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        },
-        {
-          "name": "Rajiv Dhall",
-          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Witness - feat. Rajiv Dhall",
-      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Witness (feat. Rajiv Dhall)",
+        "url": "https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        },
+        {
+          "name": "Rajiv Dhall",
+          "url": "https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Witness - feat. Rajiv Dhall",
+      "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

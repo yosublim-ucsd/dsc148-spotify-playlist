@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 
 > Rimas finas para inspirarte en el jale.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,311 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,390 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 44 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 45 | [Par de Dosis](https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Par de Dosis](https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2) | 3:51 |
 | 46 | [Si Te Vienen a Contar](https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 3:39 |
-| 47 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
-| 48 | [Si Nunca Va a Amanecer](https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:33 |
+| 47 | [Si Nunca Va a Amanecer](https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:33 |
+| 48 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
 | 49 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 |
 | 50 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 |
 | 51 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjXJCPYoIua.md) - [plain]
 | 97 | [Neighborhood Music](https://open.spotify.com/track/1R2cccY1X0AKX6TugUKeZ5) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Neighborhood Music](https://open.spotify.com/album/3TcZqHDaNIFCTogCqRTd4E) | 4:11 |
 | 98 | [Borrachos Y Grifos](https://open.spotify.com/track/4Moj88SKkcxqFmBLpovzzB) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Borrachos Y Grifos](https://open.spotify.com/album/4g6oslb6tvmkt0NHdstmOP) | 5:16 |
 | 99 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
-| 100 | [Último Adiós](https://open.spotify.com/track/62NGexdWmThjmnnlobPev4) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq) | 4:18 |
+| 100 | [Mamacita](https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Sin Corte](https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ) | 3:37 |
 
-Snapshot ID: `MCxjODgzODNlNTZkZDY1NTYyNTVhZTMwNTQyNzQ3YWRjYjVmNWY0ZjIy`
+Snapshot ID: `MCw1MGU1ZjAwZGMwYjgzM2M5ZmMzZTAyOWQwNjhhNmRkNTE3ZDE1Mjdk`

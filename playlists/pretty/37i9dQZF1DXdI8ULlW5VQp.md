@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,031 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,059 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 19 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 20 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 21 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 |
-| 22 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
-| 23 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 22 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 23 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
 | 24 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 | 25 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
 | 26 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 68 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
 | 69 | [Qué Es Amor? My Love](https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX) | [CoolestAndie](https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr) | [Qué Es Amor? My Love](https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y) | 3:34 |
 | 70 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
-| 71 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
-| 72 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
+| 71 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
+| 72 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
 | 73 | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/track/55V2INjfekUKprOLzWb9Q1) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Parará \(Ya Estás Aquí\)](https://open.spotify.com/album/6Zg8f2tHcjjs4Fw2c4VNbG) | 2:53 |
 | 74 | [Despeinada](https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz) | [Bala](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Despeinada](https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A) | 3:29 |
 | 75 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
 
-Snapshot ID: `MCxiNDExZTY4ODI5NDQzYTYzN2YyMDc2ZjU3M2QwNjA0NWQ4YWFkNWFl`
+Snapshot ID: `MCw4NTY2OTViODM1ZWM3MjM5MmE3NTM5YzI0MDRjNGE2MWI3ZGQ2MzBm`

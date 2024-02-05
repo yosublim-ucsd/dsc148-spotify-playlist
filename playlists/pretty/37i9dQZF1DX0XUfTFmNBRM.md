@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Animal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,987 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,323 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj) | 3:50 |
 | 50 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 
-Snapshot ID: `MCwwZDExYzlmYmRlNjBlOWE4MmExNzNiNDQ5MDdjNTM0OTBhYjA0NTJm`
+Snapshot ID: `MCxmY2JiMDJhYjViMTlkNDYwM2QzMzhlMzllZDA3M2EyMDllYTE5ODY0`

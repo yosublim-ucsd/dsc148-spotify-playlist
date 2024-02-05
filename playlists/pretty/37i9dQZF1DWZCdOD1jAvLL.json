@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 233066,
+  "num_followers": 233141,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzRiNDU3ZmQyOTUzNWZlYTJjYTQ0MWM4YTllNjFhYWU3ZTRjZWNi",
+  "snapshot_id": "MCwzNGM1N2E2MjQ2YTNiMTM2ZTgxZGJhMDA1MTdjM2E2ZDg1ZTRhYzA1",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Softly (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 137142,
       "name": "Softly - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Ecstasy Of Soul",
+        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Ecstasy Of Soul",
+      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -1327,22 +1347,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Ecstasy Of Soul",
-        "url": "https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8"
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
         },
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Ecstasy Of Soul",
-      "url": "https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8"
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1367,30 +1391,6 @@
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1567,22 +1567,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
         }
       ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1607,6 +1611,26 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1667,30 +1691,6 @@
       "duration_ms": 182109,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
-        }
-      ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "Infraliminal",
         "url": "https://open.spotify.com/album/3RoWzELirpqIEBueczpnNF"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 266600,
       "name": "Infraliminal",
       "url": "https://open.spotify.com/track/7syNqxCLAQZzQlkRyJIfDr"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Motor",
-        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Motor",
-      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 152651,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -2511,22 +2527,6 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 152651,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR"
     },
     {
       "added_at": "2024-01-19 05:00:00",

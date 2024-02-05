@@ -1,18 +1,18 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1813188,
+  "num_followers": 1812894,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjZjNDY3NGFiNGJhMDBjYWU3MzdjY2Y1ZjgxZjhiYjZlMmUyZTMx",
+  "snapshot_id": "MCxkNDE2Y2FlZmI0ZTgzYTZjMDRlZDBkYzliZDY4MDk3NWMzMzczNjI0",
   "tracks": [
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 209266,
+      "name": "El Vals Del Olvido",
+      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -179,8 +179,8 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 209266,
-      "name": "El Vals Del Olvido",
-      "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/4IBO8BpS6FnMrud4jtMRnL"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/2vj3BAmA5hHlqLwofWN0aV"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209770,
       "name": "El Peor De Tus Antojos",
       "url": "https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Cuando Fuimos Nada",
-      "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 209906,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Hasta El D\u00eda De Hoy",
-      "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Las M\u00e1s Perronas de Banda",
-        "url": "https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu"
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
       "artists": [
         {
-          "name": "DCO",
-          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Muchas Gracias",
-      "url": "https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H"
+      "duration_ms": 235480,
+      "name": "Hasta El D\u00eda De Hoy",
+      "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+        "name": "Las M\u00e1s Perronas de Banda",
+        "url": "https://open.spotify.com/album/5YaunEHdo66ZySyG3kGhNu"
       },
       "artists": [
         {
-          "name": "Germ\u00e1n Montero",
-          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+          "name": "DCO",
+          "url": "https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Amantes Escondidos",
-      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
+      "duration_ms": 183093,
+      "name": "Muchas Gracias",
+      "url": "https://open.spotify.com/track/0hMrhXemQsyYON48v8k21H"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1619,6 +1603,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Montero",
+          "url": "https://open.spotify.com/artist/2mJLFoa2cRqCZHL6MZNaak"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Amantes Escondidos",
+      "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Homenaje A Ramon Ayala",
-        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 225573,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
+        "name": "Homenaje A Ramon Ayala",
+        "url": "https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 187906,
       "name": "Indeleble",
       "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Un loco solitario",
-      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
+    },
+    {
+      "added_at": "2023-11-08 20:27:36",
+      "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
         "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
       },
@@ -1831,8 +1847,8 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
       },
       "artists": [
         {
@@ -1840,9 +1856,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 176169,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -1911,24 +1927,8 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": "2023-11-08 20:27:36",
-      "album": {
-        "name": "Pistear, Pistear",
-        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
+        "name": "No Es Culpa Tuya",
+        "url": "https://open.spotify.com/album/4oyXLvtE4i7IdWZ48mtFvE"
       },
       "artists": [
         {
@@ -1936,9 +1936,9 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 213946,
-      "name": "\u00bfD\u00f3nde Estas Presumida?",
-      "url": "https://open.spotify.com/track/7ogYqVSJhPbaBWXZG2jo9m"
+      "duration_ms": 240546,
+      "name": "\u00bfY Qu\u00e9 Ha Sido De Ti?",
+      "url": "https://open.spotify.com/track/59tKEqqo6UD8LlMZ9W1rvt"
     },
     {
       "added_at": "2023-11-08 20:27:36",
@@ -2055,8 +2055,8 @@
     {
       "added_at": "2023-11-08 20:27:36",
       "album": {
-        "name": "No Es Culpa Tuya",
-        "url": "https://open.spotify.com/album/4oyXLvtE4i7IdWZ48mtFvE"
+        "name": "Pistear, Pistear",
+        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
       },
       "artists": [
         {
@@ -2064,9 +2064,9 @@
           "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 240546,
-      "name": "\u00bfY Qu\u00e9 Ha Sido De Ti?",
-      "url": "https://open.spotify.com/track/59tKEqqo6UD8LlMZ9W1rvt"
+      "duration_ms": 213946,
+      "name": "\u00bfD\u00f3nde Estas Presumida?",
+      "url": "https://open.spotify.com/track/7ogYqVSJhPbaBWXZG2jo9m"
     },
     {
       "added_at": "2023-11-08 20:27:36",

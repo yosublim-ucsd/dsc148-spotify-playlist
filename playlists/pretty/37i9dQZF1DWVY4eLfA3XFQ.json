@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Mau P",
-  "num_followers": 606527,
+  "num_followers": 606566,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjllNjgyZTc0OTkyMTQ5MzhiY2M3NjI2NDAyOWM4OTFkNTM1NmYw",
+  "snapshot_id": "MCwyMWQxNTMxZDkyM2NkYzEyOTlkYzAyMGRkMjRjNmE5ZTEzMDBjNjI5",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -889,24 +889,24 @@
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
       "added_at": "2024-01-23 21:25:14",
@@ -929,24 +929,24 @@
       "url": "https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Ready To Go (My Addiction)",
-        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 144390,
-      "name": "Ready To Go (My Addiction)",
-      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
         "name": "Up N' Down (feat. JmNPR)",
         "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1449,26 +1449,6 @@
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Funk You Want",
-        "url": "https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 167163,
-      "name": "The Funk You Want",
-      "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
-    },
-    {
       "added_at": "2024-01-19 05:00:00",
       "album": {
         "name": "Cruel Intentions",
@@ -1491,6 +1471,46 @@
       "duration_ms": 222273,
       "name": "Cruel Intentions",
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Funk You Want",
+        "url": "https://open.spotify.com/album/6lUIgHmDWEuFJK5q6uIoXx"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 167163,
+      "name": "The Funk You Want",
+      "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1517,26 +1537,6 @@
       "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Dale",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Weeping Willow",
@@ -1595,6 +1579,22 @@
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
       "added_at": "2023-12-29 05:00:00",
@@ -1753,6 +1753,26 @@
       "url": "https://open.spotify.com/track/1MTPO4CMGIhHBocGVwVckD"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "I Want Your Soul (Mau P Remix)",
+        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "I Want Your Soul - Mau P Remix",
+      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
+    },
+    {
       "added_at": "2024-01-05 05:00:00",
       "album": {
         "name": "Little Perk",
@@ -1783,26 +1803,6 @@
       "duration_ms": 181875,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/1bXgTBNfGgKw20IsS3P37o"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "I Want Your Soul (Mau P Remix)",
-        "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "I Want Your Soul - Mau P Remix",
-      "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1901,22 +1901,6 @@
       "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
-      },
-      "artists": [
-        {
-          "name": "Jenn Getz & Alfie",
-          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Paris to Milan",
@@ -1935,6 +1919,42 @@
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 264996,
+      "name": "More Baby - VIP Mix",
+      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1959,26 +1979,6 @@
       "duration_ms": 198469,
       "name": "Drums (Feat. Kim Petras) - Wh0 Remix",
       "url": "https://open.spotify.com/track/6MMWo7QxyXXmwT39mmLhVJ"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 264996,
-      "name": "More Baby - VIP Mix",
-      "url": "https://open.spotify.com/track/4ddRKTrv4fXl47Jzigwyit"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Dive In (feat. Notelle)",
-        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Dive In (feat. Notelle)",
-      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "PLAY SOME RECORDS",
         "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
       },
@@ -2151,6 +2131,26 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dive In (feat. Notelle)",
+        "url": "https://open.spotify.com/album/1GTv5ZKph34mZHssztNvVe"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Dive In (feat. Notelle)",
+      "url": "https://open.spotify.com/track/27sxAuxRyXYwhwjPA5L0af"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2257,6 +2257,26 @@
       "url": "https://open.spotify.com/track/7aasXv1PUt4t0DLo2nGzMV"
     },
     {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Give Me A Sign",
+        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Give Me A Sign",
+      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
+    },
+    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Bad Bassline",
@@ -2277,6 +2297,22 @@
       "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Feel The Need",
+        "url": "https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 215646,
+      "name": "Feel The Need",
+      "url": "https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Good God (Sunnery James & Ryan Marciano Remix)",
@@ -2295,42 +2331,6 @@
       "duration_ms": 149280,
       "name": "Good God (Sunnery James & Ryan Marciano Remix)",
       "url": "https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Feel The Need",
-        "url": "https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 215646,
-      "name": "Feel The Need",
-      "url": "https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Give Me A Sign",
-        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Give Me A Sign",
-      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
     },
     {
       "added_at": "2024-01-19 05:00:00",

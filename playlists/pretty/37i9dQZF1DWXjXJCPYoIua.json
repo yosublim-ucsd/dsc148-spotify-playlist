@@ -1,12 +1,12 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 112311,
+  "num_followers": 112390,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODgzODNlNTZkZDY1NTYyNTVhZTMwNTQyNzQ3YWRjYjVmNWY0ZjIy",
+  "snapshot_id": "MCw1MGU1ZjAwZGMwYjgzM2M5ZmMzZTAyOWQwNjhhNmRkNTE3ZDE1Mjdk",
   "tracks": [
     {
       "added_at": "2023-10-20 01:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Si Nunca Va a Amanecer",
-      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1935,22 +1935,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
+        "name": "Sin Corte",
+        "url": "https://open.spotify.com/album/6u1jmCdZsZTaLQywoAdVsZ"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Smoky",
+          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
         }
       ],
-      "duration_ms": 258100,
-      "name": "\u00daltimo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/62NGexdWmThjmnnlobPev4"
+      "duration_ms": 217440,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/2NngcJXkyG5Mo6OO3775r0"
     }
   ],
   "unique_name": "Chambeando con Hip-Hop",

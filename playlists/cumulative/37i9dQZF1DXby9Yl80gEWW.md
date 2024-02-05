@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-250 songs - 15 hr 25 min
+251 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2022-07-29 | 2022-09-12 |
 | [Fine Times at Our House](https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 2:17 | 2021-12-03 | 2022-07-27 |
 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 | 2023-07-14 | 2023-09-14 |
+| [Firewood](https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Passages and Partings](https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx) | 3:30 | 2024-02-02 |  |
 | [First And Last Waltz](https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 1:53 | 2021-12-03 |  |
 | [Fisher's Hornpipe](https://open.spotify.com/track/6ugHF9FZMsDMQVCTHH6NFQ) | [Pretty Little Goat](https://open.spotify.com/artist/0S9WaFIgDMqkkWn0H8pGIB) | [Big Storm](https://open.spotify.com/album/1eRifq2mP6LmSV5IluOyxr) | 3:27 | 2022-03-25 | 2022-07-07 |
 | [Foggy Morning Breaking](https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Todd Phillips](https://open.spotify.com/artist/2cyuIVFHVuM00QdzCyxbUs) | [Foggy Morning Breaking](https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7) | 3:40 | 2023-03-24 |  |
@@ -129,7 +130,7 @@
 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-12-03 | 2023-12-24 |
 | [In the Kitchen](https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud) | 4:11 | 2023-11-24 |  |
 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 | 2021-12-03 | 2024-01-05 |
-| [Jamboree](https://open.spotify.com/track/153MUfhVPtLQ6vpv91k9qH) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ) | [School Project](https://open.spotify.com/album/1AVQTlOkCpgYHUMyF7HxrG) | 2:17 | 2023-11-24 |  |
+| [Jamboree](https://open.spotify.com/track/153MUfhVPtLQ6vpv91k9qH) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ) | [School Project](https://open.spotify.com/album/1AVQTlOkCpgYHUMyF7HxrG) | 2:17 | 2023-11-24 | 2024-02-05 |
 | [Jerusalem Ridge](https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7) | [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Church Street Blues](https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb) | 3:27 | 2021-12-03 |  |
 | [Joshua](https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Act 1](https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf) | 2:37 | 2021-12-03 | 2023-02-06 |
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2021-12-03 |  |

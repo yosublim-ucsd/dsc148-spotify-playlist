@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,445 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,408 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 62 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
 | 63 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
 | 64 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
-| 65 | [La Última Lágrima](https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke) | [Memphis La Blusera](https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp) | [El Acustico](https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR) | 4:36 |
-| 66 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
-| 67 | [Queso Ruso](https://open.spotify.com/track/0VAHVJlRWcO0XV7d2moiEq) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 4:52 |
+| 65 | [Queso Ruso](https://open.spotify.com/track/0VAHVJlRWcO0XV7d2moiEq) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 4:52 |
+| 66 | [La Última Lágrima](https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke) | [Memphis La Blusera](https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp) | [El Acustico](https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR) | 4:36 |
+| 67 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
 | 68 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
 | 69 | [Desde Lejos No Se Ve](https://open.spotify.com/track/4QdsQSL30AR51ORqBGqbph) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:41 |
 | 70 | [Pulsar](https://open.spotify.com/track/1wKVB62P4Lmk7aI7GL2EXK) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 79 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
 | 80 | [Espadas y Serpientes](https://open.spotify.com/track/6DcmC2JG5bvJ0x2VvhUcKx) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [El Cielo Puede Esperar](https://open.spotify.com/album/2Hq8YjDCJfynzmTgLGVkxJ) | 4:27 |
 
-Snapshot ID: `MCw1YmI5ZmVlODk2ZTE0ZmUwZTkxMjAxZTcxYzVkNTg0ZWU0YWU4NDFm`
+Snapshot ID: `MCwxYjdhMTlhODUxZjVlNDlmZDhkOThmZmM5OGYwNjZmMTJlODk0NzI2`

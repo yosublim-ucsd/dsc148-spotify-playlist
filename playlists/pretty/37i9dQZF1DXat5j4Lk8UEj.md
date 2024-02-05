@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,752 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,568 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 38 | [Stolen Love](https://open.spotify.com/track/30EGaJNnfgjUuw8kj8fuem) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/6pD4TWDrwVvOeC9FxUfRpS) | 3:43 |
 | 39 | [Sanctuary](https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 4:26 |
 | 40 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 |
-| 41 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
-| 42 | [Dreams \(feat\. Judah & The Lion\)](https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:09 |
+| 41 | [Dreams \(feat\. Judah & The Lion\)](https://open.spotify.com/track/6upqycHdFZkd1JzVeqjnGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:09 |
+| 42 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 43 | [All My Friends](https://open.spotify.com/track/2WgbFkQQswVVEWnyKnFo2q) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Take Good Care](https://open.spotify.com/album/10cYvuRfY8IpASva845zgF) | 3:38 |
 | 44 | [I Of The Storm](https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:36 |
 | 45 | [Lemon Tree](https://open.spotify.com/track/0AJQjFdtEEr0rVoCGauYRU) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 4:08 |
 | 46 | [Cautionary Tale](https://open.spotify.com/track/2zEByOH565rMCSacbB56Pd) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/6KPVsHAHibAlnZ2NHHTgyJ) | 3:40 |
 | 47 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 48 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
-| 49 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 50 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
+| 49 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
+| 50 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 51 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 52 | [Requiem](https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf) | 3:33 |
 | 53 | [Puppy and a Truck](https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:11 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 70 | [Absolute Loser](https://open.spotify.com/track/45wGhAr9756RWGrSs35r56) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:51 |
 | 71 | [Running Home to You](https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5) | [Bee Caves](https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK) | [Animals With Religion](https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr) | 3:55 |
 | 72 | [Bad Moves](https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Bad Moves](https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy) | 4:06 |
-| 73 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 |
-| 74 | [Let Go](https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx) | 4:42 |
+| 73 | [Let Go](https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx) | 4:42 |
+| 74 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 |
 | 75 | [How Come My Body](https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Inwards & Onwards](https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO) | 2:18 |
 | 76 | [Jazz on the Autobahn](https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s) | 4:32 |
 | 77 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 99 | [Didn't He Ramble](https://open.spotify.com/track/0PcyGgEAKYaVpND2efXlar) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [A Season On The Line](https://open.spotify.com/album/3WUZZCDyqL7k7TyOb2At4x) | 4:52 |
 | 100 | [Do You](https://open.spotify.com/track/7Haly3Tx3loiBLjxX0XPXO) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT) | 4:08 |
 
-Snapshot ID: `MCw1OGQ2Yjg5MjdmYjAzZmI4NDVhM2Q3YzQ4ZWQzYmY1Zjc5NTc3OGZi`
+Snapshot ID: `MCxlODRhZjU4MjE3MWMwMmE3MzJiYjg3NTU5MDVjZWFkMmMwOTJlMjZj`

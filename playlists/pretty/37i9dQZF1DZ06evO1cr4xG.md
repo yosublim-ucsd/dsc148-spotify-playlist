@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,683 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,689 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 38 | [Blind Leading the Blind](https://open.spotify.com/track/7a6AriexF79dNNhknDluGd) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 4:25 |
 | 39 | [Into the Mouth of Hell We March](https://open.spotify.com/track/3sa04MWD0FcOorbzuGfaTZ) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:52 |
 | 40 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
-| 41 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 42 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
+| 41 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
+| 42 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 43 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 |
 | 44 | [Anthem \(We Are the Fire\)](https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 4:03 |
-| 45 | [Vengeance Falls](https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:13 |
-| 46 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
+| 45 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
+| 46 | [Vengeance Falls](https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:13 |
 | 47 | [Torn Between Scylla and Charybdis](https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 6:49 |
-| 48 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
-| 49 | [No Way to Heal](https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:05 |
-| 50 | [The Ghost That's Haunting You](https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 4:09 |
+| 48 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 |
+| 49 | [Capsizing the Sea](https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 1:30 |
+| 50 | [No Way to Heal](https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:05 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBjY2VlMzVjNDQ2OWI3N2VjMTE1NWIxZWNiYzgwNzJmMQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4NDMzMDk5Yzc4MTlhNWVlNDVhNTY2YWNlM2FjNDZkZA==`

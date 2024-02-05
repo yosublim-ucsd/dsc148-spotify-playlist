@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-589 songs - 1 day 11 hr 6 min
+590 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Fix Your Broken Heart \- Radio Edit](https://open.spotify.com/track/1cAbFYKLj3LfKZn48BdnjS) | [Ty Laramore](https://open.spotify.com/artist/7CNZO6wRBNwheYYMQDVrIF) | [Fix Your Broken Heart \(Radio Edit\)](https://open.spotify.com/album/3ixibQuu7BJS2QtDtR2nPv) | 3:16 | 2022-02-11 | 2022-07-09 |
 | [Fly Tonight](https://open.spotify.com/track/3soZJPbNtUIrgBYc9CsPWe) | [Trent Cowie Band](https://open.spotify.com/artist/4U82Z5ImPvKQF1wgZdhBZE) | [Fly Tonight](https://open.spotify.com/album/0l2J5TE9wOFBgNp106gloM) | 3:11 | 2022-02-11 | 2022-07-24 |
 | [Follow](https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Follow](https://open.spotify.com/album/1UUV1hZtczlx2uFDG8XyrF) | 3:06 | 2022-01-28 | 2022-07-28 |
-| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 |  |
+| [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 | 2021-12-17 | 2024-02-05 |
 | [Fourth of July](https://open.spotify.com/track/44TnVDwCDBGbEehNSWyW3z) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Fourth of July](https://open.spotify.com/album/37VgoIQVRWyv5QvFbJp7MR) | 3:13 | 2023-06-02 | 2023-07-08 |
 | [Free Man](https://open.spotify.com/track/6Mg5RPaHV9OkzmXJQxWBdm) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Free Man](https://open.spotify.com/album/7k5gdTDJnY0xPozkMyHHJ3) | 2:57 | 2022-06-24 | 2022-08-06 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-25 | 2023-09-02 |
@@ -433,6 +433,7 @@
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-02-02 |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 | 2023-01-25 |
+| [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 | 2024-02-02 |  |
 | [Singer's Blues \- Live](https://open.spotify.com/track/30ehnjO6uAZrGz11SYGsi2) | [Cash Byers & Big Valley](https://open.spotify.com/artist/5f8NDIzQmtTHDYJgaUYYVE) | [Singer's Blues \(Live\)](https://open.spotify.com/album/6iyWt1cm2l4ehHcotR5qro) | 3:09 | 2021-12-17 | 2022-07-09 |
 | [Six Pack State of Mind](https://open.spotify.com/track/6ZkE2BsDMMVLUDOH8PiEzD) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Six Pack State of Mind](https://open.spotify.com/album/5E7LKhxVSK9M532Q8azOOy) | 3:10 | 2023-02-24 | 2023-06-03 |
 | [Sleep, My Mind & You](https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Sleep, My Mind & You](https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV) | 3:56 | 2023-02-01 | 2023-02-21 |

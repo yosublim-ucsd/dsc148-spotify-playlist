@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 456069,
+  "num_followers": 456021,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWRmYTczZmZmYmU1OTc1ODE2NDRkYmFiN2Q2YzEzZDQwMzllMDk0",
+  "snapshot_id": "MCwzZGM0ODZkNDgwN2Q1MDRkYjk3ODQ4OTE5NjcyMGZjMmY5YTIzMDE1",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 208533,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Arrow",
         "url": "https://open.spotify.com/album/1mupITVP9mYqKBHjWWDN1W"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 308066,
       "name": "Only for You",
       "url": "https://open.spotify.com/track/4KwvTXx3yR0FA4LGfxD4xP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Candy Eyes",
         "url": "https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 170600,
       "name": "Candy Eyes",
       "url": "https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 293960,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
+      },
+      "artists": [
+        {
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Guitar Beat",
-        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
+        "name": "Help Me To Feel Again",
+        "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
       },
       "artists": [
         {
-          "name": "Prelow",
-          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 205106,
-      "name": "Guitar Beat",
-      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
+      "duration_ms": 262383,
+      "name": "Help Me To Feel Again",
+      "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Help Me To Feel Again",
-        "url": "https://open.spotify.com/album/7JaJz2pFwuOs6XdjydJqAR"
+        "name": "Guitar Beat",
+        "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Prelow",
+          "url": "https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn"
         }
       ],
-      "duration_ms": 262383,
-      "name": "Help Me To Feel Again",
-      "url": "https://open.spotify.com/track/6eYJIGCwT3hFY5Fz8KI8c6"
+      "duration_ms": 205106,
+      "name": "Guitar Beat",
+      "url": "https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
         }
       ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
+      "duration_ms": 267935,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW"
     }
   ],
   "unique_name": "License To Chill",

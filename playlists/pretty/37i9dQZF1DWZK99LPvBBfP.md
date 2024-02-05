@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,348 likes - 80 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,552 likes - 80 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 63 | [Camino Del Sol](https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q) | [Antena](https://open.spotify.com/artist/3apLA4vM37l7KbHOvpyPIc) | [Camino Del Sol](https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1) | 3:42 |
 | 64 | [Leave The World Behind](https://open.spotify.com/track/73jg7bVVMpht7GF1QYVkl5) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Leave The World Behind](https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM) | 6:50 |
 | 65 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
-| 66 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
-| 67 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
+| 66 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
+| 67 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
 | 68 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
 | 69 | [Let the Sun Shine \- Terrace Vocal Radio Edit](https://open.spotify.com/track/18wQx3mWVM5qBVckrLZjj3) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lizzy Pattinson](https://open.spotify.com/artist/1rxn6ryjjQGlWB6onfUZyG) | [Housemusic.De](https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW) | 3:33 |
 | 70 | [Gotta Let You Go \- Original '95 Club Mix](https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR) | 6:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [Stop Bajon \- Club Mix](https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [Acqua E Viento](https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g) | 7:14 |
 | 80 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 
-Snapshot ID: `MCw0ZDRlMzBmZmMxODQyODgxNDEzYWY3OTMyYmEyOWYyNjAyYWZhOTFm`
+Snapshot ID: `MCw3NmU2YjJiZTJhMmJiZDk2NGUyOWU1Yzg3MmFmMDYyYzFjMTVjNWRm`

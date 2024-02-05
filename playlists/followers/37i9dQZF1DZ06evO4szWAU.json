@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 64247,
+  "2024-02-05": 64276,
   "date_first_scraped": "2022-09-09",
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
   "name": "This Is Willie Col\u00f3n",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
@@ -521,6 +521,24 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "album": {
+        "name": "El Malo (Remastered 2024)",
+        "url": "https://open.spotify.com/album/58uINAct6RtN5ZzQj9pUWc"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244604,
+      "name": "Jazzy - Remastered 2024",
+      "url": "https://open.spotify.com/track/1uD4EOq5cVG5qUzgJr11Wc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Fntxy en portada. ",
-  "num_followers": 12876,
+  "num_followers": 12882,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTBmOWU4YjA0ZDg1NWRiMDM0YzAxNTY4ZDZjOTVmMTlkOTViNThi",
+  "snapshot_id": "MCxlNjhlMjYxNmQ5MzA2MTJlZDM4ZjI0NjZiZWQyYzZlM2NmZjkwM2Qx",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -295,46 +295,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
-      },
-      "artists": [
-        {
-          "name": "Unex Msc",
-          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "HOMENAJE",
         "url": "https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts"
       },
@@ -355,6 +315,46 @@
       "duration_ms": 215869,
       "name": "HOMENAJE",
       "url": "https://open.spotify.com/track/02qsYZznhFSX0psInKC7st"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
+      },
+      "artists": [
+        {
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
+        }
+      ],
+      "duration_ms": 184799,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "La Gangsta",
-        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        }
-      ],
-      "duration_ms": 312703,
-      "name": "La Gangsta",
-      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "La Mision 3",
         "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "La Gangsta",
+        "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 312703,
+      "name": "La Gangsta",
+      "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Flavor",
         "url": "https://open.spotify.com/album/1UpSx9vVKsQvl1VfzGtzDR"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "Pasta Pesto",
         "url": "https://open.spotify.com/album/6PypAIwniXvOrXFlZts9c2"
       },
@@ -1415,30 +1439,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Sanchez",
-          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "La Pelicula",
-      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "LATIGO",
         "url": "https://open.spotify.com/album/66IBhhIRxfB1Jj3xzdUfON"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 160524,
       "name": "LATIGO",
       "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Camino Firme",
+        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
+      },
+      "artists": [
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Camino Firme",
+      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1539,46 +1555,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Camino Firme",
-        "url": "https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY"
-      },
-      "artists": [
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "Camino Firme",
-      "url": "https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Gloriax",
-        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Knak",
-          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
-        },
-        {
-          "name": "Tadu V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gloriax",
-      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "Oscura Ciudad",
         "url": "https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2"
       },
@@ -1603,6 +1579,30 @@
       "duration_ms": 135529,
       "name": "Oscura Ciudad",
       "url": "https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Nacimos pa' Ganar",
-        "url": "https://open.spotify.com/album/6EIHEX7mSbyfvemYyLBJEQ"
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
       },
       "artists": [
         {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
         }
       ],
-      "duration_ms": 189836,
-      "name": "Nacimos pa' Ganar",
-      "url": "https://open.spotify.com/track/4DdatyVHq3SaBf7R3PPuey"
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1723,18 +1719,42 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+        "name": "Nacimos pa' Ganar",
+        "url": "https://open.spotify.com/album/6EIHEX7mSbyfvemYyLBJEQ"
       },
       "artists": [
         {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 189836,
+      "name": "Nacimos pa' Ganar",
+      "url": "https://open.spotify.com/track/4DdatyVHq3SaBf7R3PPuey"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
         }
       ],
       "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1751,22 +1771,6 @@
       "duration_ms": 169280,
       "name": "Primero Lo Primero",
       "url": "https://open.spotify.com/track/4XyqGyQSLmBjmWgI2q8wFn"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 242419,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1791,6 +1795,22 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 242419,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lounge",
-      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "\u00c1rtico",
         "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 202162,
       "name": "Cuando te miro",
       "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lounge",
+      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "Furyosa",
-        "url": "https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Furyosa",
-      "url": "https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "B\u00e9same Lento",
         "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 271714,
       "name": "B\u00e9same Lento",
       "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "Furyosa",
+        "url": "https://open.spotify.com/album/1RxwnAQQhI86ZxxtzRGynx"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Furyosa",
+      "url": "https://open.spotify.com/track/5AXYkwNrS0SyXYSJZAWVBw"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-02-02 06:00:00",
       "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
         "name": "El Poder y la Traici\u00f3n",
         "url": "https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 244904,
       "name": "El Poder y la Traici\u00f3n",
       "url": "https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "added_at": "2024-02-02 06:00:00",

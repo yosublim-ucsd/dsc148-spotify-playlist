@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,110 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,848 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 44 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |
 | 45 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 46 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
-| 47 | [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 |
+| 47 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
 | 48 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 49 | [Inflama\-Me](https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Inflama\-Me](https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR) | 6:41 |
 | 50 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 |
 | 51 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 |
-| 52 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
+| 52 | [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 |
 | 53 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 54 | [Quero Ouvir Tua Voz](https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Quero Ouvir Tua Voz](https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v) | 4:24 |
 | 55 | [Oceano de Misericórdia](https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ressonhar](https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4) | 4:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 | 70 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 
-Snapshot ID: `MCxjMDliNmRhZjU2MzE2ZTk2Zjg5MzY0YTY4MzlkYWZmMGZmODdiMTdj`
+Snapshot ID: `MCxjNzRlYzRkOTBhNTRhZTU4NmU3NDY3MTlhMDQ1ZmM1OTU1OGU3YjVj`

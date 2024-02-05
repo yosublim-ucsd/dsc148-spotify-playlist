@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,952 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,959 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 48 | [Words of Life](https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:13 |
 | 49 | [Neighborhoods](https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:33 |
 | 50 | [New Every Morning](https://open.spotify.com/track/1vC1qUFwuDgTlRg89ZMhcH) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:28 |
-| 51 | [It's All About You](https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:02 |
+| 51 | [Just Like Somebody Else](https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:44 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBlODk2MTQ0YjFiZDYxNTBmZTNjN2QxYTc1MzhmZjM2Yg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4MDRjZDRhZTY0MTRjMzEwOGI1NzI3MDE5YzYxMmI4ZQ==`

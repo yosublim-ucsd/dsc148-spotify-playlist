@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 243260,
+  "2024-02-05": 243170,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ireland.",
   "name": "Top 50 - Ireland",
@@ -4015,7 +4015,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
@@ -10328,6 +10328,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -16607,10 +16625,28 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182623,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk"
     },
     {
       "album": {
@@ -20333,6 +20369,24 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r"
+    },
+    {
+      "album": {
+        "name": "Constellations (Expanded)",
+        "url": "https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb"
     },
     {
       "album": {
@@ -25053,7 +25107,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

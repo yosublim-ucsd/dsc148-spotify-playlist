@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 624366,
+  "num_followers": 623974,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmIzOGQwMTc0MWUwYzMyNDc3NGRjZWU3NDBmMzk3YTA2ODhiMmM5",
+  "snapshot_id": "MCxjM2QyNDE5MzQ3ZWNlOGY2NGFhYjQ4ZmFlNTE5NTNkZGY0MjlmOTE5",
   "tracks": [
     {
       "added_at": "2024-02-02 06:37:59",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 254163,
+      "name": "Do You Believe In Love?",
+      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 254163,
-      "name": "Do You Believe In Love?",
-      "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Transitions",
-        "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P"
       },
       "artists": [
         {
-          "name": "Todd Curry",
-          "url": "https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY"
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
         },
         {
-          "name": "B.Slade",
-          "url": "https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
         }
       ],
-      "duration_ms": 224136,
-      "name": "Transitions",
-      "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
+      "duration_ms": 291203,
+      "name": "Trusting God",
+      "url": "https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P"
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
       },
       "artists": [
         {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+          "name": "Todd Curry",
+          "url": "https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY"
         },
         {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW"
+          "name": "B.Slade",
+          "url": "https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt"
         }
       ],
-      "duration_ms": 291203,
-      "name": "Trusting God",
-      "url": "https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0"
+      "duration_ms": 224136,
+      "name": "Transitions",
+      "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1355,26 +1355,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Glory / Stranger",
-        "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
+        "name": "See The Goodness",
+        "url": "https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ"
       },
       "artists": [
         {
-          "name": "The Fisk Jubilee Singers",
-          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
         },
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Shannon Sanders",
-          "url": "https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 210122,
-      "name": "Glory / Stranger",
-      "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
+      "duration_ms": 331223,
+      "name": "See The Goodness (feat. Donnie McClurkin)",
+      "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1395,22 +1391,26 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "See The Goodness",
-        "url": "https://open.spotify.com/album/6XxMWmuECU2uEEChQXXQEZ"
+        "name": "Glory / Stranger",
+        "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
       "artists": [
         {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
         },
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Shannon Sanders",
+          "url": "https://open.spotify.com/artist/44DNDJwAygYFhD3Pd7jOuI"
         }
       ],
-      "duration_ms": 331223,
-      "name": "See The Goodness (feat. Donnie McClurkin)",
-      "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
+      "duration_ms": 210122,
+      "name": "Glory / Stranger",
+      "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 269579,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        }
-      ],
-      "duration_ms": 254069,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "You Kept Me",
         "url": "https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
       },
       "artists": [
         {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
         }
       ],
-      "duration_ms": 269579,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
     },
     {
       "added_at": "2024-02-02 06:37:59",

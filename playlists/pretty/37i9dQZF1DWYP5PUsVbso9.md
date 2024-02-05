@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,879 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,904 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 51 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
 | 52 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 53 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
-| 54 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
-| 55 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
+| 54 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
+| 55 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
 | 56 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 57 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
 | 58 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 87 | [If We're Not Back In Love By Monday](https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Ramblin' Fever](https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX) | 3:16 |
 | 88 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg), [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
 | 89 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
-| 90 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
-| 91 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
+| 90 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
+| 91 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
-| 93 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
-| 94 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
+| 93 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
+| 94 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 95 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 | 97 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Her Name Is...](https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Anniversary \(Ten Years Of Hits\)](https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb) | 2:18 |
 | 100 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 
-Snapshot ID: `MCwwODZlMTQ4ZWRiZTM4ODBiNjVjYzMxOGQ1ZTNjOGM1MWU3YWRmMTc3`
+Snapshot ID: `MCxlMDExNTQyNjVlNzEwMmIwZjNlMmE2YzdjOTQxYWU4ZDZlN2QwMmQ4`

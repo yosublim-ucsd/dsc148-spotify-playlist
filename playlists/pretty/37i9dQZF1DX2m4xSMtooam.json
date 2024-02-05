@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 185044,
+  "num_followers": 185195,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDVhNWMzNDEzYTU4M2QyZDEzNmMzY2FiNTgwMTBjNDQ5N2Q4Y2U3",
+  "snapshot_id": "MCw5NjJkYTY0YWM5ZjA3ZjFmNmQ2OTYwZjJlMzhjNDYwZTg5NjJmNmIz",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 205502,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Meets Gustav Lundgren",
         "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 230624,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Amalgama",
         "url": "https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 384320,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "I Left My Heart in San Francisco",
-        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 223755,
-      "name": "I Left My Heart in San Francisco",
-      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Here Now",
         "url": "https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Amore e Complicado",
-        "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
+        "name": "I Left My Heart in San Francisco",
+        "url": "https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot"
       },
       "artists": [
         {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
         }
       ],
-      "duration_ms": 214859,
-      "name": "O Amor \u00e9 Complicado",
-      "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
+      "duration_ms": 223755,
+      "name": "I Left My Heart in San Francisco",
+      "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1059,22 +1043,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Sombra La Lua",
         "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
       },
@@ -1087,6 +1055,22 @@
       "duration_ms": 226468,
       "name": "Sombra La Lua",
       "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "La Boca",
-        "url": "https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5"
+        "name": "Amore e Complicado",
+        "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
       },
       "artists": [
         {
-          "name": "Japari Park",
-          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
         }
       ],
-      "duration_ms": 244874,
-      "name": "La Boca",
-      "url": "https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq"
+      "duration_ms": 214859,
+      "name": "O Amor \u00e9 Complicado",
+      "url": "https://open.spotify.com/track/6m2TueLyXowKFDMuuuy5Qp"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "La Boca",
+        "url": "https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5"
+      },
+      "artists": [
+        {
+          "name": "Japari Park",
+          "url": "https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Foz Do Igua\u00e7u",
         "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Press\u00e1gio",
-        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 397571,
-      "name": "Press\u00e1gio",
-      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Cora\u00e7\u00e3o Madura",
         "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 120810,
       "name": "Cora\u00e7\u00e3o Madura",
       "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Once Forgotten",
-        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
-      },
-      "artists": [
-        {
-          "name": "Steve Luke & Holloway",
-          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
-        }
-      ],
-      "duration_ms": 247711,
-      "name": "Once Forgotten",
-      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Bel\u00ea",
         "url": "https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 269840,
       "name": "Aquela Bossa Ax\u00e9",
       "url": "https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Once Forgotten",
+        "url": "https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "duration_ms": 247711,
+      "name": "Once Forgotten",
+      "url": "https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Time Passing Slowly",
-        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
-      },
-      "artists": [
-        {
-          "name": "Southside Trio",
-          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Time Passing Slowly",
-      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 230750,
       "name": "how insensitive",
       "url": "https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Time Passing Slowly",
+        "url": "https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Time Passing Slowly",
+      "url": "https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 161270,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 181951,
       "name": "\u00c1guas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/4xBk5YBUkEFz5gVP74y6pc"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 161270,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Time Passes By",
-        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonzalez",
-          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
-        }
-      ],
-      "duration_ms": 151877,
-      "name": "Time Passes By",
-      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+        "name": "Time Passes By",
+        "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
       },
       "artists": [
         {
-          "name": "Nick Osman Trio",
-          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
         }
       ],
-      "duration_ms": 199875,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
+      "duration_ms": 151877,
+      "name": "Time Passes By",
+      "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 137800,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B"
+      },
+      "artists": [
+        {
+          "name": "Nick Osman Trio",
+          "url": "https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr"
+        }
+      ],
+      "duration_ms": 199875,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Once I Loved",
-        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
-      },
-      "artists": [
-        {
-          "name": "Logan Perez Trio",
-          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
-        }
-      ],
-      "duration_ms": 434476,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "As Irrational As Love",
         "url": "https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 224335,
       "name": "As Irrational As Love",
       "url": "https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Once I Loved",
+        "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
+      },
+      "artists": [
+        {
+          "name": "Logan Perez Trio",
+          "url": "https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw"
+        }
+      ],
+      "duration_ms": 434476,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Take Ten",
         "url": "https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 253133,
       "name": "The Theme from \"Black Orpheus\"",
       "url": "https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
-        }
-      ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -2071,6 +2055,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -2083,38 +2083,6 @@
       "duration_ms": 216320,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Standard Deviations",
-        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
-      },
-      "artists": [
-        {
-          "name": "Andreas Gidlund Five",
-          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Ceora",
-      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Amorosa",
-        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "S'Wonderful",
-      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2135,18 +2103,34 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+        "name": "Amorosa",
+        "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
       },
       "artists": [
         {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
+      "duration_ms": 267666,
+      "name": "S'Wonderful",
+      "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Standard Deviations",
+        "url": "https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund Five",
+          "url": "https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Ceora",
+      "url": "https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2163,6 +2147,22 @@
       "duration_ms": 170259,
       "name": "Sobre o oceano",
       "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Telecoteco",
-        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
-      },
-      "artists": [
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Teleco-Teco",
-      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Rio Bahia",
         "url": "https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Telecoteco",
+        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
+      },
+      "artists": [
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Teleco-Teco",
+      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
     },
     {
       "added_at": "2024-02-02 00:01:00",

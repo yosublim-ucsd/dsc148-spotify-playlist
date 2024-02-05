@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 136664,
+  "num_followers": 136668,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGRlNDZkNzJiYTliYTE5ZTFhODdiZjMwMmQwMjc2YTVjOWQ3OWVh",
+  "snapshot_id": "MCw1MWEyODgwNjQ4Yzg2NDA3YjVmMTgwMjcwOTNiNzU2OGQwZTQxN2U1",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Living Chicago Blues, Vol. 3",
-        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
-      },
-      "artists": [
-        {
-          "name": "Lacy Gibson",
-          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
-        }
-      ],
-      "duration_ms": 280573,
-      "name": "Drown In My Own Tears",
-      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Masters Of Modern Blues",
@@ -455,6 +439,22 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+      },
+      "artists": [
+        {
+          "name": "Lacy Gibson",
+          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "Drown In My Own Tears",
+      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -507,22 +507,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Living Chicago Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Big Moose\" Walker",
-          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Worry, Worry",
-      "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "They call me the snake",
         "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 337600,
       "name": "They call me the snake",
       "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Big Moose\" Walker",
+          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Worry, Worry",
+      "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Earl Hooker: Simply The Best",
-        "url": "https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH"
-      },
-      "artists": [
-        {
-          "name": "Andrew Odom",
-          "url": "https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8"
-        }
-      ],
-      "duration_ms": 298200,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Chess Blues",
         "url": "https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 177573,
       "name": "Big Town Playboy",
       "url": "https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Earl Hooker: Simply The Best",
+        "url": "https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Odom",
+          "url": "https://open.spotify.com/artist/3edYUdDu4mSxpqjfBhAtV8"
+        }
+      ],
+      "duration_ms": 298200,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD"
     },
     {
       "added_at": "2016-03-21 20:31:35",

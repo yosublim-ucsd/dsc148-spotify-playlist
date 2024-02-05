@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 580751,
+  "num_followers": 580680,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjk5MzdkMWEzNmMyYThjZjg3NzAwYTQ0OWQ3OTVhYTEzNjdjNTVj",
+  "snapshot_id": "MCxhYWYzZTczMDhkNGVmZjJkYTNjNDQ4NTAxZmU5NGQwNjhiYjY4YTE5",
   "tracks": [
     {
       "added_at": "2024-01-22 16:26:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 331560,
       "name": "Enter Sandman (Remastered)",
       "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "hometown",
-        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "hometown",
-      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "HEAVY META",
         "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "hometown",
+        "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "hometown",
+      "url": "https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Too Good At Raising Hell",
-        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 229212,
-      "name": "Too Good At Raising Hell",
-      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Too Good At Raising Hell",
+        "url": "https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 229212,
+      "name": "Too Good At Raising Hell",
+      "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
     },
     {
       "added_at": "2024-01-22 16:26:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-22 16:26:19",
       "album": {
-        "name": "Magic Valley",
-        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 221469,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
-    },
-    {
-      "added_at": "2024-01-22 16:26:19",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 187853,
       "name": "Ten Tonne Skeleton",
       "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
+    },
+    {
+      "added_at": "2024-01-22 16:26:19",
+      "album": {
+        "name": "Magic Valley",
+        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 221469,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
     },
     {
       "added_at": "2024-01-22 16:26:19",

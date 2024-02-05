@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 140290,
+  "num_followers": 140133,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj",
+  "snapshot_id": "MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
+      },
+      "artists": [
+        {
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "Rainbow Mixtape",
         "url": "https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
-      },
-      "artists": [
-        {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Mushroom Death Sex Bummer Party",
-        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 90343,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 356946,
       "name": "Apocalypse Dreams",
       "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Mushroom Death Sex Bummer Party",
+        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 90343,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 117850,
-      "name": "Veronica Mars",
-      "url": "https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 225053,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 117850,
+      "name": "Veronica Mars",
+      "url": "https://open.spotify.com/track/4QLqCFAGqvHnjOWCtHTsQL"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Walkman",
-        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
-      },
-      "artists": [
-        {
-          "name": "Bad Bad Hats",
-          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Detroit Basketball",
-      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Comfort To Me",
         "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 179560,
       "name": "Guided By Angels",
       "url": "https://open.spotify.com/track/4M7o0cOEvDFiJ7I8PXJ3bA"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Walkman",
+        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Detroit Basketball",
+      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
     },
     {
       "added_at": "2023-10-23 19:19:23",

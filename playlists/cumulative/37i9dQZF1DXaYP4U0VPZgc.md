@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-124 songs - 9 hr 33 min
+125 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [a small pearl](https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [Fena: Pirate Princess ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr) | 1:47 | 2022-02-28 |  |
 | [a song of storm and fire](https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Eri Ito](https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg) | [「ツバサ・クロニクル」オリジナル・サウンドトラック Future Soundscape I](https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy) | 4:02 | 2022-02-28 |  |
 | [angel gate](https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 5:28 | 2022-02-28 |  |
-| [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 | 2023-05-07 |  |
+| [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 | 2023-05-07 | 2024-02-05 |
 | [battle of the shadows](https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [TVアニメ『プリンセス・プリンシパル』オリジナルサウンドトラック「Sound of Foggy London」](https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd) | 3:11 | 2022-02-28 |  |
 | [blaze](https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:03 | 2022-02-28 |  |
 | [blaze](https://open.spotify.com/track/0NHBMe6nMazA4OwrKELlMX) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [blaze](https://open.spotify.com/album/364oSGKKNq5HysFQf3e8pA) | 4:03 | 2022-02-28 | 2022-07-29 |
@@ -79,6 +79,7 @@
 | [to the next era](https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [The Age of Dragon Knights](https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye) | 2:33 | 2022-02-28 |  |
 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 | 2022-02-28 |  |
 | [あんなに一緒だったのに](https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [あんなに一緒だったのに](https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq) | 4:48 | 2022-02-28 | 2023-06-16 |
+| [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 | 2024-01-23 |  |
 | [それは小さな光のような](https://open.spotify.com/track/23NlSC7lOjCHmJYYggvJe0) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/3n5g6PWeL2XVwFXevw96H8) | 4:32 | 2022-02-28 | 2022-07-29 |
 | [それは小さな光のような](https://open.spotify.com/track/7FOeR1X65DEG4KjpVhNC4Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/7A9FxCZBXJNqtcv7HPHnR8) | 4:32 | 2022-02-28 |  |
 | [ひかりふる](https://open.spotify.com/track/5qJGYNfb91Wml51v5vnj4K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/64TNI4SlacrbN6sA5Zig4f) | 4:51 | 2022-02-28 | 2022-07-29 |

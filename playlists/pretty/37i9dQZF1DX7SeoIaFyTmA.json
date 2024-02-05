@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1279000,
+  "num_followers": 1278938,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTJhZTBmZDkzMDU1ZWMxNzY1NTY0NDRjMmE2MzcxNDIzNTAwOTlj",
+  "snapshot_id": "MCw0Nzg5MTJjYmU5N2Y4OWEwMDVlYjZkYjkwMTJkODQzMTE1Mzc0NDRm",
   "tracks": [
     {
       "added_at": "2023-10-19 19:32:57",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2023-10-19 19:32:57",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2023-10-19 19:32:57",
+      "album": {
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -903,18 +903,22 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "Colecci\u00f3n De Oro",
-        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        },
+        {
+          "name": "Luis Florez",
+          "url": "https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor"
         }
       ],
-      "duration_ms": 230520,
-      "name": "Desesperado",
-      "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
+      "duration_ms": 284653,
+      "name": "Micaela",
+      "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
     },
     {
       "added_at": "2023-10-19 19:32:57",
@@ -939,22 +943,18 @@
     {
       "added_at": "2023-10-19 19:32:57",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu"
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
       "artists": [
         {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
-        },
-        {
-          "name": "Luis Florez",
-          "url": "https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 284653,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy"
+      "duration_ms": 230520,
+      "name": "Desesperado",
+      "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
     },
     {
       "added_at": "2023-10-19 19:32:57",

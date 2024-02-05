@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,954 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,956 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Rayo de Sol](https://open.spotify.com/track/4drV7E6Js7fUFi9DPytzFP) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 3:20 |
 | 50 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 
-Snapshot ID: `MCw0ODc2NzhjOTZhZWIwMWMwOTFhMjE1NTUwNmFiMjI0MGRlOTIzYTA1`
+Snapshot ID: `MCw1NWUyYzA0MDViMThjZTQzZDlhNTQ5OWJmODJmM2E1YTFkMTVjM2Mz`

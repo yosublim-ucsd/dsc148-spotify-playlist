@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover:Ghida\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,391 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,394 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 |
 | 50 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 |
 
-Snapshot ID: `MCw0MjY5OWI0M2Y2M2NmZGQ4MTcwZWNlYzY1NjI3NjM3NTE4ZWE4YTI2`
+Snapshot ID: `MCxlYzM1YjFkY2E4MTQzZWVmMzNkOWY2ZGE2ZTk3YjYyYmI1YWU5N2My`

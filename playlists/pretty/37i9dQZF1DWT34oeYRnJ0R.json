@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Hamilton",
-  "num_followers": 676444,
+  "num_followers": 675722,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTkyOWMxOWI4NWMzN2M4N2I4NzNhN2U5NzVlZWJhOWYxZTkxOGJi",
+  "snapshot_id": "MCxjY2FmNjEyYjI1OTNiODEwMWNjMzM2ZjU3OGUyMjYwNzdmNGMwNDcx",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 198126,
-      "name": "Fenti",
-      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Hood (Remix)",
         "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 198126,
+      "name": "Fenti",
+      "url": "https://open.spotify.com/track/2mMagzU9xMGHBHAzD2WSxL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -1015,22 +1035,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
       },
       "artists": [
         {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
         }
       ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1239,26 +1259,6 @@
       "duration_ms": 148800,
       "name": "Sin Gato (MIAU!)",
       "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Dame Un Break (Remix)",
-        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 262219,
-      "name": "Dame Un Break - Remix",
-      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "SEN2 KBRN VOL. 2",
         "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Dame Un Break (Remix)",
+        "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 262219,
+      "name": "Dame Un Break - Remix",
+      "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "No me queda m\u00e1s",
-        "url": "https://open.spotify.com/album/5JOLE4jmdFpweNnLTvrE9o"
-      },
-      "artists": [
-        {
-          "name": "Fabi\u00f8 Guerra",
-          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "No me queda m\u00e1s",
-      "url": "https://open.spotify.com/track/4z3vTxnIfdET5ja47yYXRE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Di\u00e1vola",
         "url": "https://open.spotify.com/album/4azJnGFXTPVHM4hImHSsB1"
       },
@@ -1831,6 +1831,22 @@
       "duration_ms": 218777,
       "name": "Di\u00e1vola",
       "url": "https://open.spotify.com/track/73n2N3lk2dNc9seGfEyXo9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "No me queda m\u00e1s",
+        "url": "https://open.spotify.com/album/5JOLE4jmdFpweNnLTvrE9o"
+      },
+      "artists": [
+        {
+          "name": "Fabi\u00f8 Guerra",
+          "url": "https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp"
+        }
+      ],
+      "duration_ms": 204970,
+      "name": "No me queda m\u00e1s",
+      "url": "https://open.spotify.com/track/4z3vTxnIfdET5ja47yYXRE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1855,26 +1871,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "CHRONOS",
-        "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
-      },
-      "artists": [
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 248703,
-      "name": "CHRONOS",
-      "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -1891,18 +1887,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+        "name": "CHRONOS",
+        "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
+      "duration_ms": 248703,
+      "name": "CHRONOS",
+      "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
     }
   ],
   "unique_name": "Vibras",

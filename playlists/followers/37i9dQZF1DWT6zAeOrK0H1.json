@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 107192,
+  "2024-02-05": 107263,
   "date_first_scraped": "2022-03-28",
   "description": "Home of the best bands orbiting the universe right now. Cover: The Last Dinner Party",
   "name": "The Best Bands In The Universe \ud83e\ude90",
@@ -1350,6 +1350,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ"
       },
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 225680,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/4AzqVdOWSfVr1YQMLdpFMn"
@@ -3646,6 +3664,24 @@
     },
     {
       "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "The Feminine Urge",
+      "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
+    },
+    {
+      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -4017,7 +4053,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 210173,
       "name": "Turn The World On",
       "url": "https://open.spotify.com/track/5zeMiru9wbjdLBNYhFZa3G"
@@ -4197,7 +4233,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 310840,
       "name": "We're Not In Orbit Yet\u2026",
       "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
@@ -4439,6 +4475,28 @@
       "duration_ms": 194480,
       "name": "Wild Stare",
       "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
+    },
+    {
+      "album": {
+        "name": "Willow (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/2ZbZBB7CCWqi9kgnmlSHM3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249693,
+      "name": "Willow (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/7m1qFwzJnebBiWkzE7RgDq"
     },
     {
       "album": {

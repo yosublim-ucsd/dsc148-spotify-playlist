@@ -1,12 +1,12 @@
 {
   "description": "El toque que le faltaba a tu caf\u00e9. \n",
-  "num_followers": 60662,
+  "num_followers": 60681,
   "original_name": "cafeter\u00eda ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTgwYmFjYzYwOGQwNWI4YzYyYjdjOTQ2M2U3ZDA1NzI5MjNmNDFm",
+  "snapshot_id": "MCxmNzdkODZmYjMyMGFkYzkxMGY3YmIwNGEwZTM1Mzg5MGEzOTliZjZh",
   "tracks": [
     {
       "added_at": "2023-07-10 17:37:38",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "The Papas & The Mamas",
-        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Dream A Little Dream Of Me",
-      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2023-08-14 15:33:44",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+        "name": "The Papas & The Mamas",
+        "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+      "duration_ms": 194426,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "From Elvis in Memphis",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2023-12-20 18:48:46",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "From Elvis in Memphis",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 154800,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2023-07-10 17:37:38",
-      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 198226,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+    },
+    {
+      "added_at": "2023-07-10 17:37:38",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
+      "duration_ms": 221120,
+      "name": "Satellite of Love",
+      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
     },
     {
       "added_at": "2023-07-10 17:37:38",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-07-10 17:37:38",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Satellite of Love",
-      "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh"
     },
     {
       "added_at": "2023-07-10 17:37:38",

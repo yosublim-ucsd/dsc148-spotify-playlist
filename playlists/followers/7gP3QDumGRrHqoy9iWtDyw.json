@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 22440,
+  "2024-02-05": 22440,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Malaa Selection ",
@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Do You Believe",
+        "url": "https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln"
+      },
+      "artists": [
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147229,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V"
+    },
+    {
+      "album": {
         "name": "Don't You Want Me (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq"
       },
@@ -1737,6 +1755,24 @@
       "duration_ms": 162187,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/0H4ldHOvXdVJXyxHZZC3hm"
+    },
+    {
+      "album": {
+        "name": "Kendrick Told Me",
+        "url": "https://open.spotify.com/album/5WjWwoe5JkQbHodh65afQj"
+      },
+      "artists": [
+        {
+          "name": "Ellenbeat",
+          "url": "https://open.spotify.com/artist/2n9Hu8BTr5vq69SmyPPcES"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284383,
+      "name": "Kendrick Told Me - Extended Mix",
+      "url": "https://open.spotify.com/track/3JYpLPvCwpW5AwKSm7HKAx"
     },
     {
       "album": {
@@ -3343,6 +3379,24 @@
       "duration_ms": 212308,
       "name": "Wait No More",
       "url": "https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7"
+    },
+    {
+      "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6axRRJ7ZLnoRsWJH33aysC"
+      },
+      "artists": [
+        {
+          "name": "Ben Remember",
+          "url": "https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177283,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6Z8lRAqGrHPnNn2oQKU6Ns"
     },
     {
       "album": {

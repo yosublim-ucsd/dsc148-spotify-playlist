@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 9371,
+  "num_followers": 9381,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTBiMjkxODc3ZjI2NGQ5OWJhZjIzODFmYTAxMDM2ZjVhZGRiYmI5",
+  "snapshot_id": "MCw5NGZlMzNjYTBlYzQ5Njk1MzI1NGFkNmRmNzcxYWQwYTc1ODAwNDE0",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Un Koala En Una Palmera",
-        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Curarte",
-      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7vDmxXUdI5DH2tKSaDrJ0m"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 170454,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/570cF2dEppbenkihxtlisz"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Un Koala En Una Palmera",
+        "url": "https://open.spotify.com/album/1u0Ow9pOdTQuHjOz2nzcOM"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Curarte",
+      "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Aqu\u00ed Me Tienes",
         "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 157259,
       "name": "Aqui\u0301 Me Tienes",
       "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Est\u00e1s Escuchando (with El David Aguilar)",
         "url": "https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 137996,
       "name": "Est\u00e1s Escuchando (with El David Aguilar) - Single Edit",
       "url": "https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Soy la Fuerza",
-      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 284493,
       "name": "Fuego Que Te Llama",
       "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Soy la Fuerza",
+      "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Sun a Shine",
         "url": "https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 172069,
       "name": "Sun a Shine",
       "url": "https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
     },
     {
       "added_at": "2023-09-22 05:25:00",

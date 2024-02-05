@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,107 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,091 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 56 | [Breathe Again](https://open.spotify.com/track/0qW8j0n0ep5iXXRZ0n7iiI) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Breathe Again](https://open.spotify.com/album/0bQLjL7bRNORU4aLV11jGy) | 3:20 |
 | 57 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 |
 | 58 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
-| 59 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 |
-| 60 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
+| 59 | [Part of Me](https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Part of Me](https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4) | 3:57 |
+| 60 | [Hurts Like Hell](https://open.spotify.com/track/6UkIfamz0vrnlCpWlAfs1T) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Hurts Like Hell](https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k) | 2:43 |
 | 61 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
-| 62 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
-| 63 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
+| 62 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
+| 63 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
 | 64 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 |
 | 65 | [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 |
-| 66 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
-| 67 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
+| 66 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
+| 67 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
 | 68 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
 | 69 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
 | 70 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 87 | [Perfect Stranger](https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Hideaway](https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11) | 2:34 |
 | 88 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 89 | [Made Up My Mind](https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Made Up My Mind](https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI) | 2:50 |
-| 90 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 |
-| 91 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
+| 90 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
+| 91 | [Music Box](https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Music Box](https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf) | 4:25 |
 | 92 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 93 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
 | 94 | [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzN91i1LVSo.md) - [plain]
 | 99 | [Care for Your Mother](https://open.spotify.com/track/0hkYjDHkQ0vFw1H2fqo08z) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r) | 4:13 |
 | 100 | [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 |
 
-Snapshot ID: `MCwyN2Y5YjFlMzlmNGMxMzE3NDMwZTg5MjkzMDllNjZlZTExMDQ3ZjA5`
+Snapshot ID: `MCxmZjYyOTcxZjI5MGZhMGUxN2RmMmI5YTZmMWQzMjQ4ZTliNDYzNDE0`

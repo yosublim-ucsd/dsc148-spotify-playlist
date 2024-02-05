@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0IzV8haLKd.md) - [plain]
 
 > 【セトリ公開】2023年8月22日、豊洲PITにて行われたリアム・ギャラガー単独公演"SUMMER SONIC EXTRA"\(Sold Out公演\)セットリストを公開！<br/>\*セットリストの後にオリジナル・バージョンも併せてお楽しみください。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,367 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,369 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0IzV8haLKd.md) - [plain]
 | 30 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 31 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/2A7GGXmTlXuH9LOvBXgOX4) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 7:31 |
 
-Snapshot ID: `MCxlZDU3NGNkYTYwYTcxMWFmNDZmNDk0Mjc4OTdjMjQ0MTFlNzdlMzhh`
+Snapshot ID: `MCwyZjBkN2JlNDZjMzFjYmI1Njk4YjE5ODExODRhZmVmMTg3NzkyZDEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,839 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,834 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 34 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
 | 35 | [Wherever I Go](https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:58 |
 | 36 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 37 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
-| 38 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 |
+| 37 | [Close \(feat\. Steven Furtick\)](https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Steven Furtick](https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 2:48 |
+| 38 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
 | 39 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
 | 40 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
 | 41 | [Pray It Up](https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Control](https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa) | 3:19 |
 | 42 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 | 43 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
-| 44 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
+| 44 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 45 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
-| 46 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
+| 46 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
 | 47 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 |
 | 48 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
 | 49 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Seasons](https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 4:04 |
 | 100 | [Give It All](https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:04 |
 
-Snapshot ID: `MCxiZTY2NmE0ZjBjMjIzMTQzMDdiNjYzMDQ4ZTMxNDQxZjMwYmJjMDRm`
+Snapshot ID: `MCxiNzQ2ODgzMGQxMTZiMTEwMjMyYWQ3YjFlNmM4NWFkNjdiMmNkZDUy`

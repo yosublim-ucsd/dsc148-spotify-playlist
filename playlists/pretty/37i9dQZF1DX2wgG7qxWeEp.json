@@ -1,12 +1,12 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 80582,
+  "num_followers": 80575,
   "original_name": "Verano Mix 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYThhM2U3NTkxNzRjYzgyZjRlMjY2MmRkZDMwMTYwZDZlNWM1NDBi",
+  "snapshot_id": "MCxhMTZmZWU5NThjOGIxYmNmZTdiYjhlNzc5MGVkODljMmJkMWUxNWNj",
   "tracks": [
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
         }
       ],
-      "duration_ms": 191254,
-      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
-      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+        "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+        "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+      "duration_ms": 191254,
+      "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
+      "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Quiere Beber",
-      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -1339,26 +1323,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1383,6 +1347,42 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Nochentera",
+        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 202184,
+      "name": "Nochentera",
+      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Clavaito",
         "url": "https://open.spotify.com/album/04EvopsobNB5TNIzzAp0w0"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 162740,
       "name": "Clavaito",
       "url": "https://open.spotify.com/track/26V1bLUk0SBYkLEwl4caPR"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 197284,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 197284,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/3Zf4GutWZ7Hv3wsVQsSQPs"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -1815,26 +1835,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
     },
     {
       "added_at": "2023-07-10 17:59:12",

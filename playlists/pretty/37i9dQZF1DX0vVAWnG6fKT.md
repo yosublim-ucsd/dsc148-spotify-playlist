@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,262 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,270 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 28 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
 | 29 | [Dark As A Dungeon](https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:47 |
 | 30 | [Ida Red](https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:20 |
-| 31 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
+| 31 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 32 | [Mind Your Own Business](https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:56 |
-| 33 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
+| 33 | [One Has My Name \(The Other Has My Heart\) \- 1948 Single](https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW) | [Jimmy Wakely](https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5) | [Vintage Collections](https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU) | 2:48 |
 | 34 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
 | 35 | [Roly\-Poly](https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:28 |
 | 36 | [Cool Water](https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:09 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 48 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 49 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 |
 | 50 | [Candy Kisses \- 78 rpm Version](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
-| 51 | [There's A New Moon Over My Shoulder](https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Louisiana \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS) | 2:15 |
-| 52 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |
+| 51 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 |
+| 52 | [There's A New Moon Over My Shoulder](https://open.spotify.com/track/0zJyenyeIqcu7h8OyXBJ4n) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Louisiana \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/4vFZ8HSqPCNYQpwqXKrAZS) | 2:15 |
 | 53 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
 | 54 | [Anytime \- Remastered](https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:52 |
 | 55 | [Cotton Eyed Joe \- Single Version](https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Columbia Historic Edition](https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL) | 2:37 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 63 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
 | 64 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
 | 65 | [Beer Drinking Blues](https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Rhythm & Booze](https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g) | 2:44 |
-| 66 | [Sioux City Sue](https://open.spotify.com/track/4X0ugRd0fIHXXrqVhGnH0e) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Presenting Hoosier Hot Shots](https://open.spotify.com/album/6kmmakaiWkWBHWgufS6wei) | 2:52 |
-| 67 | [Panhandle Rag](https://open.spotify.com/track/13jNEoK1XuWzvx7PDtqBtt) | [Leon Mcauliff And His Cimarron Boys](https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2) | [Mister Western Swing](https://open.spotify.com/album/7JasllEB3HNNS8bemfNBV9) | 2:57 |
+| 66 | [Panhandle Rag](https://open.spotify.com/track/13jNEoK1XuWzvx7PDtqBtt) | [Leon Mcauliff And His Cimarron Boys](https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2) | [Mister Western Swing](https://open.spotify.com/album/7JasllEB3HNNS8bemfNBV9) | 2:57 |
+| 67 | [Sioux City Sue](https://open.spotify.com/track/4X0ugRd0fIHXXrqVhGnH0e) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Presenting Hoosier Hot Shots](https://open.spotify.com/album/6kmmakaiWkWBHWgufS6wei) | 2:52 |
 | 68 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 69 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 | 70 | [Too Late to Worry, Too Blue to Cry](https://open.spotify.com/track/39oDv2nFjiDVRpj0DLBXIl) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Presenting Al Dexter](https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W) | 2:43 |
 
-Snapshot ID: `MCxiMGIyODI1NTkyNzBiY2ZkYTI1NmYwNDdkOWVmYjE3ZjU1OTc2MTAz`
+Snapshot ID: `MCxmZGRjZTgzODkzOTgzYmQyZDAzYTlkYWI0NzM3MDU5NDkwNjAwY2Yz`

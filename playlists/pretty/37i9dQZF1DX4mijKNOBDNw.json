@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54924,
+  "num_followers": 54926,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTJjNjE1Njk2ZjFmNDE3MjQwMGNlZGUyZjczMTljZDBhNjc2YTRm",
+  "snapshot_id": "MCwwMzUzN2QyNGE5MmFiYjg4Mzc4MzQ1ZGQ0NmQ1M2I1ZWYzZjBjNTQ2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "La hija del loco",
         "url": "https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "One Blood (Una Sangre)",
         "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 226626,
       "name": "Dignificada",
       "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Quememos el Reino",
-        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Quememos el Reino",
-      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
         "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 176500,
       "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
       "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Quememos el Reino",
+        "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Quememos el Reino",
+      "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No Ves",
-        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 199312,
-      "name": "No Ves",
-      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Piba Cumbia",
         "url": "https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214505,
       "name": "Piba Cumbia",
       "url": "https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "No Ves",
+        "url": "https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 199312,
+      "name": "No Ves",
+      "url": "https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Canciones Que Acunan",
-        "url": "https://open.spotify.com/album/5pcVQVkLAg5dl2L2Y0DhEN"
+        "name": "Marta",
+        "url": "https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR"
       },
       "artists": [
         {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+          "name": "Marta",
+          "url": "https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q"
         }
       ],
-      "duration_ms": 245182,
-      "name": "Yanara",
-      "url": "https://open.spotify.com/track/5a9THIgXiVQYFbmwwoKZaw"
+      "duration_ms": 207452,
+      "name": "Otra Humanidad",
+      "url": "https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws"
     }
   ],
   "unique_name": "Himnos de Sororidad",

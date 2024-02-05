@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,928 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,988 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 49 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
 | 50 | [Change](https://open.spotify.com/track/41FCZduFUjoymvDXb6ZviB) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Who Am I?](https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO) | 2:52 |
 | 51 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
-| 52 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
-| 53 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
+| 52 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
+| 53 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
 | 54 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
 | 55 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
 | 56 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 61 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 62 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 63 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
-| 64 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
-| 65 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 |
+| 64 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 |
+| 65 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
 | 66 | [death proof](https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:56 |
 | 67 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 68 | [Liffey](https://open.spotify.com/track/7f2KXS3p7hnuY7DoUrHWVN) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/3lUUNYKTsf9J1P1YneO8n2) | 4:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
 | 75 | [sorry isn't good enough](https://open.spotify.com/track/1PTjdobwHJOZc8NdtGvtKJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:07 |
 
-Snapshot ID: `MCwxNmYzNTUxY2RhNDJhMTAxNTYzNTllMDhlMjFlOTRlNWM2Y2EzN2U3`
+Snapshot ID: `MCwwNjRkMjFjNjJhYjk5YzU1YmM3ZjM5Y2RkMWFkZTUzYTVkZGFhYTBh`

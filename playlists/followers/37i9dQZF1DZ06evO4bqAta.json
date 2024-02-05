@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 507143,
+  "2024-02-05": 507226,
   "date_first_scraped": "2022-09-25",
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
   "name": "This Is Bob Dylan",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 161466,
       "name": "Corrina, Corrina",
       "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 180733,
       "name": "Ring Them Bells",
       "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"

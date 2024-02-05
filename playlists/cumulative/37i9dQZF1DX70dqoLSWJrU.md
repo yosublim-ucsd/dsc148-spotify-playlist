@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-158 songs - 9 hr 32 min
+159 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [My Old Flame](https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 3:07 | 2022-04-13 | 2022-10-07 |
 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 | 2022-11-19 | 2023-12-27 |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2022-04-13 |  |
+| [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-02 |  |
 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 | 2022-04-13 |  |
 | [No Other Love](https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 2:59 | 2022-04-13 |  |
 | [Once Upon a Summertime](https://open.spotify.com/track/20L0hFUNfeyLWOMr0M0yDv) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon a Summer\-Time](https://open.spotify.com/album/1IJy38zHtIORxByC4V64D3) | 2:47 | 2022-04-13 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 | 2022-04-13 | 2023-09-30 |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2023-09-29 |  |
 | [Stormy Weather](https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 3:41 | 2022-04-13 | 2023-09-30 |
-| [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 | 2023-12-20 |  |
+| [Stormy Weather](https://open.spotify.com/track/2PcOKK6EFtKzv0Ee3FnuBa) | [Sonya Hedenbratt](https://open.spotify.com/artist/5HVch6mQG6oZMWcbDQeM3m) | [Sonya Hedenbratt 1951 \- 1956](https://open.spotify.com/album/7FthOIzbwe67vwwjylQBKv) | 2:45 | 2023-12-20 | 2024-02-05 |
 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 | 2022-04-13 |  |
 | [The Boulevard of Broken Dreams \(with Sting\)](https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:21 | 2022-04-13 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/2PwzTstbRh96XOTltOY8Tn) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 3:11 | 2023-09-29 |  |

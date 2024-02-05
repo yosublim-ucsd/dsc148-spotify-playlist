@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 780143,
+  "num_followers": 780789,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDlhZTMxNjdlZWZkMDliNmRiN2U3YzAzMzk3OTY4MWEzODIzMmFh",
+  "snapshot_id": "MCw4N2QwYzExMDczNGZkZGY0YTMyZTU2MzBmM2ZkOTIwN2MxNGJhM2I3",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Happy Nation",
         "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 170000,
       "name": "The Shoop Shoop Song (It's In His Kiss)",
       "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Women in Technology",
-        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
       "artists": [
         {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
+      "duration_ms": 255546,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+        "name": "Women in Technology",
+        "url": "https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq"
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
         }
       ],
-      "duration_ms": 255546,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 272093,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 227000,
       "name": "How Much Is The Fish?",
       "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 285106,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 285106,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Blacks' Magic",
-        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Let's Talk About Sex",
-      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Whoomp! There It Is (Radio Edit)",
         "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 225266,
       "name": "Whoomp! There It Is - Radio Edit",
       "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Blacks' Magic",
+        "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Let's Talk About Sex",
+      "url": "https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 133400,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": "2022-10-11 00:00:00",

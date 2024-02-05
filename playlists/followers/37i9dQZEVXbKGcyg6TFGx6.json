@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 7988,
+  "2024-02-05": 7984,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -661,6 +661,24 @@
       "duration_ms": 151440,
       "name": "6561",
       "url": "https://open.spotify.com/track/6e180XtptMddkCejgq7o8K"
+    },
+    {
+      "album": {
+        "name": "6G",
+        "url": "https://open.spotify.com/album/54LK6dIRTx4gRYznkLdjzt"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "6G",
+      "url": "https://open.spotify.com/track/4MsOD2fBtHHIyyKY4acddP"
     },
     {
       "album": {
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3445,6 +3463,24 @@
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
+    },
+    {
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "album": {
@@ -4499,7 +4535,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -10855,8 +10891,8 @@
       },
       "artists": [
         {
-          "name": "Tali Golergant",
-          "url": "https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK"
+          "name": "TALI",
+          "url": "https://open.spotify.com/artist/4kyQDsm87HtfThLyfViFXO"
         }
       ],
       "date_added": "2024-01-28",
@@ -20389,7 +20425,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 198620,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/08PxSFCTjMjLWiKkS22CAD"
@@ -20729,7 +20765,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 180009,
       "name": "My Time",
       "url": "https://open.spotify.com/track/5h2xBATTBRySZYrlYic7Wr"
@@ -21159,7 +21195,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -26730,6 +26766,28 @@
     },
     {
       "album": {
+        "name": "Sho Gbo",
+        "url": "https://open.spotify.com/album/2rnIQ7nbtJQqHO7106Dfgv"
+      },
+      "artists": [
+        {
+          "name": "RAFFEAL",
+          "url": "https://open.spotify.com/artist/2gZKJ3bLxzw0rjNKkBj4l9"
+        },
+        {
+          "name": "Teeza Bane",
+          "url": "https://open.spotify.com/artist/70f3GNyvajXuvFHcw01HJ8"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sho Gbo",
+      "url": "https://open.spotify.com/track/44Nd6rC0qvQaw8qPEHZBJ3"
+    },
+    {
+      "album": {
         "name": "Civilisation",
         "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
       },
@@ -27181,7 +27239,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 129488,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/7yVs9qdyWrbiSofXeFHdFE"
@@ -32533,7 +32591,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "What Happened",
       "url": "https://open.spotify.com/track/1KdLOxVGvRI5hChujmt1qr"

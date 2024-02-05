@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,179 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,175 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 33 | [The Killing Road \- Remastered 2004](https://open.spotify.com/track/0jKqcTDzbUv7chWlJiAuR5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:51 |
 | 34 | [The Threat Is Real](https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:22 |
 | 35 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 |
-| 36 | [Dread And The Fugitive Mind](https://open.spotify.com/track/6fMe4vbwlE5ywmnLHl5AdW) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warheads On Foreheads](https://open.spotify.com/album/58p5IFT7CEcMHSrAIuO5DJ) | 4:26 |
+| 36 | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:07 |
 | 37 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 |
-| 38 | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:07 |
+| 38 | [Dread And The Fugitive Mind](https://open.spotify.com/track/6fMe4vbwlE5ywmnLHl5AdW) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warheads On Foreheads](https://open.spotify.com/album/58p5IFT7CEcMHSrAIuO5DJ) | 4:26 |
 | 39 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 |
 | 40 | [Cold Sweat](https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Super Collider](https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j) | 3:10 |
 | 41 | [Blood Of Heroes \- Remastered 2004](https://open.spotify.com/track/4fPVJz7EYTqCqgXxLjQrSn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 3:50 |
 | 42 | [Back In the Day](https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The System Has Failed](https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns) | 3:27 |
 | 43 | [The Conjuring \- Remastered](https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:02 |
-| 44 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 |
-| 45 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
+| 44 | [Dawn Patrol](https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 1:50 |
+| 45 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 |
 | 46 | [Dialectic Chaos](https://open.spotify.com/track/4jKbvqI4G3dOOtNF1ay6av) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0ncpKwYq9C3tXxDWPpdvId) | 2:25 |
 | 47 | [Devils Island \- 2004 Remaster](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 |
 | 48 | [Fatal Illusion](https://open.spotify.com/track/7IVhAkmr7xdgRZYc1Thrna) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:15 |
 | 49 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 | 50 | [Rattlehead](https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:43 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBlYWE0Zjk5NDEzODc0ZDFmMzExODMzMzNmMTk5MzljZg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4ODgyMGFlZjIzNDgzNTk5ODM0ZDRkNzcxNDBkMDE3Ng==`

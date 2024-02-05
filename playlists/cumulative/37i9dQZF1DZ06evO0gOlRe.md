@@ -4,7 +4,7 @@
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 43 min
+35 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 | 2024-01-10 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2024-01-10 |  |
 | [Compare Myself](https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Compare Myself](https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv) | 3:31 | 2024-01-10 |  |
-| [Different People](https://open.spotify.com/track/2gbYKZdLvnMFf8tFTwIaEh) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/1Ljzs8QNCgvm2CKg7v3h7f) | 2:54 | 2024-01-10 |  |
+| [Different People](https://open.spotify.com/track/2gbYKZdLvnMFf8tFTwIaEh) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/1Ljzs8QNCgvm2CKg7v3h7f) | 2:54 | 2024-01-10 | 2024-02-05 |
+| [Different People](https://open.spotify.com/track/6S43kPaXobuEIDn718aLfT) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Different People](https://open.spotify.com/album/6BN1dTaFFIzVGpUtOrWBSb) | 2:54 | 2024-02-04 |  |
 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 | 2024-01-10 |  |
 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 | 2024-01-10 |  |
 | [Enamorado](https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Enamorado](https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd) | 3:10 | 2024-01-10 |  |

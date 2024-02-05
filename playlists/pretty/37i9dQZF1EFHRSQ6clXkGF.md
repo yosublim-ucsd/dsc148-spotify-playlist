@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,033 likes - 43 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,034 likes - 43 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 42 | [Captain O'Kane/River](https://open.spotify.com/track/3HgFxy7BIHKjb0uDysU9WM) | [Banshee In The Kitchen](https://open.spotify.com/artist/3OnauhYf1tNeiecYoI8Y9x) | [Invite the Light](https://open.spotify.com/album/4zgvZlVrERYdIcLnn9fEdX) | 6:40 |
 | 43 | [Last Time I Saw Richard](https://open.spotify.com/track/58MZivql2RjFPtMppY7N9a) | [Kevin Sandbloom](https://open.spotify.com/artist/3AeCqchDnjbQYA68wWTXIK) | [Still Blue](https://open.spotify.com/album/68DoM5Dt9XUpisi6Btf4hG) | 2:54 |
 
-Snapshot ID: `Mjg0NTAyMjAsMDAwMDAwMDBkMGM2OWViYWIzNWE3YjMyZWMxMzE2OGU4NGRhOWQ2Yw==`
+Snapshot ID: `Mjg0NTE2NjAsMDAwMDAwMDA0ZDczNTUxYTA1MWEwMTMwMDc4NGQzOTM4NmQxZTRmZA==`

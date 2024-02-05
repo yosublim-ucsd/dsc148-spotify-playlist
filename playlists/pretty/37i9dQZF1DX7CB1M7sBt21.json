@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 9076,
+  "num_followers": 9125,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTAzYzE2MGZhMTYxYjM0MGE2ZmIwZWY2NzllZjRkZjNkYjc2ZmU5",
+  "snapshot_id": "MCxlODg5ZjUzNDU4NWMzM2U4NTc2MGI5YjU3NzUwZWI2Zjc5YjYxNDA1",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -619,30 +619,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/0kCeC3O3QGbCYDJGCGUIce"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 164490,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 204458,
+      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -967,30 +967,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "God Is In The Soundwaves",
-        "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Xoro",
-          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
-        },
-        {
-          "name": "Yola Recoba",
-          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
-        }
-      ],
-      "duration_ms": 163510,
-      "name": "God Is In The Soundwaves",
-      "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 132682,
       "name": "Fake Friends",
       "url": "https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "God Is In The Soundwaves",
+        "url": "https://open.spotify.com/album/20ssXnN1FKqAfIE6zSM8gQ"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        },
+        {
+          "name": "Yola Recoba",
+          "url": "https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7"
+        }
+      ],
+      "duration_ms": 163510,
+      "name": "God Is In The Soundwaves",
+      "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Dance All Over Me",
+        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Dance All Over Me - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Fugazi (Robin Schulz Presents KOPPY)",
         "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
       },
@@ -1287,22 +1307,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Dance All Over Me",
-        "url": "https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ"
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Dance All Over Me - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/2GAIcRjMNkAiLaoXbNm0VW"
+      "duration_ms": 177213,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -1371,34 +1371,6 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "The Logical Song (feat. Julia Hallasen)",
-        "url": "https://open.spotify.com/album/5JLQ1THp53UVka5E7xt30M"
-      },
-      "artists": [
-        {
-          "name": "GYMBRO",
-          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
-        },
-        {
-          "name": "Danny Ores",
-          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
-        },
-        {
-          "name": "Julia Hallasen",
-          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
-        }
-      ],
-      "duration_ms": 141387,
-      "name": "The Logical Song (feat. Julia Hallasen)",
-      "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1427,6 +1399,34 @@
       "duration_ms": 146400,
       "name": "Boyz In Paris (with VINAI) - W&W HardRave Mix",
       "url": "https://open.spotify.com/track/3Qwq1lbufsx31JT77vEViw"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "The Logical Song (feat. Julia Hallasen)",
+        "url": "https://open.spotify.com/album/5JLQ1THp53UVka5E7xt30M"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Danny Ores",
+          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "duration_ms": 141387,
+      "name": "The Logical Song (feat. Julia Hallasen)",
+      "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1467,6 +1467,26 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Hello (Call All My Friends)",
+        "url": "https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        }
+      ],
+      "duration_ms": 138880,
+      "name": "Hello (Call All My Friends)",
+      "url": "https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1523,26 +1543,6 @@
       "duration_ms": 146355,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Hello (Call All My Friends)",
-        "url": "https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 138880,
-      "name": "Hello (Call All My Friends)",
-      "url": "https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx"
     },
     {
       "added_at": "2024-02-01 23:00:00",

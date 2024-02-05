@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,483 likes - 51 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,517 likes - 51 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 38 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 39 | [Drunk Texting \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:47 |
 | 40 | [When We Love](https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:22 |
-| 41 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
-| 42 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
+| 41 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 |
+| 42 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 | 43 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
 | 44 | [I\. Pink Toes](https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:27 |
 | 45 | [3:16AM](https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 50 | [you vs them](https://open.spotify.com/track/68s7fE0r719vZa7E1OqNaR) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:24 |
 | 51 | [Stars in The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [With Love 2](https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR) | 4:14 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA3YzZmZjlhMWIyNWUxNmRmZWI1YjkwYjZlZmI2ZDBkMQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlNzcyZGFkYzRmZDg5ODVjYTE0M2Y5ZGM0NDVmY2RiYw==`

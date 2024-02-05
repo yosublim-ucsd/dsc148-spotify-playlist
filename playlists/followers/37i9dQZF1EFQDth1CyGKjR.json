@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 3011,
+  "2024-02-05": 3014,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU\">Timbaland</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Timbaland",
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 232466,
       "name": "Carry Out (Featuring Justin Timberlake)",
       "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
@@ -2973,7 +2973,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/25u7tVNFhpPA450EFQBwML"
@@ -3949,7 +3949,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 258893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
@@ -4123,7 +4123,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 484146,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
@@ -5709,7 +5709,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 223080,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
@@ -5969,7 +5969,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
@@ -6089,7 +6089,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 201609,
       "name": "Shot Clock",
       "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
@@ -6460,6 +6460,24 @@
     },
     {
       "album": {
+        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353160,
+      "name": "Take Back the Night",
+      "url": "https://open.spotify.com/track/0a4ZGSRZOgspQy2HYzU82l"
+    },
+    {
+      "album": {
         "name": "Take Back the Night (Official Video)",
         "url": "https://open.spotify.com/album/6UwKHOI1FHUurIemmNAYvv"
       },
@@ -6741,7 +6759,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 272186,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
@@ -7507,7 +7525,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 200413,
       "name": "Way Too Big",
       "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
@@ -7881,7 +7899,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"

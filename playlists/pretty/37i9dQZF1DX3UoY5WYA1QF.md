@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,624 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,745 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 64 | [Ahora Si Va En Serio](https://open.spotify.com/track/4JN3IkAjaa0J3sPNXsbWWh) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Joyas Musicales: Lo Ranchero De Cuisillos De Arturo Macías, Vol\. 2](https://open.spotify.com/album/3eQMPyj1pDRSlLoF1TA7K5) | 2:38 |
 | 65 | [El Peor De Tus Antojos](https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:25 |
 | 66 | [Dos Mares Más Que Tu](https://open.spotify.com/track/5VVqX1TUzmuM0neTJNPOWh) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 3:06 |
-| 67 | [La Venganza de Tina](https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 3:23 |
-| 68 | [Sembrador De Amor](https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:37 |
+| 67 | [Sembrador De Amor](https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:37 |
+| 68 | [La Venganza de Tina](https://open.spotify.com/track/6Gc77aqLOJX7ivsPGlMj8y) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 3:23 |
 | 69 | [La Historia Que No](https://open.spotify.com/track/237HTVPRaOx5Q8Yo7Zyay4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:25 |
 | 70 | [Nube Gris](https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:42 |
 | 71 | [La Mamá De Los Pollitos](https://open.spotify.com/track/7JnUkfU2Ojbem9NuEvbPzK) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [Lo Más Romántico De](https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx) | 2:56 |
-| 72 | [Que Ya No Estas](https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:05 |
-| 73 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 |
+| 72 | [Mi Propio Final](https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:41 |
+| 73 | [Que Ya No Estas](https://open.spotify.com/track/7H4VG0Gh5P9dj6zS4A03iR) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:05 |
 | 74 | [Aunque Me Duela El Alma](https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 3:02 |
 | 75 | [Las Mariposas](https://open.spotify.com/track/7nMybk0CdPDILEmkckC7SO) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:42 |
 | 76 | [Soy Como Quiero Ser](https://open.spotify.com/track/5wbVhLqakT1wAbZvM0C1Ds) | [Los Herederos Del Norte](https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc) | [Homenaje a Joan Sebastian](https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr) | 2:35 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 83 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 84 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |
 | 85 | [Soy Cómo Quiero Ser](https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:34 |
-| 86 | [Oiga](https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:29 |
-| 87 | [El Último Beso](https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:52 |
-| 88 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 |
+| 86 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/5VGpOXAaau0DdzzOzhApPh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mi Mexico Querido](https://open.spotify.com/album/1daXpKCEEDLb25H1UgzoIa) | 2:56 |
+| 87 | [Oiga](https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:29 |
+| 88 | [El Último Beso](https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:52 |
 | 89 | [Un Vestido de Besos](https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 2:59 |
 | 90 | [Y Las Mariposas](https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:01 |
 | 91 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 99 | [El Último en la Fila](https://open.spotify.com/track/5JuDG2yTRCXNQiwAyNuav5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:21 |
 | 100 | [Los Cazahuates](https://open.spotify.com/track/4e40PB59A0nlbBDX5w3ku6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:25 |
 
-Snapshot ID: `MCxjZjYwMTA0MzZjNGJlNDQ1YTZiNWY2NTFjNTYyYjFlNzc2N2Y0YjQ0`
+Snapshot ID: `MCw4ODE3MWJhMDgxNjU5OGE1NzQwOTQyYzVjY2VjMWI1NGQwOTFhNDQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,756 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,768 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 19 | [La Ultima Canción](https://open.spotify.com/track/2K2ezQeRp5uqmZxZdMrEAJ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:17 |
 | 20 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
 | 21 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 |
-| 22 | [Mujer de Hotel](https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:35 |
-| 23 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
+| 22 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
+| 23 | [Mujer de Hotel](https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:35 |
 | 24 | [Urbanidad](https://open.spotify.com/track/2NeGTh2VbfJHEXOxhVa3Ku) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:45 |
 | 25 | [Amor por Nada](https://open.spotify.com/track/5L2umLhtRL6iZGnZjZuto3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 4:32 |
 | 26 | [María](https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 |
 | 50 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBkZWM3Njg1OGE0ZmUzNWExZTU4YTE3YTI3Nzc0NjY5OQ==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBmYWViMWJiODAyYmU4NjY3MDE2YzJhOGM2OGY1ODJmZA==`

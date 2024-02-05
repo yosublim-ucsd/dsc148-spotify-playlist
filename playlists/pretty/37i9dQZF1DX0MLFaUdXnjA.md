@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: The Kid Laroi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,382 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813,410 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 98 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 |
 | 99 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
 
-Snapshot ID: `MCw2OWE4ZjJlM2EyYzk4OTdhZWJkNTg2NjIyYzhhODRkZjA3ZDQyNzVk`
+Snapshot ID: `MCwyODIxODliNzdkOTQ2NjQ5NWVkMzNiOTk0NzBkODlhMjAwNTIyZGRl`

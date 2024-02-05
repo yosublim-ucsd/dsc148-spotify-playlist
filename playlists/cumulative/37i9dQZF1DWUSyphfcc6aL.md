@@ -4,7 +4,7 @@
 
 > 
 
-255 songs - 13 hr 9 min
+256 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2022-04-08 | 2022-09-03 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-30 | 2023-09-26 |
 | [Panda](https://open.spotify.com/track/3h89wQcjKtNm525yS7RQ1B) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Panda](https://open.spotify.com/album/2O5HuL1VASzGAhNUcSvngl) | 2:32 | 2022-07-01 | 2022-07-16 |
+| [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2024-01-26 |  |
 | [Paradise](https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Paradise](https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6) | 3:04 | 2022-05-10 | 2022-06-03 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-04-08 | 2022-11-13 |
 | [PARANOIA](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP) | [HEARTSTEEL](https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [PARANOIA](https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc) | 3:18 | 2023-10-27 | 2024-01-25 |
@@ -262,6 +263,6 @@
 | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/album/7FjEeMfveCJGI0IAyqNFGm) | 3:25 | 2022-06-10 | 2022-07-19 |
 | [You Belong To Me](https://open.spotify.com/track/0L9oRCTObdZLvYOAljy7BD) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [You Belong To Me](https://open.spotify.com/album/61zTk4TnNbUMlQIPQAJC27) | 2:42 | 2023-02-23 | 2023-05-31 |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2022-07-15 |  |
-| [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-07-15 |  |
+| [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-07-15 | 2024-02-05 |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

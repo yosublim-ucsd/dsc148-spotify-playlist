@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,006 likes - 50 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,001 likes - 50 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 38 | [Nosso General \- Ao Vivo](https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nosso General \(Ao Vivo\)](https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8) | 3:08 |
 | 39 | [Os Que Esperam \- Ao Vivo](https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 4:25 |
 | 40 | [Meu Maior Amor \- Ao Vivo](https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 4:51 |
-| 41 | [Filho Meu \- Ao Vivo](https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Flavia Arrais](https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu e a Minha Casa \(Ao Vivo\)](https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy) | 5:26 |
-| 42 | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN) | 11:03 |
-| 43 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
+| 41 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
+| 42 | [Filho Meu \- Ao Vivo](https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Flavia Arrais](https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu e a Minha Casa \(Ao Vivo\)](https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy) | 5:26 |
+| 43 | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN) | 11:03 |
 | 44 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 |
 | 45 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 |
 | 46 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
 | 50 | [Exaltamos o Cordeiro \- Ao Vivo](https://open.spotify.com/track/4yrnJCazRHqxMgLElZ8c4T) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Renato Mimessi](https://open.spotify.com/artist/7dcHm1I1P2orC6hZms9zTM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Exaltamos o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/1OTcv6gQ4wgsfjb20ftIm8) | 8:46 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBmZmEyZTgwNjRiNzA3YTU5MWNkYzU1ZDcwNzU3MzEzNw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAwZDJlMjYzNTVlZTY4ZjZhYTU5NTVlY2Y0NmVkZDdlYg==`

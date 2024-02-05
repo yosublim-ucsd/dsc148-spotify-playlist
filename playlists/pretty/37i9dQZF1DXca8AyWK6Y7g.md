@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > running through the streets screaming listening to Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,898 likes - 114 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,224 likes - 114 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,19 +67,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 57 | [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 |
 | 58 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
 | 59 | [Red Flags](https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Red Flags](https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa) | 2:21 |
-| 60 | [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 |
-| 61 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 |
-| 62 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 |
-| 63 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
+| 60 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
+| 61 | [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 |
+| 62 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 |
+| 63 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 |
 | 64 | [Crazier Best Friend](https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Crazier Best Friend](https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j) | 2:51 |
 | 65 | [little miss misogyny](https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [little miss misogyny](https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS) | 2:27 |
 | 66 | [Jim Carrey](https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 |
-| 67 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
-| 68 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 |
-| 69 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 |
-| 70 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
-| 71 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 |
-| 72 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
+| 67 | [Not The 1975](https://open.spotify.com/track/4FjcgEhcOTostSAHQ0YYHj) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:18 |
+| 68 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
+| 69 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
+| 70 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 |
+| 71 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
+| 72 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 |
 | 73 | [Really Mean It](https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Really Mean It](https://open.spotify.com/album/2UoAR3GzCrFGXkq77uxirn) | 3:14 |
 | 74 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 75 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 |
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 110 | [Window Shopping](https://open.spotify.com/track/63QD2rWbjJjwU9PK1YBOAd) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [Window Shopping](https://open.spotify.com/album/240WxWalwymGHAPOJ3hNPp) | 2:58 |
 | 111 | [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 |
 | 112 | [Tantrum](https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Tantrum](https://open.spotify.com/album/0DzYS39dNG3WhACUAA5LI7) | 2:31 |
-| 113 | [Go Blonde](https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Go Blonde](https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2) | 2:24 |
-| 114 | [The Thrill Of It](https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [The Thrill Of It](https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd) | 3:16 |
+| 113 | [The Thrill Of It](https://open.spotify.com/track/3kGIAI6oq9ArkwEdbN1VJR) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [The Thrill Of It](https://open.spotify.com/album/6FpdWwlJLpBq2cViZH5HVd) | 3:16 |
+| 114 | [Go Blonde](https://open.spotify.com/track/4oDVKGJlwEK5aau8qzluRv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [Go Blonde](https://open.spotify.com/album/2yGuGgNPhuTBqjy2LJnEl2) | 2:24 |
 
-Snapshot ID: `MCw4ZmJlNjEwMmQzNjYxMjc2ZWQ3MmRhYWI1ZGYxOGU5MTE5ODY4Njlj`
+Snapshot ID: `MCxkYTRjYzAyN2RkNDQ2NmRjNDZlZTljYWYyODJlZTQ1ZGQ1YjQ1ZGVh`

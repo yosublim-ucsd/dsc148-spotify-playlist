@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 200130,
+  "num_followers": 200295,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDFkMThmZGRjOTM4YmM1OTk0MjUwNDdhZjYzZGVlM2Q2ZTY1OTAy",
+  "snapshot_id": "MCw2MTU4NjhlZDAzMWIxMTgyMWM0YjkyZmZkNTVlMmExOWFiYzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 142226,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2021-03-22 17:56:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2021-03-22 17:56:31",

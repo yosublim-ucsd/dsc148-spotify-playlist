@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-131 songs - 11 hr 26 min
+132 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Lookout Man!](https://open.spotify.com/track/3xyzXPlwWyniV1pBRCRNBE) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 5:31 | 2022-10-10 | 2022-10-12 |
 | [Love Ain't a Love Song](https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 3:48 | 2022-08-05 |  |
 | [Mainline Florida \- Live](https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 7:01 | 2022-08-06 | 2022-11-24 |
-| [Man of Many Words](https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 4:10 | 2024-02-02 |  |
+| [Man of Many Words](https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 4:10 | 2024-02-02 | 2024-02-05 |
 | [Mean Town Blues](https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 5:04 | 2023-02-03 | 2023-08-07 |
 | [Merry Christmas, Baby \(Alternate Take\)](https://open.spotify.com/track/2HfZpF3MoqcmC1czlkXeek) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Merry Christmas, Baby](https://open.spotify.com/album/6uTLAJqdtmTblzMvLNwEub) | 5:13 | 2023-12-13 | 2024-01-07 |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2022-08-05 |  |
@@ -134,6 +134,7 @@
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2022-08-05 | 2023-01-29 |
 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 | 2023-04-02 |  |
 | [Win\-O](https://open.spotify.com/track/40ncxOtjq2widjGzwKxsIO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 5:29 | 2023-10-10 | 2023-11-11 |
+| [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-04 |  |
 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 | 2023-08-21 |  |
 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 | 2022-11-04 |  |
 | [You Sure Drive A Hard Bargain](https://open.spotify.com/track/77ZJ546pmHFH3CJ1jGXmD3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:59 | 2023-10-10 | 2023-11-11 |

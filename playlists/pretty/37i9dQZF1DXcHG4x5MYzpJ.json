@@ -1,12 +1,12 @@
 {
   "description": "Quiero comerte yo todos los d\u00edas... Fuerza Regida & Grupo Frontera en portada. ",
-  "num_followers": 185210,
+  "num_followers": 185282,
   "original_name": "Karaoke M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODcyZTllZmU1N2IwNmNlZTg5YTc1YmJkMmI3ZDY4ZDFjNzUwMDM3",
+  "snapshot_id": "MCw5MTA1Y2IzNjA1MjkxNzJiZWVlZGNiYjNlOWI1MjUyYWJiYWM2M2Vl",
   "tracks": [
     {
       "added_at": "2023-07-04 19:30:33",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
         "name": "Juan Gabriel",
         "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+      "duration_ms": 213333,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1087,22 +1103,6 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 203200,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2023-07-04 19:30:33",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2023-07-04 19:30:33",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
-    },
-    {
-      "added_at": "2023-07-04 19:30:33",
-      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 191946,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM"
+    },
+    {
+      "added_at": "2023-07-04 19:30:33",
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
     },
     {
       "added_at": "2023-07-04 19:30:33",

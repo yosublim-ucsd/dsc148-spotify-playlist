@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,339 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,272 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 67 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 68 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
 | 69 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
-| 70 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
-| 71 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
+| 70 | [Me Voy de Ti](https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa) | 5:45 |
+| 71 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
 | 72 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
 | 73 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
 | 74 | [Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1](https://open.spotify.com/track/3ocPf13AZvX6QlNuQf6RVV) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Se Acabo El Abuso: La Historia De Mi Vida El Final, Vol.1](https://open.spotify.com/album/4CwW8sORJ7AuVjUKBJkeoQ) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCwzMzgzZDQ5Nzk2MjFmZTVmZWY1OTIzMTE2ZGYwNGZjOWMzNjIxOWU4`
+Snapshot ID: `MCwxYWVmY2UyNGQ5NWVjM2UwZDUyMGY4NzFmZWI1ODcyNjQwOTg5YmI5`

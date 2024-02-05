@@ -1,12 +1,12 @@
 {
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
-  "num_followers": 210674,
+  "num_followers": 210684,
   "original_name": "Cleaning Kit en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmZjMzQ4ODY0Y2E1ZjY2MmM3ZGI3ZTFjNTViZjcxZjU0ZjdhZGQy",
+  "snapshot_id": "MCxhYjY1MTlhZTdjZTM0ZDhmMjdlZDYwYTQxMzJhMzMxMzJkYjZkY2Ix",
   "tracks": [
     {
       "added_at": "2023-12-01 05:01:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Bachata En Fukuoka",
+      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -667,18 +683,38 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 191106,
-      "name": "Bachata En Fukuoka",
-      "url": "https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP"
+      "duration_ms": 265746,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -707,38 +743,18 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -755,22 +771,6 @@
       "duration_ms": 169842,
       "name": "BONITA",
       "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Xtreme",
         "url": "https://open.spotify.com/album/66g9Nydw29UNG9b2ndrlRi"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 212973,
       "name": "Te Extra\u00f1o - Bachata Version",
       "url": "https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "La Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Me llamo Raquel",
-      "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "La Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Me llamo Raquel",
+      "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 274773,
+      "name": "Corazon Espinado (feat. Mana)",
+      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 211466,
       "name": "Ser O Parecer",
       "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 274773,
-      "name": "Corazon Espinado (feat. Mana)",
-      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
     },
     {
       "added_at": "2023-12-01 05:01:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-12-01 05:01:00",
       "album": {
-        "name": "El Amor De Mi Tierra",
-        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Fruta Fresca",
-      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
-    },
-    {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/48FUru9enVg1NlLrkZyJW6"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "El Amor De Mi Tierra",
+        "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Fruta Fresca",
+      "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
     }
   ],
   "unique_name": "Cleaning Kit en Espa\u00f1ol",

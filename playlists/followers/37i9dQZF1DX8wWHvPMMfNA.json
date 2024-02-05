@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 244130,
+  "2024-02-05": 244188,
   "date_first_scraped": "2021-12-28",
   "description": "Soft instrumental jazz for working or studying.",
   "name": "Focus Jazz",
@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/6h7xUNNSruP2FycYPtFu9r"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Autumn Memories",
+      "url": "https://open.spotify.com/track/293Z6MI83NgU15Ky5Gakqc"
+    },
+    {
+      "album": {
         "name": "Autumn Once Again",
         "url": "https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk"
       },
@@ -1408,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Blue Serenade",
+        "url": "https://open.spotify.com/album/1d68ZQai2McSWyG26PwOeb"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244504,
+      "name": "Blue Serenade",
+      "url": "https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK"
+    },
+    {
+      "album": {
         "name": "Blue Velvet",
         "url": "https://open.spotify.com/album/6nT8TqdQqXsoqa9UC8ptVm"
       },
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 357160,
       "name": "Blues In The Night - Short Version",
       "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
@@ -3662,6 +3698,24 @@
     },
     {
       "album": {
+        "name": "Fool For Your Love",
+        "url": "https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj"
+      },
+      "artists": [
+        {
+          "name": "Paddington St. Group",
+          "url": "https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230085,
+      "name": "Fool For Your Love",
+      "url": "https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg"
+    },
+    {
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -5006,6 +5060,24 @@
     },
     {
       "album": {
+        "name": "I was young once",
+        "url": "https://open.spotify.com/album/6wh0GCT50gtsm1hlsECn4t"
+      },
+      "artists": [
+        {
+          "name": "The Boston Four",
+          "url": "https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "I was young once",
+      "url": "https://open.spotify.com/track/3Imvyp4ZL0a72YBahaBp4q"
+    },
+    {
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5"
       },
@@ -5093,6 +5165,24 @@
       "duration_ms": 368653,
       "name": "I'll Never Be The Same",
       "url": "https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj"
+    },
+    {
+      "album": {
+        "name": "I'll Never Smile Again",
+        "url": "https://open.spotify.com/album/11ex2SQdtNwOPbxvroSghz"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166975,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/0fFcQSmLNV5oA8zjDzowwr"
     },
     {
       "album": {
@@ -5917,7 +6007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 428226,
       "name": "It's Easy To Remember - Live",
       "url": "https://open.spotify.com/track/2VLF3Q1yVvTwG32F5uW4z2"
@@ -6763,7 +6853,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 397400,
       "name": "Lonely Town (From On The Town)",
       "url": "https://open.spotify.com/track/1ymGHXrlbLxcMqFAtEOqBs"
@@ -6821,6 +6911,24 @@
       "duration_ms": 236000,
       "name": "Lost in Loneliness",
       "url": "https://open.spotify.com/track/6btI0640swxVX0ylPLwWFF"
+    },
+    {
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/1ZqMSWxNRIBk7kqPlu1jeV"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3ENf7f5t8MoW4R5XDsMEpB"
     },
     {
       "album": {
@@ -8855,7 +8963,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 299533,
       "name": "Polka Dots And Moonbeams - Rudy Van Gelder/Digital Remaster/2007",
       "url": "https://open.spotify.com/track/4X56eAHSvc1H2SeAjLXv4h"
@@ -9565,6 +9673,24 @@
       "duration_ms": 216174,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf"
+    },
+    {
+      "album": {
+        "name": "Shadows of You",
+        "url": "https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5"
+      },
+      "artists": [
+        {
+          "name": "Sverrir Audland",
+          "url": "https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Shadows of You",
+      "url": "https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar"
     },
     {
       "album": {
@@ -10504,6 +10630,24 @@
     },
     {
       "album": {
+        "name": "Strong, silent type",
+        "url": "https://open.spotify.com/album/67bsyOc1YTnuKGNF4foSlb"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198438,
+      "name": "Strong, silent type",
+      "url": "https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW"
+    },
+    {
+      "album": {
         "name": "A Fickle Sonance",
         "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
       },
@@ -10515,7 +10659,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 354013,
       "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
@@ -10645,6 +10789,24 @@
       "duration_ms": 201954,
       "name": "Swedish sauce",
       "url": "https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM"
+    },
+    {
+      "album": {
+        "name": "Sweet Smile",
+        "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234605,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
     },
     {
       "album": {
@@ -11073,7 +11235,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 590666,
       "name": "The Folks Who Live on the Hill - Live",
       "url": "https://open.spotify.com/track/7kSaXrHANOFv8iXgh2gvgA"
@@ -11513,7 +11675,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 369800,
       "name": "Then I'll Be Tired Of You",
       "url": "https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl"
@@ -11603,7 +11765,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 304040,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi"
@@ -11625,7 +11787,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 372266,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx"
@@ -12061,6 +12223,24 @@
       "duration_ms": 163852,
       "name": "Twilight Tango",
       "url": "https://open.spotify.com/track/28OvNaGWpPXguj3JrP7j6y"
+    },
+    {
+      "album": {
+        "name": "Twilight's Last Waltz",
+        "url": "https://open.spotify.com/album/227MPlCydtMDfLUGQJCRsQ"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Trio",
+          "url": "https://open.spotify.com/artist/4EIEvwQ689URBkInS6L1r4"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "Twilight's Last Waltz",
+      "url": "https://open.spotify.com/track/5fc8RLe4x7bgwnqZOWZqVt"
     },
     {
       "album": {
@@ -12818,6 +12998,24 @@
     },
     {
       "album": {
+        "name": "Whispered Longing",
+        "url": "https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Whispered Longing",
+      "url": "https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp"
+    },
+    {
+      "album": {
         "name": "Whitsunday Islands",
         "url": "https://open.spotify.com/album/7ysiBzJ6c0Mv8Y1bFTjKdE"
       },
@@ -12883,7 +13081,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 382160,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/62r3mboXZSQy14RTlw0QKO"
@@ -13099,7 +13297,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 130333,
       "name": "You Are There - Remastered",
       "url": "https://open.spotify.com/track/3liUB1RsKdQawbQJN4ZaHc"

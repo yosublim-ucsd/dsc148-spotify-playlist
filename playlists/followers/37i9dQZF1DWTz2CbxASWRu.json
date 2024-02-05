@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 198678,
+  "2024-02-05": 198641,
   "date_first_scraped": "2023-08-09",
   "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta.",
   "name": "Trotamundos",
@@ -2925,7 +2925,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 226652,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/1ArouVuTsNyHqfLeDGTYmC"
@@ -5233,7 +5233,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "On Verra \u00c7a",
       "url": "https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM"

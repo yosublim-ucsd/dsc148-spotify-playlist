@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1234940,
+  "num_followers": 1235302,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjY0ZjM5MTkwOGNlODRmZDEyYWRjMmVhYjZhZTM4YTE5Y2Q0NGQ1",
+  "snapshot_id": "MCw5ZjhmNWEyNmRiNDdjYmUwMDE3MmY5ZGU0YTEwNmE1ZDUyZWZlOGJl",
   "tracks": [
     {
       "added_at": "2024-01-24 08:57:25",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "POETRY JAM (feat. Foggieraw)",
+        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "duration_ms": 198525,
+      "name": "POETRY JAM (feat. Foggieraw)",
+      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "POETRY JAM (feat. Foggieraw)",
-        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
-      },
-      "artists": [
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        }
-      ],
-      "duration_ms": 198525,
-      "name": "POETRY JAM (feat. Foggieraw)",
-      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Mellow My Man",
-      "url": "https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1811,6 +1811,42 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        },
+        {
+          "name": "Ms. Jaylin Brown",
+          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
+        }
+      ],
+      "duration_ms": 247698,
+      "name": "Beloved! Paradise! Jazz!?",
+      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/7h97NFfY3hDw2kLq0ztbf1"
       },
@@ -1835,42 +1871,6 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        },
-        {
-          "name": "Ms. Jaylin Brown",
-          "url": "https://open.spotify.com/artist/1ffnZupAfeFVxIBCtbiy0d"
-        }
-      ],
-      "duration_ms": 247698,
-      "name": "Beloved! Paradise! Jazz!?",
-      "url": "https://open.spotify.com/track/4DoFmJKTQsWqjVgoXC7zOs"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
         "name": "Call You?",
         "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
       },
@@ -1883,22 +1883,6 @@
       "duration_ms": 205865,
       "name": "Call You?",
       "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2024-01-24 08:57:25",
-      "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+    },
+    {
+      "added_at": "2024-01-24 08:57:25",
+      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
@@ -1939,22 +1939,26 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "Submerse",
+          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
         },
         {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
         }
       ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+      "duration_ms": 153750,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
     },
     {
       "added_at": "2024-01-24 08:57:25",
@@ -1987,26 +1991,22 @@
     {
       "added_at": "2024-01-24 08:57:25",
       "album": {
-        "name": "See You Soon",
-        "url": "https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd"
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
       "artists": [
         {
-          "name": "Submerse",
-          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         },
         {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     }
   ],
   "unique_name": "Jazz Rap",

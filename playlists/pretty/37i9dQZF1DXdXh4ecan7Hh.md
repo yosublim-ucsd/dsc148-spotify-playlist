@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,788 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,761 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 14 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 |
 | 15 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 |
 | 16 | [One Number Away \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Spotify Singles](https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ) | 3:44 |
-| 17 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
-| 18 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
+| 17 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
+| 18 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 19 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 2:36 |
 | 20 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
 | 21 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 55 | [Green Eyes \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:38 |
 | 56 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
 | 57 | [Unforgettable \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 2:38 |
-| 58 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
-| 59 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
+| 58 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
+| 59 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
 | 60 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 |
 | 61 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
 | 62 | [Doing It to Country Songs \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/5PoxKc3OfdHr2uQEnIRRyw) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Dear God \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/78GAT649ad19quwcuiuMQs) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:02 |
 | 70 | [Get to You \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 3:04 |
 
-Snapshot ID: `MCxjYTNkMTIyYjlkYjI5MTg2YjBjYTVmYTBkYWFkN2FhOTcyYjdjZGFl`
+Snapshot ID: `MCxmZDVhZGU3MTNlOGMxNTkwMDY2YzExNzZmM2M2YWI4NWU3YTVlYWRl`

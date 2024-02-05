@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,489 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,498 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 33 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |
 | 34 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 35 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
-| 36 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
-| 37 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
-| 38 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |
-| 39 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
+| 36 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
+| 37 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
+| 38 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
+| 39 | [Yoga Meditation and Relaxation](https://open.spotify.com/track/3SrEmZTtPBo5Mzsa7qRsQE) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI) | [Kundalini: Yoga, Meditation, Relaxation](https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo) | 2:33 |
 | 40 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
 | 41 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 |
 | 42 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 43 | [Pineal Gland Activation \- 936hz Alpha Meditation](https://open.spotify.com/track/7tfvDpUhhR6cgFHo2Xx8CE) | [Source Vibrations](https://open.spotify.com/artist/7vHvQ5bkLPByiTInz0mTfV) | [Pineal Gland Activation \(936hz Alpha Meditation\)](https://open.spotify.com/album/4CSIGBGMketZ2NlG1lphoZ) | 22:04 |
 | 44 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 45 | [Grateful Minds](https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9) | [Mehdi Teyt & Rehla X](https://open.spotify.com/artist/0UfCWBHRcFM2ZqmnjkmJV9) | [The Enlightened](https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE) | 2:47 |
-| 46 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
-| 47 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 |
+| 46 | [Shiva's Meditation](https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 5:09 |
+| 47 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
 | 48 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
 | 49 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
 | 50 | [Gratitude](https://open.spotify.com/track/1NpxfZWhuax4NJnDuVFkp1) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Bliss \- Reiki Healing](https://open.spotify.com/album/7J9d9X7QYwhQ3RDcrWryFA) | 9:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Mirage](https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mirage](https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc) | 8:38 |
 | 75 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
 
-Snapshot ID: `MCwyNTRjYzkwOTdlZmY2NjM4ZWQwZjdhZmZjMWI0NDJlZGQwZmI2OTM4`
+Snapshot ID: `MCw0YWZiNTY1YjFmYzExMDNkYzM0NjU0ZDIwMjBmODczOWJkOTNiNTFj`

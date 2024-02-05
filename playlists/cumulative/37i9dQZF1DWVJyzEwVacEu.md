@@ -4,7 +4,7 @@
 
 > Hits, hits hits van afgelopen tijd..\. Cover: Dua Lipa
 
-181 songs - 9 hr 0 min
+182 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2023-01-30 | 2023-06-24 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-06-02 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-09-29 |  |
-| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2024-01-13 |  |
+| [Layla](https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R) | [Artidox](https://open.spotify.com/artist/4WWh35kZbEtVmBQRT3khnE), [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7), [keremrxd](https://open.spotify.com/artist/7wsx4sDyMTp2HyXw50iJGV) | [Layla](https://open.spotify.com/album/53xBYPf2oUgNsOlw56PdqZ) | 2:45 | 2024-01-13 |  |
+| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2024-01-13 | 2024-02-05 |
 | [Learning To Fly](https://open.spotify.com/track/5b8fVPFMoWNuNDUoketKlt) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Learning To Fly](https://open.spotify.com/album/3jlABk07MAMgu3nZ9AmMgH) | 3:12 | 2023-01-30 | 2023-04-01 |
 | [Leave A Little Love](https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS) | 3:07 | 2023-01-30 | 2023-04-01 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,805 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,784 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 24 | [Big Bad John](https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso) | [Jimmy Dean](https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC) | [The Best Of Jimmy Dean](https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci) | 3:02 |
 | 25 | [I'll Be Here in the Morning](https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 3:00 |
 | 26 | [Why Do I Love You So](https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb) | 2:07 |
-| 27 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 |
-| 28 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
+| 27 | [Harper Valley P.T.A.](https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK) | [Jeannie C\. Riley](https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2) | [Harper Valley P.T.A\. \(The Plantation Recordings 1968\-70\)](https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg) | 3:14 |
+| 28 | [She Thinks I Still Care](https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [The New Favorites Of George Jones](https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR) | 2:34 |
 | 29 | [Okie From Muskogee](https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:44 |
 | 30 | [Flowers On the Wall](https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ) | [The Statler Brothers](https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI) | [Flowers On The Wall: The Essential Statler Brothers 1964\-1969](https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD) | 2:18 |
 | 31 | [Daddy Sang Bass](https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:20 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 49 | [Galveston](https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 2:40 |
 | 50 | [Little Green Apples \- Single Version](https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [A Tender Look At Love](https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy) | 2:36 |
 | 51 | [Stop the World \(And Let Me Off\)](https://open.spotify.com/track/0jvmlZJZCaTZLMh3yfL6Y5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Folk\-Country](https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz) | 2:02 |
-| 52 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
-| 53 | [Together Again](https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:28 |
+| 52 | [Together Again](https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 2:28 |
+| 53 | [Abilene](https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX) | [George Hamilton IV](https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti) | [Abilene](https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M) | 2:13 |
 | 54 | [Does My Ring Hurt Your Finger](https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Country Way](https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta) | 2:17 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 | 56 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Saginaw, Michigan](https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [Saginaw, Michigan](https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX) | 3:02 |
 | 100 | [Misery Loves Company](https://open.spotify.com/track/3svC90yBSf9R7aMvrn3mzz) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Viva](https://open.spotify.com/album/5srw9Y2VmTNHwUVziaibEk) | 2:33 |
 
-Snapshot ID: `MCxhNDFhN2VjZGQ4ZTIxZDNlM2I2ODA1YzRmODdkMmEyNzVkNGI3M2Jl`
+Snapshot ID: `MCw0ZTE1Mzg1NjVmMWFlMWIxYTg4YTYyODI5MmNhYTc4MjVkYzczZGQ0`

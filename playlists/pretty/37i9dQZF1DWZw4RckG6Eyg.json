@@ -1,12 +1,12 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 19141,
+  "num_followers": 19143,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWZjMDY0OTA0NjhiZDc4MGYyMTM1YTNkM2NmMTBmZTZiYjlmYTQ5",
+  "snapshot_id": "MCxlN2E4OWZhZTMxNTcxNTc0MWY3ZmQ2MTIzODRhN2FjM2NkYzI2MTJh",
   "tracks": [
     {
       "added_at": "2023-11-29 16:17:10",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Det l\u00e4cker",
+        "url": "https://open.spotify.com/album/3kEotfrHH6NPyySBFaxsaL"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 259646,
+      "name": "Det l\u00e4cker",
+      "url": "https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Det l\u00e4cker",
-        "url": "https://open.spotify.com/album/3kEotfrHH6NPyySBFaxsaL"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 259646,
-      "name": "Det l\u00e4cker",
-      "url": "https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Flowers At Your Feet",
-        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
-      },
-      "artists": [
-        {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
-        }
-      ],
-      "duration_ms": 161360,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 181443,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Flowers At Your Feet",
+        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "duration_ms": 161360,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 270875,
-      "name": "5 to 8 Hours a Day (WWwaG)",
-      "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "The Secret To Life",
         "url": "https://open.spotify.com/album/49YsmuVR4Dk9iC2m5LPSKy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172101,
       "name": "The Secret To Life",
       "url": "https://open.spotify.com/track/0xOxOAuTy6KCEp8Ov82Y9Z"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "I Killed Your Dog",
+        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 270875,
+      "name": "5 to 8 Hours a Day (WWwaG)",
+      "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Crossing Guard",
-      "url": "https://open.spotify.com/track/0frdgqqz7rjEZ4SQIH169V"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "time waits",
         "url": "https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199760,
       "name": "time waits",
       "url": "https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Crossing Guard",
+      "url": "https://open.spotify.com/track/0frdgqqz7rjEZ4SQIH169V"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Art By You",
-        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
-      },
-      "artists": [
-        {
-          "name": "Simon Russell",
-          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Everyone's Crushed",
         "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 209021,
       "name": "Barley",
       "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Art By You",
+        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
+      },
+      "artists": [
+        {
+          "name": "Simon Russell",
+          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Nothing Sacred",
-        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
-      },
-      "artists": [
-        {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Putting On Airs",
-      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Fluent Stutter",
         "url": "https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 194234,
       "name": "The Big Boom - Bonus Track",
       "url": "https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Nothing Sacred",
+        "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Putting On Airs",
+      "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "When Horses Would Run",
-        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 136697,
-      "name": "The Great American Picnic",
-      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "these are not songs, they are stories",
         "url": "https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 186840,
       "name": "Love & Death",
       "url": "https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "When Horses Would Run",
+        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 136697,
+      "name": "The Great American Picnic",
+      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Infinite Spring",
-        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
-      },
-      "artists": [
-        {
-          "name": "Superviolet",
-          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Big Songbirds Don't Cry",
-      "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Why Are You Not Scared Yet?",
         "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "ifshitfuq",
-        "url": "https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja"
+        "name": "Infinite Spring",
+        "url": "https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC"
       },
       "artists": [
         {
-          "name": "meg elsier",
-          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+          "name": "Superviolet",
+          "url": "https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P"
         }
       ],
-      "duration_ms": 230136,
-      "name": "ifshitfuq",
-      "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
+      "duration_ms": 234500,
+      "name": "Big Songbirds Don't Cry",
+      "url": "https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1587,6 +1571,22 @@
       "duration_ms": 207618,
       "name": "First Rule of the Bug",
       "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "ifshitfuq",
+        "url": "https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja"
+      },
+      "artists": [
+        {
+          "name": "meg elsier",
+          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "ifshitfuq",
+      "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
     },
     {
       "added_at": "2023-11-29 16:17:10",

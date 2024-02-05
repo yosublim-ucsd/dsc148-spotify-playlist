@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. \u00c1ngela Aguilar en portada.",
-  "num_followers": 633757,
+  "num_followers": 633885,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Njk1Zjk0MTM2YTQyMjU0N2U2MDhlZjUyOGZjNzRmYWVkNjk1NTQ1",
+  "snapshot_id": "MCxhNWMyMzc4Zjg5Njg3NzAwZThkMDdiNWYxNjk1MTAwN2Y0Y2M3ZDNh",
   "tracks": [
     {
       "added_at": "2024-02-02 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-26 16:26:26",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Regalo De Dios",
-      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
-    },
-    {
-      "added_at": "2024-01-26 16:26:26",
-      "album": {
         "name": "La Intenci\u00f3n",
         "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 249464,
       "name": "La Intenci\u00f3n",
       "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "added_at": "2024-01-26 16:26:26",
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Regalo De Dios",
+      "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
     },
     {
       "added_at": "2024-01-26 16:26:26",
@@ -1207,26 +1207,22 @@
     {
       "added_at": "2024-01-26 16:26:26",
       "album": {
-        "name": "Otro D\u00eda, Otra Aventura",
-        "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 200859,
-      "name": "Otro D\u00eda, Otra Aventura",
-      "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+      "duration_ms": 180573,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
     },
     {
       "added_at": "2024-01-26 16:26:26",
@@ -1247,22 +1243,26 @@
     {
       "added_at": "2024-01-26 16:26:26",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f"
+        "name": "Otro D\u00eda, Otra Aventura",
+        "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         },
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 180573,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
+      "duration_ms": 200859,
+      "name": "Otro D\u00eda, Otra Aventura",
+      "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
     },
     {
       "added_at": "2024-01-26 16:26:26",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-26 16:26:26",
       "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2024-01-26 16:26:26",
-      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "added_at": "2024-01-26 16:26:26",
+      "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "added_at": "2024-01-26 16:26:26",

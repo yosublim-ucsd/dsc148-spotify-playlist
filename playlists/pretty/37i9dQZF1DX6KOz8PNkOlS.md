@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,868 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,054 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 43 | [Hold U](https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:16 |
 | 44 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 |
 | 45 | [Signs](https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 2:59 |
-| 46 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
-| 47 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
+| 46 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
+| 47 | [Own Your Own](https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c) | 3:56 |
 | 48 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 |
 | 49 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 |
 | 50 | [Too Good \- Unknown Mortal Orchestra Remix](https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Too Good \(Unknown Mortal Orchestra Remix\)](https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN) | 3:55 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 63 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
 | 64 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 |
 | 65 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 |
-| 66 | [Water \- FKJ Remix](https://open.spotify.com/track/4g1aIPqIAqcB6ZgU0F2ylv) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/0hP7x8YEcyPDjN4LzuJbNm) | 3:19 |
-| 67 | [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 |
+| 66 | [If It Goes](https://open.spotify.com/track/023PoiOdHqjTz2KE5yvPMO) | [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [Aliso](https://open.spotify.com/album/6SElxQHTuL8pbuQLubKI2U) | 3:44 |
+| 67 | [Water \- FKJ Remix](https://open.spotify.com/track/4g1aIPqIAqcB6ZgU0F2ylv) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Water \(FKJ Remix\)](https://open.spotify.com/album/0hP7x8YEcyPDjN4LzuJbNm) | 3:19 |
 | 68 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
 | 69 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
 | 70 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 74 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 | 75 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 |
 | 76 | [Rain](https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:48 |
-| 77 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
-| 78 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
+| 77 | [Own Me](https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 3:37 |
+| 78 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
 | 79 | [Unconditional](https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:09 |
 | 80 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
 | 81 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 97 | [Sweet Lie](https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Modern World](https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p) | 4:42 |
 | 98 | [Satellite](https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Painting the Roses](https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co) | 4:06 |
 | 99 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
-| 100 | [Awake](https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK) | 3:06 |
+| 100 | [Harlem River](https://open.spotify.com/track/4xv8NEU2gJ0Ud3PZZJgh59) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/3YCZyxDxBnFt4x3eYGYHFv) | 4:37 |
 
-Snapshot ID: `MCw2ZDFjYzhjZmQxYmI5ZjcwZDc0YWNmMjNhYWRlZmRlODc5MWM0OWIx`
+Snapshot ID: `MCw1ODg3N2JkZDdmNTE1N2ExOWFmZTkwMWEwYzdmMzM1NjA2NDNhOTMz`

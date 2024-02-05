@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 134204,
+  "num_followers": 134125,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMzIxNDAwMCwwMDAwMDAwMDI0YmM2NThlZjdiYzhmMDJkNjE3MGQ1MmNiOGIxNjk3",
+  "snapshot_id": "MCxlNjUwYjg3NWNlM2MxNzRhNWEzMzUwNTIwMmVkYmFjNzQzOWVmZTMx",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -735,22 +735,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Estrangeiro",
-        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         },
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Adriano Daga",
+          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
         }
       ],
-      "duration_ms": 226911,
-      "name": "Estrangeiro",
-      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+      "duration_ms": 222727,
+      "name": "Cora\u00e7\u00e3o de Pedra",
+      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,26 +795,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+        "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Adriano Daga",
-          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
         }
       ],
-      "duration_ms": 222727,
-      "name": "Cora\u00e7\u00e3o de Pedra",
-      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
     },
     {
       "added_at": "2023-12-22 03:00:00",

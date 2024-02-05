@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Saiko, Lola Indigo",
-  "num_followers": 973724,
+  "num_followers": 972749,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZjZjE5MmRhOTk5NjQwMmM5NTMxOTFhN2VlZmEzMGRmMWQ2ZjQ5",
+  "snapshot_id": "MCw1MzE2MjBmYTdjYjcwNjFkN2QyZDVkM2I2ZjQ3ODc2MGNlMTYwMzE0",
   "tracks": [
     {
       "added_at": "2024-02-01 23:01:00",
@@ -399,6 +399,38 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
+        "name": "Ni 1 Complejo",
+        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Ni 1 Complejo",
+      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Te echo de -",
+        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Te echo de -",
+      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
         "name": "SUPERH\u00c9ROES",
         "url": "https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt"
       },
@@ -419,18 +451,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Te echo de -",
-        "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
+        "name": "amor de verano",
+        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
       },
       "artists": [
         {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
         }
       ],
-      "duration_ms": 176226,
-      "name": "Te echo de -",
-      "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
+      "duration_ms": 176666,
+      "name": "amor de verano",
+      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -455,18 +487,18 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+        "name": "los chicos no lloran",
+        "url": "https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         }
       ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
+      "duration_ms": 198674,
+      "name": "los chicos no lloran",
+      "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -487,38 +519,6 @@
       "duration_ms": 144829,
       "name": "EL CONDENAO",
       "url": "https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "los chicos no lloran",
-        "url": "https://open.spotify.com/album/7uKY4Ga9A9LDtaAWG7hV2H"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 198674,
-      "name": "los chicos no lloran",
-      "url": "https://open.spotify.com/track/2jD6X6gSLtynew2xj6qHRt"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
-        "name": "Ni 1 Complejo",
-        "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Ni 1 Complejo",
-      "url": "https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -595,6 +595,26 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "added_at": "2024-02-02 10:04:27",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -739,22 +759,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Astronauta",
         "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
       },
@@ -769,24 +773,20 @@
       "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
-      "added_at": "2024-02-02 10:04:27",
+      "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2024-02-01 23:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-02-01 23:01:00",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2024-02-01 23:01:00",
-      "album": {
         "name": "Frenes\u00ed",
         "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+    },
+    {
+      "added_at": "2024-02-01 23:01:00",
+      "album": {
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
     },
     {
       "added_at": "2024-02-01 23:01:00",

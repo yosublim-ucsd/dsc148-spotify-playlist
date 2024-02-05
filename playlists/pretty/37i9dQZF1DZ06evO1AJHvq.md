@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 
 > This is Ariel Camacho y Los Plebes Del Rancho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,551 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,485 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 12 | [El Rey De Corazones \- En Vivo](https://open.spotify.com/track/2mHRLx0MHNHN8bW0r6Prwu) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:38 |
 | 13 | [El Toro Encartado](https://open.spotify.com/track/572KOXYeHP69vqpcgvOKGh) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:46 |
 | 14 | [Vida Truncada](https://open.spotify.com/track/3hP3Xr2UqRjA6EgV1adayu) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Ariel Camacho Para Siempre](https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde) | 3:58 |
-| 15 | [A Cada Rato](https://open.spotify.com/track/5CI1WxI7KbzNsVjeO80Asi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:11 |
+| 15 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 |
 | 16 | [El Ruidoso](https://open.spotify.com/track/5r9Ct6bCiKOXJxtv3InUeY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Ruidoso](https://open.spotify.com/album/6ygsA90Ui8GYtRzRjAo0Io) | 3:50 |
 | 17 | [El Mentado](https://open.spotify.com/track/4qZfObHdk6sphLcReDazoq) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 2:36 |
 | 18 | [Un Par De Ojitos Negros \- En Vivo](https://open.spotify.com/track/3SRlnI2CtjzfsT0m8yVfdq) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 2:53 |
-| 19 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 |
+| 19 | [A Cada Rato](https://open.spotify.com/track/5CI1WxI7KbzNsVjeO80Asi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:11 |
 | 20 | [Si Quiere Salir Que Salga](https://open.spotify.com/track/1tfBkTno29y7zPR6EQvO2B) | [Los Bohemios de Sinaloa](https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb), [Los Mayitos De Sinaloa](https://open.spotify.com/artist/0vnz9PZNUDprkhDBg3aF6R) | [Si Quiere Salir Que Salga](https://open.spotify.com/album/5JHYvs5iF8NBrkdp6q0XJ1) | 2:34 |
 | 21 | [El Rey De Corazones](https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |
 | 22 | [Hace Un Año \- En Vivo](https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [En Vivo Con Tololoche](https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma) | 3:31 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AJHvq.md) - [plain]
 | 38 | [La Muerte Del Cardenal](https://open.spotify.com/track/7GUf9Tdckybkkyr52eZfK4) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 4:12 |
 | 39 | [Los Primos](https://open.spotify.com/track/66W3b4kPwrwpgVT0RQnzgQ) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Fiesta En El Cielo Vol 1](https://open.spotify.com/album/6Pv9zEnABm6E0nubZxmfWU) | 3:25 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBhZTliYWIwYTAxMTViMDU1ODYwYWU2MWNjNjgzMjdiMw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlNzRmZmRiZTE3MDdhMTAyOGM0ODJhMzFlZGI4NGVhZg==`

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 63719,
+  "num_followers": 63887,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2UwZDVkZmZhZGRmMWVhYzA3M2YzOTVlNzA4ZWQ5MTkwOTYzY2E1",
+  "snapshot_id": "MCwxZWNhNjQxN2QwOTRlMDllOGE4NDQ0ZGEyYmYwMTY0NjdjZDFiZjg0",
   "tracks": [
     {
       "added_at": "2024-01-26 10:05:52",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Over The Pines (from the Motion Picture \"Land\")",
         "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 191386,
       "name": "Over The Pines",
       "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        },
+        {
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         }
       ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
+      "duration_ms": 218333,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -811,22 +815,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA"
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle [Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/1arRxLkgqEqmKAFodhjgCv"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1091,6 +1091,42 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
+        "url": "https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        },
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
+      "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
         "name": "A Tiny Ripple That Becomes A Giant Wave",
         "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
       },
@@ -1123,42 +1159,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
-        "url": "https://open.spotify.com/album/5J1t0MUxKrixwW0RuyaBJb"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        },
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
-      "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Okno",
         "url": "https://open.spotify.com/album/1LheFuzh54DF8zmFiKD1iX"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 187000,
       "name": "Okno",
       "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
       },
       "artists": [
         {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
         }
       ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1223,22 +1239,6 @@
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Waterfelt",
-        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
-      },
-      "artists": [
-        {
-          "name": "Joel Christian Goffin",
-          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
-        }
-      ],
-      "duration_ms": 223326,
-      "name": "Waterfelt",
-      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 201181,
       "name": "For You",
       "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Waterfelt",
+        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+      },
+      "artists": [
+        {
+          "name": "Joel Christian Goffin",
+          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+        }
+      ],
+      "duration_ms": 223326,
+      "name": "Waterfelt",
+      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
-    },
-    {
-      "added_at": "2024-01-26 10:05:52",
-      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 180339,
       "name": "Promise Of Sun",
       "url": "https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n"
+    },
+    {
+      "added_at": "2024-01-26 10:05:52",
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1687,26 +1687,18 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Circle 26 (Tom Ashbrook Rework)",
-        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
+        "name": "Notes of Longing",
+        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
       },
       "artists": [
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Circle 26 - Tom Ashbrook Rework",
-      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+      "duration_ms": 195019,
+      "name": "The Young Weaver",
+      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
     },
     {
       "added_at": "2024-01-26 10:05:52",
@@ -1731,18 +1723,26 @@
     {
       "added_at": "2024-01-26 10:05:52",
       "album": {
-        "name": "Notes of Longing",
-        "url": "https://open.spotify.com/album/603CzL6P2uvxqlsPunk53H"
+        "name": "Circle 26 (Tom Ashbrook Rework)",
+        "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
       "artists": [
         {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 195019,
-      "name": "The Young Weaver",
-      "url": "https://open.spotify.com/track/7bimdtIK17l7y2b0Zy9kwy"
+      "duration_ms": 220000,
+      "name": "Circle 26 - Tom Ashbrook Rework",
+      "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
     },
     {
       "added_at": "2024-01-26 10:05:52",

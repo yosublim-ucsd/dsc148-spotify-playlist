@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 64905,
+  "num_followers": 64915,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWEwZTZmOGQyY2ZkNTM2NmE1OTZlNjJhMjI5ZTU0YmExNWEyYTJi",
+  "snapshot_id": "MCwyZGZmMDAxZTRlNDdiOTBhYjRiNThkZDc4NjgwOTRhMGM2Yjk1MGFj",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "async",
-        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+        "name": "in my Time",
+        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Takahiro Kido",
+          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
         }
       ],
-      "duration_ms": 232073,
-      "name": "solari",
-      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+      "duration_ms": 86013,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "Kazahana",
         "url": "https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 178255,
       "name": "Cinnamon - Rework",
       "url": "https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "in my Time",
-        "url": "https://open.spotify.com/album/6UWrxLbfbJRIgyrbgghiMi"
-      },
-      "artists": [
-        {
-          "name": "Takahiro Kido",
-          "url": "https://open.spotify.com/artist/7vaTIZVteGSJf1cQ9VzRRI"
-        }
-      ],
-      "duration_ms": 86013,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/0VbuRai18mA0GtiCiKdqph"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Ake",
-        "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 127120,
-      "name": "Ake",
-      "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Heavenly Me Last Days",
         "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 599547,
       "name": "Last Days",
       "url": "https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "Ake",
+        "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 127120,
+      "name": "Ake",
+      "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
       },
       "artists": [
         {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+          "name": "Yosi Horikawa",
+          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
         }
       ],
-      "duration_ms": 136124,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
+      "duration_ms": 379561,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
+      },
+      "artists": [
+        {
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Energy Flow (Ki No Nagare)",
+      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "Lasting Memories",
         "url": "https://open.spotify.com/album/20k1KmdxOiXyQHhw7QyXby"
       },
@@ -571,34 +587,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr"
       },
       "artists": [
         {
-          "name": "Yosi Horikawa",
-          "url": "https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ"
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 379561,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
-      },
-      "artists": [
-        {
-          "name": "Shiho Yabuki",
-          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Energy Flow (Ki No Nagare)",
-      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
+      "duration_ms": 136124,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -635,38 +635,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "How My Heart Sings",
-        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 373973,
-      "name": "FEET",
-      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "Dear (Haruhisa Tanaka Remix)",
         "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 373973,
+      "name": "FEET",
+      "url": "https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "How My Heart Sings",
+        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "After the noise is gone",
         "url": "https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 193640,
       "name": "Love is a personal thing",
       "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -755,18 +739,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
         }
       ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
     },
     {
       "added_at": "2024-02-01 15:00:00",

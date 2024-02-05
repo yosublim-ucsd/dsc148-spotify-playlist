@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,277 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,285 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 22 | [Bleed Black](https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:14 |
 | 23 | [The Killing Lights](https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 4:03 |
 | 24 | [Ever And A Day](https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:06 |
-| 25 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
-| 26 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
+| 25 | [Porphyria](https://open.spotify.com/track/66NSMMosLnBZ81ufOYIyIg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 2:07 |
+| 26 | [Snow Cats](https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 3:20 |
 | 27 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 |
 | 28 | [Wester](https://open.spotify.com/track/3PLEZsXmjW1XrTtKttkfaW) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:02 |
 | 29 | [This Secret Ninja](https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 49 | [Fall Children](https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [All Hallows EP](https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6) | 3:12 |
 | 50 | [Trash Bat](https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Trash Bat](https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp) | 2:07 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA5YWVmNzNlM2FlOGY1ZTg0ODk2NGVkZGI5NzMzYmZhZg==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBkNDliYWMzYWYwNDczMDkwZGU4ZDU0OWU5MTgzYjg3Mw==`

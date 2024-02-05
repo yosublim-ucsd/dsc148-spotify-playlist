@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-158 songs - 9 hr 52 min
+159 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Cumbia Campesina](https://open.spotify.com/track/48JvqQzKtUoICeU0X8tl8o) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [A Díos Le Pido](https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3) | 3:52 | 2023-06-16 |  |
 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 | 2023-06-16 |  |
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-06-16 |  |
-| [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 | 2023-11-08 |  |
+| [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 | 2023-11-08 | 2024-02-05 |
 | [Cumbia De Las Velas](https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA), [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [Cumbia De Las Velas](https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF) | 4:53 | 2023-11-08 |  |
 | [Cumbia de Mis Amores \- Cover En Vivo](https://open.spotify.com/track/6ZHxgkTUjoXn8k58CjFdkP) | [Regio Cumbiero](https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL) | [Cumbia de Mis Amores \(Cover En Vivo\)](https://open.spotify.com/album/5sXqioTLdE9dkwtXDcyjnt) | 5:22 | 2023-11-08 | 2024-02-04 |
 | [Cumbia de Nuevo León](https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Cumbia Embajadora](https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd) | 3:38 | 2023-06-16 |  |
@@ -162,6 +162,7 @@
 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 | 2023-06-16 |  |
 | [Vete a Buscar Aquel](https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm) | [Conjunto Oro](https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs) | [Lo Mejor De](https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP) | 3:32 | 2023-06-16 |  |
 | [Vuelve](https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [La Suegra](https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa) | 4:04 | 2023-06-16 |  |
+| [Wepa Wepa](https://open.spotify.com/track/2qbCCwrqjYPAuboUm441qZ) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 3:14 | 2023-11-08 |  |
 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 | 2023-06-16 |  |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2023-06-16 |  |
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-06-16 | 2023-11-09 |

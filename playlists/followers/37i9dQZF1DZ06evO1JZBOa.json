@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 8810,
+  "2024-02-05": 8815,
   "date_first_scraped": "2021-12-29",
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
   "name": "This Is Manu Dibango",
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 252706,
       "name": "Nobody Cares",
       "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 396466,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 128985,
       "name": "Soul Fiesta",
       "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 149066,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin"

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 5795,
+  "2024-02-05": 5796,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN\">Finneas O'Connell</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Finneas O'Connell",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 168839,
       "name": "all the good girls go to hell",
       "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 179172,
       "name": "bellyache",
       "url": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 193143,
       "name": "bury a friend",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
@@ -569,6 +569,24 @@
     {
       "album": {
         "name": "College",
+        "url": "https://open.spotify.com/album/3e3WDTE1fIivEwz8ibmFQT"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225548,
+      "name": "College",
+      "url": "https://open.spotify.com/track/0DPNTCaKtWwMwOtNWy5UsF"
+    },
+    {
+      "album": {
+        "name": "College",
         "url": "https://open.spotify.com/album/7lIpzjUcdHugRdlrYdaJ9t"
       },
       "artists": [
@@ -579,7 +597,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 225548,
       "name": "College",
       "url": "https://open.spotify.com/track/2suGfSJ6AXlT6G3GjuLOId"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 245425,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 298410,
       "name": "Gangsta Art (Yo Gotti, Moneybagg Yo feat. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta)",
       "url": "https://open.spotify.com/track/63u4taM8CTklMQhrcV3via"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 229425,
       "name": "hostage",
       "url": "https://open.spotify.com/track/7hsI66hd2zDvcqDMOkGkfy"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 149189,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 167096,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 256758,
       "name": "Only A Lifetime",
       "url": "https://open.spotify.com/track/7zODPHkwNgDFZzhv5NhhVw"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/7pNcOZGxBHXuNKT2YUABzr"

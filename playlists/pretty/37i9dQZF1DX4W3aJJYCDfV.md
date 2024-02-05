@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,016 likes - 130 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,844 likes - 130 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 67 | [Sound Of The Drums](https://open.spotify.com/track/4s538QEQhTSOJGnasd1FAZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Sound Of The Drums](https://open.spotify.com/album/0m6A8RrKlJ5bTTz3XyV4v7) | 3:31 |
 | 68 | [Flightless Bird](https://open.spotify.com/track/2WiJ9KoNcPvBmxSQMg3gYy) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Flightless Bird](https://open.spotify.com/album/0nUFM9Cp9ujDdaPcncHb79) | 1:36 |
 | 69 | [me problem](https://open.spotify.com/track/4F7QJnhb0chlbx8aD22qXA) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [me problem](https://open.spotify.com/album/7aSzpUf4gd0WG5ECKV3xi7) | 2:36 |
-| 70 | [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 |
+| 70 | [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 |
 | 71 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
 | 72 | [It's Over](https://open.spotify.com/track/0Z7G2l8HgDK08AUQBty6zi) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [It's Over EP](https://open.spotify.com/album/3Qi8hbE9uiWP3l1GGhOfNX) | 3:35 |
 | 73 | [One More Night](https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w) | 3:10 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Spinning Sides](https://open.spotify.com/track/4azJjpjM9wzySL8Nz6aWgG) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Spinning Sides](https://open.spotify.com/album/1rs0wOw1XnxBU71oTpxP5g) | 3:57 |
 | 130 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 
-Snapshot ID: `MCxiZjliNGZiNTE4YWZjMDg1MDBmY2Y1MDBlZmM3NjgyYzM5YjM2MjEy`
+Snapshot ID: `MCxkNmE3NzhmNGE1NTY4NmE1M2NiNjBhMmJmOThjN2E1ZTE4NjZlNmE4`

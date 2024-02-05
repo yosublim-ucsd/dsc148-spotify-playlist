@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,028 likes - 150 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,002 likes - 150 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 39 | [No More](https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SANTIAGO](https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY) | 3:10 |
 | 40 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
 | 41 | [Pain](https://open.spotify.com/track/39LJCSHy7nB1akjmhMQ7Y7) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [Fearless](https://open.spotify.com/album/2leou6sxHz7CaxyV6f4cf1) | 3:08 |
-| 42 | [wtf im crying](https://open.spotify.com/track/1XSzovmoEWuJEknwSkT3gX) | [Coufin](https://open.spotify.com/artist/0WRqBlTxyrz66l1tImP3Z5), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj) | [wtf im crying](https://open.spotify.com/album/65wct2ZVrlL0UfDsvIvaMn) | 2:34 |
+| 42 | [wtf im crying](https://open.spotify.com/track/3ZXBdyYdFR0bDi6PbiHr6c) | [fwsatoru](https://open.spotify.com/artist/2WE0ecRE2lFCe7fYlg5INP) | [wtf im crying](https://open.spotify.com/album/2tRdy4s544KL6e74kN0cYy) | 2:34 |
 | 43 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 |
 | 44 | [0verd0se](https://open.spotify.com/track/5r4eesBDOsXbCKPYtDdTbX) | [Ders](https://open.spotify.com/artist/54JOWWtkyXlCZcpLiB9o5Y) | [0verd0se](https://open.spotify.com/album/2b1q67i2DVElGyIqBEZypg) | 1:52 |
 | 45 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 |
 | 150 | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [KIDS ARE GROWING UP \(PART 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 |
 
-Snapshot ID: `MCxlMGJlYWZmOWNmNTIyZWQ2ZTgyY2IxYzRmODA5ZDg1ZDgwOGM2NjQ2`
+Snapshot ID: `MCw2NzJmYWUzYmM5NDNjZmMyNGY3MzIyMTc3N2M1ZmU3OGZlZmY5OGRi`

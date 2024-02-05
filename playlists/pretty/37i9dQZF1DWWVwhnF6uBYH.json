@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 437268,
+  "num_followers": 437526,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGNmNDFjNWRjNjlmZTc4NTZlMmUyMWI4YTk0YjM3ZDY2OGUxNGM5",
+  "snapshot_id": "MCw2YzkxYTU0NzRlMmU5YzM5ZjhhN2MwZDMzNDYyMjBhODRlMjI0NmU5",
   "tracks": [
     {
       "added_at": "2023-12-29 00:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1063,6 +1063,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "Como Es Arriba Es Abajo",
         "url": "https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb"
       },
@@ -1187,6 +1187,26 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1299,42 +1319,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1515,26 +1531,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Serafin Zambada",
-        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 128933,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "Cruzando Fronteras",
         "url": "https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR"
       },
@@ -1551,18 +1547,42 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
       "artists": [
         {
           "name": "Edicion Especial",
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "Serafin Zambada",
+        "url": "https://open.spotify.com/album/4wIqGZ9el8QllwpREn1IPA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 128933,
+      "name": "Seraf\u00edn Zambada",
+      "url": "https://open.spotify.com/track/5ZVyu4Ic8XQOomHPaYSaLN"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1667,22 +1687,6 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "Y As\u00ed Suena el 3030",
-        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 179610,
-      "name": "El Jami",
-      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
         "name": "Desde Topo Hasta La Sierra",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -1703,54 +1707,18 @@
     {
       "added_at": "2023-12-29 00:00:00",
       "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
+        "name": "Y As\u00ed Suena el 3030",
+        "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
       "artists": [
         {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "duration_ms": 199041,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
-    },
-    {
-      "added_at": "2023-12-29 00:00:00",
-      "album": {
-        "name": "A Punta De Balazos (En Vivo)",
-        "url": "https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f"
-      },
-      "artists": [
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 237700,
-      "name": "A Punta De Balazos - En Vivo",
-      "url": "https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb"
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
     },
     {
       "added_at": "2023-12-29 00:00:00",
@@ -1767,6 +1735,38 @@
       "duration_ms": 224693,
       "name": "Ismael Pa\u2019 Servirle",
       "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "El Jessy",
+        "url": "https://open.spotify.com/album/71461Ih39CjzfdzTu0lVkY"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 199041,
+      "name": "El Jessy",
+      "url": "https://open.spotify.com/track/7KQXu5evPXvbP2zFITKsLx"
+    },
+    {
+      "added_at": "2023-12-29 00:00:00",
+      "album": {
+        "name": "A Punta De Balazos (En Vivo)",
+        "url": "https://open.spotify.com/album/0wI3IGO9TPx7rvtjGIsp5f"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 237700,
+      "name": "A Punta De Balazos - En Vivo",
+      "url": "https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb"
     },
     {
       "added_at": "2023-12-29 00:00:00",

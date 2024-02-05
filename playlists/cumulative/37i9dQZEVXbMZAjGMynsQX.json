@@ -6464,7 +6464,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7BVMtLpd7edHeOizt4RWz9"
@@ -8529,6 +8529,28 @@
     },
     {
       "album": {
+        "name": "La Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249464,
+      "name": "La Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK"
+    },
+    {
+      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -9330,7 +9352,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -12596,7 +12618,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -16108,7 +16130,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
@@ -17832,7 +17854,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"

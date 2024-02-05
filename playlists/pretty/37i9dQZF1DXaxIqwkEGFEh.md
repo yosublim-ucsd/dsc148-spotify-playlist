@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,347 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,877 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Swing My Doe \(feat\. BiC Fizzle\)](https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Swing My Doe \(feat\. BiC Fizzle\)](https://open.spotify.com/album/5eCGSttMU2qvrL9iisj4Zm) | 2:38 |
 | 100 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 |
 
-Snapshot ID: `MCwzNzg3MDk3MWM0ZTQ5MjM4NjVkODRlZWIxMzhhYjQ5OTk3YWMyNmRl`
+Snapshot ID: `MCxlMGQ1NTMwNGU2NDY1NDdkMzkyOTA0MDFjM2FmOGMxM2QxNjUxOTFi`

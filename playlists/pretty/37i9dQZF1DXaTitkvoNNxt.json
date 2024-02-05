@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1431834,
+  "num_followers": 1431652,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ0ZmRiNjE3OTY0MmM5ZjA0ZmNlYTY3Yzc3MzNhYTdmZTFmNmRj",
+  "snapshot_id": "MCw3NWVjOWMyMDhmODdkYWM0YmI4OGIyMzMxM2VkZWRhNjI2YTYwM2Jk",
   "tracks": [
     {
       "added_at": "2023-08-03 03:15:30",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Hymn for the Weekend",
-      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -383,22 +367,18 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -419,6 +399,26 @@
       "duration_ms": 222160,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -635,26 +655,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Young Dumb & Broke",
-      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 224653,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Young Dumb & Broke",
+      "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Club Can't Handle Me (feat. David Guetta)",
+      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -1243,22 +1263,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Club Can't Handle Me (feat. David Guetta)",
-      "url": "https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y"
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1279,26 +1299,6 @@
       "duration_ms": 212733,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -1635,22 +1615,22 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+      "duration_ms": 223186,
+      "name": "Stole the Show",
+      "url": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7"
     },
     {
       "added_at": "2023-08-03 03:15:30",
@@ -1679,6 +1659,26 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-08-03 03:15:30",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2023-08-03 03:15:30",
-      "album": {
         "name": "Summer Party Anthems",
         "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 201773,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
+    },
+    {
+      "added_at": "2023-08-03 03:15:30",
+      "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2023-08-03 03:15:30",

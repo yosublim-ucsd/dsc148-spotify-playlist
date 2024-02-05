@@ -4,7 +4,7 @@
 
 > Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!
 
-8,474 songs - 19 day 2 hr 43 min
+8,475 songs - 19 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3885,7 +3885,8 @@
 | [Joshua](https://open.spotify.com/track/79Za9mlMRAm8PQOkAoZ2FP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 3:50 | 2023-11-24 | 2023-12-01 |
 | [Journey](https://open.spotify.com/track/5kYXFWlfk16YkxF4JJzytv) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Journey](https://open.spotify.com/album/0EbLbz4gsR540LasIjMdNA) | 3:43 | 2022-11-04 | 2022-11-11 |
 | [Journey \(feat\. Mysie\)](https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Journey \(feat\. Mysie\)](https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW) | 5:00 | 2024-02-02 |  |
-| [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 | 2024-02-02 |  |
+| [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 | 2024-02-02 |  |
+| [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 | 2024-02-02 | 2024-02-05 |
 | [Joy](https://open.spotify.com/track/4kD3OqYqX2kJCUTEscRBxO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN \(Bonus\)](https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC) | 4:47 | 2023-08-03 | 2023-08-11 |
 | [JOY \(404\)](https://open.spotify.com/track/0tw9UWpHoJCSesaoE4912U) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(404\)](https://open.spotify.com/album/2ytlO9BlKlVCWlPVCjKZqn) | 3:23 | 2023-04-20 | 2023-04-28 |
 | [JOY \(feat\. Olamide\)](https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ) | 2:45 | 2023-12-01 | 2023-12-08 |

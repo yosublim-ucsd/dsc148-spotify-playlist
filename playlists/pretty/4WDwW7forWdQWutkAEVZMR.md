@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Billy Joel, Beyoncé, Harry Styles &amp; more! Cover: Billy Joel
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,246 likes - 40 songs - 2 hr 7 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,227 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

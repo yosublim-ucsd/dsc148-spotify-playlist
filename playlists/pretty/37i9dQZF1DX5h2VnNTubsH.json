@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 166850,
+  "num_followers": 166832,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2I4MGUwMmY4OGM1MjE3NzA1ODI0ZDQwMjk2ZmMxNDRmMjNhM2I1",
+  "snapshot_id": "MCxkMWIyZmFkZGE3ZmY0ZDIwYWZlNmVmODNiZWViM2I5Y2Q4MmY0NTU4",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Collide (Remix Pack)",
         "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 221168,
       "name": "Collide (Sped Up Remix)",
       "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-08-15 20:30:18",

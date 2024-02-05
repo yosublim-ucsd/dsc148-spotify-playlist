@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now!  Cover: \u30c9\u30df\u30b3",
-  "num_followers": 277500,
+  "num_followers": 277574,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDM3ZmYzYzFhODg1MWQ4M2QzMTk2ZTg3OGMyMjViNTdkOGE5NDM0",
+  "snapshot_id": "MCwyY2I3OTFmZTQwNmUzNjY4ZTJlNWYxNTgxMjgzNDA0YjBkNzlkYjk0",
   "tracks": [
     {
       "added_at": "2024-02-01 15:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
       "artists": [
         {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 201599,
-      "name": "I",
-      "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+        "name": "I",
+        "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
         }
       ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+      "duration_ms": 201599,
+      "name": "I",
+      "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
+        "name": "\u3089\u3093\u3069",
+        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
+      },
+      "artists": [
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
         "name": "\u3044\u3051\u306a\u3044fool logic",
         "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 261385,
       "name": "LOVE ROCKETS",
       "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
-        "name": "\u3089\u3093\u3069",
-        "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
-      },
-      "artists": [
-        {
-          "name": "ZAZEN BOYS",
-          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"
     },
     {
       "added_at": "2024-02-01 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-02-01 15:00:00",
       "album": {
-        "name": "FOOLs",
-        "url": "https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW"
-      },
-      "artists": [
-        {
-          "name": "go!go!vanillas",
-          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "\u5e73\u6210\u30da\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
-    },
-    {
-      "added_at": "2024-02-01 15:00:00",
-      "album": {
         "name": "\u8f1d\u3051\u308b\u3082\u306e",
         "url": "https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 260680,
       "name": "\u8f1d\u3051\u308b\u3082\u306e",
       "url": "https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS"
+    },
+    {
+      "added_at": "2024-02-01 15:00:00",
+      "album": {
+        "name": "FOOLs",
+        "url": "https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "\u5e73\u6210\u30da\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX"
     }
   ],
   "unique_name": "Big in Japan",

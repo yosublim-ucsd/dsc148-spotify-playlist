@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Marca MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,298 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,014 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 35 | [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 |
 | 36 | [Por Los Míos](https://open.spotify.com/track/5NkNurvhiesKAZGdjag90d) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [Por Los Míos](https://open.spotify.com/album/3msi2DuRz2v3xxNb8IuygJ) | 2:37 |
 | 37 | [Mi Apellido Es Beltran](https://open.spotify.com/track/3WF6QzoGFdWJCBjiijqTeG) | [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [Mi Apellido Es Beltran](https://open.spotify.com/album/2m16EaJI965RrWVi1zIsZU) | 2:54 |
-| 38 | [Algo bien](https://open.spotify.com/track/1H0BZl7nymwYEquadA7T8U) | [Sultán](https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui), [Brian Campa](https://open.spotify.com/artist/2yVUtkyZfzK1JRysW7gFlZ) | [Algo bien](https://open.spotify.com/album/4gzcPOsgVFYLczCZphFXN6) | 3:13 |
+| 38 | [Algo bien](https://open.spotify.com/track/1H0BZl7nymwYEquadA7T8U) | [Sultán](https://open.spotify.com/artist/6Pj5swwZDsvdcMLXI6s7ui), [BRIAN CAMPA](https://open.spotify.com/artist/2EU1FEFEA3nbVEj56e0VuT) | [Algo bien](https://open.spotify.com/album/4gzcPOsgVFYLczCZphFXN6) | 3:13 |
 | 39 | [Modo Cherry](https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Modo Cherry](https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO) | 2:51 |
 | 40 | [Todo Cambio](https://open.spotify.com/track/3OXT9yICA2WoKxQZgaWJ5U) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Todo Cambio](https://open.spotify.com/album/59BY1IiMhJq4DB87YtcNBs) | 2:33 |
 | 41 | [Una Noche En Miami](https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Una Noche En Miami](https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp) | 2:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 48 | [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 |
 | 49 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 |
 
-Snapshot ID: `MCw4M2YzNGVmODM3N2FkYjJjYmIxYzA0NDExZGE3NjBkY2ZkMjc2NjY1`
+Snapshot ID: `MCxlYWQ3NmJjMDM1MWEyYmVhZGU1YzQ2ZDY1YmRlZDI4ZDhhOTlmMGIx`

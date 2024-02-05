@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,670 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,686 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 47 | [Abismo](https://open.spotify.com/track/7ptPCmSQieWgksqU1DSVKg) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Abismo](https://open.spotify.com/album/1KuI1btBtMULYp09Pg0GLA) | 2:54 |
 | 48 | [Valioso](https://open.spotify.com/track/6zUFTF5qhcLYZp6TUjGnX1) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Valioso](https://open.spotify.com/album/6R25D8RauPYTEEBHeT3m5J) | 2:55 |
 | 49 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
-| 50 | [Meia Milha](https://open.spotify.com/track/7LSQcoAyMmkLvBWBSnMtIy) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 3:10 |
+| 50 | [Ela diz](https://open.spotify.com/track/2o7p1pK5AIQ3uYlpCyeFp1) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Ela diz](https://open.spotify.com/album/1w3PXAn9xkEhHMd4Xm80gO) | 3:20 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBlZjlhYjI4ZjBkYjcwYWRlNGFiMDg2N2Q2MDYxMWYxMw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBiOWY1ZGQ5YjUxYzA5MDVkYjczNzVmMjM2YmI5MDhlYw==`

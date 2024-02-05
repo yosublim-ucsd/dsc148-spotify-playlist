@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 194648,
+  "2024-02-05": 194701,
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Rival Sons",
   "name": "Modern Blues Rock",
@@ -3699,10 +3699,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 200787,
       "name": "Stone's Throw",
       "url": "https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1"
+    },
+    {
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200787,
+      "name": "Stone's Throw",
+      "url": "https://open.spotify.com/track/65BmUqyPuH4QLfQjcoJPFL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 135227,
+  "num_followers": 134930,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2NlYzY1NGY3YjMyZGVmYzc0MTNiM2U2YjAzNTMyMGIwYzlkY2Ew",
+  "snapshot_id": "MCxhMDdlOWYzYWYzZjI0NjQ1NjY5NDc0ZDZlYmQzYjc1NWZlNTYxYzM5",
   "tracks": [
     {
       "added_at": "2023-09-13 20:37:36",
@@ -319,38 +319,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Rogando Por Tu Amor",
-        "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
-      },
-      "artists": [
-        {
-          "name": "EL GALLO DEZ",
-          "url": "https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5"
-        }
-      ],
-      "duration_ms": 203879,
-      "name": "Rogando Por Tu Amor",
-      "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Increible",
-        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
-      },
-      "artists": [
-        {
-          "name": "MARISELA HERNANDEZ",
-          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Increible",
-      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd"
       },
@@ -371,6 +339,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Rogando Por Tu Amor",
+        "url": "https://open.spotify.com/album/0hJfMeu3ayGQtUbMZ8KZiM"
+      },
+      "artists": [
+        {
+          "name": "EL GALLO DEZ",
+          "url": "https://open.spotify.com/artist/6HouSoogSl8M3OvLrdxij5"
+        }
+      ],
+      "duration_ms": 203879,
+      "name": "Rogando Por Tu Amor",
+      "url": "https://open.spotify.com/track/3konQZ2dxzZ9N83J0fC5qo"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Raspar Zapato",
         "url": "https://open.spotify.com/album/13UQwlje5pY3bt2o1Y6xL6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 164704,
       "name": "Raspar Zapato",
       "url": "https://open.spotify.com/track/2YXRDo7vScKAjz6fYNnXbh"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Increible",
+        "url": "https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK"
+      },
+      "artists": [
+        {
+          "name": "MARISELA HERNANDEZ",
+          "url": "https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Increible",
+      "url": "https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Santa Borrachera",
-        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
-      },
-      "artists": [
-        {
-          "name": "SuenaTron",
-          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Santa Borrachera",
-      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Estoy Encari\u00f1ado",
         "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 180949,
       "name": "Estoy Encari\u00f1ado",
       "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Santa Borrachera",
+        "url": "https://open.spotify.com/album/06tTbkZkCcVx8vZEWlH1YO"
+      },
+      "artists": [
+        {
+          "name": "SuenaTron",
+          "url": "https://open.spotify.com/artist/52ux0FayVJTKOWSh87mGd4"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Santa Borrachera",
+      "url": "https://open.spotify.com/track/3C9q4S1xltxBYKpaFTQGqf"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Amigo Fiel",
+        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "Amigo Fiel",
+      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "Camino al Progreso",
         "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Amigo Fiel",
-        "url": "https://open.spotify.com/album/4bFSwa77NlmSKLUNavclWx"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
       "artists": [
         {
-          "name": "Ram Herrera",
-          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+          "name": "Potente",
+          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
         }
       ],
-      "duration_ms": 216476,
-      "name": "Amigo Fiel",
-      "url": "https://open.spotify.com/track/2e57bUnVZ0zGmVzcPiZlue"
+      "duration_ms": 193850,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
-      },
-      "artists": [
-        {
-          "name": "Potente",
-          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
-        }
-      ],
-      "duration_ms": 193850,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Sed\u00faceme",
         "url": "https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Porque Te Amo",
-        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
-      },
-      "artists": [
-        {
-          "name": "Boyz of Kumbia",
-          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
-        }
-      ],
-      "duration_ms": 187623,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
         "name": "Herida",
         "url": "https://open.spotify.com/album/39sTwUCraohQZVkBTQaoTj"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 257746,
       "name": "Herida",
       "url": "https://open.spotify.com/track/3KTAfNLPmnt5CTBc3bfqeG"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
+        "name": "Porque Te Amo",
+        "url": "https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe"
+      },
+      "artists": [
+        {
+          "name": "Boyz of Kumbia",
+          "url": "https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA"
+        }
+      ],
+      "duration_ms": 187623,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+        "name": "Quiero Que Vuelvas",
+        "url": "https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI"
       },
       "artists": [
         {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
         }
       ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+      "duration_ms": 221170,
+      "name": "Quiero Que Vuelvas",
+      "url": "https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
-        "name": "Quiero Que Vuelvas",
-        "url": "https://open.spotify.com/album/65zynurlXpGeJ7YLXMNXsI"
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
       },
       "artists": [
         {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
         }
       ],
-      "duration_ms": 221170,
-      "name": "Quiero Que Vuelvas",
-      "url": "https://open.spotify.com/track/0YHNjkLz1359wkKOzxLSel"
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
     },
     {
       "added_at": "2023-09-13 20:37:36",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-09-13 20:37:36",
       "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
+      },
+      "artists": [
+        {
+          "name": "Rita Capuchina",
+          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
+    },
+    {
+      "added_at": "2023-09-13 20:37:36",
+      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 191800,
       "name": "Dime Por Qu\u00e9",
       "url": "https://open.spotify.com/track/65aD4EiPVKUyEXLotKIMQs"
-    },
-    {
-      "added_at": "2023-09-13 20:37:36",
-      "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
-      },
-      "artists": [
-        {
-          "name": "Rita Capuchina",
-          "url": "https://open.spotify.com/artist/6DJJ34LoaX8bf7tkOjCW3k"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/3U6nRkzp8vX1OJgD3Nqrh5"
     },
     {
       "added_at": "2023-09-13 20:37:36",

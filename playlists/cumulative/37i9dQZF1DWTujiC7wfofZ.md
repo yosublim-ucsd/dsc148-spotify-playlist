@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-296 songs - 18 hr 50 min
+297 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [By the Way](https://open.spotify.com/track/2t0ZYmVXMR36fchq1Egs2d) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way](https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K) | 3:36 | 2022-11-27 |  |
 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2022-11-27 |  |
 | [Calm Like You](https://open.spotify.com/track/0b70nZ5kdm09VlyfHLNjlL) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:28 | 2022-11-27 |  |
+| [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 | 2023-07-21 |  |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2022-11-27 |  |
 | [Cardiac Arrest](https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9) | 3:02 | 2023-07-21 |  |
 | [Cardiac Arrest](https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A) | 3:02 | 2022-11-27 | 2023-11-04 |
@@ -107,7 +108,7 @@
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2022-11-27 | 2023-02-03 |
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2022-11-27 | 2024-01-09 |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2022-11-27 |  |
-| [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 | 2022-11-27 |  |
+| [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 | 2022-11-27 | 2024-02-05 |
 | [Gutter Girl](https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Neapolitan](https://open.spotify.com/album/4TZEULhM6BI1UrR1z3ejqx) | 3:44 | 2022-11-27 | 2023-12-26 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-11-27 | 2023-11-24 |
 | [Happiness In Liquid Form](https://open.spotify.com/track/6PftSaJIUfDKLoxCHpBvqs) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:32 | 2022-11-27 |  |

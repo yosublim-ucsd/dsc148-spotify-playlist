@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12633,
+  "num_followers": 12629,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDU2OTc1YmE2MmYyOWQ5NDU4OGM0MDdmNjZlZjkxZWY3ZDdlNjk0",
+  "snapshot_id": "MCwyMmZlYmZlOWRhMzVjMTljMGUxMzIzMzdiOWI2ZDQ4NTZhMWY3ZWE1",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -399,26 +399,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Campfire Anthems, Vol. I",
-        "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
       "artists": [
         {
-          "name": "Tubby Love",
-          "url": "https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG"
-        },
-        {
-          "name": "Paul Izak",
-          "url": "https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys"
-        },
-        {
-          "name": "Anna Surento",
-          "url": "https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE"
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
         }
       ],
-      "duration_ms": 222850,
-      "name": "All Ways Love",
-      "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
+      "duration_ms": 236064,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -439,18 +431,26 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "Campfire Anthems, Vol. I",
+        "url": "https://open.spotify.com/album/5rVbfchsQDXcJQYF7sDHVw"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "Tubby Love",
+          "url": "https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG"
+        },
+        {
+          "name": "Paul Izak",
+          "url": "https://open.spotify.com/artist/2gsrDFiFvHxKkh8Qh5Zbys"
+        },
+        {
+          "name": "Anna Surento",
+          "url": "https://open.spotify.com/artist/131dBEHpXd9Pe7W0ze96VE"
         }
       ],
-      "duration_ms": 236064,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
+      "duration_ms": 222850,
+      "name": "All Ways Love",
+      "url": "https://open.spotify.com/track/1sfAxYGCFIz5M17vHimFxj"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Laps Around The Sun",
+        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Laps Around The Sun",
+      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
-      },
-      "artists": [
-        {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
-        }
-      ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Burn Right Through",
         "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -819,22 +835,6 @@
       "duration_ms": 234000,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Laps Around The Sun",
-        "url": "https://open.spotify.com/album/0nucTlCF9MJRacvHF4Oe8O"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Laps Around The Sun",
-      "url": "https://open.spotify.com/track/6TfJaJV86gzlrXy1K0S5Wp"
     },
     {
       "added_at": "2023-01-03 17:09:40",

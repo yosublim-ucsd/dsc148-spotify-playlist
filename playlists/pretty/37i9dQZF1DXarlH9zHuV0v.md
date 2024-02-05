@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,245 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,201 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 | 60 | [Killing Game](https://open.spotify.com/track/2QNSNBUgAlzdkMpyC7nuuJ) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Last Rights](https://open.spotify.com/album/0yAWNOIBiT5FqzEwnePtsq) | 3:48 |
 
-Snapshot ID: `MCw1M2YwNzhmNDU2MTQ0NWQwNTUzZjQyYzU0ODhjNTJkNWU5NzMwYzQ2`
+Snapshot ID: `MCxlOGFkYmEyMDBhZTQ4NzU3NDAwNDE2MWQ1MGZlZDc2ZmVlMDhiYmEx`

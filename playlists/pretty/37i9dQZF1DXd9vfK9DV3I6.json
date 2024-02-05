@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 301887,
+  "num_followers": 302026,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjkzYzU3N2JmNjJiZmUxMjk4MmFkM2EwZmFkNTY0MDcwY2VmNWFi",
+  "snapshot_id": "MCw2MmVmMWFiOGEzNTI5NTFhMjc4MDE2MjFjOWE4MjM0ZDllMGM5YjY0",
   "tracks": [
     {
       "added_at": "2024-01-31 06:39:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
+      },
+      "artists": [
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "duration_ms": 154277,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
         "name": "Ederlezi (feat. Dikanda)",
         "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
-      },
-      "artists": [
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
-        }
-      ],
-      "duration_ms": 154277,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Escuro",
         "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 285913,
       "name": "Escuro",
       "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -923,22 +923,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1387,6 +1355,22 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/3Plxq17VtrPDcXMFvFqBI4"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1547,6 +1531,26 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
+        "name": "MIRAN",
+        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 129145,
+      "name": "MIRAN",
+      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1587,26 +1591,6 @@
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
-        "name": "MIRAN",
-        "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 129145,
-      "name": "MIRAN",
-      "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2024-01-31 06:39:37",
       "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 187779,
       "name": "Anatolian Vibe",
       "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
-    },
-    {
-      "added_at": "2024-01-31 06:39:37",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-01-31 06:39:37",
@@ -1923,6 +1907,22 @@
       "duration_ms": 212615,
       "name": "Askim",
       "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
+    },
+    {
+      "added_at": "2024-01-31 06:39:37",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     }
   ],
   "unique_name": "mosaic",

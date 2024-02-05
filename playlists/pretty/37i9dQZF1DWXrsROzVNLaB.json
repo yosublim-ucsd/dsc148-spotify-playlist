@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10840,
+  "num_followers": 10838,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm",
+  "snapshot_id": "MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -963,22 +963,34 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Gateway Worship Voices (Live)",
-        "url": "https://open.spotify.com/album/03tEQzFxmB6kNO1VFBJtiy"
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
       "artists": [
         {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 330001,
-      "name": "O, the Blood - Live",
-      "url": "https://open.spotify.com/track/0TitHGci1gqOE7v6Ddqjn8"
+      "duration_ms": 364600,
+      "name": "Light to You",
+      "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        }
+      ],
+      "duration_ms": 234348,
+      "name": "Blameless",
+      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -999,22 +1011,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 364600,
-      "name": "Light to You",
-      "url": "https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -1031,22 +1027,6 @@
       "duration_ms": 211360,
       "name": "Faithfulness (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 234348,
-      "name": "Blameless",
-      "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1099,22 +1079,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Stars Go Dim",
         "url": "https://open.spotify.com/album/6O53uxub6lQLq9S9AFKPCr"
       },
@@ -1127,6 +1091,22 @@
       "duration_ms": 278426,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/6s2nM4DuZmhwceOzXwb6R1"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1203,22 +1183,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "The Cross Has The Final Word",
         "url": "https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6"
       },
@@ -1231,6 +1195,22 @@
       "duration_ms": 252964,
       "name": "The Cross Has The Final Word",
       "url": "https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1303,6 +1283,26 @@
       "duration_ms": 252320,
       "name": "That's Why They Call It Grace",
       "url": "https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Ashes (feat. Chris McClarney)",
+        "url": "https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st"
+      },
+      "artists": [
+        {
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 279903,
+      "name": "Ashes (feat. Chris McClarney)",
+      "url": "https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG"
     }
   ],
   "unique_name": "Holy Week: Easter",

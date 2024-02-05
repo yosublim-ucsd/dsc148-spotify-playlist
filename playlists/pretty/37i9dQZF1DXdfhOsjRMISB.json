@@ -1,12 +1,12 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Kelsea Ballerini",
-  "num_followers": 352859,
+  "num_followers": 352750,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQwYmI1Yzk1Yzc1NGNhZGY1ZjQyMTM1Zjg0NWUyN2UyZTVjOTYy",
+  "snapshot_id": "MCxiYzk4ZWY2MzQ2M2IzY2ZlNTc4OGVlMjNhYjNmNTZkMjMxYTgzYjc5",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -751,22 +751,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -787,18 +783,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+      "duration_ms": 171626,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/26t3KexbqzF3sRWgczYyja"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Little Bit Of Everything",
-        "url": "https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "People Are Crazy",
-      "url": "https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Lambs & Lions",
         "url": "https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 182493,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Little Bit Of Everything",
+        "url": "https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "People Are Crazy",
+      "url": "https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
         "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Ain't Always The Cowboy",
-      "url": "https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 240413,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Ain't Always The Cowboy",
+      "url": "https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Fully Loaded: God's Country",
         "url": "https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT"
       },
@@ -2195,6 +2179,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 284960,
       "name": "My Kinda Party",
       "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 206597,
-      "name": "What If I Never Get Over You",
-      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "What Makes You Country",
         "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 221800,
       "name": "Most People Are Good",
       "url": "https://open.spotify.com/track/79LAFAkR1ATb4iIQvZuCL0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Time, Tequila & Therapy",
         "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2024-02-02 05:00:00",

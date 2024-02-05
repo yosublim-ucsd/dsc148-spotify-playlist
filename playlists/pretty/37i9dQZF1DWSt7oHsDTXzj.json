@@ -1,28 +1,28 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 183219,
+  "num_followers": 183150,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjI4NWY2ZWU2ZDE1MzRjMDZhYjVjMmY3NmY0MTZmNDFhYzQzNjM2",
+  "snapshot_id": "MCw5MGIyMzU1MjhlZTU0NDI5YTMzYzI2OTU1MWRhMzVmODk5M2ZkMzUz",
   "tracks": [
     {
-      "added_at": "2023-11-27 15:49:49",
+      "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Winter Wonderland - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/3hpvCB2XjiN6RVedOQ2437"
     },
     {
-      "added_at": "2023-10-16 19:34:42",
+      "added_at": "2023-11-27 15:49:49",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
       },
       "artists": [
         {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2023-12-01 22:30:07",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Ain't Christmas (with Laufey)",
         "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 189088,
       "name": "Ain't Christmas (with Laufey)",
       "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 178546,
       "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
       "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Merry Xmas Everybody",
-        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "Merry Xmas Everybody",
-      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Ego Tripping at the Gates of Hell",
-        "url": "https://open.spotify.com/album/602kxdvR8Ful5nYe57Vxzb"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 321133,
-      "name": "A Change at Christmas (Say It Isn't So)",
-      "url": "https://open.spotify.com/track/38pNnyQFOzCpLN9gsKAqGj"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Ego Tripping at the Gates of Hell",
+        "url": "https://open.spotify.com/album/602kxdvR8Ful5nYe57Vxzb"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 321133,
+      "name": "A Change at Christmas (Say It Isn't So)",
+      "url": "https://open.spotify.com/track/38pNnyQFOzCpLN9gsKAqGj"
     },
     {
       "added_at": "2023-10-16 19:34:42",

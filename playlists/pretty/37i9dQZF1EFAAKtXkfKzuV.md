@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 59 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 59 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 58 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 59 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Mjg0NTAyMjAsMDAwMDAwMDA2ZjMxMDYyZWRjYzE5MzZjMjFlNDg4NDFkNmIwNGY5Mg==`
+Snapshot ID: `Mjg0NTE2NjAsMDAwMDAwMDBkNmY4YjgwYTFkNGRiOWJmNDkxZTQ3ZGQ1NTE3ZWEwNA==`

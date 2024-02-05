@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Zeina",
-  "num_followers": 9097,
+  "num_followers": 9104,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTcwZjJlZTRjMDBmYjU5MzRhMGJlMWJlNmJmODhlNmUxOTM1NDAw",
+  "snapshot_id": "MCw1M2I1ZDAzZDBjYjA1OWRhMjZjMjNmZDJmNDgwYjMzOTU1YzgxN2Yz",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "SEPT 5TH",
-        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 200223,
-      "name": "Too Deep",
-      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 195004,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "SEPT 5TH",
+        "url": "https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 200223,
+      "name": "Too Deep",
+      "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Morning After",
-        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Think About Me",
-      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Eternal Sunshine",
         "url": "https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 241791,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Live Inside",
-        "url": "https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Live Inside",
-      "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Talk Luv",
         "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Live Inside",
+        "url": "https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Live Inside",
+      "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
     }
   ],
   "unique_name": "R&B Rewind",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,011 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,062 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 29 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
 | 30 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
 | 31 | [Talk To Me Nice](https://open.spotify.com/track/2qB5DAgRdacJUtayEnf3ip) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 3:49 |
-| 32 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
-| 33 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 34 | [Slow Motion](https://open.spotify.com/track/2pN5GwdTWbFZNRgFIRlW7J) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/2A0LsbKIz0z9so3kxFoSM0) | 2:46 |
+| 32 | [Slow Motion](https://open.spotify.com/track/2pN5GwdTWbFZNRgFIRlW7J) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/2A0LsbKIz0z9so3kxFoSM0) | 2:46 |
+| 33 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 34 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 35 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 36 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
 | 37 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
 | 50 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 
-Snapshot ID: `MCwyOTcxMWRlYTU5YzFkMTYxM2U5ODZjOGJmYjg5YmEwMWJlODE5YWIz`
+Snapshot ID: `MCxlMGJmN2UzMGI4OTdmNGQ5M2JjM2QwOGRlNDBjODM2OTFhNzk0MTRm`

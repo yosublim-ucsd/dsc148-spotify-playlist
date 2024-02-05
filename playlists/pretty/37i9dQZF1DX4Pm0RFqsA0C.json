@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5447,
+  "num_followers": 5449,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNlMDhhMGNiNjQzYjk5NWU4ZGJkNmNhZTE2MzQxYWE3M2JlNDA2",
+  "snapshot_id": "MCw1MDIyYTRmOTBjMDA2MjhkOTVlZTdhZmMxMDk5OGI4ODQ5MjcxNTgy",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
       },
       "artists": [
         {
-          "name": "\ucc44\uc5f0",
-          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+      "duration_ms": 132731,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Baby V.O.X Special Album",
-        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
       "artists": [
         {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+          "name": "\ucc44\uc5f0",
+          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
         }
       ],
-      "duration_ms": 132731,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i"
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 242341,
       "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
       "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204320,
       "name": "I Know - 92 TV Edit",
       "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Hey, Come On!",
-      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Accident",
         "url": "https://open.spotify.com/album/2HkKsqlpwGC68BEQFy6nGX"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 185226,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Hey, Come On!",
+      "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
-        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "Unreasonable Reason",
-      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Year of The Tiger",
         "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 220609,
       "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
       "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
+        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
+      },
+      "artists": [
+        {
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
+        }
+      ],
+      "duration_ms": 237963,
+      "name": "Unreasonable Reason",
+      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "The Best Of CLON 2002",
-        "url": "https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp"
+        "name": "Travel \u221e Directions",
+        "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
       },
       "artists": [
         {
-          "name": "Clon",
-          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/03pEUw4hE9xzJAmhW0B0Gx"
+      "duration_ms": 253570,
+      "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
+      "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Travel \u221e Directions",
-        "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
+        "name": "The Best Of CLON 2002",
+        "url": "https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp"
       },
       "artists": [
         {
-          "name": "Han Kyung Il",
-          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
         }
       ],
-      "duration_ms": 253570,
-      "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
-      "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
+      "duration_ms": 188080,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/03pEUw4hE9xzJAmhW0B0Gx"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Best & J Duet Collection CD 1",
-        "url": "https://open.spotify.com/album/3eqkTlVX3GOgtyCc2magH4"
-      },
-      "artists": [
-        {
-          "name": "Steve Yoo",
-          "url": "https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9"
-        }
-      ],
-      "duration_ms": 226089,
-      "name": "Hope You Find It",
-      "url": "https://open.spotify.com/track/107muHC439r1aQ7hQhOfaD"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "MBC <What's No.1 now?> Part. 1",
         "url": "https://open.spotify.com/album/4qbPlOn9APRsxCwpaCKzCe"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 275440,
       "name": "To Heaven",
       "url": "https://open.spotify.com/track/4WeMIqD6uvKE5656Q5kIQz"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Best & J Duet Collection CD 1",
+        "url": "https://open.spotify.com/album/3eqkTlVX3GOgtyCc2magH4"
+      },
+      "artists": [
+        {
+          "name": "Steve Yoo",
+          "url": "https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9"
+        }
+      ],
+      "duration_ms": 226089,
+      "name": "Hope You Find It",
+      "url": "https://open.spotify.com/track/107muHC439r1aQ7hQhOfaD"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
-        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "Friend? My Lover!",
-      "url": "https://open.spotify.com/track/1XaP4DQKHAjuExKnzMq7Wg"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 272196,
       "name": "\ub108\uc758 \uc9d1\uc55e\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/3bItpNgSSL6mRWLoQGAecX"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
+        "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "Friend? My Lover!",
+      "url": "https://open.spotify.com/track/1XaP4DQKHAjuExKnzMq7Wg"
     },
     {
       "added_at": "2021-02-01 12:18:54",

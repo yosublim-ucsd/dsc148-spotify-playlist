@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 21411,
+  "num_followers": 21426,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDlmYjcxMjFkOTIxYjUzYWMwOThhOWIzNGFhMTJhOGYxNDdlZWUx",
+  "snapshot_id": "MCwzYzY4NWE5MjM1Y2NmZThmMmFlMGEzZTFhNDMzYTE5MWFiNzBmY2Ex",
   "tracks": [
     {
       "added_at": "2024-01-25 19:57:37",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "Nave",
         "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 189791,
       "name": "Nave",
       "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
+        "name": "Cantos de la Tierra Sin Mal",
+        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 304093,
+      "name": "Bienvenidos: Maiche Anawateuo",
+      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
         "name": "Asimetrico",
         "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
       },
@@ -535,26 +551,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Susurro (Matanza Remix)",
-        "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        },
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 302368,
-      "name": "Susurro - Matanza Remix",
-      "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Cable Tierra",
         "url": "https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R"
       },
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Cantos de la Tierra Sin Mal",
-        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
+        "name": "Susurro (Matanza Remix)",
+        "url": "https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD"
       },
       "artists": [
         {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        },
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Bienvenidos: Maiche Anawateuo",
-      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
+      "duration_ms": 302368,
+      "name": "Susurro - Matanza Remix",
+      "url": "https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Tierra de King Coya",
-        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
+        "name": "Circular Tejido",
+        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
       },
       "artists": [
         {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+          "name": "Lulacruza",
+          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
         }
       ],
-      "duration_ms": 276029,
-      "name": "Te digo Wayno",
-      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
+      "duration_ms": 295073,
+      "name": "Rio Contento",
+      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "Circular Tejido",
-        "url": "https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN"
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j"
       },
       "artists": [
         {
-          "name": "Lulacruza",
-          "url": "https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE"
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
         }
       ],
-      "duration_ms": 295073,
-      "name": "Rio Contento",
-      "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+      "duration_ms": 276029,
+      "name": "Te digo Wayno",
+      "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
     },
     {
       "added_at": "2024-01-25 19:57:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-25 19:57:37",
       "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 332024,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
-    },
-    {
-      "added_at": "2024-01-25 19:57:37",
-      "album": {
         "name": "Sencilla es mi canoa como mis afectos",
         "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2024-01-25 19:57:37",
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "duration_ms": 332024,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
     },
     {
       "added_at": "2024-01-25 19:57:37",

@@ -1,15 +1,15 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 44661,
+  "num_followers": 44688,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NDkzNTksMDAwMDAwMDA0ZjA2N2ZjZmZlNGMwYTkwODY1MGJkZjU1MTVmMmNkYg==",
+  "snapshot_id": "Mjg0NTA4MjYsMDAwMDAwMDBlODMzY2VlYTEyZjE1NjM0MDg1ODExZTNlNDIxMWM2YQ==",
   "tracks": [
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Bohemia After Dawn",
         "url": "https://open.spotify.com/album/4dotRnBEHH2pfh4ldApZ4d"
@@ -61,55 +61,7 @@
       "url": "https://open.spotify.com/track/6726edIl6xRsfTuyrtwHRi"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "John Lee Hooker - On Vee-Jay 1955-1958",
-        "url": "https://open.spotify.com/album/4S0rQVJxEMLQHZ8JGl9tXx"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 133618,
-      "name": "Dimples",
-      "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "King Of The Boogie",
-        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Boogie Chillen",
-      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -125,7 +77,7 @@
       "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
@@ -141,27 +93,23 @@
       "url": "https://open.spotify.com/track/3SQwVXJork7A75pRnQLgtf"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
@@ -185,7 +133,7 @@
       "url": "https://open.spotify.com/track/3h7tr47MIwSz0i53YzliBg"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
@@ -205,7 +153,7 @@
       "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
@@ -221,7 +169,23 @@
       "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "I Need Some Money",
+      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -241,7 +205,7 @@
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
@@ -257,23 +221,7 @@
       "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "Blues Legend",
-        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Motor City Is Burning",
-      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
@@ -289,7 +237,23 @@
       "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Blues Legend",
+        "url": "https://open.spotify.com/album/3gYuOHywliM9xrlMYgL94w"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Motor City Is Burning",
+      "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -305,7 +269,7 @@
       "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
@@ -325,23 +289,7 @@
       "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 402746,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Major Moves",
         "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
@@ -365,7 +313,23 @@
       "url": "https://open.spotify.com/track/4iX3VpT5WSW39gRmbaOqvt"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 402746,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/33aN8gQjmqzR674A0bEwBn"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -381,7 +345,7 @@
       "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -397,7 +361,7 @@
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
@@ -417,10 +381,10 @@
       "url": "https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
       },
       "artists": [
         {
@@ -428,12 +392,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 373920,
-      "name": "Same Old Blues Again",
-      "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -449,10 +413,10 @@
       "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo"
       },
       "artists": [
         {
@@ -460,12 +424,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+      "duration_ms": 373920,
+      "name": "Same Old Blues Again",
+      "url": "https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Mr. Lucky",
         "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
@@ -485,10 +449,10 @@
       "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
       "artists": [
         {
@@ -496,12 +460,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -517,10 +481,10 @@
       "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
       "artists": [
         {
@@ -528,44 +492,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 164933,
-      "name": "No More Doggin'",
-      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Kiddio",
-      "url": "https://open.spotify.com/track/27Rli2IVNCQ5ahAXK2jAqZ"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
-        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 137920,
-      "name": "Big Legs, Tight Skirt",
-      "url": "https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
@@ -581,10 +513,10 @@
       "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
       },
       "artists": [
         {
@@ -592,12 +524,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+      "duration_ms": 191253,
+      "name": "Kiddio",
+      "url": "https://open.spotify.com/track/27Rli2IVNCQ5ahAXK2jAqZ"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
@@ -613,7 +545,23 @@
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -633,23 +581,7 @@
       "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319693,
-      "name": "Annie Mae",
-      "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
@@ -669,7 +601,23 @@
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319693,
+      "name": "Annie Mae",
+      "url": "https://open.spotify.com/track/2zpDRicyt7YqxFVJ2S3uc7"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Hot Spot (Soundtrack)",
         "url": "https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX"
@@ -685,7 +633,7 @@
       "url": "https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -705,7 +653,23 @@
       "url": "https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "A New Leaf",
+      "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
@@ -725,7 +689,7 @@
       "url": "https://open.spotify.com/track/1WvDNX2WrUppAFBKO7aYA5"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
@@ -741,7 +705,7 @@
       "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
@@ -785,7 +749,7 @@
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
@@ -805,7 +769,7 @@
       "url": "https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE"
@@ -821,7 +785,23 @@
       "url": "https://open.spotify.com/track/0XiKlXNrY8b7qlAaB2MjY3"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145551,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
@@ -841,10 +821,10 @@
       "url": "https://open.spotify.com/track/0F2IrV5ZPVUD5SP6gLHlie"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+        "name": "Lost A Good Girl",
+        "url": "https://open.spotify.com/album/0eYqgedY7hE1bkeZbUAKms"
       },
       "artists": [
         {
@@ -852,12 +832,12 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/0sbMYtcLDCPxBte1VxzNFd"
+      "duration_ms": 212266,
+      "name": "Thelma",
+      "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "On The Waterfront",
         "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
@@ -873,7 +853,43 @@
       "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
     },
     {
-      "added_at": "2024-02-03 11:59:28",
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/6R6gJ4JjmHEeUdimoHpIHE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/0sbMYtcLDCPxBte1VxzNFd"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "That's Alright",
+      "url": "https://open.spotify.com/track/629O26FoFJ6uYOOK7mwyOI"
+    },
+    {
+      "added_at": "2024-02-04 12:26:44",
       "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
@@ -887,26 +903,6 @@
       "duration_ms": 150906,
       "name": "I Can't Stand To Leave You",
       "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
-    },
-    {
-      "added_at": "2024-02-03 11:59:28",
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "George Thorogood",
-          "url": "https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Sally Mae",
-      "url": "https://open.spotify.com/track/4A7MBEV1l48gijjNN5IdIM"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

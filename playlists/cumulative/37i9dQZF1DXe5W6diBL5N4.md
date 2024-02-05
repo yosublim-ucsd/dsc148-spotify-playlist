@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: youra\(유라\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-7,849 songs - 18 day 20 hr 48 min
+7,850 songs - 18 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1681,7 +1681,7 @@
 | [Draw](https://open.spotify.com/track/7uiuIv8nMYoC4KTd0HoYTG) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [MY TIME](https://open.spotify.com/album/0aSAAIkIJc5lHWeyuypzuE) | 3:17 | 2022-11-10 | 2022-12-22 |
 | [Draw](https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Draw \(No Office Romance! X TAEMIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po) | 4:03 | 2023-12-13 | 2023-12-22 |
 | [Draw nigh \(feat.Babylon\)](https://open.spotify.com/track/5Pk0NszOnu6zOhqYuzwCRy) | [Yaru](https://open.spotify.com/artist/26Bfvf0bQXqOirB0XpE57B), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Draw nigh](https://open.spotify.com/album/1i1uA8wc0rfRGg6OUnCHhe) | 4:40 | 2022-10-31 | 2022-12-22 |
-| [Dream](https://open.spotify.com/track/4DWUYqsX8qvSb0If0wwG8f) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [30th Anniversary Greatest Hits Part 1](https://open.spotify.com/album/21vQ7quxMSTKZDsgV77EL5) | 4:45 | 2024-02-02 |  |
+| [Dream](https://open.spotify.com/track/4DWUYqsX8qvSb0If0wwG8f) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [30th Anniversary Greatest Hits Part 1](https://open.spotify.com/album/21vQ7quxMSTKZDsgV77EL5) | 4:45 | 2024-02-02 | 2024-02-05 |
 | [Dream](https://open.spotify.com/track/7i5yPOy2Hk0MiI7Awjki3z) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Dream](https://open.spotify.com/album/0bRv8xCqnvsQAWlWqZVS0A) | 4:29 | 2022-09-21 | 2022-11-07 |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-04-28 | 2022-05-04 |
 | [Dream](https://open.spotify.com/track/0b2vrsMY4jGrnPqujCm4HZ) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Dream OST](https://open.spotify.com/album/5ne78lPt5jZp1mKdp2WrsI) | 3:25 | 2023-04-26 | 2023-07-12 |
@@ -1696,6 +1696,7 @@
 | [dream \(feat\. Choi Seokjin\)](https://open.spotify.com/track/5cnBp4Ety38Sewl8hZFOIf) | [Letter flow](https://open.spotify.com/artist/19jNQxmNBaXJlXdvLHtrHY), [최석진](https://open.spotify.com/artist/7blrYkPn9Qcs11ZnO45gTP) | [dream](https://open.spotify.com/album/4k0n1uOnR7n06UxVaOkRIk) | 4:36 | 2022-05-04 | 2022-05-12 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-15 | 2022-08-27 |
 | [Dream \- 2024 Remastered Ver.](https://open.spotify.com/track/0oaPmARcL2ApgnJ7biumrn) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [Welcome to Samdal\-ri From CHO YONG PIL \(2024 Remastering\)](https://open.spotify.com/album/6SVl0LbgM2V28r9KSvHLh6) | 4:44 | 2024-01-22 | 2024-02-03 |
+| [Dream \- 2024 Remastered Ver.](https://open.spotify.com/track/6lCgjSldimVagQu0x0mfzK) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [Welcome to Samdal\-ri From CHO YONG PIL \(2024 Remastering\)](https://open.spotify.com/album/59eHTHX4i8v1j6TqTN1oBY) | 4:44 | 2024-02-02 |  |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-03-09 | 2023-03-28 |
 | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/track/6bAPp4QeJVZsNV25qeNpnQ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP), [Han So Hyun](https://open.spotify.com/artist/1rPMbGyEuqszrddihRZ7Iq) | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/album/4u6oiRKDWp20C75Y13EjGt) | 4:02 | 2022-06-23 | 2022-07-05 |
 | [Dream land](https://open.spotify.com/track/2eBFHksW1ilN9hBWxgATJb) | [XEED](https://open.spotify.com/artist/6N6p7pQeB9kjLhvvS3L5j1) | [Dream land](https://open.spotify.com/album/2vFR3nCoeBb60npORpJzCD) | 3:11 | 2022-12-01 | 2022-12-22 |

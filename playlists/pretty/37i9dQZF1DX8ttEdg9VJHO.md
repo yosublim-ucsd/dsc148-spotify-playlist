@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,806 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,792 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 49 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 50 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
 | 51 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
-| 52 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
-| 53 | [iD \(feat\. Gentleman\)](https://open.spotify.com/track/1mKnXWjyN6MUYpz84F4u7A) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [iD \- Extended Version](https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH) | 3:18 |
+| 52 | [iD \(feat\. Gentleman\)](https://open.spotify.com/track/1mKnXWjyN6MUYpz84F4u7A) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [iD \- Extended Version](https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH) | 3:18 |
+| 53 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 54 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |
 | 55 | [I swear to god](https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [I swear to god](https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY) | 2:35 |
 | 56 | [Best Night Ever](https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Best Night Ever](https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ) | 2:13 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 67 | [Wild Stare](https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:14 |
 | 68 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
 | 69 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 |
-| 70 | [Last Call](https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:31 |
+| 70 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
 
-Snapshot ID: `MCw0NGFlMmIzY2FmZTliMDBhYzVlNjEwNDRmZDZhYjAxZDJmMzU2MDNi`
+Snapshot ID: `MCwzZDE5ZmZlOGNkOGMyMDkxODk3OTIyMmI3MmQzZTUxNTgzYzgyZTUz`

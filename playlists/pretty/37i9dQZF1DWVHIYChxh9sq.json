@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 69301,
+  "num_followers": 69339,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2UyNzVlMmMzOWI1NDlkMDAzNmMxZmRlNzNlZjNjYmI0M2ZmYjU2",
+  "snapshot_id": "MCxmZWRmMzkyODUzNzdkYzQxMzYzMGExNGY2MGE0ZWYyODZiYjMxZGRm",
   "tracks": [
     {
       "added_at": "2023-09-26 05:23:38",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "No Se Va (EN VIVO)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 194019,
-      "name": "No Se Va - EN VIVO",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+        "name": "No Se Va (EN VIVO)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+      "duration_ms": 194019,
+      "name": "No Se Va - EN VIVO",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "Recuerdos Para Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 202149,
       "name": "Por Que Te Vas De Mi - En Vivo",
       "url": "https://open.spotify.com/track/17gXGLgaVeONySly2voFIY"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "Lives Pa' La Raza (En Vivo)",
+        "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 236945,
+      "name": "El Viajecito - En Vivo",
+      "url": "https://open.spotify.com/track/2cMzINnpUjenz0sNHAGvdG"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Las Pisteadas del Vago",
         "url": "https://open.spotify.com/album/6HgKRMle8Q9mVa3Wvot63t"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 285570,
       "name": "Las Pisteadas del Vago",
       "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Lives Pa' La Raza (En Vivo)",
-        "url": "https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 236945,
-      "name": "El Viajecito - En Vivo",
-      "url": "https://open.spotify.com/track/2cMzINnpUjenz0sNHAGvdG"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "En Vivo Desde la Paz",
+        "url": "https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 458442,
+      "name": "Popurri Boleros Cadetes - En Vivo",
+      "url": "https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 184874,
       "name": "El Corrido Del Piyi (LDLG)",
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "En Vivo Desde la Paz",
-        "url": "https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 458442,
-      "name": "Popurri Boleros Cadetes - En Vivo",
-      "url": "https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "A La Antig\u00fcita (En Vivo)",
+        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "A La Antig\u00fcita - En Vivo",
+      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Yakifest Oasis Vol. 5 (En Vivo)",
         "url": "https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "A La Antig\u00fcita (En Vivo)",
-        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "A La Antig\u00fcita - En Vivo",
-      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
         "name": "En Vivo Desde Chicago",
         "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
       },
@@ -2255,50 +2239,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "H\u00edbrido (En Vivo)",
-        "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 180537,
-      "name": "Celos del Viento - En Vivo",
-      "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "Recuerdos Para Pistear (En Vivo)",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 187143,
-      "name": "Edgar Guzman - En Vivo",
-      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2319,6 +2271,54 @@
       "duration_ms": 195000,
       "name": "L\u00e1rgate - En Vivo",
       "url": "https://open.spotify.com/track/3V4vwziUxmEPgVnzkRCEdg"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "H\u00edbrido (En Vivo)",
+        "url": "https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 180537,
+      "name": "Celos del Viento - En Vivo",
+      "url": "https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Recuerdos Para Pistear (En Vivo)",
+        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 187143,
+      "name": "Edgar Guzman - En Vivo",
+      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2427,6 +2427,26 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
+        "name": "De Lo M\u00e1s Interesante (En Vivo)",
+        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "De Lo M\u00e1s Interesante - En Vivo",
+      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
+    },
+    {
+      "added_at": "2023-09-26 05:23:38",
+      "album": {
         "name": "Disimulando (En Vivo)",
         "url": "https://open.spotify.com/album/0PkUb03Sjsiu4t8s6RF62V"
       },
@@ -2463,26 +2483,6 @@
       "duration_ms": 172666,
       "name": "Flor Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
-    },
-    {
-      "added_at": "2023-09-26 05:23:38",
-      "album": {
-        "name": "De Lo M\u00e1s Interesante (En Vivo)",
-        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "De Lo M\u00e1s Interesante - En Vivo",
-      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
     },
     {
       "added_at": "2023-09-26 05:23:38",
@@ -2667,22 +2667,18 @@
     {
       "added_at": "2023-09-26 05:23:38",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
-        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 142240,
-      "name": "El Flaquito",
-      "url": "https://open.spotify.com/track/5DzZO7t61t9gihMcwVfkNK"
+      "duration_ms": 221893,
+      "name": "El Cajoncito - En Vivo",
+      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

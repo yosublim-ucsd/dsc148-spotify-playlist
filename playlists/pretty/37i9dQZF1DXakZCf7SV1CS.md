@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,705 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,758 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 14 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 |
 | 15 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
 | 16 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
-| 17 | [i dont want that many friends in the first place](https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ) | 1:49 |
+| 17 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 18 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |
-| 19 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
+| 19 | [i dont want that many friends in the first place](https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ) | 1:49 |
 | 20 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN) | 2:27 |
 | 21 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
 | 22 | [stupid horse](https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:01 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 68 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 69 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
 | 70 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
-| 71 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
-| 72 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 71 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
+| 72 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
 | 73 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
 | 74 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
 | 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 
-Snapshot ID: `MCw1ODQ5ODc1ODJjMDk3ZjFhMjUxYzQ3MTEyMGQ3MzE3Y2E1YjQzZjhh`
+Snapshot ID: `MCw2YTczNDMwNWYwNTlhM2Q4MzUxNTM0YzMyOGVmMTgzMjk1NzlkYmYw`

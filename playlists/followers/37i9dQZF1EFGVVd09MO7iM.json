@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 3025,
+  "2024-02-05": 3026,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp\">Pharrell Williams</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Pharrell Williams",
@@ -381,7 +381,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 264853,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 252186,
       "name": "California Roll (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/3wO19rAQ7aya5YFPQ6Ts0A"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 195146,
       "name": "Can't Rely on You",
       "url": "https://open.spotify.com/track/0rZarhxMQWpdbgqRpunlWK"
@@ -1727,7 +1727,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 201933,
       "name": "Come Get It Bae",
       "url": "https://open.spotify.com/track/24MSdaNRlLgjp8xYeJeXwZ"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
@@ -2830,6 +2830,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/33viW1sFm3sCCmzs7FZ9MI"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Get Along With You",
+      "url": "https://open.spotify.com/track/70qllCazx8h51zrl4QWNmo"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3"
       },
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 332546,
       "name": "Go Up",
       "url": "https://open.spotify.com/track/76e4nwnkyaFp4y0T2g01dg"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
@@ -3793,7 +3811,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 199853,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
@@ -4207,7 +4225,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
@@ -4425,7 +4443,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 289160,
       "name": "It Girl",
       "url": "https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ"
@@ -5871,7 +5889,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 264653,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
@@ -6559,7 +6577,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -7025,7 +7043,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 213786,
       "name": "She Wants To Move",
       "url": "https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb"
@@ -7429,7 +7447,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 326586,
       "name": "Special",
       "url": "https://open.spotify.com/track/74z465KvfBQrAqovUVLkpo"
@@ -8125,7 +8143,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 224506,
       "name": "There's Something Special - Despicable Me 3 Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6aVot93S2TjvQeaWnyKju4"

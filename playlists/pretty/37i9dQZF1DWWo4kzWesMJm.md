@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,056 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,128 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,19 +62,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 52 | [C'est une belle journée](https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Histoires de](https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG) | 4:16 |
 | 53 | [Call on me \- feat\. Ed Sheeran](https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:21 |
 | 54 | [Mon cœur](https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:18 |
-| 55 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
-| 56 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 55 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 56 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
 | 57 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 |
-| 58 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
-| 59 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
+| 58 | [Mal barré](https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 2:46 |
+| 59 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
 | 60 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 61 | [Coco Câline](https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:45 |
 | 62 | [Non non rien n'a changé](https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m) | [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Les Annees Barclay](https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm) | 3:09 |
-| 63 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 63 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
 | 64 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
-| 65 | [Gigi l'amoroso](https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 7:28 |
-| 66 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
-| 67 | [Gabrielle](https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Derrière l'amour](https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e) | 2:53 |
+| 65 | [Gabrielle](https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Derrière l'amour](https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e) | 2:53 |
+| 66 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
+| 67 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
 | 68 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
 | 69 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 70 | [Rockollection](https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Belle Ile En Mer](https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl) | 4:10 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 72 | [Vanina \(Runaway\)](https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:12 |
 | 73 | [Mourir demain](https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'instant d'après](https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9) | 3:37 |
 | 74 | [Un été français](https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:26 |
-| 75 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
-| 76 | [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 |
+| 75 | [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 |
+| 76 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
 | 77 | [Les choses qu'on fait](https://open.spotify.com/track/240tflmnpjIPLhT60svcaw) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:16 |
 | 78 | [Tout savoir](https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Tout savoir](https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa) | 3:16 |
 | 79 | [La femme chocolat](https://open.spotify.com/track/5M93fqN6b9HNmfQGmXlqdu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La femme chocolat](https://open.spotify.com/album/2s7Ajk85HeHsrB0rSzcKJM) | 2:51 |
 | 80 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 |
 
-Snapshot ID: `MCxjM2U5ODAwYzRiNjczZjc3NjVlZjc0ZjNkZWQ3Y2FhOGE1YmFkYTQ3`
+Snapshot ID: `MCxkMzA4MmIwNjkwM2Y2ZDk3NjkwZWI1NDgzNzRhNTlmODYzMDRiODYw`

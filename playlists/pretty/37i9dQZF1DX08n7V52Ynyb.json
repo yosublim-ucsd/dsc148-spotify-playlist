@@ -1,12 +1,12 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 44517,
+  "num_followers": 44580,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzY4ZTVmNmMwOTM1OWVhNTRiMGIwNDM2Y2Q2MjQzMDZjNTA1ZDcw",
+  "snapshot_id": "MCxhMWExNDU3ZGNhNzllNzdhZjUwNWIyN2ZhYWVlNzUxNTZhZDFjODdm",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+        "name": "Nightjar in the Northern Sky",
+        "url": "https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
         }
       ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
+      "duration_ms": 287836,
+      "name": "Nightjar in the Northern Sky",
+      "url": "https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -227,22 +243,6 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Nightjar in the Northern Sky",
-        "url": "https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV"
-      },
-      "artists": [
-        {
-          "name": "Anna Gr\u00e9ta",
-          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
-        }
-      ],
-      "duration_ms": 287836,
-      "name": "Nightjar in the Northern Sky",
-      "url": "https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 275687,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Perhaps You\u2019ll Wonder Why",
         "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "I Get Along Without You Very Well",
-      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -719,6 +719,42 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Embraceable You",
+        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "duration_ms": 288664,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -747,26 +783,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 334933,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        }
-      ],
-      "duration_ms": 288664,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        },
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 371170,
-      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 270986,
       "name": "What Of Your Eyes",
       "url": "https://open.spotify.com/track/3hX0T0Z16mRfHAzd1sHluC"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        },
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 371170,
+      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+        "name": "The Night and the Music",
+        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
       },
       "artists": [
         {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Daniel Karlsson",
+          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
         }
       ],
-      "duration_ms": 216274,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
+      "duration_ms": 249026,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Night and the Music",
-        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
       "artists": [
         {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Daniel Karlsson",
-          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 249026,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
+      "duration_ms": 216274,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Stations",
-        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
+        "name": "Nice Work If You Can Get It",
+        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
       },
       "artists": [
         {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+          "name": "Kristina Ray",
+          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
         }
       ],
-      "duration_ms": 293124,
-      "name": "The Streets of Berlin",
-      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
+      "duration_ms": 205078,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Nice Work If You Can Get It",
-        "url": "https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU"
+        "name": "Stations",
+        "url": "https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6"
       },
       "artists": [
         {
-          "name": "Kristina Ray",
-          "url": "https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
         }
       ],
-      "duration_ms": 205078,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM"
+      "duration_ms": 293124,
+      "name": "The Streets of Berlin",
+      "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Tell Him I Said Hello",
-        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
-      },
-      "artists": [
-        {
-          "name": "Jocelyn Barth",
-          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
-        }
-      ],
-      "duration_ms": 266138,
-      "name": "I Didn't Know About You",
-      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Tell Him I Said Hello",
+        "url": "https://open.spotify.com/album/39QI8WaZmEFH6UxIPqz94J"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn Barth",
+          "url": "https://open.spotify.com/artist/2xRDpIhc5GNhD6U1nnsZLX"
+        }
+      ],
+      "duration_ms": 266138,
+      "name": "I Didn't Know About You",
+      "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Staying in Touch",
-        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "The Long and Winding Road",
-      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "It Ends Now",
         "url": "https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 363893,
       "name": "It Ends Now",
       "url": "https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Staying in Touch",
+        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "The Long and Winding Road",
+      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Once Upon a Summertime",
-      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/0TfJkb6NSFDo2I89wGmiac"
       },
@@ -1723,22 +1707,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Songs from Other Places (Special Edition)",
-        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        },
-        {
-          "name": "Art Hirahara",
-          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
         }
       ],
-      "duration_ms": 260746,
-      "name": "Memories of You",
-      "url": "https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC"
+      "duration_ms": 279746,
+      "name": "Once Upon a Summertime",
+      "url": "https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1755,6 +1735,26 @@
       "duration_ms": 192171,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Songs from Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Memories of You",
+      "url": "https://open.spotify.com/track/29CbKFxs4Aa5pA8ktWuBUC"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 293700,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Quiet Is the Star",
         "url": "https://open.spotify.com/album/10HR7jExTsb576nxpmR1xO"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        }
+      ],
+      "duration_ms": 293700,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "No Bounds",
         "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
       },
@@ -1947,6 +1947,22 @@
       "duration_ms": 312186,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Night at the Movies",
+        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
+      },
+      "artists": [
+        {
+          "name": "Svetlana",
+          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
+        }
+      ],
+      "duration_ms": 292680,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1EW2MFHCYzbCxJ4kpiJQS0"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1979,22 +1995,6 @@
       "duration_ms": 410773,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Night at the Movies",
-        "url": "https://open.spotify.com/album/7LbEEwo9BiYcPkb3DCDgDH"
-      },
-      "artists": [
-        {
-          "name": "Svetlana",
-          "url": "https://open.spotify.com/artist/0a4rlP9h2y4zMl0MU5NmDU"
-        }
-      ],
-      "duration_ms": 292680,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1EW2MFHCYzbCxJ4kpiJQS0"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 320250,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 194440,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 320250,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
     },
     {
       "added_at": "2024-02-02 00:01:00",

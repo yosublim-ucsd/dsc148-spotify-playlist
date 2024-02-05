@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,203 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,223 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 58 | [I Need A Man](https://open.spotify.com/track/3Zc9b3YS8wcGDzH92joizS) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 3:23 |
 | 59 | [My Body Keeps Changing My Mind](https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA) | [Karen Carpenter](https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1) | [Karen Carpenter](https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ) | 3:45 |
 | 60 | [Love Is You \(A Tom Moulton Mix\)](https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Lectric Lady](https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A) | 7:53 |
-| 61 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
-| 62 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 61 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 62 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
 | 63 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
 | 64 | [No One Gets The Prize](https://open.spotify.com/track/3z8EX1QoPW20ME8IueIADZ) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:40 |
 | 65 | [Dance A Little Bit Closer \(12'' Mix\)](https://open.spotify.com/track/2y4EEO7Y2X5wC9sQGqOKkQ) | [Charo and The Salsoul Orchestra](https://open.spotify.com/artist/1yWjva4CAB6FGCgKioq7Zr) | [Cuchi\-Cuchi](https://open.spotify.com/album/1SpaM5xsJmHfBmlvTOdzrR) | 6:17 |
 | 66 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 |
 | 67 | [This Time Baby \- Special 12" Version](https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI) | [Jackie Moore](https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w) | [Club Columbia](https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI) | 7:13 |
 | 68 | [Doctor Love \(Tom Moulton 12" Mix\)](https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 7:37 |
-| 69 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
-| 70 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
+| 69 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
+| 70 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
 | 71 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
 | 72 | [Lady America](https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd) | [Voyage](https://open.spotify.com/artist/0LmhgMzqvIdR5ZPF1imPL6) | [Twelve Inch Classics from the 70s, Vol\. 2](https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa) | 6:47 |
 | 73 | [Moment of My Life \(12'' Version\)](https://open.spotify.com/track/3K70DJ1PgpZYDGE67CZBAX) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/4RPGPhmqCeFZZbFvZRg0Sh) | 6:32 |
 | 74 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 | 75 | [The Love I Lost \- A Tom Moulton Mix](https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Philadelphia International Records: The Tom Moulton Remixes](https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A) | 12:30 |
 
-Snapshot ID: `MCw5YjcwYjg0YTBiNWYwMDVhZTI0MTA0YTExODQ3ZmVlYTJjNDA0NmVi`
+Snapshot ID: `MCwwYWQ0ZmRlZmUwYjIyOWJjZDA4YjJmMzhhN2Y5YjNiZmI3NjhhMTk5`

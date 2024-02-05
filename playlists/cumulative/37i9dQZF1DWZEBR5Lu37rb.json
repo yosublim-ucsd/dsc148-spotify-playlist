@@ -1712,10 +1712,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
+    },
+    {
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "album": {

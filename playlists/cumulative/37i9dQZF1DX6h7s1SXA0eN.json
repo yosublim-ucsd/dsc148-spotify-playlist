@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 293500,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/00rB5HMEcR8c1cbVfka1Lt"
@@ -386,6 +386,24 @@
       "duration_ms": 293500,
       "name": "Chill Out",
       "url": "https://open.spotify.com/track/6NR8p3e6GpYrG3ivLlRfZj"
+    },
+    {
+      "album": {
+        "name": "Yung Pradito",
+        "url": "https://open.spotify.com/album/3ZI3teDGuoMA7rYGCckt55"
+      },
+      "artists": [
+        {
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/6qYP01q3JwJiUXeXyaVxk2"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 217114,
+  "2024-02-05": 217005,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 171276,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/0I3MZaEMddQfkUjRTEYWA2"
@@ -1779,6 +1779,24 @@
       "duration_ms": 127500,
       "name": "Warm",
       "url": "https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42"
+    },
+    {
+      "album": {
+        "name": "Whatever is left",
+        "url": "https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Whatever is left",
+      "url": "https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM"
     },
     {
       "album": {

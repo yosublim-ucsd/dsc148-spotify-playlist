@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 14890,
+  "2024-02-05": 14892,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -2399,6 +2399,24 @@
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
+    },
+    {
+      "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
     },
     {
       "album": {
@@ -13129,7 +13147,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 172714,
       "name": "Matrica",
       "url": "https://open.spotify.com/track/11nJopFRM3CYYKlJwCm4sR"
@@ -23039,7 +23057,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 231111,
       "name": "Vtori dom",
       "url": "https://open.spotify.com/track/17YEUOeBPpIUIIORfXyFd8"
@@ -26821,7 +26839,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 205347,
       "name": "\u041d\u0435, \u043c\u0435\u0440\u0441\u0438 - Single",
       "url": "https://open.spotify.com/track/1bwLTopYsL8A0j0fg7fi79"
@@ -27385,7 +27403,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 167210,
       "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
       "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
@@ -27629,7 +27647,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 194651,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/32vRPT2jNoRZRg22GxtY0l"

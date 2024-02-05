@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 146969,
+  "2024-02-05": 146978,
   "date_first_scraped": "2023-03-11",
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
   "name": "This Is \u00c1ngela Aguilar",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 209250,
       "name": "Afe\u0301rrate a la Vida",
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 171605,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/4EQkyHaiZP5Tipa5hBtPjU"
@@ -1167,6 +1167,32 @@
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+    },
+    {
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
     },
     {
       "album": {
@@ -1368,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155266,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5dDAnI6HbfoYsI2r2XImkJ"
+    },
+    {
+      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -1469,7 +1513,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 365821,
       "name": "Popurr\u00ed Flor Silvestre (Mi Destino Fue Quererte / Cielo Rojo / La Basurita)",
       "url": "https://open.spotify.com/track/3mXEan77B59erztx4ZaKQ4"
@@ -1807,6 +1851,46 @@
       "duration_ms": 168504,
       "name": "Si una Vez",
       "url": "https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN"
+    },
+    {
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
+    },
+    {
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
     },
     {
       "album": {

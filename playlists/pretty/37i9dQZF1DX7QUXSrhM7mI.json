@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 70386,
+  "num_followers": 70513,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTlmMWQ1NTM5MjY1YzM2ZTBjNjM3MjU5N2QxOTZkMjFmMzU2YmE2",
+  "snapshot_id": "MCxkYzhiNTdlNDc5ZjFlMDNhODk1MGY2NWUxMDJkYTdiNmU2YjIwZmU2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -303,22 +303,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -339,18 +335,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "In Your Love",
         "url": "https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "October Passed Me By",
-        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "October Passed Me By",
-      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "October Passed Me By",
+        "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "October Passed Me By",
+      "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "24",
-      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 243804,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "24",
+      "url": "https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE"
     },
     {
       "added_at": "2024-01-26 05:00:00",

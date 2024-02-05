@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 4607,
+  "2024-02-05": 4607,
   "date_first_scraped": "2022-06-10",
   "description": "Your daily update of the most viral tracks right now - Slovakia.",
   "name": "Viral 50 - Slovakia",
@@ -23076,6 +23076,24 @@
     },
     {
       "album": {
+        "name": "lonely boy",
+        "url": "https://open.spotify.com/album/6KPDJJLnlulWdsy5pENApB"
+      },
+      "artists": [
+        {
+          "name": "Scrim",
+          "url": "https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "paradise",
+      "url": "https://open.spotify.com/track/4pxE9huyROQ61TlyS0Mhhi"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -30937,7 +30955,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 133374,
       "name": "The Sound Of Silence",
       "url": "https://open.spotify.com/track/5Cw1C3iQUquhH2gehdqqj8"
@@ -33425,7 +33443,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
@@ -33603,6 +33621,28 @@
       "duration_ms": 230900,
       "name": "we are the people tekkno",
       "url": "https://open.spotify.com/track/4irFsXHJKcQs3szSD2GDlo"
+    },
+    {
+      "album": {
+        "name": "We Fell Apart",
+        "url": "https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO"
+      },
+      "artists": [
+        {
+          "name": "overrated",
+          "url": "https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV"
+        },
+        {
+          "name": "Akucum",
+          "url": "https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138100,
+      "name": "We Fell Apart",
+      "url": "https://open.spotify.com/track/1UyRQmQJjC0Xwo9394HTH0"
     },
     {
       "album": {
@@ -34625,7 +34665,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
@@ -35459,7 +35499,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 121200,
       "name": "\u017eeleznice",
       "url": "https://open.spotify.com/track/5izJDJcEHfJGORuXGGyXs9"

@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Discover more Black artists and their contributions <a href=\"spotify:genre:0JQ5DAqbMKFF9bY76LXmfI\">here</a>. Cover: <a href=\"spotify:artist:23zg3TcAtWQy7J6upgbUnj\">Usher</a>",
-  "num_followers": 250240,
+  "num_followers": 250327,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjhjZGQ0ZmVhMDhjZDc5NjQ3YWM0Nzk2Yzc1ODAxZGZhYjE0ODZm",
+  "snapshot_id": "MCwxOThmY2Y2MTFiMGYzZjgyN2NjNjdiMjBlNjQxYjBhNDlhZjE0NTk1",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Navajo",
         "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 194157,
       "name": "Navajo",
       "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 193322,
+      "name": "Honest (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 1032578,
+  "2024-02-05": 1032306,
   "date_first_scraped": "2021-12-21",
   "description": "The newest r&b drops, every week. Cover: Usher",
   "name": "R&B Weekly",
@@ -28027,6 +28027,28 @@
       "duration_ms": 160000,
       "name": "Routine",
       "url": "https://open.spotify.com/track/06m1wls2R6KJoHMp8Fp3A0"
+    },
+    {
+      "album": {
+        "name": "Ruin",
+        "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
     },
     {
       "album": {

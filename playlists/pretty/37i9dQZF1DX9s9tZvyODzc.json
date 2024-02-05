@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 128941,
+  "num_followers": 129060,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2UwMzAyZDRkMDRjZDM0MzlhMDNlNTZiMjM5ZGM4N2EzOGM5OWRm",
+  "snapshot_id": "MCwyOWJmOTk5ZTllZmNkNWViMmVhMDVjOTgxZDQ1ZTllYmIzNjRmM2I0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:53:23",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 334666,
-      "name": "Snow (Hey Oh)",
-      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 233746,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
         "name": "We Are The World",
         "url": "https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 427333,
       "name": "We Are The World",
       "url": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         },
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+      "duration_ms": 153153,
+      "name": "TE FUI A SEGUIR",
+      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
     },
     {
       "added_at": "2024-02-01 19:53:23",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-02-01 19:53:23",
       "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "added_at": "2024-02-01 19:53:23",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2024-02-01 19:53:23",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 153153,
-      "name": "TE FUI A SEGUIR",
-      "url": "https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh"
     },
     {
       "added_at": "2024-02-01 19:53:23",

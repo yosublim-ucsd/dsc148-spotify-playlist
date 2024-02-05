@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,443 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,501 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 64 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 65 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 | 66 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
-| 67 | [Great I Am](https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP) | 4:29 |
-| 68 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
+| 67 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
+| 68 | [Great I Am](https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP) | 4:29 |
 | 69 | [Cornerstone \- Live](https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 6:49 |
 | 70 | [Your Glory / Nothing But The Blood \- Live](https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 8:57 |
 | 71 | [Lord Send Revival \- Live](https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 6:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 80 | [Here's My Heart \- Live](https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:51 |
 
-Snapshot ID: `MCxmZGZlY2UwZTFiZWRmMmRiMjYzYjU2M2JmZTU3YjI0Zjc3OTc2MzVh`
+Snapshot ID: `MCxkODY5ZGVmMDhlOTBlOTI4ODhmYWU2YWJhMjQyMmQ4YTA2ZTFmZDE3`

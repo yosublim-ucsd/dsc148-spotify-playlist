@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,473 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,536 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 49 | [Cántame](https://open.spotify.com/track/40yczJ7VRenkAPVctWQfqp) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Cántame Sevillanas](https://open.spotify.com/album/7hJrIlgMWFgZoacK5G3v5j) | 4:02 |
 | 50 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 51 | [Te Quiero Te Quiero](https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen de España](https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn) | 3:04 |
-| 52 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Viva Carlos Cano \(Remasterizado\)](https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly) | 3:53 |
-| 53 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |
+| 52 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |
+| 53 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/2xDZ2IKvMUC1nYvc6oXKlZ) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Viva Carlos Cano \(Remasterizado\)](https://open.spotify.com/album/4cGadXY3rcIvwxUGvsILly) | 3:53 |
 | 54 | [La niña de fuego](https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Niña de fuego \(Standard version\)](https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP) | 3:39 |
 | 55 | [En tierra extraña](https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Antologia, Vol\. 5](https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14) | 2:53 |
 | 56 | [Soy Una Feria](https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS) | [Gracia Montes](https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu) | [Mis Mejores Canciones](https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCwwNzZlMWI3ZmI2OGY2MGZiYTMzYjQ0Mjk5OTUyYmM3NWRmNWZiOTYw`
+Snapshot ID: `MCwwODM4ZmY2NjNhNDMyOGQ5ZTA2M2MyMWY5NmU2OTJjNDUwOTI3MTBl`

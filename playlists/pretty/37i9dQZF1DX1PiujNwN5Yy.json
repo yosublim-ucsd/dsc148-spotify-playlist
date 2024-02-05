@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 111086,
+  "num_followers": 111062,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmFmMDQ5MmU1NzFjNjAxMDFlNTg4YTVkZjY4Y2EwYWIzYzA4ZjQ4",
+  "snapshot_id": "MCw2MTY2OWMzYjI5YzlhMDc4ZjIwMjlhZDg2OGVkYjI5NWQwMTg4MGI2",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "yo q se",
-        "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
+        "name": "La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 120000,
-      "name": "yo q se",
-      "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
+      "duration_ms": 253910,
+      "name": "La Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
     }
   ],
   "unique_name": "gris",

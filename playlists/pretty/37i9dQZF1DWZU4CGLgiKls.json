@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 563933,
+  "num_followers": 563586,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDA1NDM4NTk1ZDNkYzNiOTM4OWI4ZGY0ZGY4NDgwMTkwZWY0MDJm",
+  "snapshot_id": "MCwzNjVmZjY1YzkwMGFmYWZhMjdiMDkzNmE2ZDE1MjEwNDBkYzA1YjFk",
   "tracks": [
     {
       "added_at": "2022-11-29 20:21:38",
@@ -399,22 +399,18 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+      "duration_ms": 182186,
+      "name": "Sensacion Del Bloque",
+      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -471,18 +467,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Sensacion Del Bloque",
-      "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "SI AYER FUERA HOY",
-        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Segundos Platos",
-      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "SI AYER FUERA HOY",
+        "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Segundos Platos",
+      "url": "https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "PUNTO G",
         "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-11-29 20:21:38",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "added_at": "2022-11-29 20:21:38",
+      "album": {
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
       "added_at": "2022-11-29 20:21:38",
@@ -1171,22 +1187,6 @@
       "duration_ms": 207387,
       "name": "La Esquina del Mall",
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
-    },
-    {
-      "added_at": "2022-11-29 20:21:38",
-      "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     }
   ],
   "unique_name": "Previa Futbolera",

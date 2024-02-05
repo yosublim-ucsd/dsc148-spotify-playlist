@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 112924,
+  "num_followers": 112946,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWExOGM2YTczZjY4ODQwY2MyMzA5MWJlODNlYWFiNmUzZDdhZTkx",
+  "snapshot_id": "MCw0YTZmOWQ0NmIxZDc5Y2IyZWNjNzg4ZmE2YjFjN2Q3MjI1ODYwZDg3",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 261904,
-      "name": "Yeezy",
-      "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Chosen Few: New Generation",
         "url": "https://open.spotify.com/album/3OrduFrOK2uqkUdlzdeUnj"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Baby Rasta, Noriel, Darkiel, Messiah & Lyan]",
       "url": "https://open.spotify.com/track/3gYco8uoFBmpxqYlz3Zhs7"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 261904,
+      "name": "Yeezy",
+      "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -771,6 +771,42 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
       },
@@ -811,42 +847,6 @@
       "duration_ms": 517599,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Gan-Ga (Remix)",
         "url": "https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 199700,
       "name": "Side Bitch",
       "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1115,22 +1115,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Cambio de Clima",
-        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+        "name": "Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & \u00d1engo Flow]",
+        "url": "https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 241520,
-      "name": "No Ando Solo",
-      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+      "duration_ms": 512636,
+      "name": "Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1175,6 +1187,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "No Ando Solo",
+      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
       },
@@ -1191,54 +1223,6 @@
       "duration_ms": 223500,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & \u00d1engo Flow]",
-        "url": "https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 512636,
-      "name": "Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "En Que Pa\u00eds",
-        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 210628,
-      "name": "En Que Pa\u00eds",
-      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
+      "duration_ms": 251533,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1359,18 +1359,58 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+        "name": "En Que Pa\u00eds",
+        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 259250,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+      "duration_ms": 210628,
+      "name": "En Que Pa\u00eds",
+      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Subimos de Rango",
+        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        }
+      ],
+      "duration_ms": 266091,
+      "name": "Subimos de Rango",
+      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Before Famous",
+        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 221252,
+      "name": "Antes de Morirme",
+      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1403,62 +1443,6 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Subimos de Rango",
-        "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Shootter Ledo",
-          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
-        }
-      ],
-      "duration_ms": 266091,
-      "name": "Subimos de Rango",
-      "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/06t09Ttmv2fsDEkNOgiYSy"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/2B9v1f4t371drWNPYWCBJa"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Before Famous",
-        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 221252,
-      "name": "Antes de Morirme",
-      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/06t09Ttmv2fsDEkNOgiYSy"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/2B9v1f4t371drWNPYWCBJa"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Real G's",
         "url": "https://open.spotify.com/album/1htLS1cOgyAHgTn1GIRHcJ"
       },
@@ -1663,6 +1663,46 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Estamos Clear",
+        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Estamos Clear",
+      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "TrapXficante",
+        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Oscuridad (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
       },
@@ -1703,46 +1743,6 @@
       "duration_ms": 342558,
       "name": "Mi Cubana - Remix",
       "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Estamos Clear",
-        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Estamos Clear",
-      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "TrapXficante",
-        "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Oscuridad (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/52JnQicpFULdhLnWdHyQD1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "EL OG WEEK",
+        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Superaci\u00f3n",
+      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Costear (Remix)",
         "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 288482,
       "name": "Contamos & Guerreamos",
       "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "EL OG WEEK",
-        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Superaci\u00f3n",
-      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
     },
     {
       "added_at": "2023-05-25 17:50:01",

@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-236 songs - 13 hr 59 min
+237 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Say You'll Be There](https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk) | [LIVING ROOM 2](https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy) | 3:37 | 2023-05-12 |  |
 | [Sá Marina](https://open.spotify.com/track/4as7MF2MShkdnjOqukNB2y) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Sá Marina](https://open.spotify.com/album/6NmDSsaTQLYSxv4E0Ewt77) | 3:30 | 2021-12-09 | 2023-05-13 |
 | [Self Control](https://open.spotify.com/track/1FVe8gMPBWQGqTV3DpLmog) | [Kids Music All\-Stars](https://open.spotify.com/artist/5F521ymFBaFwpssPjxSCII) | [Kid's Hits Today](https://open.spotify.com/album/4pQqFqdcTTOFyE4Fy3DOsZ) | 3:35 | 2022-10-13 | 2022-11-13 |
-| [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 | 2022-07-01 |  |
+| [Self Control](https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE) | [Starburkes & The Tea Leaf](https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x) | [Acoustic Coffee House](https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb) | 3:35 | 2022-07-01 | 2024-02-05 |
+| [Self Control](https://open.spotify.com/track/7jfL8bZ1D0B7rAaieB0vg8) | [World Mestizo Ensemble](https://open.spotify.com/artist/5r1CCpk0rhguhNGqff1ETw) | [Acoustic](https://open.spotify.com/album/4T6wBXGejn8MQnSTHnddAC) | 3:33 | 2024-02-02 |  |
 | [Self Control](https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB) | [World Mestizo Ensemble presents Acoustic](https://open.spotify.com/artist/2CaRC2DUlOcHNqWhMNsmRK) | [Ananda, Vol.3 \(Chill Out Season 2006\)](https://open.spotify.com/album/3pkbCID6RshGvUcdK5YR9N) | 3:33 | 2021-12-09 | 2022-07-29 |
 | [Señorita](https://open.spotify.com/track/7oJXhK3Dq8VpiOoRxWxpD0) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Señorita](https://open.spotify.com/album/7Gw6zmZWTTfLZ4TG9BcyGi) | 3:10 | 2021-12-09 |  |
 | [September \(Bossa Version\)](https://open.spotify.com/track/686fADYgnMdwtXvRAuxdna) | [Marcela Mangabeira](https://open.spotify.com/artist/4H5EtQdvxwz7wEGNlguKAg) | [Relaxing Bossa Lounge](https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw) | 4:06 | 2021-12-09 | 2023-04-21 |

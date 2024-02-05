@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 193838,
+  "2024-02-05": 193900,
   "date_first_scraped": "2021-12-28",
   "description": "All the greatest Ambient tracks in one place. Cover: Brian Eno",
   "name": "Ambient Essentials",
@@ -2799,6 +2799,24 @@
     {
       "album": {
         "name": "Replica",
+        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
+    },
+    {
+      "album": {
+        "name": "Replica",
         "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
       "artists": [
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"

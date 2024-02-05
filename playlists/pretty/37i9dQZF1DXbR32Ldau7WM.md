@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now!  Cover: ドミコ
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,500 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,574 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 57 | [能動的三分間](https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 3:00 |
 | 58 | [ゆらめき \(YURAMEKI\)](https://open.spotify.com/track/3wfpG43c7wdb0LofeE0NlM) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [19990120](https://open.spotify.com/album/5xkvN0sLl4iaokgZixvhvz) | 5:09 |
 | 59 | [切手のないおくりもの](https://open.spotify.com/track/1kVL0b3nQfoFhClBCuKFM5) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [JUICE UP!!](https://open.spotify.com/album/37KhIsdSPhactF4XrvJyds) | 1:57 |
-| 60 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
+| 60 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
 | 61 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 62 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
-| 63 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 |
+| 63 | [I](https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [I](https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB) | 3:21 |
 | 64 | [BLACK MEMORY](https://open.spotify.com/track/5XyC4vVIFnMvpnh5StApxw) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Kisses and Kills](https://open.spotify.com/album/3pepTeuEGPpmGF3oOwboo0) | 4:12 |
 | 65 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 66 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
-| 67 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
-| 68 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
+| 66 | [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 |
+| 67 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |
+| 68 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
 | 69 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 |
 | 70 | [群青日和](https://open.spotify.com/track/1oWlUSljPUqKwbvEl0C3zE) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [教育](https://open.spotify.com/album/0WhNxc2V5kYKaPevYHVT5v) | 3:33 |
 | 71 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 76 | [STAY GOLD](https://open.spotify.com/track/6Q9bwEB5lN6m1DGkqz9XP6) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 2:00 |
 | 77 | [名前を呼ぶよ](https://open.spotify.com/track/5iTyiE1jAfmjorzFLc4Frg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/5UXiAgBDuYMULAVlRNF3it) | 4:37 |
 | 78 | [キラーチューン](https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [娯楽\(バラエティ\)](https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp) | 3:42 |
-| 79 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
-| 80 | [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 |
+| 79 | [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 |
+| 80 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
 
-Snapshot ID: `MCw2MDM3ZmYzYzFhODg1MWQ4M2QzMTk2ZTg3OGMyMjViNTdkOGE5NDM0`
+Snapshot ID: `MCwyY2I3OTFmZTQwNmUzNjY4ZTJlNWYxNTgxMjgzNDA0YjBkNzlkYjk0`

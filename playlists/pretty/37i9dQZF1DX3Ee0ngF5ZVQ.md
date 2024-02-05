@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,929 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,705 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 60 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/4yAirqjJEOtOW06WLUqAXa) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:55 |
 | 61 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 |
-| 62 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
+| 62 | [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 |
 | 63 | [Saturday Night Comes Once A Week](https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG) | 4:04 |
-| 64 | [Boy From Anderson County](https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 4:04 |
+| 64 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
 | 66 | [Damn Good Friends \(feat\. Cleto Cordero\)](https://open.spotify.com/track/4zTTPZ75hYzYpiPXnlEbnb) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u), [Cleto Cordero](https://open.spotify.com/artist/127jOwnWSHgNKlKY34KVh3) | [Damn Good Friends](https://open.spotify.com/album/0q06gvA8Vgy2yjCg3SHdOI) | 3:48 |
 | 67 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 97 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
 | 98 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 |
 | 99 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
-| 100 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |
+| 100 | [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 |
 
-Snapshot ID: `MCwyMTRmMTZhNjZiNDNiNmM3MWVmMTNiZDVmYmZmM2QwZWVjMTg2OWU1`
+Snapshot ID: `MCxkZDM5OTA2Yjg3NzU4MGZhM2YzZWRlMTU4YThjODhhMDI0OTVhYjgx`

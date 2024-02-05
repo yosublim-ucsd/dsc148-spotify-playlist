@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Abby Sage",
-  "num_followers": 89641,
+  "num_followers": 89706,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGI5ZWRiZGFiYzI3ZTQxYTBhYTM5YTViYjBkZmI1NzBhNTRjNTMx",
+  "snapshot_id": "MCw2NmQ4Mzc2Y2U1NDg1OTE5MjAxOGVjNmRmZjFiNGQzNTEzZmY5ZDkz",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -377,6 +377,42 @@
       "url": "https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "A Little Love",
@@ -399,22 +435,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "End Of The World",
         "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
       },
@@ -427,22 +447,6 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -473,24 +477,20 @@
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 289964,
-      "name": "Change (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "tiny things",
-      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "tiny things",
+      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0LQcvjqp41rK1ZBuCaKGbb"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Blue Raspberry",
         "url": "https://open.spotify.com/album/3ue5JrkSudbuHwQOEvZwHj"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199045,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+      },
+      "artists": [
+        {
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+        }
+      ],
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Spell",
         "url": "https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
-      },
-      "artists": [
-        {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
-        }
-      ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 195884,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 195884,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Mozart in My Mind",
-        "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 186050,
-      "name": "Mozart in My Mind",
-      "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Shell",
         "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Mozart in My Mind",
+        "url": "https://open.spotify.com/album/3yrSqrGXFiRjjETGudPFLQ"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        }
+      ],
+      "duration_ms": 186050,
+      "name": "Mozart in My Mind",
+      "url": "https://open.spotify.com/track/1fTKaYCVdkPrFLto9Q36G8"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
-      },
-      "artists": [
-        {
-          "name": "Morgan Harper-Jones",
-          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sorceress",
         "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
       },
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j"
+      },
+      "artists": [
+        {
+          "name": "Morgan Harper-Jones",
+          "url": "https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
       },
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "More Better",
+        "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        },
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 240124,
+      "name": "Changes (feat. Laura Elliott)",
+      "url": "https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "I've Got Me",
         "url": "https://open.spotify.com/album/3l3xPtGZXUcnQaNlpbjvR0"
       },
@@ -2059,22 +2079,6 @@
       "duration_ms": 163546,
       "name": "People Are Toys to You",
       "url": "https://open.spotify.com/track/7zqVo3K1HdI3bDEK1FJRDA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     }
   ],
   "unique_name": "Folk Arc",

@@ -1,12 +1,12 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 508745,
+  "num_followers": 508593,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGVlMGMyZTQ4Y2Y4N2MyZTdiMmFlZGRjNmIzZDkxOGU0MGJmZDNi",
+  "snapshot_id": "MCwyMGM1MmVmMzI1ZDdmZTFlNGRlZjNhOGRkYzkyOTkxOGYwODhlMTA5",
   "tracks": [
     {
       "added_at": "2023-08-09 10:52:35",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2023-08-09 10:52:35",

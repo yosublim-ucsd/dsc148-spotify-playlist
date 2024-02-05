@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 27 min
+80 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Lovely Soul](https://open.spotify.com/track/1SjMeC7cK1SiK76J0qm5mi) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:40 | 2023-05-02 |  |
 | [Lune](https://open.spotify.com/track/0OWM271M81gfFl3RdM9AmI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:02 | 2023-05-02 |  |
 | [Mind Of](https://open.spotify.com/track/6wq6qtnJCEQET0of8vhit8) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 | 2023-12-16 |  |
-| [Naked](https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT) | 3:38 | 2023-05-02 |  |
+| [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 | 2024-02-04 |  |
+| [Naked](https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT) | 3:38 | 2023-05-02 | 2024-02-05 |
 | [NO WAY \(feat\. Isaiah Rashad, Joey Purp & Ambré\)](https://open.spotify.com/track/5p4drVwua5J1BYgqhrMwWa) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:24 | 2023-05-02 |  |
 | [Nxt Msg \- Deletion Mix](https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:51 | 2023-12-13 |  |
 | [Penny](https://open.spotify.com/track/0fDwiIESCD4DHUiZ7N7EwP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [FOVERE](https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv) | 3:05 | 2023-05-02 | 2023-08-10 |

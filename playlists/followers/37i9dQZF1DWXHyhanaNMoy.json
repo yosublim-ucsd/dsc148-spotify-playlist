@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 319911,
+  "2024-02-05": 319854,
   "date_first_scraped": "2022-07-19",
   "description": "Motion & good vibes! Cover: Jonna Fraser",
   "name": "La Vida Loca",
@@ -1049,6 +1049,32 @@
       "duration_ms": 223275,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3"
+    },
+    {
+      "album": {
+        "name": "Avec classe (feat. Aya Nakamura & Trinix)",
+        "url": "https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186071,
+      "name": "Avec classe (feat. Aya Nakamura & Trinix)",
+      "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
     },
     {
       "album": {
@@ -9759,7 +9785,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-04",
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/62CnxWBWZuAku9mNg6Plof"
@@ -17392,7 +17418,7 @@
       "artists": [
         {
           "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/72Rav2u2DeRPJuA44Ng0n0"
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
         },
         {
           "name": "Oxlade",

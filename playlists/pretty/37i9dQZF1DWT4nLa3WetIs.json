@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 143213,
+  "num_followers": 143358,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTg1OTM2YzE1NmM3OWZjMzA2NTNmYzZmYjU2NWZjODkwMjNjN2E4",
+  "snapshot_id": "MCw0ZjUyNmVmODIxMTZlZTM1NzA5OWQ4MzdjOGZhMTY4YmQ3OWNmNzBj",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "T.I.N.A.",
-        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        }
-      ],
-      "duration_ms": 222750,
-      "name": "Antenna - UK Club Mix",
-      "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 246884,
       "name": "Mansa",
       "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "T.I.N.A.",
+        "url": "https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1"
+      },
+      "artists": [
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "duration_ms": 222750,
+      "name": "Antenna - UK Club Mix",
+      "url": "https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -967,6 +967,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 204173,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Mo Gbono Feli Feli",
-      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
     },
     {
       "added_at": "2020-11-06 13:21:21",

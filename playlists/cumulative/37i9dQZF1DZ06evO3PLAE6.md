@@ -4,7 +4,7 @@
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 23 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Saturday Night \(Speckles Of Light\)](https://open.spotify.com/track/5sYlg1stKUfVaOAjnBNPkE) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Everyday Amen](https://open.spotify.com/album/2EVfi6XfZjOuH0ovIXP0MY) | 4:43 | 2023-06-27 | 2023-07-03 |
 | [Sleeping Cold](https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:55 | 2023-06-17 |  |
 | [Someone Like Me](https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 4:09 | 2023-06-17 |  |
+| [Stories We Could Tell](https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4) | [Bill Chambers](https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Sleeping With The Blues](https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY) | 2:29 | 2024-02-04 |  |
 | [Sweetest Waste Of Time](https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:57 | 2023-06-17 |  |
 | [The Captain](https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:32 | 2023-06-17 |  |
 | [The Quiet Life](https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:35 | 2023-06-17 |  |

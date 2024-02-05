@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of Eric Church's hit album \"The Outsiders\" on 2010s Country! ",
-  "num_followers": 570772,
+  "num_followers": 570977,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDE0NGIxMGVhNzMwMTcxYzNjNmFmM2Q1ZjBlY2JhNzY1ZjZhYTAw",
+  "snapshot_id": "MCw2NTk4OGUyODhlZWFlY2ViMDU3MGQ0NzFmMDQyMzJjYWU4MDY3ZDU5",
   "tracks": [
     {
       "added_at": "2024-02-02 21:45:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "I Don't Want This Night To End",
-      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 277573,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "I Don't Want This Night To End",
+      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+        "name": "How Country Feels",
+        "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
+      "duration_ms": 193773,
+      "name": "Runnin' Outta Moonlight",
+      "url": "https://open.spotify.com/track/4vlJejZrcujj0nSCqIBeWn"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "How Country Feels",
-        "url": "https://open.spotify.com/album/6p9LqWLWDOuW2WiUt9YKUZ"
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
       },
       "artists": [
         {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Runnin' Outta Moonlight",
-      "url": "https://open.spotify.com/track/4vlJejZrcujj0nSCqIBeWn"
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 216960,
       "name": "Yours",
       "url": "https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1707,22 +1711,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 243706,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "My Kinda Party",
         "url": "https://open.spotify.com/album/4DDsvEKPW32jeMEAqmOdjv"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 284960,
       "name": "My Kinda Party",
       "url": "https://open.spotify.com/track/7yZ93UxLRiF6eaiBrYkWfr"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "All To Myself",
-      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 171120,
       "name": "When She Says Baby",
       "url": "https://open.spotify.com/track/7bQKR4QQCIlX0RoHlaKiIn"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "All To Myself",
+      "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
         "name": "I'm Comin' Over",
         "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Ticket To L.A.",
-        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 243520,
       "name": "Somewhere With You",
       "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Ticket To L.A.",
+        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/4CcrLWFQY4dRGMbUR59cSp"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/4CcrLWFQY4dRGMbUR59cSp"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5rESCws46ubPJlqOeb30Rv"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Somewhere In My Car",
-      "url": "https://open.spotify.com/track/50nzorQ9gi2md8UpFi8aJT"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -2975,22 +2959,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Lonely Eyes",
-      "url": "https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/40hl9x5G7YelVvXQGroLa2"
       },
@@ -3003,6 +2971,38 @@
       "duration_ms": 203053,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/2QVzUws1l5mzZ4v46tGHrC"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5rESCws46ubPJlqOeb30Rv"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Somewhere In My Car",
+      "url": "https://open.spotify.com/track/50nzorQ9gi2md8UpFi8aJT"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Lonely Eyes",
+      "url": "https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -3023,22 +3023,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Where It's At",
-        "url": "https://open.spotify.com/album/07XUTuKWtYd8LCWOPirKE5"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "Where It's At",
-      "url": "https://open.spotify.com/track/3IQu6EQqPlYN3pk0xQz9zK"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Days of Gold",
         "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
       },
@@ -3051,6 +3035,22 @@
       "duration_ms": 191040,
       "name": "Beachin'",
       "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/07XUTuKWtYd8LCWOPirKE5"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Where It's At",
+      "url": "https://open.spotify.com/track/3IQu6EQqPlYN3pk0xQz9zK"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -3115,22 +3115,6 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "WildHorse",
-        "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
-      },
-      "artists": [
-        {
-          "name": "RaeLynn",
-          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
-    },
-    {
-      "added_at": "2024-02-02 21:45:53",
-      "album": {
         "name": "Ignite the Night (Party Edition)",
         "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
       },
@@ -3147,18 +3131,34 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Halfway To Heaven (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 286520,
-      "name": "You Don't Know Her Like I Do",
-      "url": "https://open.spotify.com/track/4WnY4W5KrqglCdIus8X9Bo"
+      "duration_ms": 209586,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
+    },
+    {
+      "added_at": "2024-02-02 21:45:53",
+      "album": {
+        "name": "WildHorse",
+        "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu"
     },
     {
       "added_at": "2024-02-02 21:45:53",
@@ -3179,18 +3179,18 @@
     {
       "added_at": "2024-02-02 21:45:53",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+        "name": "Halfway To Heaven (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 209586,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5"
+      "duration_ms": 286520,
+      "name": "You Don't Know Her Like I Do",
+      "url": "https://open.spotify.com/track/4WnY4W5KrqglCdIus8X9Bo"
     },
     {
       "added_at": "2024-02-02 21:45:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 26,458 likes - 25 songs - 1 hr 39 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 26,467 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 3 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 4 | [Fly Away \(with Sheck Wes, Ski Mask The Slump God & JID\)](https://open.spotify.com/track/4FdlNCxdyXOXKIZNKcIqAs) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 3:05 |
 | 5 | [Blackman](https://open.spotify.com/track/2bFAVvnhZ7LLWNYPPeE0Ah) | [Yung Senju](https://open.spotify.com/artist/7D5OcHOXl3X6oiQ01RC1TJ) | [Blackman Wunderlan](https://open.spotify.com/album/61Hcc0Mt0I4yl91xO56h37) | 3:27 |
-| 6 | [Peaches and Herb](https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0BYalJxAfqJnKCX34Mw4e5) | [The Color Chocolate, Vol\. 1](https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr) | 3:01 |
+| 6 | [Peaches and Herb](https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d) | [Che Noir](https://open.spotify.com/artist/5NxrM6Lk8D58UKnOnwHN3d), [Ransom](https://open.spotify.com/artist/0BYalJxAfqJnKCX34Mw4e5) | [The Color Chocolate, Vol\. 1](https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr) | 3:01 |
 | 7 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 |
 | 8 | [Smile](https://open.spotify.com/track/2tqoJQbv6dNNOi0PCCjuse) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gloria Carter](https://open.spotify.com/artist/5ClhQPdU6C5kY1kgK1ZQdm) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 4:49 |
 | 9 | [Scottie Beam](https://open.spotify.com/track/15NQ3x1f2GUhqs8oBXhTqp) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 4:04 |

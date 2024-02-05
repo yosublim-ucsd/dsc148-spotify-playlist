@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,644 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,648 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 14 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 |
 | 15 | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS) | 3:17 |
 | 16 | [Furious](https://open.spotify.com/track/272slxHVqV2k38mxVP2hat) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 0:43 |
-| 17 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
-| 18 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
+| 17 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
+| 18 | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Likka Sto 2 \(feat\. Travis Scott, G Herbo & BIA\)](https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt) | 3:48 |
 | 19 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 20 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 21 | [BEACH BALL \(feat\. BIA\)](https://open.spotify.com/track/5NQIrsHnSQWQQUvd1ZqSOH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 50 | [Raised Me](https://open.spotify.com/track/5sisrx2Bwyxiju7Gttw3z7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Raised Me](https://open.spotify.com/album/49Unv1AAYHoePvJe0vJPqN) | 2:12 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA2MDlkMzQzOTkzY2I0ODI3NmY0YzQwMGZmNDMzODBkMA==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBmZDQ3M2FjNDJkYjNjNDJiZTJkYjNiMTI4M2RiYjM4YQ==`

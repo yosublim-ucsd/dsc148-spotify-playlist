@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 23923,
+  "num_followers": 23934,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmEyYmY1YjgyNDMxNmY3ZDYwYzY3YjU3YjdkNTBhMmU2ZmMyY2Uw",
+  "snapshot_id": "MCxlMzI0YWY0MThlY2Q1ZmVlOTZkNWU0MjQ1YTM5MjU4ZDFhODI0NTAw",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 222191,
+      "name": "Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/4xUihGiAEgWDu1DPGGZyKt"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Macumba",
         "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 164884,
       "name": "Macumba",
       "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 151417,
-      "name": "La Rajita De Canela",
-      "url": "https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 151417,
+      "name": "La Rajita De Canela",
+      "url": "https://open.spotify.com/track/4sSpxTtKhdASbBQVo14Sx8"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "De Quen Chon",
         "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 168803,
       "name": "De Quen Chon",
       "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 222191,
-      "name": "Mazatl\u00e1n",
-      "url": "https://open.spotify.com/track/4xUihGiAEgWDu1DPGGZyKt"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "De Quen Chon",
-        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 149185,
-      "name": "Macorina Pon Pon",
-      "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
+      "duration_ms": 195210,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+        "name": "De Quen Chon",
+        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 195210,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
+      "duration_ms": 149185,
+      "name": "Macorina Pon Pon",
+      "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Serie Platino",
         "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
@@ -615,50 +631,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Mariachi Vol. 2",
-        "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        },
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 105117,
-      "name": "Huapango 2 El Violin",
-      "url": "https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 152006,
       "name": "Sal\u00f3n M\u00e9xico",
       "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Mariachi Vol. 2",
+        "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 105117,
+      "name": "Huapango 2 El Violin",
+      "url": "https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
+        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Alma llanera",
+      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 193146,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
-        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Alma llanera",
-      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Las Bicicletas",
-      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Todos Sus Exitos",
         "url": "https://open.spotify.com/album/4vaptc3l16FcWm1WBQLdry"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 165933,
       "name": "El Manisero",
       "url": "https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Las Bicicletas",
+      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "La Cocaleca",
-      "url": "https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Vamos A La Fiesta",
         "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 165301,
       "name": "Zacazonapan",
       "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "La Cocaleca",
+      "url": "https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Pachito E\u00b4che",
-        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 188290,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "That Cuban Cha Cha",
         "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 188160,
       "name": "El Bodeguero",
       "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Pachito E\u00b4che",
+        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 188290,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
     },
     {
       "added_at": "2023-01-23 22:42:50",

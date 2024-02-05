@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 51439,
+  "num_followers": 51501,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjdjZTg1MzkyZTAzN2QyOWVhNTY4NjY5OTQ1NDlkNzczYWU5NjUx",
+  "snapshot_id": "MCw2MTBjYWRkMDk1MDMyZTlmNTlhYTljNjBjZjQyNzhmOTk5NGU5NzJm",
   "tracks": [
     {
       "added_at": "2023-10-12 00:40:52",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "18 Kilates",
-        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 190544,
-      "name": "Veinte Mujeres de Negro",
-      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Mi M\u00e1s Grande Tesoro",
         "url": "https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 243426,
       "name": "Destino",
       "url": "https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "18 Kilates",
+        "url": "https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 190544,
+      "name": "Veinte Mujeres de Negro",
+      "url": "https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Exitos de La Nobleza de Aguililla",
-        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
-      },
-      "artists": [
-        {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Las Joyas De Mi Vida",
-      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "20 \u00c9xitos de Ley",
         "url": "https://open.spotify.com/album/2fMXiDA8MFbC2Fi5klzmy1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 158979,
       "name": "10 Km a Pie",
       "url": "https://open.spotify.com/track/24hljzYwVOWnYOxC98mPhW"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Exitos de La Nobleza de Aguililla",
+        "url": "https://open.spotify.com/album/6ROhyA4PWN6oocX4pzwz9h"
+      },
+      "artists": [
+        {
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Las Joyas De Mi Vida",
+      "url": "https://open.spotify.com/track/5920sskaak2DMq8An3I5Jz"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "La Reyna de Tierra Caliente",
         "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 165225,
       "name": "En C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6YjIfnOf74sUNqN5rDjPnl"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
         "name": "15 \u00c9xitos Flechadores",
         "url": "https://open.spotify.com/album/5jTc61gfXoEWR0BIxBpipj"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+        "name": "Ojos Negros Nunca Enga\u00f1an - Single",
+        "url": "https://open.spotify.com/album/2L9oyZLSMBgtEGqehCewiM"
       },
       "artists": [
         {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+      "duration_ms": 192130,
+      "name": "Ojos Negros Nunca Enga\u00f1an",
+      "url": "https://open.spotify.com/track/76SbTjQL9nn1fGSR8yXq6F"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1231,22 +1247,6 @@
       "duration_ms": 188397,
       "name": "Conchita Del Mar",
       "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Ojos Negros Nunca Enga\u00f1an - Single",
-        "url": "https://open.spotify.com/album/2L9oyZLSMBgtEGqehCewiM"
-      },
-      "artists": [
-        {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Ojos Negros Nunca Enga\u00f1an",
-      "url": "https://open.spotify.com/track/76SbTjQL9nn1fGSR8yXq6F"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1315,18 +1315,34 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Entre Copa y Copa",
-        "url": "https://open.spotify.com/album/1D7zhkYRBiSsOB2p6090Jk"
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
       "artists": [
         {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 240143,
-      "name": "Para el Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/2v0arlA4BS2RHrdp6zkdL5"
+      "duration_ms": 144682,
+      "name": "Lo Que Empieza Acaba",
+      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1367,34 +1383,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
+        "name": "Entre Copa y Copa",
+        "url": "https://open.spotify.com/album/1D7zhkYRBiSsOB2p6090Jk"
       },
       "artists": [
         {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
         }
       ],
-      "duration_ms": 144682,
-      "name": "Lo Que Empieza Acaba",
-      "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+      "duration_ms": 240143,
+      "name": "Para el Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/2v0arlA4BS2RHrdp6zkdL5"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
         "name": "Al Mismo Nivel",
         "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 168120,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Al 100 y Pasadito",
-        "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
-          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
-        }
-      ],
-      "duration_ms": 157622,
-      "name": "La Boca Es Para Comer",
-      "url": "https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn"
-    },
-    {
-      "added_at": "2023-10-12 00:40:52",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 213866,
       "name": "Si Tengo A Mi Madre",
       "url": "https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck"
+    },
+    {
+      "added_at": "2023-10-12 00:40:52",
+      "album": {
+        "name": "Al 100 y Pasadito",
+        "url": "https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
+          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
+        }
+      ],
+      "duration_ms": 157622,
+      "name": "La Boca Es Para Comer",
+      "url": "https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -2015,22 +2015,18 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "El Nudo (Parangaricutirimicuaro)",
-        "url": "https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR"
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
       },
       "artists": [
         {
-          "name": "Arturo Leyva",
-          "url": "https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j"
-        },
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 145697,
-      "name": "El Nudo (Parangaricutirimicuaro)",
-      "url": "https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM"
+      "duration_ms": 165305,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
     },
     {
       "added_at": "2023-10-12 00:40:52",
@@ -2051,18 +2047,22 @@
     {
       "added_at": "2023-10-12 00:40:52",
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr"
+        "name": "El Nudo (Parangaricutirimicuaro)",
+        "url": "https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "Arturo Leyva",
+          "url": "https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j"
+        },
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
         }
       ],
-      "duration_ms": 165305,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM"
+      "duration_ms": 145697,
+      "name": "El Nudo (Parangaricutirimicuaro)",
+      "url": "https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM"
     }
   ],
   "unique_name": "Tierra Caliente",

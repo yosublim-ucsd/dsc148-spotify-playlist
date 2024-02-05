@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 674864,
+  "num_followers": 675603,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE1MTVjYjIwY2NiMjFhNDJhM2I1Mjg5NjM4MjI5YzU0YjY4MTU0",
+  "snapshot_id": "MCw1Yjc2NmI0OTVkNDRkM2VhZDhlZTMwMWQ4YWU2MWRjNWVkMzhiNTAx",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "200 Copas",
-        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
+        "name": "Cuarteto Sessions #3",
+        "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
       },
       "artists": [
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 237738,
-      "name": "200 Copas",
-      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+      "duration_ms": 500989,
+      "name": "Cuarteto Sessions #3",
+      "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -719,18 +715,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Cuarteto Sessions #3",
-        "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
+        "name": "200 Copas",
+        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
       },
       "artists": [
         {
           "name": "Q' Lokura",
           "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 500989,
-      "name": "Cuarteto Sessions #3",
-      "url": "https://open.spotify.com/track/28v5fIoIa2Y07nqAXgBcXC"
+      "duration_ms": 237738,
+      "name": "200 Copas",
+      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -811,38 +811,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Sabroso",
-        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Lleg\u00f3 Tu Papi",
-      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -863,6 +831,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Despechada (Cover) [En Vivo]",
         "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 172585,
       "name": "Despechada (Cover) - En Vivo",
       "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Sabroso",
+        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Lleg\u00f3 Tu Papi",
+      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Que Agon\u00eda / Carne y Hueso",
-        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 291313,
-      "name": "Que Agonia - Carne y Hueso",
-      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
-        }
-      ],
-      "duration_ms": 232032,
-      "name": "B\u00e9same Bonito (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
@@ -1119,6 +1099,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "A Toda Fiesta",
+        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Amor Infiel",
+      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Beso a Beso (con La Mona)",
         "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
       },
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "A Toda Fiesta",
-        "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
+        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Amor Infiel",
-      "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
+      "duration_ms": 232032,
+      "name": "B\u00e9same Bonito (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Aunque Sea En Otra Vida",
-        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
       "artists": [
         {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "La banda de Carlitos",
-          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 231509,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Tu Fan (En Vivo)",
         "url": "https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 248533,
       "name": "Tu Fan - En Vivo",
       "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Eran dos locos de amor",
-        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Cuarteto",
-          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Eran dos locos de amor",
-      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "Ni Lo Pienses",
         "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 254053,
       "name": "Usted Se Me Llevo la Vida",
       "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Eran dos locos de amor",
+        "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Eran dos locos de amor",
+      "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
     }
   ],
   "unique_name": "100% Cuarteto",

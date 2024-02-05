@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 
 > Congratulations to all the nominees for Best New Artist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,456 likes - 18 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,927 likes - 18 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SaVGyZ9hsv.md) - [plain]
 | 17 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
 | 18 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 
-Snapshot ID: `MCw5YWJkNGIxMzQyMDhjMWYyZTI1ZWMzODE3Nzg5YWEwYTkxZmExNjgz`
+Snapshot ID: `MCw4YmMxZTkxYzY0MzljZmM4Njg4OGJlZTU4MzE2ZWQ1OWJlYmU1YmY2`

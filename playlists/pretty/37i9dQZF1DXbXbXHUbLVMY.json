@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 feat. Amara",
-  "num_followers": 27279,
+  "num_followers": 27285,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzIzNmIxZTZiNzNmMGYzNDk1MTQwZTc1MTZkMTFhMTNlZThlYzRh",
+  "snapshot_id": "MCwxZGE5YTMxYjNhNjMxODQxYTk5Y2JhMDU0NWRmNDgwODQ0ZTQ4YTE2",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Egoland",
         "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 135346,
       "name": "Lenge Leve",
       "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 157080,
       "name": "1,2 & Mer",
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Whina",
-        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+        "name": "Seri\u00f8s (feat. Amara)",
+        "url": "https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Whina",
-      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+      "duration_ms": 156774,
+      "name": "Seri\u00f8s (feat. Amara)",
+      "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1119,22 +1123,34 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Seri\u00f8s (feat. Amara)",
-        "url": "https://open.spotify.com/album/680vIkkksZ7C7MOoLMNbwS"
+        "name": "Whina",
+        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        },
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
         }
       ],
-      "duration_ms": 156774,
-      "name": "Seri\u00f8s (feat. Amara)",
-      "url": "https://open.spotify.com/track/1sEYjmfPxDMS0tRxEqbWTy"
+      "duration_ms": 156453,
+      "name": "Whina",
+      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Best\u00e4mda Kliv",
+        "url": "https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 124752,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Vidunderbarn",
-        "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 187874,
-      "name": "Vidunderbarn",
-      "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "N\u00e5nting i Luften",
         "url": "https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 151168,
       "name": "N\u00e5nting i Luften",
       "url": "https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Vidunderbarn",
+        "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 187874,
+      "name": "Vidunderbarn",
+      "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1307,6 +1323,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Slipp deg l\u00f8s",
+        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 123809,
+      "name": "Slipp deg l\u00f8s",
+      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "El Capitan",
         "url": "https://open.spotify.com/album/25kQ3wHzvTx8jAYlRPwwpI"
       },
@@ -1323,22 +1355,6 @@
       "duration_ms": 179422,
       "name": "El Capitan",
       "url": "https://open.spotify.com/track/50pLigCzqMbGWECXW3P4yR"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Slipp deg l\u00f8s",
-        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "Slipp deg l\u00f8s",
-      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1411,26 +1427,6 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Kvar - Spotify Studio 100 Recording",
-        "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
-      },
-      "artists": [
-        {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
-        },
-        {
-          "name": "Youzie",
-          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Kvar - Spotify Studio 100 Recording",
-      "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
     }
   ],
   "unique_name": "100 (2)",

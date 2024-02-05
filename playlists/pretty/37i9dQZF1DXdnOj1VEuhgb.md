@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,021 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,612 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 3 | [Kapak Olsun](https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [Kapak Olsun](https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B) | 2:27 |
 | 4 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 |
 | 5 | [Para Haramsız](https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Para Haramsız](https://open.spotify.com/album/3Oi6fbcYOQzF5XKO0ezSBX) | 2:05 |
-| 6 | [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 |
+| 6 | [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [dehainc](https://open.spotify.com/artist/7Hz6CNU0L0sdoXL7EWLvhn), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 |
 | 7 | [SIMARIK](https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:52 |
 | 8 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 |
 | 9 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
-Snapshot ID: `MCw2MjI0YzE2NGU2MTJkZWQ0Y2U5NmY2YjEwY2QyNjg4OTNiNGMxMjBh`
+Snapshot ID: `MCxmNjg2ZmJmMjAzOGY3ODM4ZDE3MWEyZGYzOTg1NWIwNmNhMzExOWQw`

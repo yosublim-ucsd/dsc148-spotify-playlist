@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 
 > Ya llegué de donde andaba..\. se me concedió volver 🙏🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,878 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,027 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 42 | [Mi Ranchito](https://open.spotify.com/track/2rPbkr5Y83bR3WPscwJU2O) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:22 |
 | 43 | [Pa Que Te Casabas Juan](https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:23 |
 | 44 | [El Profeta](https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Profeta Y Otros Caballos Famosos](https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g) | 3:24 |
-| 45 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
-| 46 | [El Muchacho Alegre](https://open.spotify.com/track/46JH1FKDzRABty9nX8sIee) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Corridos Con Banda Sinaloense](https://open.spotify.com/album/0bPR3bUpsocBTRUq8nLIAd) | 2:55 |
+| 45 | [El Muchacho Alegre](https://open.spotify.com/track/46JH1FKDzRABty9nX8sIee) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Corridos Con Banda Sinaloense](https://open.spotify.com/album/0bPR3bUpsocBTRUq8nLIAd) | 2:55 |
+| 46 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 |
 | 47 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 |
 | 48 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 49 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 61 | [El Ausente](https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Mayor Anhelo](https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp) | 2:42 |
 | 62 | [De Ciudad al Rancho](https://open.spotify.com/track/28GiGFLWEpScEXPElcFjdA) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Porque Seguimos Sus Pasos](https://open.spotify.com/album/07Ic20romYlwWHI3ItVc6l) | 2:55 |
 | 63 | [Lucio Vazquez](https://open.spotify.com/track/7xygLT3mUqdhdz80VfsN3f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 2:21 |
-| 64 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
-| 65 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
+| 64 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
+| 65 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
 | 66 | [El Rey de Mil Coronas \- En VIvo](https://open.spotify.com/track/5gNgIMvsN5R8OARLgllnHo) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi \(En Vivo\)](https://open.spotify.com/album/3FJXsvMG4qE7cPZEBORwoF) | 2:27 |
 | 67 | [Cuanto Me Gusta Este Rancho](https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:38 |
 | 68 | [Que Chulos Ojos](https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:40 |
 | 69 | [El Polvorete](https://open.spotify.com/track/5iyaVyi8Cx98S8WS8TbuOT) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:48 |
 | 70 | [Nieves De Enero](https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:32 |
 | 71 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
-| 72 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
+| 72 | [Ven a Buscarme](https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:20 |
 | 73 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
-| 74 | [Ven a Buscarme](https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:20 |
+| 74 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 |
 | 75 | [Por una Mujer Casada](https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:08 |
 | 76 | [La Gitanilla \- En VIvo](https://open.spotify.com/track/4ltMP51sYJbA6LZP91jtoK) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio \(En Vivo\)](https://open.spotify.com/album/0mYBDLqcmcWKYZXXb5Vobj) | 3:12 |
 | 77 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVDRFMQjgrJa.md) - [plain]
 | 99 | [Manuel Juárez](https://open.spotify.com/track/6CTMCrHbZcm4bhh5r5Avfj) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Corridos Con Banda](https://open.spotify.com/album/6KZbeAoMkCqOXr2ccNTXzP) | 4:38 |
 | 100 | [El Ultimo Cartucho](https://open.spotify.com/track/3YEz7DrxZbXnEfxIJ0tjE1) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Secretos De Mi Memoria](https://open.spotify.com/album/7uiQrtdG9S5vltQrvdK6Ik) | 2:47 |
 
-Snapshot ID: `MCxlNTA4NWIzZTYwZjNjOGEyNzg5M2IwNzcxZTkyMjVkMWEyZjY5YmI3`
+Snapshot ID: `MCwwODYwMWZiMmE3MWU1YjI3YjUwNTQ2Nzg0ZDdiOWZhN2M1OGEzOWZl`

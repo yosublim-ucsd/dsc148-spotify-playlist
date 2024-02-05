@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 66,
+  "2024-02-05": 70,
   "date_first_scraped": "2024-01-11",
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
   "name": "This Is Meg Smith",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"

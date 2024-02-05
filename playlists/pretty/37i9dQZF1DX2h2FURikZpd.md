@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 6 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
 | 7 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 |
 | 8 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
-| 9 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
-| 10 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
+| 9 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 |
+| 10 | [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 |
 | 11 | [Pa Ti Estoy](https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:26 |
 | 12 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 |
 | 13 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 16 | [Perdió Este Culo](https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 2:39 |
 | 17 | [Salitre](https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Salitre](https://open.spotify.com/album/4gFK3UVU00iqHcMQdHocv8) | 3:40 |
 | 18 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 |
-| 19 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 |
-| 20 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 19 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
+| 20 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 |
 | 21 | [Uff](https://open.spotify.com/track/37Em5gY1LOTbjXYrpD7cdp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Uff](https://open.spotify.com/album/4suyPerfUCXOFF2EGCDzsU) | 2:32 |
 | 22 | [Give Me](https://open.spotify.com/track/7apHeqaF1HGOJT7usKHKQJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Give Me](https://open.spotify.com/album/2HWlrn5BF5QknrGcJVBp1Z) | 2:45 |
 | 23 | [Ese Kbrn](https://open.spotify.com/track/3XaeszX6Kk4l40pKzK2oy6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h2FURikZpd.md) - [plain]
 | 29 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
 | 30 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 |
 
-Snapshot ID: `MCxiOWJmMDU3NjczZWE3NzFkNmJhM2U5N2NmOWU5NTNkM2UzNTVhYmU1`
+Snapshot ID: `MCxkNzc4ZTA1MjlhOTg3NTQwNTkzY2E2NTJhMWFhNTc0Mzg2ZDIxNjdi`

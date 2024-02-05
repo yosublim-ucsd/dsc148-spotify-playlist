@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Vibey indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,764 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,728 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 31 | [Sunshine Baby](https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:39 |
 | 32 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 |
 | 33 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 |
-| 34 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
-| 35 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 |
+| 34 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 |
+| 35 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 |
 | 36 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
 | 37 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
-| 38 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
-| 39 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 38 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
+| 39 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 40 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 |
 | 41 | [No Woman](https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 3:57 |
 | 42 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 68 | [Shit Talk](https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 8:31 |
 | 69 | [butterfly \(so free\)](https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [butterfly \(so free\)](https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO) | 3:06 |
 | 70 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
-| 71 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 |
+| 71 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
 | 72 | [Tangerine](https://open.spotify.com/track/700iSqwIlmgyRCiHWbRNdh) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Tangerine](https://open.spotify.com/album/3iB5mDvMeU6xgF8hLETSop) | 3:23 |
-| 73 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
+| 73 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 |
 | 74 | [Driving South](https://open.spotify.com/track/1Mp50vmIphq9ui2UUJoX3m) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Santa Catalina](https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm) | 3:55 |
 | 75 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 |
 | 76 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 80 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 81 | [Like the Sun](https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:49 |
 | 82 | [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 |
-| 83 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 |
-| 84 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
-| 85 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
-| 86 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 |
+| 83 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 |
+| 84 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 |
+| 85 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
+| 86 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
 | 87 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 88 | [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 |
 | 89 | [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 |
 | 90 | [SummerBrain](https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo) | [Moon Panda](https://open.spotify.com/artist/2Ghddt4G7272vYt4xOyYWm) | [Sing Spaceship, Sing!](https://open.spotify.com/album/2e1hdKbDX95Fr1phOYt8Vv) | 3:28 |
 | 91 | [Fool](https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Fool](https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4) | 2:38 |
 | 92 | [Miami Baby](https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:53 |
-| 93 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
-| 94 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 |
-| 95 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 |
+| 93 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 |
+| 94 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 |
+| 95 | [It Could Be Me](https://open.spotify.com/track/00fMrdknKRNqnnBl3EkftU) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [It Could Be Me](https://open.spotify.com/album/7cdgnWWIJi8NhLqtwbotba) | 2:07 |
 | 96 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 97 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 |
 | 98 | [As You Are](https://open.spotify.com/track/2ESCxmLAUmOPPWlUtbCMDo) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [As You Are](https://open.spotify.com/album/187ddebM7tIpmkdDOicu81) | 3:05 |
 | 99 | [PARADISE](https://open.spotify.com/track/584Ud7cLe6qQEi9SrcfTzC) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [PARADISE](https://open.spotify.com/album/0sBrrAq7fTOEVF0Z4RCMCy) | 2:21 |
 | 100 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 
-Snapshot ID: `MCw3MTUzNDFiMWZhZGI0ZWIyN2EwNjUxYWQ4MDBjMDY4Yjg4ODliODNj`
+Snapshot ID: `MCxmNTExZTJjYmYyMjg4YjE4Y2VhMmIyNzc0Yzc3NzI1ZTEwNjU2MDJl`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Warren Zeiders
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,627 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,640 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 |
 | 2 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 |
-| 3 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 |
-| 4 | [Straight Line](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Straight Line](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
-| 5 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 3 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 4 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 |
+| 5 | [Straight Line](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Straight Line](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
 | 6 | [Let's Ride](https://open.spotify.com/track/0Z55gEv8DwlJ8BmPAEpD0k) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Let's Ride](https://open.spotify.com/album/71M1zZ7yTRSrcuyM6SkW2k) | 4:16 |
 | 7 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
 | 8 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 84 | [This Town](https://open.spotify.com/track/0UaE4ZxrfU5TGpe4Luzf7W) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [This Town](https://open.spotify.com/album/0JujBFz9ERfluY6AFqVkI9) | 3:05 |
 | 85 | [Somewhere In Mexico](https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs) | [Tori Darke](https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj) | [Somewhere In Mexico](https://open.spotify.com/album/6epWsRvTYtr8LouzE0CLck) | 2:32 |
 
-Snapshot ID: `MCxlNjFmODA2ODNmZDJlNWQ2ZTJhYzRiZjM5ZDRmMzgxM2QwM2ZhYWZk`
+Snapshot ID: `MCw5ZGI1NTFhODJmNmYwYTg3OWM4Y2QwNGUwOGQyODRlODJlNzQ3MzZk`

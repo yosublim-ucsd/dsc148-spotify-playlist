@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Bossa Nova Piano Jazz](https://open.spotify.com/track/2FszWCVt8Vk5gZfC5et22N) | [The Jazz Restaurant](https://open.spotify.com/artist/52gDZW5cytu21bwzOEaLy4) | [Classic Jazz on the Piano](https://open.spotify.com/album/3e8JN35km7noyKQSFK8GkF) | 2:17 |
 | 50 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
 
-Snapshot ID: `MCwzNjZmMmQzMjRkODcxNTYxMmNhYTk1MzA1NGJkZmEzZTY3NmIwMGMy`
+Snapshot ID: `MCxmMGFlNGQ2NmE4NjY5YzRlNjAwNWM4MTBhMjcwMzk0NDhmZDUwZjll`

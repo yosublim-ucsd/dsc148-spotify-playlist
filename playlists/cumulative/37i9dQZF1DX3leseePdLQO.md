@@ -4,7 +4,7 @@
 
 > Pop para refrescarte los días, featuring Mariangela.
 
-166 songs - 8 hr 20 min
+167 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-09-15 |  |
 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 | 2023-10-27 |  |
 | [Está Cabron](https://open.spotify.com/track/25lNcYL6NRqbiRHkIlSrjU) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Está Cabron](https://open.spotify.com/album/3W7tjWiBtDIiiqgvnld5L3) | 2:24 | 2023-08-04 | 2024-02-03 |
-| [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-04-04 |  |
+| [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-04-04 | 2024-02-05 |
 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 | 2023-04-04 |  |
 | [Fase De Patán](https://open.spotify.com/track/6zcJSq4x31DHjwIWUzGyjs) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Fase de Patán](https://open.spotify.com/album/1sD67oWrgWt8HTZFDObkbW) | 2:24 | 2023-08-18 | 2023-09-05 |
 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-04-04 |  |
@@ -155,6 +155,7 @@
 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 | 2023-12-01 |  |
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-26 | 2023-11-04 |
+| [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 | 2024-02-02 |  |
 | [Tu Mundo](https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Tu Mundo](https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6) | 3:54 | 2023-04-04 | 2023-04-30 |
 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-04-04 |  |
 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 | 2023-04-14 | 2023-11-11 |

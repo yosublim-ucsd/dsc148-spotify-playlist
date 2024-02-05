@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Mariangela.",
-  "num_followers": 10073,
+  "num_followers": 10087,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTY0OTQ4MTE0M2U0ZWVhNmRkYmRkOTE5ZDg0MjY0Yzk1ZmMyOTE5",
+  "snapshot_id": "MCwyMGQ3MjllOGRkN2IxYTc1ZDc1N2JiY2NlNWIzZTFkZjc3MDY2MTM5",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Sincer\u00e1ndome",
-      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "LAS BURBUJAS DEL JACUZZI",
         "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Sincer\u00e1ndome",
+      "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "La Idea",
-        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 194257,
-      "name": "La Idea",
-      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/4zWo7AC1bjASlVaJYpmIXj"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 145741,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/2B1wvUhXgpNQEaKrpbz4GB"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Idea",
+        "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 194257,
+      "name": "La Idea",
+      "url": "https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1167,42 +1167,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Puntos Equidistantes",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Estemos Donde Estemos (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3Sex8xDtS56Ws47QWiiTiz"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "215 D\u00edas",
-      "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "4U (feat. CKay, Leo Rizzi)",
         "url": "https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp"
       },
@@ -1223,6 +1187,42 @@
       "duration_ms": 225321,
       "name": "4U (feat. CKay, Leo Rizzi)",
       "url": "https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Estemos Donde Estemos (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3Sex8xDtS56Ws47QWiiTiz"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "215 D\u00edas",
+      "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Puntos Equidistantes",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Triste (Arial 1)",
+        "url": "https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 177727,
+      "name": "Triste (Arial 1)",
+      "url": "https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o"
     }
   ],
   "unique_name": "Crema Pop",

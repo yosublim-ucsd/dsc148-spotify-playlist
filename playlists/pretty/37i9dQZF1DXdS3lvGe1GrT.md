@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Sarah Julia \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,452 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,544 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [HRE](https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm) | [Julian Spector](https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC) | [HRE](https://open.spotify.com/album/040UB5WeZJnUW3B1JQtrtJ) | 2:51 |
 | 101 | [Camping in Canada](https://open.spotify.com/track/1xQ8CMtomK5r8KpqfzvFRi) | [Yuat](https://open.spotify.com/artist/41ImyihZPU5MUeIZWnNIdh) | [Camping in Canada](https://open.spotify.com/album/5x3avDyigV5CxMsycG4cyg) | 2:45 |
 
-Snapshot ID: `MCw3OGEyNTU1ZjNkZWUyMTY3ZmRlNTU0NTE2OWRiNDg4OTM2ODMwNTgx`
+Snapshot ID: `MCw1ZDA3NjgwM2JkMTI1YWMwYzcyMWFkZGRhZGJmZTEzNTA5MzM1YzY1`

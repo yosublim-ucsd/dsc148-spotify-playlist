@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 462336,
+  "num_followers": 462420,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWFmNmJjNmM4YmZhNjExNGI1YjM1ZWE3Mjg5MGQ4NmJkZjQ3OTY5",
+  "snapshot_id": "MCxkNDZkMzRmMzU5ZjM2NDQ0ZGE5OGZjNzU5MjJmZGZhOTQwZmVlMWRh",
   "tracks": [
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
         "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
         "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2024-01-05 03:01:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-01-05 03:01:00",
       "album": {
+        "name": "A Dois Passos do Para\u00edso",
+        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
+      },
+      "artists": [
+        {
+          "name": "SoFly",
+          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
+        },
+        {
+          "name": "Duckhandz",
+          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "A Dois Passos do Para\u00edso",
+      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
+    },
+    {
+      "added_at": "2024-01-05 03:01:00",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 175546,
       "name": "Que Dia",
       "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2024-01-05 03:01:00",
-      "album": {
-        "name": "A Dois Passos do Para\u00edso",
-        "url": "https://open.spotify.com/album/5hKxhHCqNsFLDjdcDF8TT8"
-      },
-      "artists": [
-        {
-          "name": "SoFly",
-          "url": "https://open.spotify.com/artist/5cjbfaJkOOpNKimOQSCsOO"
-        },
-        {
-          "name": "Duckhandz",
-          "url": "https://open.spotify.com/artist/4ngmXjzqqHfeZeYnAav41E"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "A Dois Passos do Para\u00edso",
-      "url": "https://open.spotify.com/track/6ek42FNnwFIXhP0ZArfZ7h"
     },
     {
       "added_at": "2024-01-05 03:01:00",

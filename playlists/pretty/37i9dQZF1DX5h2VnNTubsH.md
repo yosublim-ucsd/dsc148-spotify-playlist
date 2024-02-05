@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 
 > Out of office ✅
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,850 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,832 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 46 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 47 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
 | 48 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
-| 49 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
-| 50 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
+| 49 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
+| 50 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 51 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 52 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 53 | [Vino Bandit](https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Vino Bandit](https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG) | 2:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5h2VnNTubsH.md) - [plain]
 | 79 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 |
 | 80 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 
-Snapshot ID: `MCwzN2I4MGUwMmY4OGM1MjE3NzA1ODI0ZDQwMjk2ZmMxNDRmMjNhM2I1`
+Snapshot ID: `MCxkMWIyZmFkZGE3ZmY0ZDIwYWZlNmVmODNiZWViM2I5Y2Q4MmY0NTU4`

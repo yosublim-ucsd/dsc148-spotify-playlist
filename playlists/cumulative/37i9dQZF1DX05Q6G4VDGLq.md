@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-817 songs - 2 day 1 hr 1 min
+820 songs - 2 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 | 2023-08-10 |  |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 |  |
+| [Blue Serenade](https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Blue Serenade](https://open.spotify.com/album/1d68ZQai2McSWyG26PwOeb) | 4:04 | 2024-02-02 |  |
 | [Blueprints](https://open.spotify.com/track/3aGND8Mp7hSSRm9zMo39hn) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Blueprints](https://open.spotify.com/album/6YoJQRDe9i45sSfThsfgKW) | 3:32 | 2023-06-15 |  |
 | [Bluesette](https://open.spotify.com/track/5sF4nEG1dZLBnODQWxGhUP) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Bluesette](https://open.spotify.com/album/3WxNprVVDsnLaayEQI3PFX) | 3:25 | 2023-10-06 |  |
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-06-15 |  |
@@ -260,6 +261,7 @@
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-05-04 |  |
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-06-28 |  |
 | [Happy Time](https://open.spotify.com/track/41UkKjPMvpzWjCymgm9nz2) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Happy Time](https://open.spotify.com/album/7gdwuoUHqFwmU8iCpPFfA7) | 3:15 | 2023-10-20 |  |
+| [Hay Square Serenade](https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Hay Square Serenade](https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr) | 3:48 | 2024-02-02 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-06-28 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-23 |  |
 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-17 |  |
@@ -317,7 +319,7 @@
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 |  |
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-08 |  |
 | [I'm Glad There Is Us](https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [I'm Glad There Is Us](https://open.spotify.com/album/4uCtHRBUPa4sxng6Thu10D) | 4:00 | 2023-08-10 |  |
-| [I'm In The Mood For Love](https://open.spotify.com/track/2MYMJ5KztaWTeWILbZ1QYt) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [I'm In The Mood For Love](https://open.spotify.com/album/3O9IgokX9F0fFYpbjjkU4z) | 3:45 | 2023-06-15 |  |
+| [I'm In The Mood For Love](https://open.spotify.com/track/2MYMJ5KztaWTeWILbZ1QYt) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [I'm In The Mood For Love](https://open.spotify.com/album/3O9IgokX9F0fFYpbjjkU4z) | 3:45 | 2023-06-15 | 2024-02-05 |
 | [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-06-28 |  |
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-06-28 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/6Z2gqKsxunB5ILpTiAn6Wg) | [Hooks and Lines](https://open.spotify.com/artist/0YUdQnLsDe3i8B5EEW9bQQ) | [I'm Old Fashioned](https://open.spotify.com/album/4wN6ip0j2fH9ZHoYNAIpzp) | 3:11 | 2023-06-15 |  |
@@ -368,7 +370,7 @@
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2022-09-13 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2022-06-28 |  |
-| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-28 |  |
+| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-28 | 2024-02-05 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-06-28 |  |
 | [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 |  |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-06-28 |  |
@@ -626,6 +628,7 @@
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
 | [Sno Peas](https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 2:52 | 2022-06-28 |  |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2022-06-28 |  |
+| [Snowdrops](https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [Snowdrops](https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp) | 3:45 | 2024-02-02 |  |
 | [Snø](https://open.spotify.com/track/1CgH8hDlSPvGBsSGKaXZAa) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Snø](https://open.spotify.com/album/3jsq6OarWAvAcOvnBl0eg5) | 3:17 | 2022-09-07 | 2024-01-07 |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-06-28 |  |
 | [Soft Lad](https://open.spotify.com/track/2D5WUT4UAYqceSBUmwstDf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Soft Lad](https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw) | 2:54 | 2023-09-01 |  |
@@ -736,7 +739,7 @@
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-16 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-15 |  |
 | [Thoughts Of You](https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Thoughts Of You](https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza) | 2:56 | 2023-09-08 |  |
-| [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-06-15 |  |
+| [Through the Fog](https://open.spotify.com/track/6IpDhWlat8ugH1ApRcrgq1) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 3:49 | 2023-06-15 | 2024-02-05 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-15 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Songs, die von innen wärmen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,897 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,591 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,19 +66,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 56 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 57 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 58 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
-| 59 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 |
-| 60 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
-| 61 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
-| 62 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
-| 63 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
+| 59 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
+| 60 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 |
+| 61 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
+| 62 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
+| 63 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
 | 64 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
 | 65 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 66 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 |
-| 67 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
-| 68 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
-| 69 | [ARE YOU WITH ME](https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [ARE YOU WITH ME](https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2) | 2:47 |
-| 70 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
-| 71 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 |
+| 66 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
+| 67 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
+| 68 | [ARE YOU WITH ME](https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [ARE YOU WITH ME](https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2) | 2:47 |
+| 69 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
+| 70 | [Bound](https://open.spotify.com/track/5iOD44ZsI7c921OorwdwUA) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:58 |
+| 71 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 |
 | 72 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 73 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
 | 74 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 79 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
 | 80 | [Regen \(Piano Version\)](https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
 
-Snapshot ID: `MCwzMDFmYWE2YWNhMzVjNDliODViMDFlYWQ3MjMxNDljMzZiZjdkYTIx`
+Snapshot ID: `MCw3YTk1MjQ1ZDE4ODk5NzkzYmFmNDY3ZDU1MGUzY2U1MWJhN2NjYWE3`

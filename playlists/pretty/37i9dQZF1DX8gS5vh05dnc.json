@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 130725,
+  "num_followers": 130615,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTQ3MDE3ZjNlMDk4NjIwYWYwOTg0YzU5NGZhYTUxYjcwNzQ3MTcz",
+  "snapshot_id": "MCwyMDM1MzNiMGU0MGYxY2JmNmQyMzkzZTZhODAzNWZhNDkzZDY3YWUw",
   "tracks": [
     {
       "added_at": "2024-01-29 01:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
-    },
-    {
-      "added_at": "2024-01-29 01:00:00",
-      "album": {
         "name": "Beautiful Soul",
         "url": "https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 214226,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS"
+    },
+    {
+      "added_at": "2024-01-29 01:00:00",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
     },
     {
       "added_at": "2024-01-29 01:00:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
-    },
-    {
-      "added_at": "2024-01-29 01:00:00",
-      "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
       },
@@ -815,6 +791,30 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "added_at": "2024-01-29 01:00:00",
+      "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 136838,
-      "name": "Mad at Disney",
-      "url": "https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h"
-    },
-    {
-      "added_at": "2024-01-29 01:00:00",
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 195144,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
+    },
+    {
+      "added_at": "2024-01-29 01:00:00",
+      "album": {
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 136838,
+      "name": "Mad at Disney",
+      "url": "https://open.spotify.com/track/0PlzctO0nv2sSIFmqDSE6h"
     },
     {
       "added_at": "2024-01-29 01:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM"
+    },
+    {
+      "added_at": "2024-01-29 01:00:00",
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2024-01-29 01:00:00",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM"
     },
     {
       "added_at": "2024-01-29 01:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-01-29 01:00:00",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "New Man",
+      "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
+    },
+    {
+      "added_at": "2024-01-29 01:00:00",
+      "album": {
         "name": "Mr Right (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
-    },
-    {
-      "added_at": "2024-01-29 01:00:00",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "New Man",
-      "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
     }
   ],
   "unique_name": "\u6d88\u9664\u58d3\u529b",

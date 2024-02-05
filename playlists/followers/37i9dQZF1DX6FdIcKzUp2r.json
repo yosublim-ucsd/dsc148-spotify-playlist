@@ -1,5 +1,5 @@
 {
-  "2024-02-04": 225004,
+  "2024-02-05": 225028,
   "date_first_scraped": "2022-04-14",
   "description": "Work or rest with these gems from the 80s.",
   "name": "Chilled 80s",
@@ -101,8 +101,12 @@
       },
       "artists": [
         {
-          "name": "College & Electric Youth",
-          "url": "https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH"
+          "name": "College",
+          "url": "https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6"
+        },
+        {
+          "name": "Electric Youth",
+          "url": "https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b"
         }
       ],
       "date_added": "2018-12-12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,641 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,612 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 |
 | 99 | [Best Thing](https://open.spotify.com/track/3ZDpJbRqKXrk3tL4kHBHpT) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Best Thing](https://open.spotify.com/album/2iM4du2HvU2hmHzdn7s0Ys) | 2:16 |
 
-Snapshot ID: `MCxjOGVlMGZjOGQzMDk3MGJjOWNkODJkNjRkY2FkNzVmN2E1OGQ5YjZh`
+Snapshot ID: `MCxlNWRlZmQ4YjQxMGM2NDU0NDlkMDZhM2JlYzdkODJhYTVhNmIyMjE2`

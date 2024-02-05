@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,544 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,581 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 20 | [Calling All Angels](https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 5:12 |
 | 21 | [Something Beautiful](https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:41 |
 | 22 | [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 |
-| 23 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
-| 24 | [Believe In Me](https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:40 |
+| 23 | [Believe In Me](https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:40 |
+| 24 | [If You Can't Say No](https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 5:17 |
 | 25 | [California](https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 2:36 |
 | 26 | [What Goes Around Comes Around \- 2012 Remaster/Explicit](https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said \(Deluxe\)](https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh) | 4:49 |
-| 27 | [Thinking Of You](https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 6:24 |
-| 28 | [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 |
+| 27 | [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 |
+| 28 | [Thinking Of You](https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 6:24 |
 | 29 | [Dig In](https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 3:37 |
 | 30 | [Fields Of Joy](https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:57 |
 | 31 | [Rock And Roll Is Dead](https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [Tunnel Vision](https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:19 |
 | 50 | [Black Velveteen](https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:50 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDBlNWUzZTJiNzJkNzAxMTE0MWIwYTcwNjg2MTAyYTY2Nw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA3NjNiM2UyMTEwYzYxZjY5ZThkYmE2MWI1YzZjOWFhMw==`

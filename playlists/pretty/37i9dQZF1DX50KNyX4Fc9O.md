@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,569 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,526 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 103 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 |
 | 104 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 |
 
-Snapshot ID: `MCw2MWVkZTg4YTFhNjFkMjNmZDQ2YjEwYTlkM2YwMmZlOWNhNzJkM2Y2`
+Snapshot ID: `MCwyZjIwZTkxYjFiM2M4MTQzMDdlMTMwM2E5ZGUyMzgzNTU5NGRjOTE3`

@@ -1380,6 +1380,24 @@
     {
       "album": {
         "name": "Echtaket Elak",
+        "url": "https://open.spotify.com/album/6tz1eTQ7Efa0i7oQLzSxF2"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254243,
+      "name": "Echtaket Elak",
+      "url": "https://open.spotify.com/track/3mYaMQ2mFOM7bj6g4e9fsz"
+    },
+    {
+      "album": {
+        "name": "Echtaket Elak",
         "url": "https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In"
       },
       "artists": [
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 254243,
       "name": "Echtaket Elak",
       "url": "https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd"

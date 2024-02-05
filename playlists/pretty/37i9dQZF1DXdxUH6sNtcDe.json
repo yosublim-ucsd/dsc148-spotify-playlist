@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 777342,
+  "num_followers": 777743,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTdjZWNjZDRmZDNlZDBiZDZhOGQ2ZDEzYzRiOWE0ZjAwZDI1MmM5",
+  "snapshot_id": "MCxmMWZhNjAwZDc3M2VjNjY0NmI2NzgwMGQ5YjU2ODlhNjc4ODM5NTYz",
   "tracks": [
     {
       "added_at": "2024-02-01 22:20:44",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "Red Dirt Road",
+        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 260360,
+      "name": "Red Dirt Road",
+      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 212133,
       "name": "Gettin' You Home",
       "url": "https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Red Dirt Road",
-        "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 260360,
-      "name": "Red Dirt Road",
-      "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Amarillo Sky",
-      "url": "https://open.spotify.com/track/4ZeLTFjHBC4ZyH4owJPH0Q"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Pull My Chain",
         "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 183960,
       "name": "I Wanna Talk About Me",
       "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Amarillo Sky",
+      "url": "https://open.spotify.com/track/4ZeLTFjHBC4ZyH4owJPH0Q"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Who Needs Pictures",
-        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "We Danced",
-      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213653,
       "name": "These Are My People",
       "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "We Danced",
+      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Three Wooden Crosses",
-      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 302666,
       "name": "There Goes My Life",
       "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Three Wooden Crosses",
+      "url": "https://open.spotify.com/track/1S4fpfX2u0hzFD9vb6FEB6"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Chris Cagle",
-        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
-      },
-      "artists": [
-        {
-          "name": "Chris Cagle",
-          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Chicks Dig It - Single Edit",
-      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Chris Cagle",
+        "url": "https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c"
+      },
+      "artists": [
+        {
+          "name": "Chris Cagle",
+          "url": "https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Chicks Dig It - Single Edit",
+      "url": "https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "For the Love",
-        "url": "https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Find out Who Your Friends Are",
-      "url": "https://open.spotify.com/track/73njvNJmgXA180vTPkA16C"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Keep On Loving You",
         "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 220106,
       "name": "Consider Me Gone",
       "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "For the Love",
+        "url": "https://open.spotify.com/album/6DsSd8fEi5UscgNOHoZrSz"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Find out Who Your Friends Are",
+      "url": "https://open.spotify.com/track/73njvNJmgXA180vTPkA16C"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Greatest Hits Volume III - I'm A Survivor",
-        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "I'm A Survivor",
-      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Stand Still, Look Pretty (U.S. Version)",
         "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 206720,
       "name": "Mud On the Tires",
       "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Greatest Hits Volume III - I'm A Survivor",
+        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "I'm A Survivor",
+      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -2019,8 +2019,8 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Modern Day Drifter",
-        "url": "https://open.spotify.com/album/6ReptrLRzFQ07VxrsN3CZG"
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
       },
       "artists": [
         {
@@ -2028,9 +2028,9 @@
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 281973,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
     }
   ],
   "unique_name": "2000s Country",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,249 likes - 73 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,271 likes - 73 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 30 | [砂塵の彼方へ…](https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag) | [Revo & 梶浦由記](https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw) | [Dream Port](https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz) | 7:23 |
 | 31 | [それは小さな光のような](https://open.spotify.com/track/7FOeR1X65DEG4KjpVhNC4Z) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [それは小さな光のような\-special edition](https://open.spotify.com/album/7A9FxCZBXJNqtcv7HPHnR8) | 4:32 |
 | 32 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 |
-| 33 | [Annani Isshodattanoni](https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Annani Isshodattanoni](https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ) | 4:48 |
+| 33 | [あんなに一緒だったのに](https://open.spotify.com/track/5P97xlvOl6IadKTLVId5ap) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [Dream Field](https://open.spotify.com/album/4e57AGxBR7VRGMYZxBmxBH) | 4:49 |
 | 34 | [ring your bell](https://open.spotify.com/track/0oiQsWPq6RvZGKQ506zwHm) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [far on the water](https://open.spotify.com/album/0N9oRASRuY4SOiMe4AfiSb) | 5:16 |
 | 35 | [雲雀](https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RUST / 雲雀 / 光芒](https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2) | 4:38 |
 | 36 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 72 | [circus](https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [circus](https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9) | 4:51 |
 | 73 | [a farewell song](https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ) | [笠原由里](https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm) | [NOIR ORIGINAL SOUNDTRACK II](https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb) | 3:34 |
 
-Snapshot ID: `MCxmMDBiNzQ1MjE4MTYwYjY2ZmU1YzM3ZTliOGI4MzY0MjQwOTliODE4`
+Snapshot ID: `MCw3ZDBjMjkxZDU5YWRkZDA5N2IwOGM1MDBhY2UyZDgwOTA3ZmU5Mjhm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,403 likes - 49 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,431 likes - 49 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 25 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
 | 26 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 |
 | 27 | [Thirst For You](https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 5:00 |
-| 28 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
-| 29 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 |
+| 28 | [Nobody But You](https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 1:51 |
+| 29 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
 | 30 | [What Are We Waiting For?](https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [What Are We Waiting For?](https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8) | 3:16 |
 | 31 | [Just To Be Close To You \- Live](https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 3:32 |
 | 32 | [Why Me](https://open.spotify.com/track/55lij8lwwJko3565p77R74) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 3:26 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 39 | [More Than What I Wanted](https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:27 |
 | 40 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
 | 41 | [King of Glory \- Live](https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 10:35 |
-| 42 | [You Are Loved](https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 6:03 |
+| 42 | [Through It All \- Live](https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 4:03 |
 | 43 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
-| 44 | [Through It All \- Live](https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 4:03 |
+| 44 | [You Are Loved](https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 6:03 |
 | 45 | [Pray](https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [For Always: The Best Of CeCe Winans](https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv) | 3:31 |
 | 46 | [I Am](https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:19 |
 | 47 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 |
 | 48 | [Great Is Thy Faithfulness](https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Delores "Mom" Winans](https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:00 |
 | 49 | [His Strength Is Perfect](https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 4:38 |
 
-Snapshot ID: `Mjg0NDkzNTksMDAwMDAwMDA1ZGMxNTBjZGYyNDIzODUwMmRjYzQ1YWNkNmJkOGI5Mw==`
+Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA4NjYyMGFhYTViM2JiMzEwZDc3NDViY2QxNTc4N2E5MQ==`

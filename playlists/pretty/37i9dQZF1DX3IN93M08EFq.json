@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62561,
+  "num_followers": 62565,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM0YjBmZGJkOGIwNjI3ZjEzMjdlMDBmNmM0NWYxMTZiZDhlNTkx",
+  "snapshot_id": "MCxhZGM3ZWJmNmFmNzIyYzYzZWI0OTkzMTcyYmY0MDk4ZDJhOWUyNjli",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
-      },
-      "artists": [
-        {
-          "name": "The Knife",
-          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Fulkultur",
         "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "duration_ms": 231828,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE"
     },
     {
       "added_at": "2021-06-15 09:25:05",

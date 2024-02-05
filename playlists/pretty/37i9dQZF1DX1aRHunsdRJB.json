@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10411,
+  "num_followers": 10416,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhiNDFhZGM2NGI4OWUwYmEwMWI0YmIzM2U1OGRiZGI3MmZlZDc0",
+  "snapshot_id": "MCw0MjM4YzM1ZWQyMzIzN2RjMjNiMDE4MjdhOWQ3MDZjZWVkODg0NzMx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Yuh Bad (No Stressing)",
+        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Big Ride Riddim",
         "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 126458,
       "name": "Man with Ride (Big Ride)",
       "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Yuh Bad (No Stressing)",
-        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baila Riddim",
         "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 137195,
       "name": "Shots (One for Di Road)",
       "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
     },
     {
       "added_at": "2022-02-24 18:00:00",

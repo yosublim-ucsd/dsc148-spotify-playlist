@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 67810,
+  "num_followers": 67841,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWJiOGFhZDlmZDJiMjg0MmYzMGYwYTBjN2IxZDAxZTdlYTc0Yzk4",
+  "snapshot_id": "MCw2YzBlODBmZmUzMzRjMGQwNDk5N2U5MWY3YjFhNWI4MjBkNzAwYmFm",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Pl\u00e1cido Domingo: The Unknown Puccini Songs",
-        "url": "https://open.spotify.com/album/3zjSG8mcgY291ya67081NA"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "A te",
-      "url": "https://open.spotify.com/track/7zXzTfMZ310Qb5QQfyfJ3b"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/0EdgFGDsjyvFyYuZ1eXQuR"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 154293,
       "name": "Tosca: Act I: Non la sospiri la nostra casetta (Tosca, Cavaradossi)",
       "url": "https://open.spotify.com/track/0JpEBe6wg0mADqKoNcL8d0"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Pl\u00e1cido Domingo: The Unknown Puccini Songs",
+        "url": "https://open.spotify.com/album/3zjSG8mcgY291ya67081NA"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "A te",
+      "url": "https://open.spotify.com/track/7zXzTfMZ310Qb5QQfyfJ3b"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1687,6 +1687,34 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Pl\u00e1cido Domingo at the MET",
+        "url": "https://open.spotify.com/album/1rllXZdTsBBmGDhp1j9TLm"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "La Fanciulla del West, Act III: \"Risparmiate lo scherno ... Ch'ella mi creda\"",
+      "url": "https://open.spotify.com/track/1BsbJ0Lovx9b9HFJJslXHD"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: Turandot",
         "url": "https://open.spotify.com/album/727EIB96mioWGAGyTYnO5p"
       },
@@ -1751,34 +1779,6 @@
       "duration_ms": 293973,
       "name": "Turandot: Act III Scene 1: Tu, che di gel sei cinta",
       "url": "https://open.spotify.com/track/1TGO6OowKwbiGRCzb7hdEi"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Pl\u00e1cido Domingo at the MET",
-        "url": "https://open.spotify.com/album/1rllXZdTsBBmGDhp1j9TLm"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        }
-      ],
-      "duration_ms": 259346,
-      "name": "La Fanciulla del West, Act III: \"Risparmiate lo scherno ... Ch'ella mi creda\"",
-      "url": "https://open.spotify.com/track/1BsbJ0Lovx9b9HFJJslXHD"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2087,78 +2087,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: Tosca",
-        "url": "https://open.spotify.com/album/0EdgFGDsjyvFyYuZ1eXQuR"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Nelly Miricioiu",
-          "url": "https://open.spotify.com/artist/2DPDaIszxnK5wdPKGjYQuS"
-        },
-        {
-          "name": "Giorgio Lamberti",
-          "url": "https://open.spotify.com/artist/6C9KIoVCX27X8lFAIfRlfV"
-        },
-        {
-          "name": "Silvano Carroli",
-          "url": "https://open.spotify.com/artist/2nDq8RpwbuuHqerLBIRGNu"
-        },
-        {
-          "name": "Andrea Piccinni",
-          "url": "https://open.spotify.com/artist/7fng4mmmHgY7PzUBkf3RPC"
-        },
-        {
-          "name": "Miroslav Dvorsk\u00fd",
-          "url": "https://open.spotify.com/artist/37wfFhL8qoOeMyog7FrgtN"
-        },
-        {
-          "name": "Jan Durco",
-          "url": "https://open.spotify.com/artist/59FqXGAEBtN3rNSX9PaAv8"
-        },
-        {
-          "name": "Stanislav Be\u0148a\u010dka",
-          "url": "https://open.spotify.com/artist/7oPmR7kujiCfv7EjD1jK1R"
-        },
-        {
-          "name": "Jozef Spacek",
-          "url": "https://open.spotify.com/artist/4BPRmPsB1teWoDWLLlFuSW"
-        },
-        {
-          "name": "Slovak Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Raimo Sirkia",
-          "url": "https://open.spotify.com/artist/6bGcOdm5kh8qddIsvy0jxC"
-        },
-        {
-          "name": "Slovak Chamber Choir",
-          "url": "https://open.spotify.com/artist/7aeH9m4FDFe3INNj7haKHb"
-        },
-        {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
-        },
-        {
-          "name": "Markus Lehtinen",
-          "url": "https://open.spotify.com/artist/35IrhYWMaTV7QSJ8CUl4fe"
-        }
-      ],
-      "duration_ms": 326026,
-      "name": "Tosca: Act I: Ah, quegli occhi! \u2026 (Tosca, Cavaradossi)",
-      "url": "https://open.spotify.com/track/0QT0RAuMtLrvzv0gMFUaft"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini, G.: Rondine (La) [Opera]",
         "url": "https://open.spotify.com/album/2HvdT1hZWhYpQe94o45Eci"
       },
@@ -2231,6 +2159,134 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Work From Home With Puccini",
+        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 255480,
+      "name": "Adagetto in F Major",
+      "url": "https://open.spotify.com/track/5sz8KELziZlPu0hyZKjltn"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/0EdgFGDsjyvFyYuZ1eXQuR"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Nelly Miricioiu",
+          "url": "https://open.spotify.com/artist/2DPDaIszxnK5wdPKGjYQuS"
+        },
+        {
+          "name": "Giorgio Lamberti",
+          "url": "https://open.spotify.com/artist/6C9KIoVCX27X8lFAIfRlfV"
+        },
+        {
+          "name": "Silvano Carroli",
+          "url": "https://open.spotify.com/artist/2nDq8RpwbuuHqerLBIRGNu"
+        },
+        {
+          "name": "Andrea Piccinni",
+          "url": "https://open.spotify.com/artist/7fng4mmmHgY7PzUBkf3RPC"
+        },
+        {
+          "name": "Miroslav Dvorsk\u00fd",
+          "url": "https://open.spotify.com/artist/37wfFhL8qoOeMyog7FrgtN"
+        },
+        {
+          "name": "Jan Durco",
+          "url": "https://open.spotify.com/artist/59FqXGAEBtN3rNSX9PaAv8"
+        },
+        {
+          "name": "Stanislav Be\u0148a\u010dka",
+          "url": "https://open.spotify.com/artist/7oPmR7kujiCfv7EjD1jK1R"
+        },
+        {
+          "name": "Jozef Spacek",
+          "url": "https://open.spotify.com/artist/4BPRmPsB1teWoDWLLlFuSW"
+        },
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Raimo Sirkia",
+          "url": "https://open.spotify.com/artist/6bGcOdm5kh8qddIsvy0jxC"
+        },
+        {
+          "name": "Slovak Chamber Choir",
+          "url": "https://open.spotify.com/artist/7aeH9m4FDFe3INNj7haKHb"
+        },
+        {
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+        },
+        {
+          "name": "Markus Lehtinen",
+          "url": "https://open.spotify.com/artist/35IrhYWMaTV7QSJ8CUl4fe"
+        }
+      ],
+      "duration_ms": 326026,
+      "name": "Tosca: Act I: Ah, quegli occhi! \u2026 (Tosca, Cavaradossi)",
+      "url": "https://open.spotify.com/track/0QT0RAuMtLrvzv0gMFUaft"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Work From Home With Puccini",
+        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Coro Sinfonico di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2"
+        },
+        {
+          "name": "Gabriele Mugnai",
+          "url": "https://open.spotify.com/artist/2O0nEPPEns6H5Y30xrcIHr"
+        },
+        {
+          "name": "Roberto de Thierry",
+          "url": "https://open.spotify.com/artist/6xyZZCrrdHFtB2M90B8SW4"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 329840,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/7jcHcevFNc11qhShRynSop"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: The Great Operas",
         "url": "https://open.spotify.com/album/2fMGewLRioOoYUCgZocVHS"
       },
@@ -2283,30 +2339,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Work From Home With Puccini",
-        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 255480,
-      "name": "Adagetto in F Major",
-      "url": "https://open.spotify.com/track/5sz8KELziZlPu0hyZKjltn"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: La Boh\u00e8me",
         "url": "https://open.spotify.com/album/0M8RQ2Nw7DZVTHaebMAhjD"
       },
@@ -2331,38 +2363,6 @@
       "duration_ms": 197093,
       "name": "La Boh\u00e8me / Act 3: \"Donde lieta usc\u00ec\" - Live",
       "url": "https://open.spotify.com/track/0MP0hivkjIhyoGJ8G3iaLw"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Work From Home With Puccini",
-        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Coro Sinfonico di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2"
-        },
-        {
-          "name": "Gabriele Mugnai",
-          "url": "https://open.spotify.com/artist/2O0nEPPEns6H5Y30xrcIHr"
-        },
-        {
-          "name": "Roberto de Thierry",
-          "url": "https://open.spotify.com/artist/6xyZZCrrdHFtB2M90B8SW4"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 329840,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/7jcHcevFNc11qhShRynSop"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2455,17 +2455,13 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+        "name": "Work From Home With Puccini",
+        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
       },
       "artists": [
         {
           "name": "Giacomo Puccini",
           "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Joseph Calleja",
-          "url": "https://open.spotify.com/artist/30btg3WkeQgKssm3aPPE4W"
         },
         {
           "name": "Coro Sinfonico di Milano Giuseppe Verdi",
@@ -2480,9 +2476,9 @@
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 445720,
-      "name": "Cessato il suon dell'Armi (1887)",
-      "url": "https://open.spotify.com/track/1jkVTRpEVtO1PbzXgukqHi"
+      "duration_ms": 203586,
+      "name": "Inno a Roma",
+      "url": "https://open.spotify.com/track/0WumlShBpHq4kVfj03aGja"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2523,13 +2519,17 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Work From Home With Puccini",
-        "url": "https://open.spotify.com/album/1T23R0LW3JhvZGRRQ7RBdG"
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
       },
       "artists": [
         {
           "name": "Giacomo Puccini",
           "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Joseph Calleja",
+          "url": "https://open.spotify.com/artist/30btg3WkeQgKssm3aPPE4W"
         },
         {
           "name": "Coro Sinfonico di Milano Giuseppe Verdi",
@@ -2544,9 +2544,9 @@
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 203586,
-      "name": "Inno a Roma",
-      "url": "https://open.spotify.com/track/0WumlShBpHq4kVfj03aGja"
+      "duration_ms": 445720,
+      "name": "Cessato il suon dell'Armi (1887)",
+      "url": "https://open.spotify.com/track/1jkVTRpEVtO1PbzXgukqHi"
     },
     {
       "added_at": "2022-06-24 16:28:17",

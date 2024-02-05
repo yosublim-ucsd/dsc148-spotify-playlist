@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3854,
+  "num_followers": 3853,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2Q2OTBmZGUwNzBmZTM3YWYxNzc2OTEyMDhmMTllYjQwODlkY2Uz",
+  "snapshot_id": "MCw0YzdlODQ3OWQ4MGE0YjE2MjEzNGE4ZjFkNjNjMTc4MWY5NjMzMGQ1",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9norme chien tr\u00e8s gentil",
-        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 179384,
-      "name": "L'\u00e9norme chien tr\u00e8s gentil",
-      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Grand Eug\u00e8ne",
         "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 199719,
       "name": "Celle-l\u00e0",
       "url": "https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9norme chien tr\u00e8s gentil",
+        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "L'\u00e9norme chien tr\u00e8s gentil",
+      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Cow-Girl dor\u00e9e",
+        "url": "https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Martel",
+          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Un amour qui ne veut pas mourir",
+      "url": "https://open.spotify.com/track/7hblNUL4xYe6Dwi4eaKLZi"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Si j'\u00e9tais toi",
         "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cow-Girl dor\u00e9e",
-        "url": "https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3"
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Martel",
-          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 194053,
-      "name": "Un amour qui ne veut pas mourir",
-      "url": "https://open.spotify.com/track/7hblNUL4xYe6Dwi4eaKLZi"
+      "duration_ms": 173843,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -931,22 +947,6 @@
       "duration_ms": 181613,
       "name": "Future Ex",
       "url": "https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 173843,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Cosmologie",
+        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 138855,
       "name": "+1 (feat. Meggie Lennon & Virginie B)",
       "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Cosmologie",
-        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tiamat, Mon Amour",
-        "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
-      },
-      "artists": [
-        {
-          "name": "Greg Beaudin",
-          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
-        },
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 209559,
-      "name": "Pas toi encore",
-      "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tiamat, Mon Amour",
+        "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
+      },
+      "artists": [
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        },
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 209559,
+      "name": "Pas toi encore",
+      "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
-      },
-      "artists": [
-        {
-          "name": "Zoo Baby",
-          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
-        }
-      ],
-      "duration_ms": 165973,
-      "name": "Diff\u00e9rent de toi",
-      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Agnus Dei",
         "url": "https://open.spotify.com/album/6fECpj4Mk2Doh94CsJJ1SC"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi"
+      },
+      "artists": [
+        {
+          "name": "Zoo Baby",
+          "url": "https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO"
+        }
+      ],
+      "duration_ms": 165973,
+      "name": "Diff\u00e9rent de toi",
+      "url": "https://open.spotify.com/track/3lBN3qdOdRezs6VgKbqJ6r"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
-      },
-      "artists": [
-        {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "C'est un bum",
-      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Grand Bleu",
         "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 175388,
       "name": "Grand Bleu",
       "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+      },
+      "artists": [
+        {
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "C'est un bum",
+      "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "El Futuro Es Tribal",
-        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
-      },
-      "artists": [
-        {
-          "name": "Akawui",
-          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
-        }
-      ],
-      "duration_ms": 307337,
-      "name": "Breath Of Fire",
-      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "El Futuro Es Tribal",
+        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
+      },
+      "artists": [
+        {
+          "name": "Akawui",
+          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
+        }
+      ],
+      "duration_ms": 307337,
+      "name": "Breath Of Fire",
+      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
     },
     {
       "added_at": "2023-05-25 23:46:15",

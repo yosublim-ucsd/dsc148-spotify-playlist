@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,080 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,102 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 28 | [Bringing Me Joy](https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [prettyboyface](https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln) | [Bringing Me Joy](https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m) | 3:00 |
 | 29 | [Delectable](https://open.spotify.com/track/3DxUguzXqD17Ulbk18GRtS) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [M4A4](https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E) | [Delectable](https://open.spotify.com/album/1FMBiXbZ46iY4csfFjEEnF) | 5:46 |
 | 30 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 |
-| 31 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
-| 32 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
+| 31 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
+| 32 | [Bloom \(ft\. Ell Murphy\)](https://open.spotify.com/track/2Qgt58CMtZXxlrJsdlfDx7) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Bloom](https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh) | 4:19 |
 | 33 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
 | 34 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
 | 35 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [lovergirl \- Tommy Villiers VIP Mix](https://open.spotify.com/track/2DwCBAxLXCx9DBFTNYnL2R) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl \(Tommy Villiers VIP Mix\)](https://open.spotify.com/album/4WLHi3wJB7Kb7Av8xftYKN) | 3:36 |
 | 57 | [Like Home](https://open.spotify.com/track/2NhpheC54QQ8Vacjpmz1TH) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Like Home](https://open.spotify.com/album/0WkRktzRMPYCe77vWwsrB3) | 5:00 |
 | 58 | [Flex](https://open.spotify.com/track/3OaGNvp9q7DkUKbJfMRxIk) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Flex](https://open.spotify.com/album/439lrfWjzWWqkuokp5PevY) | 2:50 |
-| 59 | [Dart](https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Dart](https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W) | 4:04 |
-| 60 | [Show Me](https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Show Me](https://open.spotify.com/album/61AStQYO30jVau93JxRtXP) | 4:29 |
+| 59 | [Show Me](https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Show Me](https://open.spotify.com/album/61AStQYO30jVau93JxRtXP) | 4:29 |
+| 60 | [Wait](https://open.spotify.com/track/2KqiYfpsHKOztBfS1IGrnO) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Wait](https://open.spotify.com/album/5IKgIZI5z9g7r4e927d3zN) | 3:59 |
 
-Snapshot ID: `MCw1OWQ5NGFkNDRlZjhmYWM1MmNmODBlZDBkYWJjMjUyN2UwNGI2ZjZi`
+Snapshot ID: `MCw5NzAzNTk1NTFjOTRiYjhiOGVlNTIyMjMzNjg3Njk0ZmEyZWFhYTkz`

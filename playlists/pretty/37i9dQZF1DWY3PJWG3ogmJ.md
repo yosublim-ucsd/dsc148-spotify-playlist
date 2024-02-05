@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,309 likes - 120 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,391 likes - 120 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 43 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [GRAVESIDE CONFESSIONS](https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ) | 4:21 |
 | 44 | [Take Me To Hell](https://open.spotify.com/track/5rbK2Z6ufVtEFEnBeafhwB) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2vtORmA1SG9KAvzm95wao7) | 3:30 |
 | 45 | [Kill the Cult](https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 4:40 |
-| 46 | [Death Perception](https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Death Perception](https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev) | 2:34 |
-| 47 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
+| 46 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
+| 47 | [Death Perception](https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Death Perception](https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev) | 2:34 |
 | 48 | [Return to Strength](https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Keepers Of The Faith](https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W) | 2:40 |
 | 49 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
 | 50 | [Black of My Eyes](https://open.spotify.com/track/2vAzfGEhThu7kM0ZR6nK1D) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [This Heavy Void](https://open.spotify.com/album/7svL45hiXd5Ms0MBn3saXS) | 3:52 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 90 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 91 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
 | 92 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
-| 93 | [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 |
-| 94 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
+| 93 | [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 |
+| 94 | [Collapse](https://open.spotify.com/track/6aleU9GhOnPe1HG9AJatiO) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [Collapse](https://open.spotify.com/album/4FcLJo4ZoD6oq9vg5gZJmO) | 4:40 |
 | 95 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
 | 96 | [The American Dream](https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU) | [Walls of Jericho](https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU) | [The American Dream](https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4) | 3:16 |
 | 97 | [Decompose](https://open.spotify.com/track/4xsSWQqdMLBRUoZny0yroT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:27 |
@@ -109,19 +109,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 99 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 |
 | 100 | [Life Is Pain](https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7) | 2:54 |
 | 101 | [Habitual Decline](https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Habitual Decline](https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE) | 3:11 |
-| 102 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
-| 103 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 |
-| 104 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
-| 105 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
-| 106 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 102 | [Ultimate Annihilation](https://open.spotify.com/track/6BLUdAwlEmU5sfwfacFtYr) | [Suburban Scum](https://open.spotify.com/artist/4PX5P76qLDOsy7XcouV7gy) | [Ultimate Annihilation](https://open.spotify.com/album/0c52tQwYwDQh3dbmx4teFV) | 2:21 |
+| 103 | [Masochistic Healing](https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D) | [Tethra](https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3) | [Tethra](https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77) | 4:49 |
+| 104 | [All Mosh / No Brain](https://open.spotify.com/track/0amgTTnQK7rmkXTUFFRZsY) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [666\-Pack](https://open.spotify.com/album/0oVYMNaxxRcqsMN1HCj5I8) | 1:32 |
+| 105 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 |
+| 106 | [Voices](https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [How To Live And How To Lose](https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp) | 4:15 |
 | 107 | [Reveries](https://open.spotify.com/track/4qPgkvOEbh6AP8AHAyG62r) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Towards The Dying Lands](https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I) | 4:11 |
 | 108 | [Hammer of the Witch](https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn) | [Ringworm](https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV) | [Hammer of the Witch \(Deluxe Version\)](https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU) | 3:22 |
 | 109 | [R!ot](https://open.spotify.com/track/0zAb3JhZbExyPZxiGq9cky) | [Spoil Engine](https://open.spotify.com/artist/6nQqTxjWcBSDpjvVKRTfig) | [Renaissance Noire](https://open.spotify.com/album/62cj4fAYeia8TRD8VqrpbD) | 3:16 |
 | 110 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 111 | [Eternal Forward Motion](https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp) | 3:49 |
 | 112 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
-| 113 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 114 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 113 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 114 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 115 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
 | 116 | [Apostle](https://open.spotify.com/track/77j8ymzT23ZT1hnclyp5Xh) | [Reign Supreme](https://open.spotify.com/artist/69JlpHslR9eFL9k4Ze403e) | [Testing the Limits of Infinite](https://open.spotify.com/album/3vSYllgoXST4Tee5QbGiOw) | 3:13 |
 | 117 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 120 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
 
-Snapshot ID: `MCwxZjU5NWY3YzAwM2IxMjI5NDliYzIxNWUwOGMzOGQwM2MyNWFhNzA1`
+Snapshot ID: `MCw5NDVlYzBhMDA4Mzg2ZjNmYzMxOGUzMzg5ZDNhNWE1Yjk2NzY0MWEz`
