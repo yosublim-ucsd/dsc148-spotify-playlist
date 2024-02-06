@@ -1,4 +1,4 @@
-## Playlists \(7582\)
+## Playlists \(7583\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7144,6 +7144,7 @@
 - [feels like latin funk](/playlists/pretty/37i9dQZF1DWTTiDL22vZpS.md)
 - [floating](/playlists/pretty/37i9dQZF1DXdEZt3tTR001.md)
 - [foodora dinner playlist](/playlists/pretty/4lgseztVwmKQ8MNETPVIny.md)
+- [full focus 🎧☁️✨](/playlists/pretty/0DoTCR9lh7I0Qd7vBwbVwf.md)
 - [funk challenge](/playlists/pretty/37i9dQZF1DWSlRNWoWejBr.md)
 - [galau rabak](/playlists/pretty/37i9dQZF1DWT7gTeoPX8Il.md)
 - [gloomcore](/playlists/pretty/37i9dQZF1DXbENHm2OgowX.md)
