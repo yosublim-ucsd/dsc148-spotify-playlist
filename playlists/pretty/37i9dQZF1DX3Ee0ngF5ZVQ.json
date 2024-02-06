@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 415705,
+  "num_followers": 415650,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDM5OTA2Yjg3NzU4MGZhM2YzZWRlMTU4YThjODhhMDI0OTVhYjgx",
+  "snapshot_id": "MCxhZjk4NmU5ZDI0NmRmZDExZTFiMjQzMDYzYjYzNDI4MmViZmQxMDNk",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Heaven Down Here",
-        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
-      },
-      "artists": [
-        {
-          "name": "Texas Hill",
-          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
-        }
-      ],
-      "duration_ms": 215977,
-      "name": "Easy on the Eyes",
-      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
         }
       ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+      "duration_ms": 215977,
+      "name": "Easy on the Eyes",
+      "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 231987,
-      "name": "Last American Summer",
-      "url": "https://open.spotify.com/track/1yah3M7TFAlX4jc3Cpa1Op"
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 231987,
+      "name": "Last American Summer",
+      "url": "https://open.spotify.com/track/1yah3M7TFAlX4jc3Cpa1Op"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Drowning In Dreams",
         "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 167512,
       "name": "Where the Wildflowers Lay",
       "url": "https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -987,6 +987,38 @@
       "duration_ms": 219799,
       "name": "Oklahoma",
       "url": "https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "it won't always be this way",
+        "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 267040,
+      "name": "it won't always be this way",
+      "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1019,18 +1051,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "it won't always be this way",
-        "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 267040,
-      "name": "it won't always be this way",
-      "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
+      "duration_ms": 238687,
+      "name": "Chasing My Tail",
+      "url": "https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1051,38 +1083,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 238687,
-      "name": "Chasing My Tail",
-      "url": "https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Border Radio",
         "url": "https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Richmond County Line",
-        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
-      },
-      "artists": [
-        {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Richmond County Line",
-      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Amy's Back In Austin",
-        "url": "https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC"
+        "name": "Richmond County Line",
+        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        },
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
         }
       ],
-      "duration_ms": 257831,
-      "name": "Amy's Back In Austin",
-      "url": "https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG"
+      "duration_ms": 221538,
+      "name": "Richmond County Line",
+      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1287,6 +1283,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Amy's Back In Austin",
+        "url": "https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        },
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 257831,
+      "name": "Amy's Back In Austin",
+      "url": "https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "State You Left Me In",
-        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 325299,
-      "name": "State You Left Me In",
-      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+        "name": "State You Left Me In",
+        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+      "duration_ms": 325299,
+      "name": "State You Left Me In",
+      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/5Xrp5MjicsTHkqSjdkfnfg"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 209320,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/1ChqTJSMsQ7C1XZRl394QY"
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Story About a Girl + Side of Goodbye",
+        "url": "https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 150572,
+      "name": "Side of Goodbye",
+      "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Story About a Girl + Side of Goodbye",
-        "url": "https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 150572,
-      "name": "Side of Goodbye",
-      "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"
     }
   ],
   "unique_name": "Texas Country Now",

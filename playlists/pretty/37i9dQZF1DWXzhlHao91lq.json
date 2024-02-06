@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71156,
+  "num_followers": 71157,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjY1ZTk2OTI0MjkwNTg3MjIxYTBiZmVjZmUwZThkNjJjMDg2NDky",
+  "snapshot_id": "MCw0NDFjMzFiZGYxMzAxOWZlMDRkMGEwMzhiNmQ5NTA0MzBjOWZiNjY4",
   "tracks": [
     {
       "added_at": "2024-02-05 01:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 208510,
       "name": "La La Lost You - Acoustic Version",
       "url": "https://open.spotify.com/track/0e2wfbDK7ppotqyUWD7qs8"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "To Watch the World Spin Without You",
-        "url": "https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00cea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "To Watch the World Spin Without You",
-      "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
         "name": "\u2014star.",
         "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 153885,
       "name": "\u2014star.",
       "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
+        "name": "To Watch the World Spin Without You",
+        "url": "https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "To Watch the World Spin Without You",
+      "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
         "name": "Grow As We Go (feat. Sara Bareilles)",
         "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 249937,
       "name": "Grow as We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6RLONY3HWjUyScclOMerNd"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Around the Well",
-        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 571080,
-      "name": "The Trapeze Swinger",
-      "url": "https://open.spotify.com/track/0EAvKXjChn1Rc3QmfYXevy"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
         "name": "Mariposa (Acoustic)",
         "url": "https://open.spotify.com/album/2nqO2hJ3NZQcnk0FKtgnwY"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Use Somebody (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
+        "name": "Around the Well",
+        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
       },
       "artists": [
         {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 186660,
-      "name": "Use Somebody - Acoustic Version",
-      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
+      "duration_ms": 571080,
+      "name": "The Trapeze Swinger",
+      "url": "https://open.spotify.com/track/0EAvKXjChn1Rc3QmfYXevy"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp"
+        "name": "Use Somebody (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
         }
       ],
-      "duration_ms": 162091,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7"
+      "duration_ms": 186660,
+      "name": "Use Somebody - Acoustic Version",
+      "url": "https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -979,6 +963,22 @@
       "duration_ms": 170414,
       "name": "Hard To Be Human",
       "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 162091,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
-        "name": "Mushroom: 50 Years of Making Noise (Reimagined)",
-        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 183677,
-      "name": "Throw Your Arms Around Me",
-      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
         "name": "Whiskey Sour",
         "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
+        "name": "Mushroom: 50 Years of Making Noise (Reimagined)",
+        "url": "https://open.spotify.com/album/4SRtPtUkg4izzJZ2Kr2LMJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 183677,
+      "name": "Throw Your Arms Around Me",
+      "url": "https://open.spotify.com/track/0CVwSCQOx3CMHjwDCmaElh"
     },
     {
       "added_at": "2024-02-05 01:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-02-05 01:00:00",
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "added_at": "2024-02-05 01:00:00",
+      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
-    },
-    {
-      "added_at": "2024-02-05 01:00:00",
-      "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 236372,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "added_at": "2024-02-05 01:00:00",

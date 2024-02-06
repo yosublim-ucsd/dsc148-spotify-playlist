@@ -3277,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Rising High",
+        "url": "https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc"
+      },
+      "artists": [
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Rising High",
+      "url": "https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD"
+    },
+    {
+      "album": {
         "name": "RNCL",
         "url": "https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T"
       },
@@ -3560,6 +3578,24 @@
       "duration_ms": 188076,
       "name": "Se Pone Loca",
       "url": "https://open.spotify.com/track/0UyJooJf2H3WsrS9hNJ1Ue"
+    },
+    {
+      "album": {
+        "name": "Shake What Yo Mama",
+        "url": "https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Shake What Yo Mama",
+      "url": "https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd"
     },
     {
       "album": {

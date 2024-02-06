@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-271 songs - 19 hr 48 min
+272 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-04-21 | 2022-11-26 |
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2021-11-24 | 2022-09-06 |
 | [Killing Me Slowly](https://open.spotify.com/track/04d4GzuAcytdLP2M3U9hiu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Tori Romo](https://open.spotify.com/artist/3uuKpwmr7SsX9lVp4AGG5x) | [Killing Me Slowly](https://open.spotify.com/album/5CfsdEREZS2gS16RsxrKI9) | 3:36 | 2023-09-22 |  |
-| [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2021-11-24 |  |
+| [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 | 2021-11-24 | 2024-02-06 |
 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 | 2021-11-24 | 2022-07-23 |
 | [Late Nights](https://open.spotify.com/track/0ZcjG6n7IPu57gd64fPU5H) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Late Nights](https://open.spotify.com/album/2mx1bRvFZZUW6ifNmAsZx4) | 2:58 | 2022-09-05 | 2023-02-14 |
 | [Late Nights](https://open.spotify.com/track/2NWW0Y8DSLJyXN3NzjSnLh) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Late Nights](https://open.spotify.com/album/6SOPHFF7NQR6x5FguplrrL) | 2:58 | 2023-01-09 |  |
@@ -187,6 +187,7 @@
 | [Patterns](https://open.spotify.com/track/7qLrWXTgPdE2Sw3zTnhe67) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Patterns](https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc) | 2:39 | 2022-06-20 | 2022-09-04 |
 | [Pause](https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Now Here No Where](https://open.spotify.com/album/2PIN5JlqhdClGkTsvauX36) | 5:40 | 2021-11-24 | 2022-03-14 |
 | [Peace](https://open.spotify.com/track/4YZ6qci2ZmuvmWQzUHbHLB) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Peace](https://open.spotify.com/album/7jlCefstb8J240C7MH5kGX) | 3:12 | 2023-09-22 |  |
+| [Peaceful Groove](https://open.spotify.com/track/1ur4amXvk23LWTtEMSjlxt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5pogukTeYEaNxklDvrNqYl) | 3:31 | 2024-01-12 |  |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-11-24 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-06-20 | 2023-12-16 |
 | [Points Beyond](https://open.spotify.com/track/23N0RehCjU9KC7WfEzxdgJ) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Points Beyond](https://open.spotify.com/album/2O7HzpefeC3nKfjaD3VXNv) | 5:26 | 2021-11-24 | 2022-07-28 |

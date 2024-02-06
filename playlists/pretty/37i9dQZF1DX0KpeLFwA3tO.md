@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,545 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,601 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Don't Tempt Me Baby...](https://open.spotify.com/track/1qWdq5lpytNveivQlgs1fq) | [First and Forever](https://open.spotify.com/artist/4yoepOpyKCDc3xDj0fX21r), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Joshua Roberts](https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR) | [Don't Tempt Me Baby...](https://open.spotify.com/album/6y5G5DVYchSEwlFui34a4N) | 2:36 |
 | 100 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 |
 
-Snapshot ID: `MCxiZTMwZTExMDE1OTdhYTA3ZDc3NTcyNjQwMWM5ODZkNWIyOGRkNGFj`
+Snapshot ID: `MCxiNjIxYTgyNDVjN2I0NzlkZGViOGYzYzAwM2M3N2IzN2YzNTc3MjYw`

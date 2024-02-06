@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-382 songs - 1 day 3 hr 31 min
+383 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,9 +108,10 @@
 | [冬眠](https://open.spotify.com/track/4m8Jm6TAeBsVWkP5CotIJP) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/3o2VzWhOGsgneeiwxCHAOE) | 4:29 | 2022-06-06 | 2022-07-26 |
 | [冬眠](https://open.spotify.com/track/5bplR1ESzNn6Q7RlFQIvhd) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/17vIhNNAkiUQaaiKTiM3SK) | 4:29 | 2022-07-25 | 2023-05-08 |
 | [冷戰](https://open.spotify.com/track/3iTLyYwb24eOrPXOH6KoB9) | [簡弘亦](https://open.spotify.com/artist/0u0FqeMALEaiT19otJOm8C) | [冷戰](https://open.spotify.com/album/4udh0uzLM5HYtmheDYKcnN) | 4:38 | 2022-06-13 | 2022-07-07 |
+| [分合](https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [分合](https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq) | 4:06 | 2024-02-05 |  |
 | [分手意义](https://open.spotify.com/track/2mVdHxT8A06CrPWyDoCcDp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [分手意义](https://open.spotify.com/album/78K4VMUYf7u0tKvqg6N2bz) | 4:49 | 2022-06-27 | 2022-07-02 |
 | [分手放手 \- WBL系列影集第一季<永遠的第一名>片尾曲](https://open.spotify.com/track/36aoTpIIIJ3XAl6GrcHo5f) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [分手放手 \(WBL系列影集第一季<永遠的第一名>片尾曲\)](https://open.spotify.com/album/7L95m2WhWUYwzGbIWlDygj) | 4:10 | 2022-06-27 | 2022-07-27 |
-| [分開不是你的錯 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/3udZQ4W2qLsPLB29DJ81xu) | [何祖伶](https://open.spotify.com/artist/7eag3DCx32BbcdpdfqRfev), [駱羿](https://open.spotify.com/artist/5ZoX8ncekVM9CivshtDB6k) | [分開不是你的錯](https://open.spotify.com/album/0SNi8BBm8SG5fEjsMlCf2y) | 4:07 | 2024-01-29 |  |
+| [分開不是你的錯 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/3udZQ4W2qLsPLB29DJ81xu) | [何祖伶](https://open.spotify.com/artist/7eag3DCx32BbcdpdfqRfev), [駱羿](https://open.spotify.com/artist/5ZoX8ncekVM9CivshtDB6k) | [分開不是你的錯](https://open.spotify.com/album/0SNi8BBm8SG5fEjsMlCf2y) | 4:07 | 2024-01-29 | 2024-02-06 |
 | [別來有恙](https://open.spotify.com/track/3gaSYokySgAnoFXlnLgwIk) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [別來有恙](https://open.spotify.com/album/6o02ti4hIe3bJBoijnnlcg) | 5:33 | 2022-06-06 | 2022-07-10 |
 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 | 2022-06-06 | 2024-01-24 |
 | [剩下的烟火](https://open.spotify.com/track/0MV6HnT2gk6yYVsHYQ88FN) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [剩下的烟火](https://open.spotify.com/album/1wiOcrwaK9JMh79Ukt3cP8) | 4:01 | 2024-01-01 | 2024-01-09 |

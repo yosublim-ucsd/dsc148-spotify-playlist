@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Lendakaris Muertos.
 
-95 songs - 5 hr 3 min
+96 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 | 2023-12-08 |  |
+| [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 | 2024-02-05 |  |
 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 | 2023-12-08 | 2023-12-30 |
 | [Así Es la Vida](https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7BbQMEtJZ7ut8EDjcnrGyd) | 3:53 | 2023-12-08 |  |
 | [Autosuficiencia](https://open.spotify.com/track/5p4QGTJiTFStnddffBS4bK) | [Paralisis Permanente](https://open.spotify.com/artist/5OIvhuAngAyS1rt3MU5r3k) | [Los singles y primeras grabaciones](https://open.spotify.com/album/16khoJtvvbN9y7hk8zRtke) | 2:07 | 2023-12-08 |  |
@@ -25,7 +26,7 @@
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 |  |
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 |  |
 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 |  |
-| [Cuéntame](https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Cuéntame](https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML) | 3:14 | 2023-12-08 |  |
+| [Cuéntame](https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Cuéntame](https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML) | 3:14 | 2023-12-08 | 2024-02-06 |
 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 | 2023-12-08 |  |
 | [Daños Colaterales](https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 2:43 | 2023-12-08 |  |
 | [Dispárame](https://open.spotify.com/track/3ttofroygpDF5hKxwfeeM6) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc), [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r) | [Dispárame](https://open.spotify.com/album/0wdBkfYTEmMQjqND8f1MUD) | 2:32 | 2023-12-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 34324,
+  "num_followers": 34351,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjA5ODg5ZDY5YTlhZjI5ZTU4NDMwMmNmN2NjZDk5MmY0MjdlYWFl",
+  "snapshot_id": "MCwyNGFkNjdlNDAwNjc0MGFjZGQwNmUyMTU0ZjRhZDYxMjVjZTI4ZDVi",
   "tracks": [
     {
       "added_at": "2023-11-27 14:05:19",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
-      },
-      "artists": [
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
         "name": "GANG (Official Remix)",
         "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
       },
@@ -451,22 +431,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 218375,
-      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -551,34 +531,22 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "WATER",
-        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 262560,
-      "name": "WATER (Prod. by GooseBumps)",
-      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
+      "duration_ms": 218375,
+      "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -659,6 +627,38 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/1jPLfwzHnBTJIMzrA2lb7y"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "WATER (Prod. by GooseBumps)",
+      "url": "https://open.spotify.com/track/7EBxRB5zybo2zutJuiAwoF"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
       },
@@ -671,6 +671,26 @@
       "duration_ms": 304746,
       "name": "BRB",
       "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Forget About Tomorrow",
+        "url": "https://open.spotify.com/album/6jmeG5l8ltMgtu8XFGB30A"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Forget About Tomorrow",
+      "url": "https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -707,50 +727,6 @@
       "duration_ms": 265252,
       "name": "WE (Feat. Jay Park) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Forget About Tomorrow",
-        "url": "https://open.spotify.com/album/6jmeG5l8ltMgtu8XFGB30A"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Forget About Tomorrow",
-      "url": "https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 292109,
-      "name": "h1ghr gang",
-      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -819,46 +795,26 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "B.A.R.S (Vol. 1)",
-        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
       },
       "artists": [
         {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+      "duration_ms": 292109,
+      "name": "h1ghr gang",
+      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -919,30 +875,46 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "H1GHR : BLUE TAPE",
-        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 194120,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "B.A.R.S (Vol. 1)",
+        "url": "https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1SjbEsqXoDVPzWqYyrtwuc"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1091,22 +1063,30 @@
     {
       "added_at": "2023-11-27 14:05:19",
       "album": {
-        "name": "Dior Socks",
-        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
       "artists": [
         {
-          "name": "Jay Loud",
-          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Dior Socks",
-      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
+      "duration_ms": 194120,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
       "added_at": "2023-11-27 14:05:19",
@@ -1131,6 +1111,26 @@
       "duration_ms": 204800,
       "name": "Thuggin 4 My Baby",
       "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Dior Socks",
+        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
+      },
+      "artists": [
+        {
+          "name": "Jay Loud",
+          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Dior Socks",
+      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
     },
     {
       "added_at": "2023-11-27 14:05:19",

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 182440,
       "name": "B\u00e9cane - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 169541,
       "name": "I Wouldn't Mind - Sped Up",
       "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
@@ -794,10 +794,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/6quitQPG3Gr3GMHC6L5CCG"
+    },
+    {
+      "album": {
+        "name": "WHAT YOU WANT!",
+        "url": "https://open.spotify.com/album/7yt6zGA0dODjvY3Cmwx5cd"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122414,
+      "name": "WHAT YOU WANT!",
+      "url": "https://open.spotify.com/track/2efqgrEC6lsx3KTy1yhllR"
     },
     {
       "album": {
@@ -976,7 +994,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
@@ -1238,6 +1256,28 @@
       "duration_ms": 148500,
       "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
       "url": "https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0422\u0412\u041e\u041b",
+        "url": "https://open.spotify.com/album/1ZZiXJKL51J800x66cqyB6"
+      },
+      "artists": [
+        {
+          "name": "\u042e\u043f\u0438",
+          "url": "https://open.spotify.com/artist/19ycuZUQaZvT46uJscip1s"
+        },
+        {
+          "name": "boogshi",
+          "url": "https://open.spotify.com/artist/5prZ0gvvEQqiPotrtz0jWJ"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100616,
+      "name": "\u0421\u0422\u0412\u041e\u041b",
+      "url": "https://open.spotify.com/track/5oRyJGRopWGXtnOL7jJfZR"
     },
     {
       "album": {

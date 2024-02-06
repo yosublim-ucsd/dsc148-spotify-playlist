@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 195391,
       "name": "A Winter Interlude (After Schubert)",
       "url": "https://open.spotify.com/track/17E50bwXrsVsQnboX8bjBE"
@@ -1357,6 +1357,32 @@
     },
     {
       "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Azul Lima",
+          "url": "https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Go, Crystal Tears",
+      "url": "https://open.spotify.com/track/6PV9IkBIdKWWI9ag7Pe0YA"
+    },
+    {
+      "album": {
         "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
         "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
       },
@@ -1434,7 +1460,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 198759,
       "name": "Grain Moon",
       "url": "https://open.spotify.com/track/1qRK1V8UVuAke4GhYtvJ9A"
@@ -1688,6 +1714,32 @@
       "duration_ms": 226080,
       "name": "Iller",
       "url": "https://open.spotify.com/track/18PhC5Wg73rjdcYfCfQcSW"
+    },
+    {
+      "album": {
+        "name": "In Trutina (From Carmina Burana, Arr. for Piano and Cello by Tim Allhoff)",
+        "url": "https://open.spotify.com/album/3SLPCekNvzwJfwttXDvhbJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Michael Bosch",
+          "url": "https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "In Trutina (From Carmina Burana, Arr. for Piano and Cello by Tim Allhoff)",
+      "url": "https://open.spotify.com/track/3jrHPaR4AYZAl1X3GFYlEx"
     },
     {
       "album": {
@@ -3065,6 +3117,42 @@
     },
     {
       "album": {
+        "name": "Respiro 3",
+        "url": "https://open.spotify.com/album/12H3VCzTH2Y4IqFTaoBTpf"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158689,
+      "name": "Respiro 3",
+      "url": "https://open.spotify.com/track/15y6K1TTpceurenY3mnIcD"
+    },
+    {
+      "album": {
+        "name": "The Depths of Winter",
+        "url": "https://open.spotify.com/album/4esowhE2QG5btJkM1blB31"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "Rituals of Peace",
+      "url": "https://open.spotify.com/track/4Bs4Rmrbp2gnbWjN2SLdfW"
+    },
+    {
+      "album": {
         "name": "River Flows in You",
         "url": "https://open.spotify.com/album/3RcFUe5z0rF1oiBcflslRP"
       },
@@ -3520,6 +3608,28 @@
       "duration_ms": 315920,
       "name": "The Arts and the Hours (Arr. for Guitar by Michael Lewin)",
       "url": "https://open.spotify.com/track/16R3RNmbJohG6Lbn3qvexB"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/330jzGK1FrCQAxTyTXT8KN"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150507,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/4ibru27nXSYHDyaoTziYRS"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Best New Artist](https://open.spotify.com/playlist/37i9dQZF1DX2SaVGyZ9hsv)
 
-> Congratulations to all the nominees for Best New Artist!
+> Congratulations to all the nominees for Best New Artist and the 2024 winner Victoria Monét!
 
 18 songs - 1 hr 2 min
 

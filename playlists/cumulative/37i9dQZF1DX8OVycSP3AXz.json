@@ -596,10 +596,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 144960,
       "name": "Dans mes bras oublie ta peine",
       "url": "https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/1GbMzpbeGFaR7fnJQYOc0P"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Dans mes bras oublie ta peine",
+      "url": "https://open.spotify.com/track/3rakh6DtVFDNlxLfYwiGsl"
     },
     {
       "album": {

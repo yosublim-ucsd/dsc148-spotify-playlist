@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 82939,
+  "num_followers": 82998,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2MzNDBlMDQ5NWI0N2ExNzlhOGEzMzQzYjhhMTlkNzM2MTJmNjJi",
+  "snapshot_id": "MCwxZmQyYzMyMTIyOGQ2NTYwMTc5N2NkYTI5ZjIwMjE4YTk2YmU5YmQ4",
   "tracks": [
     {
       "added_at": "2024-02-01 13:41:34",
@@ -127,38 +127,6 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
-        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
         "name": "I Only Have Eyes for You",
         "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
       },
@@ -191,18 +159,50 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "Tara's Theme from \"Gone With The Wind\" and Other Movie Themes",
+        "url": "https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 162533,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "The Romantic Moods Of Jackie Gleason",
         "url": "https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 210266,
       "name": "I'm In The Mood For Love - Remastered/1996",
       "url": "https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Music For Romancing",
-        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "A Warm Shade of Ivory",
-        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 148106,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "A Warm Shade of Ivory",
+        "url": "https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Market Day",
+      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 203973,
       "name": "Theme from Picnic - Remastered",
       "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Market Day",
-      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -503,6 +503,38 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Lonely Nightingale",
+      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -527,34 +559,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
         }
       ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -575,34 +591,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Lonely Nightingale",
-      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
-      },
-      "artists": [
-        {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
         "name": "Plays Latin Themes For Young Lovers",
         "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -771,22 +755,6 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
-        "name": "The Joy Of Living",
-        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "The Joy Of Living",
-      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
         "name": "Pops Goes West",
         "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 127986,
       "name": "Buttons and Bows",
       "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+      },
+      "artists": [
+        {
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
+        "name": "The Joy Of Living",
+        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "The Joy Of Living",
+      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "28 Big Ones",
+        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Hugo Winterhalter",
+          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "The Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Hey...Let Yourself Go!",
         "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 247040,
       "name": "The Man That Got Away",
       "url": "https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "28 Big Ones",
-        "url": "https://open.spotify.com/album/5KH8TO4JRHnxhpxSsxDKoQ"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Hugo Winterhalter",
-          "url": "https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "The Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4XD9xETG2OuWta7mXyUVVe"
     },
     {
       "added_at": "2024-02-01 13:41:34",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-02-01 13:41:34",
       "album": {
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
+    },
+    {
+      "added_at": "2024-02-01 13:41:34",
+      "album": {
         "name": "Ros on Broadway",
         "url": "https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 197880,
       "name": "Lover Come Back to Me",
       "url": "https://open.spotify.com/track/0DeL2IndLfKP2JSb33ZBgc"
-    },
-    {
-      "added_at": "2024-02-01 13:41:34",
-      "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
     },
     {
       "added_at": "2024-02-01 13:41:34",

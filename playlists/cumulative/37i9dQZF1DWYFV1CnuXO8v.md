@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-272 songs - 17 hr 3 min
+273 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ana Mosammem](https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Wo Malna](https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER) | 5:23 | 2023-05-22 | 2023-09-09 |
 | [Arably](https://open.spotify.com/track/5xCaYhUaXO6RIFkloBN3UQ) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [Arably](https://open.spotify.com/album/4Iuj3oYC7PGZhbIRgj7mMZ) | 3:54 | 2023-02-13 | 2023-05-23 |
 | [Arraby Leya](https://open.spotify.com/track/2CCuNRmNuZXqlnSLs75qN4) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Arraby Leya](https://open.spotify.com/album/2jBsjUNWT1qKhYEZVXlnj0) | 4:14 | 2023-09-08 |  |
-| [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 | 2023-09-15 |  |
+| [Awel Hob](https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Awel Hob](https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO) | 4:16 | 2023-09-15 | 2024-02-06 |
 | [Awel Kalam](https://open.spotify.com/track/1XBy6TaSydf6DE6lN5wW5X) | [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [Awel Kalam](https://open.spotify.com/album/2DLAkdjiXZf40bn7xAJAay) | 3:26 | 2023-05-04 | 2023-05-09 |
 | [Awel Mara Etabelna](https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq) | [Hani Adel](https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Awel Mara Etabelna](https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju) | 3:38 | 2023-09-08 |  |
 | [Ayam W Fato](https://open.spotify.com/track/7tcjTfUu9C0NkK4K6b6VPQ) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ayam W Fato](https://open.spotify.com/album/2RJnwiAQysRePsT5FdWbbD) | 4:33 | 2023-02-13 | 2023-05-23 |
@@ -145,6 +145,7 @@
 | [Lela](https://open.spotify.com/track/55ks39FCn2Zfep9w2McjAd) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/0LDkFCSQgOC46KvPDqC8N9) | 3:45 | 2023-10-26 | 2023-11-24 |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2023-02-13 | 2023-05-23 |
 | [Lw Bs](https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lw Bs](https://open.spotify.com/album/7nxUA2AWsiBIIP8dnvKn4i) | 3:24 | 2023-12-21 | 2024-01-26 |
+| [Ma Kefaya](https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ma Kefaya](https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6) | 3:20 | 2024-02-01 |  |
 | [Maaloba Hayaty](https://open.spotify.com/track/1J3fMjtLX9Am5iLNrhHRmR) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Maaloba Hayaty](https://open.spotify.com/album/6zn3nAXGhehDhp2enqc00j) | 4:08 | 2023-02-13 | 2023-02-22 |
 | [Mabalash](https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Omroh Ma Yeghib](https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq) | 4:08 | 2023-02-13 | 2023-05-24 |
 | [Mahmoum](https://open.spotify.com/track/6keIjQDrcBBjOqVwihbCUs) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Mahmoum](https://open.spotify.com/album/2fTNRkiGfbpb51e9ebgvOc) | 3:00 | 2023-02-13 | 2023-05-23 |

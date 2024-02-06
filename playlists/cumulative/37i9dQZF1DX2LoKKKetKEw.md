@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-251 songs - 13 hr 7 min
+252 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-08-25 |  |
 | [Assurance](https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Afolake](https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8) | [Assurance](https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv) | 2:49 | 2024-01-12 |  |
 | [At The Place Of Koinonia \- B’Ola / My Daddy My Daddy](https://open.spotify.com/track/6ECnlcVCKLIlO2b66N2M8P) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [At The Place of Koinonia \(B’Ola / My Daddy My Daddy\)](https://open.spotify.com/album/2et5SsDpaQAAwrnBg1JYcA) | 18:46 | 2023-11-17 | 2023-12-02 |
-| [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 | 2024-01-26 |  |
+| [Attention](https://open.spotify.com/track/6eW4bViVkUEJtFiLykrOrE) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [ATTENTION](https://open.spotify.com/album/6IWyzrY0BPHRyBryHiibgG) | 3:23 | 2024-01-26 | 2024-02-06 |
 | [Attention](https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Attention](https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ) | 2:49 | 2023-05-19 | 2024-01-27 |
 | [ATTNTN](https://open.spotify.com/track/18EBejyRsQZGCdUGcXKqYj) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [ATTNTN](https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU) | 3:16 | 2022-12-16 | 2023-03-08 |
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-08-25 |  |
@@ -225,6 +225,7 @@
 | [The Best](https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Best](https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV) | 2:37 | 2022-07-30 | 2023-12-14 |
 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 | 2022-07-30 | 2022-10-07 |
 | [The Way](https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Good To Go](https://open.spotify.com/album/1dxBEy0m0QhnpbTx7nGgjf) | 3:25 | 2023-12-01 |  |
+| [The Word](https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Word](https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9) | 2:52 | 2024-02-02 |  |
 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-05-19 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-12-01 |  |
 | [THIS YEAR \(Blessings\) \- North African Remix](https://open.spotify.com/track/6lsj28Ac7tqZUpILTwMfbs) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[North African Remix\]](https://open.spotify.com/album/5fGAs374BFHuzbA7rzfGyM) | 2:09 | 2023-05-19 | 2023-08-26 |

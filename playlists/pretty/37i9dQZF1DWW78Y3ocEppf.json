@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: VEDO",
-  "num_followers": 43242,
+  "num_followers": 43248,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjA4ODhmZjA2ZmU0YjA0YWI0M2UzYjM1YjcyZjFkYzNjYzhhYjYz",
+  "snapshot_id": "MCw5NzRjZGQ0YWU0NDc2MjE4ZDc4YzRlMjA5ZDM2ZWM0YzE4NjBhZDYz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -349,6 +349,26 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Step 2 Me",
+      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
       "added_at": "2023-07-14 17:29:23",
       "album": {
         "name": "Down Bad",
@@ -363,6 +383,22 @@
       "duration_ms": 175348,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 183705,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -399,42 +435,6 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 183705,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Soulection Takeover: 2K23 Edition",
-        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Soulection",
-          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "Step 2 Me",
-      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -517,26 +517,6 @@
       "url": "https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -583,6 +563,26 @@
       "duration_ms": 193413,
       "name": "Hardlife",
       "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229854,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
+    },
+    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Grudges",
@@ -787,22 +803,6 @@
       "duration_ms": 143360,
       "name": "Sin on Purpose",
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229854,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
     },
     {
-      "added_at": "2023-07-14 17:29:23",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Somebody",
@@ -1183,6 +1167,22 @@
       "duration_ms": 218000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1HWiS9m9JP4WrVycahNud7"
+    },
+    {
+      "added_at": "2023-07-14 17:29:23",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/443THossCBCsZQ91AKnBDP"
     },
     {
+      "added_at": "2022-09-30 04:04:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "duration_ms": 147792,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Maddest Hoes",
@@ -1413,20 +1429,20 @@
       "url": "https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON"
+        "name": "Hurt Before",
+        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
       },
       "artists": [
         {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 147792,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC"
+      "duration_ms": 122086,
+      "name": "Hurt Before",
+      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -1443,22 +1459,6 @@
       "duration_ms": 143743,
       "name": "Pretty Ass Bish",
       "url": "https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Hurt Before",
-        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 122086,
-      "name": "Hurt Before",
-      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "I'M THE PROBLEM",
+        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "Blame Yourself",
+      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "On Mine",
@@ -1529,20 +1545,20 @@
       "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
     },
     {
-      "added_at": "2023-09-01 04:55:52",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "I'M THE PROBLEM",
-        "url": "https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
       },
       "artists": [
         {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 249917,
-      "name": "Blame Yourself",
-      "url": "https://open.spotify.com/track/6tgy8rVvOzWDQxPxq3HwIu"
+      "duration_ms": 168026,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 154473,
       "name": "Ultimatum",
       "url": "https://open.spotify.com/track/5zk66vnFAMoc75yRYDfOiQ"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/6fBKjA7GfxT6PoEsT3zIHe"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/6NtlgDpSBBWWmY51DWcTfp"
     },
     {
       "added_at": "2023-09-01 04:55:52",
@@ -1697,6 +1697,22 @@
       "url": "https://open.spotify.com/track/2N3vxwIxjMKYCFJfGwucnf"
     },
     {
+      "added_at": "2023-05-05 04:18:58",
+      "album": {
+        "name": "212",
+        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Either Way",
@@ -1727,22 +1743,6 @@
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m"
     },
     {
       "added_at": "2022-11-18 05:00:00",

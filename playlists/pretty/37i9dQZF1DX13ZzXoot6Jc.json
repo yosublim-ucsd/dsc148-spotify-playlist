@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Luke Combs",
-  "num_followers": 456170,
+  "num_followers": 456145,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTI5NmMxYjliMjRkNmYyY2NmOTBhMjAzNzYzZWI3OTZkNGFmM2Q4",
+  "snapshot_id": "MCwzMzM0MmE4ZTEzYzA4NThjNjlmMDcwODc1NDg5MTdkN2Q0NmM4ZmNl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Handle On You",
-      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "Paint The Town Blue",
         "url": "https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 185133,
       "name": "Paint The Town Blue",
       "url": "https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Handle On You",
+      "url": "https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "See You Next Summer",
         "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Rolling Up the Welcome Mat (For Good)",
-        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "How Do I Do This",
-      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Telluride",
+      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/4oTgs7iS9gty8setMf2ljq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 157777,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1cfIq5AIU43TVwwEONe2n8"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Telluride",
-      "url": "https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Damn Love",
-        "url": "https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Sometimes She Stays",
-      "url": "https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "If We Were A Love Song",
         "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "The Whiskey's Gone",
-        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+        "name": "Damn Love",
+        "url": "https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1"
       },
       "artists": [
         {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 177186,
-      "name": "The Whiskey's Gone",
-      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
+      "duration_ms": 239000,
+      "name": "Sometimes She Stays",
+      "url": "https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -895,6 +879,22 @@
       "duration_ms": 247459,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
     },
     {
       "added_at": "2024-02-02 05:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-02 05:01:00",
       "album": {
-        "name": "Come Get Your Memory",
-        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Come Get Your Memory",
-      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
         "name": "If You Show Me Yours",
         "url": "https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 226666,
       "name": "If You Show Me Yours",
       "url": "https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn"
+    },
+    {
+      "added_at": "2024-02-02 05:01:00",
+      "album": {
+        "name": "Come Get Your Memory",
+        "url": "https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Come Get Your Memory",
+      "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
     },
     {
       "added_at": "2024-02-02 05:01:00",

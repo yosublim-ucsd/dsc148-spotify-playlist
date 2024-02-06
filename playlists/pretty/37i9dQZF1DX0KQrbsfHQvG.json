@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 192675,
+  "num_followers": 192711,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzkyNDkxZjc3NDA0NTI2ZDIzZmFjMjgxOThhN2E0YTNlOTg5ODc4",
+  "snapshot_id": "MCwzYWY2MWIxMTkzYTE0OTQ0NTM5YWZjODk4YjRiODcxYTNmZDU3OTQz",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Fuck Authority",
-      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "a modern tragedy vol. 2",
         "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 229531,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Fuck Authority",
+      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "We got it from Here... Thank You 4 Your service",
         "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
       },
@@ -479,6 +463,26 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "The Bastards",
         "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
       },
@@ -491,6 +495,22 @@
       "duration_ms": 185870,
       "name": "Massacre, The New American Dream",
       "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -527,26 +547,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Prayers for the Damned",
         "url": "https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk"
       },
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 195893,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 201956,
-      "name": "Hail To The Victor",
-      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/74LenWKjMdGa2qJiI1sxwT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 201956,
+      "name": "Hail To The Victor",
+      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Our House (The Mess We Made)",
         "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Year Zero",
-        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Capital G",
-      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "20/20 Vision",
         "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166893,
       "name": "Hate Conquers All",
       "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Year Zero",
+        "url": "https://open.spotify.com/album/0hdOzMPrGJiGjX3epBP8NN"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Capital G",
+      "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 223043,
+      "name": "Polygraph Eyes",
+      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Made An America",
         "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 189742,
       "name": "(The First Stone) Changes [feat. Yelawolf]",
       "url": "https://open.spotify.com/track/1kc3xvHmhXqXg4le5uYqLM"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 223043,
-      "name": "Polygraph Eyes",
-      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
     },
     {
       "added_at": "2023-06-23 04:01:00",

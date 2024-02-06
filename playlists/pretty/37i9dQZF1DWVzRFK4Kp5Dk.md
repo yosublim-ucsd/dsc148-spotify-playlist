@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,957 likes - 35 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,963 likes - 35 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzRFK4Kp5Dk.md) - [plain]
 | 34 | [No Rest for the Wicked](https://open.spotify.com/track/0pjr8WjW8VerCEuceIrCGE) | [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp) | [No Rest for the Wicked](https://open.spotify.com/album/0fx2VlNLHYEJvvyHZfZulw) | 3:47 |
 | 35 | [Ta på meg](https://open.spotify.com/track/7wfVd2m34upZyiZhJUdbZh) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Kjartanisme](https://open.spotify.com/album/37Aj1ObjDo2I8szkyiuAtJ) | 2:59 |
 
-Snapshot ID: `MCwyOTk4ZDc2NzQwZDVkMmQ2MjJmYjU1YTlhNTcwOWQ0ZWZjZGNmNmU2`
+Snapshot ID: `MCwzY2NjOWY5NmI3YmI4NTczMjBmODc2ZmNiNWU4YzY4OGY5ZDBjOGNk`

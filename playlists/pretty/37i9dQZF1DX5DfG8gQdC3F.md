@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from BADBADNOTGOOD, USHER, 24kGoldn, TALK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,028 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,016 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 10 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
 | 11 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 |
 | 12 | [I Grew Up On A Farm](https://open.spotify.com/track/3pBvU01semQ9Aia5KzoVGn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [I Grew Up On A Farm](https://open.spotify.com/album/3qMRbYb6ZnZlgVMMAOyppv) | 3:11 |
-| 13 | [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 |
+| 13 | [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 |
 | 14 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
 | 15 | [Dance Like No One’s Watching](https://open.spotify.com/track/5FpEdufuunZqzyQbyetevf) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:51 |
 | 16 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [One drink at a time](https://open.spotify.com/track/7FhL2olVe7ddfcle92XTYe) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [One Drink at a Time](https://open.spotify.com/album/1jRfid8WhTJjVcTUCam1Ip) | 3:21 |
 | 100 | [OMG! \(Freestyle\)](https://open.spotify.com/track/7oLzEMNTnR9AC8ggvV5eGL) | [Shareef](https://open.spotify.com/artist/1JH0doF0KQYyUyRmiykBqi) | [OMG! \(Freestyle\)](https://open.spotify.com/album/3UoICZ03kjUEzA1iyOL75H) | 2:26 |
 
-Snapshot ID: `MCxhZWNlM2NjMzg5YTZiMDlmYzBlOWE3ZDM1ZTZkY2M2ZDc3NDM2ZDNl`
+Snapshot ID: `MCw1NWE0NmU0ODY5NTUzZGMyNmY4NWZmNGM2YmRiYjlhMWZhZDVkOTY2`

@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 70323,
+  "num_followers": 70321,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzhlMmIyNzEzMDAxNDU3NDhlZTQxNGMwZDY4NTVjNTEwMTVjZGMy",
+  "snapshot_id": "MCxlNTI3OGUxODFiNjUxMzExZTU1OWQ1YmQ3NTE3YjgxZmU5YTBiOGE3",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Gimnasta",
         "url": "https://open.spotify.com/album/5p31Mq9lQGLUEfWhMMBSUp"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Trending",
-        "url": "https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Trending",
-      "url": "https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Kame Hame",
-        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Kame Hame",
-      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Dejanos Pasar",
         "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 175567,
       "name": "Dejanos Pasar",
       "url": "https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Kame Hame",
+        "url": "https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Kame Hame",
+      "url": "https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "EL FAVORITO DE LAS NENAS",
         "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 150887,
       "name": "CANDY \"4:00 PG\"",
       "url": "https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Miko",
-        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135013,
-      "name": "Miko",
-      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1139,18 +1107,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+        "name": "Miko",
+        "url": "https://open.spotify.com/album/2WbddxAsbB0puaya03zbpo"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 162013,
-      "name": "Despu\u00e9s Del Party",
-      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
+      "duration_ms": 135013,
+      "name": "Miko",
+      "url": "https://open.spotify.com/track/0ITEio7vNOlNQrGv0eTaRH"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1167,6 +1135,38 @@
       "duration_ms": 165293,
       "name": "BRUJULA",
       "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Despu\u00e9s Del Party",
+      "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Orgullo",
-        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
       },
       "artists": [
         {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 223389,
-      "name": "Orgullo",
-      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+        "name": "Orgullo",
+        "url": "https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+      "duration_ms": 223389,
+      "name": "Orgullo",
+      "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
-      },
-      "artists": [
-        {
-          "name": "Joonti",
-          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "TAYYA",
         "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 160000,
       "name": "TAYYA",
       "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
+      },
+      "artists": [
+        {
+          "name": "Joonti",
+          "url": "https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "XNO",
-        "url": "https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6"
+        "name": "Billete",
+        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+          "name": "Chen",
+          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
         }
       ],
-      "duration_ms": 188181,
-      "name": "XNO",
-      "url": "https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB"
+      "duration_ms": 163777,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1611,22 +1607,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Billete",
-        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
-      },
-      "artists": [
-        {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
-        }
-      ],
-      "duration_ms": 163777,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Arte",
         "url": "https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 192000,
       "name": "Arte",
       "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "XNO",
+        "url": "https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "XNO",
+      "url": "https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Las Criaturas: El Regreso",
-        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
-      },
-      "artists": [
-        {
-          "name": "Sammy & Falsetto",
-          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
-        }
-      ],
-      "duration_ms": 231827,
-      "name": "La Bebecita",
-      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Twisty",
         "url": "https://open.spotify.com/album/2ZF9vzq2iW6e6Xo1evM7N7"
       },
@@ -1855,6 +1823,38 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Las Criaturas: El Regreso",
+        "url": "https://open.spotify.com/album/3dDKCvYJNViQvZTLMcNank"
+      },
+      "artists": [
+        {
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        }
+      ],
+      "duration_ms": 231827,
+      "name": "La Bebecita",
+      "url": "https://open.spotify.com/track/1ixrtbkdlkVQnYusBAsIBQ"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Nena Buena",
         "url": "https://open.spotify.com/album/6H0y2FOaj4tPcZTQ1VRTUU"
       },
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4"
+        "name": "C\u00f3digos",
+        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 150229,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB"
+      "duration_ms": 216521,
+      "name": "En Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

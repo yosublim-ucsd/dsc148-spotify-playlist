@@ -4,7 +4,7 @@
 
 > glaivepilled
 
-1,945 songs - 3 day 16 hr 32 min
+1,946 songs - 3 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1168,7 +1168,8 @@
 | [MY LIL PONY](https://open.spotify.com/track/1aDv3rPaNbUsqsmKyQ0I6C) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [MY LIL PONY](https://open.spotify.com/album/1Mso2OzBVya3QKb7J3U7qD) | 2:24 | 2022-09-03 | 2022-10-22 |
 | [my mistakes as run on sentences](https://open.spotify.com/track/2Zlynhm62f2iSZhpB8h7kl) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [my mistakes as run on sentences](https://open.spotify.com/album/6LYcryceJaNUspKLhyKtcy) | 2:04 | 2022-09-03 | 2022-10-22 |
 | [Myself](https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:46 | 2021-01-23 | 2021-02-26 |
-| [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 | 2023-12-08 |  |
+| [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 | 2023-12-08 | 2024-02-06 |
+| [Myspace](https://open.spotify.com/track/5cXr56savehemj8ria2cxD) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 3:24 | 2024-01-22 |  |
 | [Naked](https://open.spotify.com/track/4bnMjvwpv1eVUn0xz8sItQ) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Superstar](https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA) | 3:25 | 2022-09-23 | 2022-10-22 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-04-12 | 2023-09-23 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-04-12 | 2023-06-18 |

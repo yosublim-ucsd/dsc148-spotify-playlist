@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-515 songs - 1 day 11 hr 46 min
+516 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/0cLlYeaT4ZQYQwHjipgIQQ) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/0qBAPMZBIkek4j6MIRLK3v) | 3:38 | 2023-12-30 |  |
 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 | 2023-12-30 |  |
 | [Don't Turn Around](https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:50 | 2023-12-30 |  |
-| [Don’t You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:28 | 2024-01-17 |  |
+| [Don’t You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:28 | 2024-01-17 | 2024-02-06 |
 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 | 2023-12-30 |  |
 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 | 2023-12-30 |  |
 | [Emergency..\. \(c'est juste pour rire\)](https://open.spotify.com/track/7wJvygRRDU8tWJGDw1KnVy) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Merci](https://open.spotify.com/album/1OywRJOoGaifH6Jug5zdLg) | 3:53 | 2023-12-30 |  |
@@ -379,6 +379,7 @@
 | [Save Me Tonight](https://open.spotify.com/track/18T30dIaan4ETXksSfpCJQ) | [Mick Jones](https://open.spotify.com/artist/7zQmORVNaWz1cW1KJB2cTX) | [Mick Jones](https://open.spotify.com/album/5geCRg9dV7n6cYTtVtbtr0) | 3:51 | 2023-12-30 |  |
 | [Save Up All Your Tears](https://open.spotify.com/track/6PlV2oZkDVq0dCDyDZqoTw) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 3:58 | 2023-12-30 |  |
 | [Saving Forever for You](https://open.spotify.com/track/6pVU9bk1Tvbqlq719vJooz) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:28 | 2023-12-30 |  |
+| [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2024-02-05 |  |
 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 | 2023-12-30 |  |
 | [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 | 2023-12-30 |  |
 | [Sheltered Heart](https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB) | 4:44 | 2023-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.",
-  "num_followers": 127266,
+  "num_followers": 127462,
   "original_name": "Family Movie Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDkzZDA5ODliZDJjZTIyMTg0NDU5ODUzNTYyZTFmMTk0ZWNlMTRk",
+  "snapshot_id": "MCw0M2NkMjUxMjRhZjVkMDU1NmY5NGFlMTU1OWEwMjAxOWE3MTI2NGRj",
   "tracks": [
     {
       "added_at": "2024-01-19 21:06:42",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-01-19 21:06:42",
       "album": {
-        "name": "Smash Mouth",
-        "url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH"
-      },
-      "artists": [
-        {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "I'm A Believer - Radio Edit",
-      "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"
-    },
-    {
-      "added_at": "2024-01-19 21:06:42",
-      "album": {
         "name": "The Book of Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
       },
@@ -2627,6 +2611,82 @@
       "duration_ms": 162466,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH"
+    },
+    {
+      "added_at": "2024-02-06 00:08:34",
+      "album": {
+        "name": "Shrek",
+        "url": "https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "I'm A Believer - From \"Shrek\" Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt"
+    },
+    {
+      "added_at": "2024-02-06 00:08:34",
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "added_at": "2024-02-06 00:08:34",
+      "album": {
+        "name": "The Sound Of Music (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R"
+      },
+      "artists": [
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
+        }
+      ],
+      "duration_ms": 140893,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0"
+    },
+    {
+      "added_at": "2024-02-06 00:08:34",
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Jerry Orbach",
+          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
+        },
+        {
+          "name": "Chorus - Beauty And the Beast",
+          "url": "https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "Be Our Guest",
+      "url": "https://open.spotify.com/track/6btdYzQ8eZFBrOlUKVHuz0"
     }
   ],
   "unique_name": "Family Movie Hits",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTNmY2JkYjM1ZTJkZGFmMDA2MGNiOGI2Yzk2NGY0NDMwMWQxMTRi",
+  "snapshot_id": "MCwyNGI5MDZiZTlhYTlmMzg4YzZhZTcxMWZkYTNiMWQxOWVkMDAwZTI1",
   "tracks": [
     {
       "added_at": "2024-01-29 17:19:17",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-01-29 17:19:17",
       "album": {
+        "name": "\u00bfqui\u00e9n dice?",
+        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 213647,
+      "name": "\u00bfqui\u00e9n dice?",
+      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2024-01-29 17:19:17",
+      "album": {
         "name": "Casa Lumbre",
         "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 144746,
       "name": "VAN A VER",
       "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
-    },
-    {
-      "added_at": "2024-01-29 17:19:17",
-      "album": {
-        "name": "\u00bfqui\u00e9n dice?",
-        "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 213647,
-      "name": "\u00bfqui\u00e9n dice?",
-      "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
     },
     {
       "added_at": "2024-01-29 17:19:17",

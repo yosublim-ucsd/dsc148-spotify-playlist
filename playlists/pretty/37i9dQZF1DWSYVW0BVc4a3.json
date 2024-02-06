@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground.",
-  "num_followers": 121259,
+  "num_followers": 121490,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmVlNmVhOTViMDcwYjY2OTdjZDI0ODRhOTZmZDc4YTVlOTI4ZjM5",
+  "snapshot_id": "MCw3MDgxYTMzYWZjY2VkZDhjNzJlZWZmMjk0ZDA1ZWQ1MzEyNTg1NGRk",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Biggest Regret (feat. Bbyafricka)",
         "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
       },
@@ -579,6 +599,26 @@
       "duration_ms": 230613,
       "name": "Biggest Regret (feat. Bbyafricka)",
       "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "No Reason (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 257419,
+      "name": "No Reason - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -607,46 +647,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "No Reason (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 257419,
-      "name": "No Reason - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Needle On The Record",
         "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
       },
@@ -679,6 +699,22 @@
       "duration_ms": 186625,
       "name": "Needle On The Record",
       "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -703,22 +739,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 199047,
       "name": "My City's On Fire (Anyma & Cassian Remix)",
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 302740,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
         "url": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
       },
       "artists": [
         {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1299,6 +1283,22 @@
       "duration_ms": 278225,
       "name": "Tontoron Tonton - Vlado & Rockywhereyoubeen Remix",
       "url": "https://open.spotify.com/track/5Ee8ES72Vh06MDIRleMYkA"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
+      },
+      "artists": [
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 180952,
       "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1723,18 +1723,26 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
+        "name": "Ride Out",
+        "url": "https://open.spotify.com/album/2L800Bi2aSWxL8M27dLdEJ"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Born Dirty",
+          "url": "https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Manny Torres",
+          "url": "https://open.spotify.com/artist/3Ndxx0FRhKrIWKtPO95UuP"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
+      "duration_ms": 163409,
+      "name": "Ride Out",
+      "url": "https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -1763,26 +1771,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Ride Out",
-        "url": "https://open.spotify.com/album/2L800Bi2aSWxL8M27dLdEJ"
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/396METRQZ7gA7NcQlOHuw4"
       },
       "artists": [
         {
-          "name": "Born Dirty",
-          "url": "https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Manny Torres",
-          "url": "https://open.spotify.com/artist/3Ndxx0FRhKrIWKtPO95UuP"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         }
       ],
-      "duration_ms": 163409,
-      "name": "Ride Out",
-      "url": "https://open.spotify.com/track/7o4psLIggxOLOIW1DOfzqM"
+      "duration_ms": 181875,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/47xWwrLbcQzPaIYfzT6tHw"
     },
     {
       "added_at": "2024-02-01 23:00:00",

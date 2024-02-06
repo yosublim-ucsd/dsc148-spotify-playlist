@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > "Ice Spice looks so Igbo\. Like her name is Chisom"
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,462 likes - 30 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,499 likes - 30 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 29 | [Babypiano](https://open.spotify.com/track/1Ohnxph900OeLlXj78mNwh) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n) | [Babypiano](https://open.spotify.com/album/2iga02bWi3unnuNY5J3nTa) | 2:31 |
 | 30 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 |
 
-Snapshot ID: `MCwwODY1OTMyNjkyM2Q2N2I5MzJiMjlmZGY1MTBlNTRmM2VjNDRlMTUy`
+Snapshot ID: `MCxiMmE4NWI5MmRkYTAxZjFkNGM3ODFhNjEwZmMwM2RmYjE1MzcwNGQ0`

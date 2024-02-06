@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Galerna",
+        "url": "https://open.spotify.com/album/2nP0osfNdXsf2la995d2db"
+      },
+      "artists": [
+        {
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
+        },
+        {
+          "name": "Carlos Ares",
+          "url": "https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188901,
+      "name": "Galerna",
+      "url": "https://open.spotify.com/track/33N2srwtlb1xwPmlVXGFhr"
+    },
+    {
+      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm"
       },
@@ -1448,7 +1470,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"

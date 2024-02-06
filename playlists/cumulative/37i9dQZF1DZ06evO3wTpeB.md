@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 56 min
+52 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,10 @@
 | [Pasaporte Colombiano](https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:46 | 2023-12-30 |  |
 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 | 2023-12-30 |  |
 | [Resiste](https://open.spotify.com/track/6NXti8tVz8vE6udH1UJkYD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Unknown Mizery de Babylon Warchild](https://open.spotify.com/artist/56o7VNkbWKgVZpmvSe2jqu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:13 | 2023-12-30 |  |
+| [Sentimiento Cotidiano](https://open.spotify.com/track/1Zpw8tdhQVVvFG8ih0eNg5) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:01 | 2024-02-05 |  |
 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 | 2023-12-30 |  |
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-12-30 |  |
-| [Sueños Sepultados](https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 4:25 | 2023-12-30 |  |
+| [Sueños Sepultados](https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 4:25 | 2023-12-30 | 2024-02-06 |
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-12-30 |  |
 | [Tú](https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:33 | 2023-12-30 |  |
 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 | 2023-12-30 |  |

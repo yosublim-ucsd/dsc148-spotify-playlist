@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66960,
+  "num_followers": 66970,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzMxOWFlZmZhOWQ2NTFlNWUzNTlmMjdhNzg1NzIzYzJkMzVjOGZm",
+  "snapshot_id": "MCxlNDI1MmM4ZjljYjRiYzMwNWM0ZDA2MjFmN2NlMjA2NGE5YjIyMjU4",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Delux",
+        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "M\u00e1s de Lo Que Te Imaginas",
+      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "RPDF",
         "url": "https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 203213,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Delux",
-        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "M\u00e1s de Lo Que Te Imaginas",
-      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
-      },
-      "artists": [
-        {
-          "name": "Hey B\u00e9sala",
-          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Desamorados",
-      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Vamos Perdiendo el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 241532,
       "name": "Dicen Que Estoy Muerto",
       "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN"
+      },
+      "artists": [
+        {
+          "name": "Hey B\u00e9sala",
+          "url": "https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Desamorados",
+      "url": "https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Volver a Empezar",
-        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Ll\u00e9vate Todo",
-      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Te Vale Madre",
         "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 190933,
       "name": "Te Vale Madre",
       "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Volver a Empezar",
+        "url": "https://open.spotify.com/album/2fLcckLUgyvXFt7AVJeBel"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Ll\u00e9vate Todo",
+      "url": "https://open.spotify.com/track/0CXeshXcp9ymzRNlrhSPp5"
     },
     {
       "added_at": "2023-10-27 21:57:42",

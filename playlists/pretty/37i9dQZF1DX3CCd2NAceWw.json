@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDQ5OWZkOWYzOTRkMTk5NWVlYjdjMjA3MzAwYjBhM2JiZDZhZGRi",
+  "snapshot_id": "MCw5OTEyYTU4YzViNDcxMWNlNjc2YTE4MTE2Mzg1OWY0ODI4ZGEzNjJk",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -231,6 +215,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
         "name": "Kill Bill (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Fire & Desire",
-      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -355,6 +339,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Fire & Desire",
+      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 118796,
       "name": "Is That Ight?",
       "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 356389,
-      "name": "Middle of the Ocean",
-      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -419,26 +403,6 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 188290,
-      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 253663,
       "name": "SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/1UsPflAuWTNteFUPJAJe8E"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 356389,
+      "name": "Middle of the Ocean",
+      "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
+        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 188290,
+      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 134387,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
         "name": "If Orange Was A Place",
         "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 134387,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -543,26 +543,6 @@
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 225011,
-      "name": "Girls Love Beyonc\u00e9 (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -599,6 +579,26 @@
       "duration_ms": 228000,
       "name": "STACK IT UP (feat. Project Pat)",
       "url": "https://open.spotify.com/track/12y1zgyEhUNbTXSagqjK20"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 225011,
+      "name": "Girls Love Beyonc\u00e9 (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv"
     },
     {
       "added_at": "2023-08-01 18:49:51",

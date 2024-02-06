@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 445557,
+  "num_followers": 445588,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDYzZmViY2Q3Yjk1OTY1ZjJhN2I2MzY0NmQ4MmJjNjM2MWVkNGQ2",
+  "snapshot_id": "MCwzNWRjMmI2MTlhMDRhYjVkOWZkOTM1MjIzMGE3OWE3ZTc3ZTA2YWQ4",
   "tracks": [
     {
       "added_at": "2024-02-01 14:34:43",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-02-01 14:34:43",
       "album": {
-        "name": "Memories Fade",
-        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 147474,
-      "name": "Memories Fade",
-      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
-    },
-    {
-      "added_at": "2024-02-01 14:34:43",
-      "album": {
         "name": "Palettes",
         "url": "https://open.spotify.com/album/1uP9SkTbdd8TCugL6cVbAz"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 92612,
       "name": "Stella's Story",
       "url": "https://open.spotify.com/track/5mKWuGgnZDnpl9wGKpwMDY"
+    },
+    {
+      "added_at": "2024-02-01 14:34:43",
+      "album": {
+        "name": "Memories Fade",
+        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 147474,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
     },
     {
       "added_at": "2024-02-01 14:34:43",

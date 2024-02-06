@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 538681,
+  "num_followers": 538680,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjA3MGQyZDA0MDYxZjU2ZDUxYWEzYzYwNGZhZjliZjM5YjE0ZjQy",
+  "snapshot_id": "MCw3YmQzZmMzNmY2ODQ1NzE3ZGRiNjI2NzgyYTBjMjIyNDZiYmU1NjAz",
   "tracks": [
     {
       "added_at": "2024-01-05 05:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Blues for the Red Sun",
         "url": "https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 233599,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Blast Tyrant (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -395,18 +379,34 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+        "name": "Blast Tyrant (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
         }
       ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
         }
       ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -455,22 +455,6 @@
       "duration_ms": 317033,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
-      },
-      "artists": [
-        {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
-        }
-      ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -507,38 +491,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
-      },
-      "artists": [
-        {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "The Fox",
-      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "The Action Is Go",
         "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
@@ -567,6 +519,54 @@
       "duration_ms": 356200,
       "name": "Supa Scoopa and Mighty Scoop",
       "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "The Fox",
+      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Agents Of Ahriman",
         "url": "https://open.spotify.com/album/1gHn0PVCJR5joKontf6iSw"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/2oBdRxAKkKn1S8MzwVuNwh"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
     },
     {
       "added_at": "2024-01-05 05:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-05 05:00:00",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2024-01-05 05:00:00",

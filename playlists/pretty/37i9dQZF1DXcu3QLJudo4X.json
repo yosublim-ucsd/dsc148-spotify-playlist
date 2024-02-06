@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 79172,
+  "num_followers": 79305,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjIwMzQzYTA4YTU0NWViNzViOGQ0MmE3NWM1ZDIzODVhOTEwMmEx",
+  "snapshot_id": "MCw0OGNjYjY3YjY3MTdlNTlkNWI4YzYwMGM2MjlhODgxODVjNGEyMWI4",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 167466,
       "name": "Spoonful - Single Version",
       "url": "https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 294373,
-      "name": "The Things (That) I Used to Do",
-      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 175040,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "I Pity The Fool",
-      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 175466,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "I Pity The Fool",
+      "url": "https://open.spotify.com/track/5sNhJi3tY90NDSXvnRyElL"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+      "duration_ms": 236360,
+      "name": "Stack-O-Lee",
+      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -799,22 +815,6 @@
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Stack-O-Lee",
-      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Let 'em Roll",
-        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
-      },
-      "artists": [
-        {
-          "name": "Hank Ballard",
-          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "King Of The Blues",
         "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 170866,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Let 'em Roll",
+        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
+      },
+      "artists": [
+        {
+          "name": "Hank Ballard",
+          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
     },
     {
       "added_at": "2023-08-23 10:30:13",

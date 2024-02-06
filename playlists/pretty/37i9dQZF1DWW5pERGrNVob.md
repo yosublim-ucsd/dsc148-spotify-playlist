@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,335 likes - 111 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,289 likes - 111 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 110 | [Hello Mama](https://open.spotify.com/track/5lUj2BXXpZnA3tXRVxCY7n) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:39 |
 | 111 | [Ten Nights](https://open.spotify.com/track/6zbHcliUyMYCI0NUUXcEEb) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:37 |
 
-Snapshot ID: `MCxiMjMzMGMyZWY3NWViMDljMmVkN2U1M2MyNjAzNzlmN2UyYTNkMWEz`
+Snapshot ID: `MCw5ZDgwMGNjMTY1M2FhNmE4NWQ0OTNlZjBhOGRjNTk3MjE2NWUxYTVh`

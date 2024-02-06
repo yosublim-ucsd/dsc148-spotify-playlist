@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,332 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,333 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 50 | [Globus](https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 2:08 |
 | 51 | [Lose](https://open.spotify.com/track/729EJVbWkITU4vAc690cFE) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Lose](https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP) | 4:51 |
 
-Snapshot ID: `MCwwZTk0ODA5Zjc1MDUyYmE0YjA0MGM3N2MyMDBkY2ExM2U5YTk1YjM1`
+Snapshot ID: `MCxiZTc2NDJiYTVkYWU5NTI2YWIwZTliYjFmOWQ5NjRkNTJmODI3OTc4`

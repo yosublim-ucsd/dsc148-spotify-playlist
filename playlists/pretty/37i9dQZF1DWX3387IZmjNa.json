@@ -1,37 +1,13 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tecca",
-  "num_followers": 2031998,
+  "num_followers": 2032095,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmZjOWMwNzRiOWE3Y2JlNmE0NTZlOTMzNjliNmRjN2EzOGM3NGZl",
+  "snapshot_id": "MCw4M2MwOWVmZGRjNDViYzY3NDM1N2NiZDJkNTVkZjEzMjFjNzg2NDQ1",
   "tracks": [
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "772 Love Pt. 3 (Your Love)",
-        "url": "https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "YNW BSlime",
-          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
-        },
-        {
-          "name": "Ynw4L",
-          "url": "https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "772 Love Pt. 3 (Your Love)",
-      "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
-    },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
@@ -207,6 +183,30 @@
       "duration_ms": 147366,
       "name": "Heal You",
       "url": "https://open.spotify.com/track/2JnOiKlp8ulULY4psJBbX8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "772 Love Pt. 3 (Your Love)",
+        "url": "https://open.spotify.com/album/3iHCxu9aeXcaqa65jpYWAa"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        },
+        {
+          "name": "Ynw4L",
+          "url": "https://open.spotify.com/artist/2dJ7qCfsYlwiI1vDpImybL"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "772 Love Pt. 3 (Your Love)",
+      "url": "https://open.spotify.com/track/1MscIf89IpZW9N9SUtBpsE"
     },
     {
       "added_at": "2024-02-02 05:00:00",

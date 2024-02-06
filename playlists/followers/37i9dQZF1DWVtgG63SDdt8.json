@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 323081,
+  "2024-02-06": 323128,
   "date_first_scraped": "2022-03-01",
   "description": "The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music.  Cover: <a href=\"spotify:artist:1q6xQXmuTccwh7gBR7ToUN\">Common Hymnal</a> ",
   "name": "New Music Friday Christian",
@@ -85907,10 +85907,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 102857,
       "name": "STOP WHAT YOU DIDNT START (SWYDS)",
       "url": "https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU"
+    },
+    {
+      "album": {
+        "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+        "url": "https://open.spotify.com/album/1Mgaje2RAFEIv4USFrid6J"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "STOP WHAT YOU DIDNT START (SWYDS)",
+      "url": "https://open.spotify.com/track/6T3FKJKjSsiisj3Hc6zr8v"
     },
     {
       "album": {

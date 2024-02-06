@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=hZ\-P14gXQpyHXFKhwdeyIg">Franja Du Plessis</a>  & <a href="https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO?si=2jyL5djIRRW2dS3gstwFYQ">Ruan Josh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,413 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,448 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [In My Oë](https://open.spotify.com/track/0mTqau9DRQi9w9hTZUqFrr) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 2:30 |
 | 50 | [Ons Sal Jonk Bly](https://open.spotify.com/track/4YQpy6oUJuNUFASeBLoO5r) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/4VT7eCzFTDo2iXaEDREPVP) | 4:25 |
 
-Snapshot ID: `MCw1ODZmNzMxZjhmMzI1YzY5NTFkYjcxYjY3ZDY4ZGMwNDY3MTY4N2E4`
+Snapshot ID: `MCxkMzhmYmM4ZjAzZjdkMDQyMDgwZjc1YjM0NWFkYTRkMDZlNTIxZTgx`

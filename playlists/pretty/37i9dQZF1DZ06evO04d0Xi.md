@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,686 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,693 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 41 | [Meu Bem Maior](https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Meu Bem Maior](https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae) | 3:37 |
 | 42 | [Te Amaria Outra Vez](https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 4:23 |
 | 43 | [Jesus, Meu Primeiro Amor](https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 6:56 |
-| 44 | [Fazendo o Impossível \(Ao Vivo\)](https://open.spotify.com/track/4IhFmvBx9bOynhtLCEOjVA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 4:28 |
-| 45 | [Apenas Um Toque](https://open.spotify.com/track/6vyBGkgcPlt6ztpCNxoWpS) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas Um Toque](https://open.spotify.com/album/2pComoIWGKFuSPQU6I3iuD) | 5:05 |
+| 44 | [Apenas Um Toque](https://open.spotify.com/track/6vyBGkgcPlt6ztpCNxoWpS) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas Um Toque](https://open.spotify.com/album/2pComoIWGKFuSPQU6I3iuD) | 5:05 |
+| 45 | [Pelo Fogo](https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 6:13 |
 | 46 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17) | 4:35 |
-| 47 | [Pelo Fogo](https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 6:13 |
+| 47 | [Fazendo o Impossível \(Ao Vivo\)](https://open.spotify.com/track/4IhFmvBx9bOynhtLCEOjVA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 4:28 |
 | 48 | [Efésios](https://open.spotify.com/track/2IT4tSAPF4eNQLvHh70YeT) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:28 |
 | 49 | [Peniel](https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 4:27 |
 | 50 | [Seu Lugar](https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Sonhos](https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC) | 3:26 |
 | 51 | [És Real Pra Mim](https://open.spotify.com/track/1lkGggSQYb4s6JKDuR9xfm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Terceiro Céu](https://open.spotify.com/album/798ewTqgND9GVg541W8w41) | 5:34 |
 
-Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDAzZDAyNjhjNjQxOGVlZjE4M2ZlZjZiN2Y2YjA2YTljZA==`
+Snapshot ID: `Mjg0NTIyMzEsMDAwMDAwMDA3ODI0NTA4OGRkZWU0OGY2Y2JjZThlYWRjZDkyZWI4Yw==`

@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 31189,
+  "2024-02-06": 31206,
   "date_first_scraped": "2024-02-02",
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
   "name": "This Is Ziggy Marley",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 288506,
       "name": "A Lifetime",
       "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/0MT9KFAob9TAw1FlMweOGi"
@@ -853,6 +853,28 @@
       "duration_ms": 200413,
       "name": "Still Is Still Moving To Me - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
       "url": "https://open.spotify.com/track/2g8VO3EAsee0UQBukJFuVm"
+    },
+    {
+      "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Toots Hibbert",
+          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
+      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
     },
     {
       "album": {

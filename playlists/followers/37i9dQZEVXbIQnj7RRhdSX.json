@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 1063147,
+  "2024-02-06": 1063058,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
@@ -3138,6 +3138,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
         "name": "TUNNEL",
         "url": "https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo"
       },
@@ -5387,7 +5405,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
@@ -16605,7 +16623,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
@@ -18117,7 +18135,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 189805,
       "name": "Lucky Luciano (feat. Emis Killa, Kid Yugi)",
       "url": "https://open.spotify.com/track/2RZR9XRof0ivCXsMXhNV43"
@@ -26327,7 +26345,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -28719,7 +28737,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 132308,
       "name": "SOLDI A CASA (feat. Ghali)",
       "url": "https://open.spotify.com/track/4pl1S8uglG2vYJ45IIgIo2"

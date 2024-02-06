@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 164951,
+  "2024-02-06": 164926,
   "date_first_scraped": "2023-06-14",
   "description": "Bienvenidx a la trampa mexa. Robot95 y Lucho SSJ en portada.",
   "name": "TRAPPERZ_MX",
@@ -4381,10 +4381,36 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 182497,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7"
+    },
+    {
+      "album": {
+        "name": "Tesla",
+        "url": "https://open.spotify.com/album/6GMnDpdnoQIovasah5i6n7"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Tony Trampa",
+          "url": "https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7"
+        },
+        {
+          "name": "Kacha",
+          "url": "https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182497,
+      "name": "Tesla",
+      "url": "https://open.spotify.com/track/3S4zdBo7Vf8RHsYCgfMceY"
     },
     {
       "album": {

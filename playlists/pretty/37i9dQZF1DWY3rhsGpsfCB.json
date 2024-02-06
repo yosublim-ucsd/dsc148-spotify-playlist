@@ -1,13 +1,29 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 18752,
+  "num_followers": 18775,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODMzZTNiNTZmNTA0MjdlNzg3N2UxOWMyODZiMjlhN2EyODNiOGRm",
+  "snapshot_id": "MCwwMWIwMTkzMGI2NmRhNmZiYjI2NDg1MThiNzgzZjUzMDlhMTE2NjU3",
   "tracks": [
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 229331,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
+    },
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 207585,
       "name": "prove it",
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 229331,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -179,42 +179,6 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "Luv You",
-        "url": "https://open.spotify.com/album/6EMCwCvW8DACv8CdvhFcFQ"
-      },
-      "artists": [
-        {
-          "name": "Del B",
-          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
-        },
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Luv You",
-      "url": "https://open.spotify.com/track/1UND1NooKdD1nW8zKLaSF9"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -239,6 +203,26 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
+        "name": "Luv You",
+        "url": "https://open.spotify.com/album/6EMCwCvW8DACv8CdvhFcFQ"
+      },
+      "artists": [
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        },
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Luv You",
+      "url": "https://open.spotify.com/track/1UND1NooKdD1nW8zKLaSF9"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
         "name": "Get Close",
         "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
+        "name": "+243",
+        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
+      },
+      "artists": [
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "duration_ms": 194857,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 133564,
       "name": "Realize (feat. taves)",
       "url": "https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "+243",
-        "url": "https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK"
-      },
-      "artists": [
-        {
-          "name": "Highlyy",
-          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
-        }
-      ],
-      "duration_ms": 194857,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
-        "name": "Put It Down",
-        "url": "https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0"
-      },
-      "artists": [
-        {
-          "name": "Adanna Duru",
-          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
-        },
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165340,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
         "name": "7 SEAS",
         "url": "https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 186500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
+        "name": "Put It Down",
+        "url": "https://open.spotify.com/album/7ig0qv5ZtpaX7NPAe4nok0"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        },
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165340,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/62eaGs2P7yf3R5z14KIcNl"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -799,34 +799,6 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
-        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        }
-      ],
-      "duration_ms": 207727,
-      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
-      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -851,6 +823,34 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
+        "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+        "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+        }
+      ],
+      "duration_ms": 207727,
+      "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
+      "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
         "name": "Foreigner (Remix)",
         "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 233400,
       "name": "Foreigner - Remix",
       "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
-        "name": "TEARS OF THE SUN",
-        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "YBGFA",
-      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
         "name": "Spell (Remix)",
         "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 173304,
       "name": "Spell - Remix",
       "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
+        "name": "TEARS OF THE SUN",
+        "url": "https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "YBGFA",
+      "url": "https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs"
     },
     {
       "added_at": "2024-02-02 05:49:31",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-02 05:49:31",
       "album": {
+        "name": "JJC",
+        "url": "https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "JJC",
+      "url": "https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu"
+    },
+    {
+      "added_at": "2024-02-02 05:49:31",
+      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY"
       },
@@ -1483,26 +1499,6 @@
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
-    },
-    {
-      "added_at": "2024-02-02 05:49:31",
-      "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/1HNJe2oOOTJFm04zLVaOB5"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        },
-        {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
     },
     {
       "added_at": "2024-02-02 05:49:31",

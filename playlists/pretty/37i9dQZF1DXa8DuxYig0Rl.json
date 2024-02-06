@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 23934,
+  "num_followers": 23957,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzI0YWY0MThlY2Q1ZmVlOTZkNWU0MjQ1YTM5MjU4ZDFhODI0NTAw",
+  "snapshot_id": "MCxiYmEyYmY1YjgyNDMxNmY3ZDYwYzY3YjU3YjdkNTBhMmU2ZmMyY2Uw",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "La Mucura",
-      "url": "https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 222191,
       "name": "Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/4xUihGiAEgWDu1DPGGZyKt"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "La Mucura",
+      "url": "https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "De Quen Chon",
-        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 149185,
-      "name": "Macorina Pon Pon",
-      "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "A Gozar!",
         "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
       },
@@ -499,34 +467,34 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 133000,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9"
+      "duration_ms": 195210,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
     },
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Aquellos Tiempos del Trio Matamoros",
-        "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
+        "name": "De Quen Chon",
+        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
       "artists": [
         {
-          "name": "Trio Matamoros",
-          "url": "https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
+      "duration_ms": 149185,
+      "name": "Macorina Pon Pon",
+      "url": "https://open.spotify.com/track/5lxFmlowvfZWpkhZL4Tctg"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -547,6 +515,38 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Aquellos Tiempos del Trio Matamoros",
+        "url": "https://open.spotify.com/album/3BHKao5ijqNQq4eCj8m6Ij"
+      },
+      "artists": [
+        {
+          "name": "Trio Matamoros",
+          "url": "https://open.spotify.com/artist/49J2FQGwlcwdE3AHT2PSOW"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/1WUFibguVgCU5jjFRezexh"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "D\u00f3nde Est\u00e1s Yolanda",
+      "url": "https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Baila Como las Estrellas, Vol. 8: Mambo",
         "url": "https://open.spotify.com/album/5UmWXq6NeU6uZZSG6w63bY"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
         }
       ],
-      "duration_ms": 187373,
-      "name": "D\u00f3nde Est\u00e1s Yolanda",
-      "url": "https://open.spotify.com/track/4J2EPwzxdv2ellgx5E4QnP"
+      "duration_ms": 190066,
+      "name": "Palillos Chinos",
+      "url": "https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Palillos Chinos",
-      "url": "https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Que Rico Mambo",
         "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 236235,
       "name": "Que Rico Mambo",
       "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+        "name": "Algo Nuevo en Danzon",
+        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
+      "duration_ms": 222197,
+      "name": "Campanario",
+      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -803,6 +819,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Pancha Baila en Turcos",
+      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -831,38 +863,6 @@
       "duration_ms": 185893,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Pancha Baila en Turcos",
-      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Algo Nuevo en Danzon",
-        "url": "https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
-        }
-      ],
-      "duration_ms": 222197,
-      "name": "Campanario",
-      "url": "https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "La Diablesa del rock",
-      "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Danzones a la Manera del Campeon, Vol. 1",
         "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 251585,
       "name": "Zacatlan",
       "url": "https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "La Diablesa del rock",
+      "url": "https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
-        "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Mambo del Polit\u00e9cnico",
-      "url": "https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Epoca De Oro De La Orquesta Aragon",
         "url": "https://open.spotify.com/album/4RWP2xolGJpzWAt3LEeL6a"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 159600,
       "name": "Cachita",
       "url": "https://open.spotify.com/track/1vQd06q85oRqunYmNTI1o7"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Plays Mucho Mambo... and Other Fantastic Compositions",
+        "url": "https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Mambo del Polit\u00e9cnico",
+      "url": "https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Pachito E\u00b4che",
         "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 188290,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2023-01-23 22:42:50",

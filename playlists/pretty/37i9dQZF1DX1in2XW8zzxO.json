@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 61612,
+  "num_followers": 61673,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWFiZDVjMDAyYjQ2N2M1MmFhYjU2MmE2MzE0MTQ2OGI0MzNhNmYx",
+  "snapshot_id": "MCw1YmZiMmYzMTNhMjU0ZGM4NTA4ZjVlZDRjMmM0Y2M3Mjk4Y2FjMTE4",
   "tracks": [
     {
       "added_at": "2024-01-25 23:01:00",
@@ -411,6 +411,30 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
+        "name": "Khekheleza (Dlala Dlala)",
+        "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "duration_ms": 329079,
+      "name": "Khekheleza (Dlala Dlala)",
+      "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
         "name": "Yahyuppiyah (feat. Pcee, EeQue, & Chley)",
         "url": "https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C"
       },
@@ -443,30 +467,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Khekheleza (Dlala Dlala)",
-        "url": "https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 329079,
-      "name": "Khekheleza (Dlala Dlala)",
-      "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -635,30 +635,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "I Feel Nice",
-        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Group Chat",
-          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "I Feel Nice",
-      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "Woza La!",
         "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 484285,
       "name": "Woza La!",
       "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "I Feel Nice",
+        "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Group Chat",
+          "url": "https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "I Feel Nice",
+      "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
     },
     {
       "added_at": "2024-01-25 23:01:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-01-25 23:01:00",
       "album": {
-        "name": "MOB TIES",
-        "url": "https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj"
-      },
-      "artists": [
-        {
-          "name": "TeraphoniQue",
-          "url": "https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m"
-        },
-        {
-          "name": "DNZL444",
-          "url": "https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9"
-        }
-      ],
-      "duration_ms": 426289,
-      "name": "MOB TIES",
-      "url": "https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
         "name": "The III Wise Men",
         "url": "https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 381484,
       "name": "Gedlela (feat. Kabelo Sings & Keynote)",
       "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
+    },
+    {
+      "added_at": "2024-01-25 23:01:00",
+      "album": {
+        "name": "MOB TIES",
+        "url": "https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj"
+      },
+      "artists": [
+        {
+          "name": "TeraphoniQue",
+          "url": "https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m"
+        },
+        {
+          "name": "DNZL444",
+          "url": "https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9"
+        }
+      ],
+      "duration_ms": 426289,
+      "name": "MOB TIES",
+      "url": "https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn"
     },
     {
       "added_at": "2024-01-25 23:01:00",

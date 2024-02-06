@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 54998,
+  "num_followers": 55040,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDA2Y2YzOGUzMDc4ODEzN2I0Y2FjMmRjOTk1OWVmNjk3NjgxNTk1",
+  "snapshot_id": "MCw4N2E5OWY0MGQxYjk4NTdkNTViNWM2NjY1YzBkNDI3ZGUxYjE5NzIz",
   "tracks": [
     {
       "added_at": "2024-02-01 05:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
-        "name": "La Banda Grande de la Sultana del Norte",
-        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 216226,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153088,
-      "name": "ME GUSTAS",
-      "url": "https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "ME GUSTAS",
+      "url": "https://open.spotify.com/track/3asg0JPGx2OKqor5jhZXT8"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "856 para el Mundo",
-        "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 281106,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
+        "name": "856 para el Mundo",
+        "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
         "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
         "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Quiero Ser",
-      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "Good Vibes Buenas Vibras",
         "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 194329,
       "name": "Antes y Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "Lo Raro de Mi Libreta",
+        "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 177399,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

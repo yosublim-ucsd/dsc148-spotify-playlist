@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Juan Baro.",
-  "num_followers": 17422,
+  "num_followers": 17424,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQwMzhhMDRiNmIyNWE2NTNkMDE2MDY0MmM1MWU2OWVhZTM3ZGVk",
+  "snapshot_id": "MCwyZjRjYTcxZTdlODE3MDM4NmJjN2JkODYwODQxNjhhYWFjZTM3MmYy",
   "tracks": [
     {
       "added_at": "2024-02-02 03:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "World of Hassle",
         "url": "https://open.spotify.com/album/06Zp2J6vjuVSOKHtFcFtJ0"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 184284,
       "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0Z0doi1s2mnSWBLLjlUAO1"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "dionysian",
+        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 190742,
+      "name": "dionysian",
+      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "dionysian",
-        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 190742,
-      "name": "dionysian",
-      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "p\u00e9talos",
-        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "p\u00e9talos",
-      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "No te sueltes",
         "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 225002,
       "name": "No te sueltes",
       "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "p\u00e9talos",
+        "url": "https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI"
+      },
+      "artists": [
+        {
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 210330,
+      "name": "p\u00e9talos",
+      "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Nueva forma",
+        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Nueva forma",
+      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Butoh iA",
         "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 143418,
       "name": "Butoh iA",
       "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Nueva forma",
-        "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Nueva forma",
-      "url": "https://open.spotify.com/track/0TDG3IR0swgn5RJuIR5c7f"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Sombra",
-        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
-      },
-      "artists": [
-        {
-          "name": "Gianna Sotera",
-          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 237888,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "KRAUT!",
+        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "KRAUT!",
+      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "Salto al Alba",
         "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 247149,
       "name": "Tiene Sentido",
       "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "KRAUT!",
-        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "KRAUT!",
-      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "Encandilante divino",
+        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
+      },
+      "artists": [
+        {
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+        }
+      ],
+      "duration_ms": 163676,
+      "name": "Azar",
+      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "CHORO",
         "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
-        "name": "Encandilante divino",
-        "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
       "artists": [
         {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
         }
       ],
-      "duration_ms": 163676,
-      "name": "Azar",
-      "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1643,22 +1659,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
-      },
-      "artists": [
-        {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
-        }
-      ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2024-02-02 03:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-02-02 03:00:00",
       "album": {
+        "name": "La Luna de Madrid",
+        "url": "https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu"
+      },
+      "artists": [
+        {
+          "name": "DouleurDolor",
+          "url": "https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "La Luna de Madrid",
+      "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
+    },
+    {
+      "added_at": "2024-02-02 03:00:00",
+      "album": {
         "name": "fotos\u00edntesis",
         "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 187826,
       "name": "fotos\u00edntesis",
       "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
-    },
-    {
-      "added_at": "2024-02-02 03:00:00",
-      "album": {
-        "name": "La Luna de Madrid",
-        "url": "https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu"
-      },
-      "artists": [
-        {
-          "name": "DouleurDolor",
-          "url": "https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "La Luna de Madrid",
-      "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
     },
     {
       "added_at": "2024-02-02 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 472037,
+  "num_followers": 472009,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTM2YjcwZWEwODhlZTlkNWEwMTJlNDM2Njk0ZDhjMDhhOGIzOGMw",
+  "snapshot_id": "MCxjNDBiNzFjNWE0ODVkYTAwZDg3YzgzYmEyM2Q5ZmI5NDFlYWM2YmM3",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
-      "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
-    },
-    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "Household Name",
@@ -771,6 +755,22 @@
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+    },
+    {
+      "added_at": "2023-10-05 15:20:21",
+      "album": {
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Broken Equipment",
-        "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
-      },
-      "artists": [
-        {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Pillar on the Bridge of You",
-      "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Broken Equipment",
+        "url": "https://open.spotify.com/album/3jtVIaacztzx3QPwwb1WU4"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Pillar on the Bridge of You",
+      "url": "https://open.spotify.com/track/3LLKiv5QJGmYN80xVGq1qg"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Pay the Price",
-        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
-      },
-      "artists": [
-        {
-          "name": "Glowing",
-          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
-        }
-      ],
-      "duration_ms": 216108,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "The Next Curse",
         "url": "https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+        "name": "Pay the Price",
+        "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Glowing",
+          "url": "https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm"
         }
       ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+      "duration_ms": 216108,
+      "name": "Pay the Price",
+      "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1451,6 +1435,22 @@
       "duration_ms": 170080,
       "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
       "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
-      },
-      "artists": [
-        {
-          "name": "Suntitle",
-          "url": "https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS"
-        }
-      ],
-      "duration_ms": 178404,
-      "name": "Burning Down a Denny's",
-      "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Car Crash",
         "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 243947,
       "name": "How Far Can You Push A Man?",
       "url": "https://open.spotify.com/track/0hwI2AEiMQV4M9oy99cvFa"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
+      },
+      "artists": [
+        {
+          "name": "Suntitle",
+          "url": "https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS"
+        }
+      ],
+      "duration_ms": 178404,
+      "name": "Burning Down a Denny's",
+      "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
     },
     {
       "added_at": "2023-09-08 20:23:35",

@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-85 songs - 6 hr 10 min
+86 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 | 2022-03-14 |  |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2022-03-14 |  |
 | [Iski Uski](https://open.spotify.com/track/0ON0JdGgRTVcCInt8j6eod) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:14 | 2022-03-14 |  |
-| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 | 2024-02-06 |
 | [Jhalla Wallah](https://open.spotify.com/track/1y8Ck6jFOyxNC59SrQJIn6) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ishaqzaade](https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu) | 5:51 | 2022-03-14 |  |
 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 | 2022-03-14 |  |
 | [Kala Sha Kala](https://open.spotify.com/track/48QEqHpLNEBpzW2Ef4LryG) | [Annamika](https://open.spotify.com/artist/4nRfn9j9OQZh1DXwmP3iA4) | [Bollywood to Bhangra](https://open.spotify.com/album/7zDbRVfHFjw7RqSIOedXWM) | 4:10 | 2022-03-14 | 2023-06-09 |

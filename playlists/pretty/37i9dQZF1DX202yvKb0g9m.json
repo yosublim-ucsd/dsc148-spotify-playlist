@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 112280,
+  "num_followers": 112337,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODAzYmIzYmI3NTZmNmEzNjQwOGQ2ZGI4NDcyZTA2NDE5MmQ3MzZm",
+  "snapshot_id": "MCw4NDQ5YzIwNTUyMmY3NzZjNGVlYzI4YTE5ZDJhZTc5MjBjZmVmNzIw",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Trax Classix",
         "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 247000,
       "name": "Miserablism - 2018 Remaster",
       "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -707,6 +707,26 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 386070,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        },
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
     },
     {
       "added_at": "2021-10-22 11:07:27",

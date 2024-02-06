@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,309 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,314 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 8 | [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 |
 | 9 | [L'école est finie \- Version stéréo](https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Sheila \(Compilation 2006\)](https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB) | 2:39 |
 | 10 | [Salut les copains](https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Salut les copains](https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K) | 2:36 |
-| 11 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd) | 2:24 |
+| 11 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/3rakh6DtVFDNlxLfYwiGsl) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/1GbMzpbeGFaR7fnJQYOc0P) | 2:24 |
 | 12 | [Ma biche](https://open.spotify.com/track/2xwpd8oRBZiEmCdRvhnzTl) | [Frank Alamo](https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM) | [Les Annees Barclay](https://open.spotify.com/album/574E4sQjG1V6mpuFrVWIpl) | 2:21 |
 | 13 | [Retiens la nuit](https://open.spotify.com/track/4dBzCMkzbZlEqgPitN3TgE) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'album de sa vie 100 titres](https://open.spotify.com/album/1UZ7nohagyt799Vw0vUU4c) | 2:55 |
 | 14 | [Mirza](https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/5dPrYYQcqfZh3Wg3cnS43w) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est ma chanson](https://open.spotify.com/album/5vcS1aftWAi42Jw7I8UXWP) | 2:58 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MCw1MzJjNjg4MTE1Njc3MDkxZGJmMDZmNjJhYTM2MTczZmU1ZmE4MmZk`
+Snapshot ID: `MCxjYmU3NDQ3NzkxYTY4YTZiYjBiMDY0NTlkNWE3OWE3NTNmNWVhY2Yz`

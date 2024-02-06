@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 424 songs - 1 day 3 hr 44 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 425 songs - 1 day 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -432,5 +432,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 422 | [TNT](https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 7:33 |
 | 423 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 |
 | 424 | [Don't Know Why](https://open.spotify.com/track/7f5zk7bC3XL5AuGvrg6rsp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Remastered 2022\)](https://open.spotify.com/album/3ul9GmXlTkmRMh3OciXxFR) | 3:06 |
+| 425 | [Velvet Portraits](https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 1:33 |
 
-Snapshot ID: `MTM0Miw5NjNhNTI4YmZlOGQxZTBkZWY2NTExZjU0MzJmY2ZlODY1YWZmYTky`
+Snapshot ID: `MTM0MyxjZmM0NzVkZGNkZDAxODRiOTcxNWQzNzNkODY1MWEzYWEzYTkzZWVh`

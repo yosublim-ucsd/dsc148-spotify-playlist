@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Racine Carr\u00e9e (Standard US Version)",
+        "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
+    },
+    {
+      "album": {
         "name": "Forte Forte de Lacoste - Pra Come\u00e7ar o Final de Semana",
         "url": "https://open.spotify.com/album/3cMus2DPrc3370m8whkCul"
       },

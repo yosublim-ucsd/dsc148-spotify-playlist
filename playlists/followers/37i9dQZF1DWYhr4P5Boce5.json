@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 200810,
+  "2024-02-06": 200839,
   "date_first_scraped": "2021-12-28",
   "description": "Songs of faith, hope, and the greatest of these, love.",
   "name": "Higher Love",
@@ -3619,7 +3619,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
@@ -3851,6 +3851,24 @@
       "duration_ms": 203120,
       "name": "You Are My Love",
       "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/4Occb1qba04U62lIRLbzlF"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "date_added": "2024-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
     },
     {
       "album": {

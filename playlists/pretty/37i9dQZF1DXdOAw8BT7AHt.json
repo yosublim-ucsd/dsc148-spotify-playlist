@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 53166,
+  "num_followers": 53178,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTI5MGFkODhmZjUxMjFjMmY0MGMzNzY4MDM0MWJhZDUzYjhkODVm",
+  "snapshot_id": "MCxhM2QxZmFhZTk1ZmNmMGNiOTkwNDNlMWRjMjhlNTk5ODcxNDhiY2Y2",
   "tracks": [
     {
       "added_at": "2024-01-19 00:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/4UgkFdXpJD0fhw06BMk0bz"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 165393,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Adore Adore Adore",
-      "url": "https://open.spotify.com/track/4UgkFdXpJD0fhw06BMk0bz"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "The Four Before",
+        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        },
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 227309,
+      "name": "Toneblerone",
+      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "feel something (feat. Izzy Spears)",
         "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 98000,
       "name": "USA",
       "url": "https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "The Four Before",
-        "url": "https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi"
-      },
-      "artists": [
-        {
-          "name": "Jetski",
-          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
-        },
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 227309,
-      "name": "Toneblerone",
-      "url": "https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Kids Wanna Dance",
-        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Kids Wanna Dance",
-      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Kids Wanna Dance",
+        "url": "https://open.spotify.com/album/4yh3NxpgLVxDac62H6sGDS"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Kids Wanna Dance",
+      "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "I Gotta Feeling",
         "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197648,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "No Guilt",
         "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 124120,
       "name": "No Guilt",
       "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/78hW2ZaZlq3XYQXYcUvaJN"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/4L7f6oFx9U2UmqRgQRPgJL"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
         "name": "Cry Your Eyes Out",
         "url": "https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti"
       },
@@ -947,18 +963,22 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/04E7cqmIEyxjJRpWrTPS1R"
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/1PzliOzk22FS6GOOLQF9Sy"
+      "duration_ms": 156430,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -995,22 +1015,18 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
         }
       ],
-      "duration_ms": 156430,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
-      },
-      "artists": [
-        {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Dubious Goals Committee",
-        "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
-      },
-      "artists": [
-        {
-          "name": "PROJECTOR",
-          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Dubious Goals Committee",
-      "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "MK Nothing",
         "url": "https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Dubious Goals Committee",
+        "url": "https://open.spotify.com/album/7ADlWHy7sSIq7qSiTCwPe8"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Dubious Goals Committee",
+      "url": "https://open.spotify.com/track/144Jot5eX2l1y9Q70ZlJPs"
     },
     {
       "added_at": "2024-01-19 00:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-19 00:00:00",
       "album": {
-        "name": "Daylight Robbery",
-        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
-      },
-      "artists": [
-        {
-          "name": "Boy Bleach",
-          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Daylight Robbery",
-      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
-    },
-    {
-      "added_at": "2024-01-19 00:00:00",
-      "album": {
         "name": "Thameslink",
         "url": "https://open.spotify.com/album/5GYdpToNRvYnXG3ob4aGEn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 178189,
       "name": "Thameslink",
       "url": "https://open.spotify.com/track/2HghPvscCDfcGWp56y6SRP"
+    },
+    {
+      "added_at": "2024-01-19 00:00:00",
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
     },
     {
       "added_at": "2024-01-19 00:00:00",

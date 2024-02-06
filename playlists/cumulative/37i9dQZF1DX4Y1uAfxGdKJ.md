@@ -4,11 +4,12 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-164 songs - 9 hr 1 min
+168 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Different Way](https://open.spotify.com/track/2gdz7MRCHpxQlR9FrGyTNM) | [Othyr](https://open.spotify.com/artist/4ZNya8Pc6fLVRytdM8pnkv) | [A Different Way](https://open.spotify.com/album/2PmFKGURKYeSO6CnyaVwmf) | 6:25 | 2022-09-23 |  |
+| [A\-Team](https://open.spotify.com/track/0gh0JYCZCFCPwujERZ9bF4) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [A\-Team](https://open.spotify.com/album/3eH46tY5DCKyb22dsonj2K) | 2:21 | 2024-02-05 |  |
 | [Aberdeen](https://open.spotify.com/track/5Zi4ss26YhBU16imt3WEJ3) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Aberdeen](https://open.spotify.com/album/6i9ncCIApWTzLU5T1auj3y) | 2:32 | 2023-03-31 | 2023-07-18 |
 | [Aether](https://open.spotify.com/track/6OGTsNLezT4aZugLdXx2Kd) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Aether](https://open.spotify.com/album/7ozCozfjn0AwrvukkMT45D) | 2:30 | 2023-11-24 |  |
 | [After the Rains](https://open.spotify.com/track/3nVHB5vFE9Zpj4BYXFc3w4) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Ascendant Waveforms](https://open.spotify.com/album/3yGCpmSTGWnkkIqb2e5xcG) | 3:49 | 2022-10-07 |  |
@@ -61,13 +62,14 @@
 | [Figures](https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Figures](https://open.spotify.com/album/0NAtQR6It2XhpFsD8DNgJg) | 2:48 | 2023-01-06 |  |
 | [Flex Complex](https://open.spotify.com/track/6HfFO4JqpSirwM5EVYpQZw) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Flex Complex](https://open.spotify.com/album/3XqkFPylvMnidsf3KMDDEA) | 6:06 | 2022-11-25 | 2023-07-18 |
 | [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 | 2022-10-07 | 2023-07-18 |
+| [Forest Synergy](https://open.spotify.com/track/0SW3b9j7KK2uJAjsLPFkBf) | [Bahtar](https://open.spotify.com/artist/4n53TzoRFhYOjUHMFHBm7d) | [Forest Synergy](https://open.spotify.com/album/1pLFuOlm0noI0gcsAtdIqO) | 3:18 | 2024-02-05 |  |
 | [Forever Moving](https://open.spotify.com/track/4yVDSZslGasus5bSI1GOUH) | [Wai](https://open.spotify.com/artist/2naLLiIUfTp0IxAN6JM3hn) | [Party On The Block](https://open.spotify.com/album/5Kxpj5sNgDOgARuquZO2jD) | 2:59 | 2022-09-23 | 2023-07-18 |
 | [Foundations](https://open.spotify.com/track/1KqRI4mAyLW1mpFJQnJCAM) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Foundations](https://open.spotify.com/album/2HBKB3dd2w35aDG7Y17JyA) | 2:11 | 2022-11-25 |  |
 | [Fourth Great Year](https://open.spotify.com/track/4Dc8vlnTDInfrPrHgBC4HS) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Fourth Great Year](https://open.spotify.com/album/5G8WnxsQ0KdNPKl9PArltd) | 2:25 | 2022-10-28 |  |
 | [Francisco](https://open.spotify.com/track/0H3e2aKIJo154hMg1fcTE2) | [Ocean Grape](https://open.spotify.com/artist/6jVI2QqhcksiDyvkBPAgtR) | [Francisco](https://open.spotify.com/album/609Yhbf9SQvk7pFEQWqU4H) | 2:27 | 2023-03-17 |  |
 | [Free Range](https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 2:38 | 2022-09-23 | 2023-07-18 |
 | [From Here To Eternity](https://open.spotify.com/track/0CVApUBXDYlSnqFtAl7E1S) | [Toby Tech](https://open.spotify.com/artist/3AIUmOlOCNpbVbYL9RirIM) | [From Here To Eternity](https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7) | 4:41 | 2022-09-23 | 2023-07-18 |
-| [FUBAR](https://open.spotify.com/track/57YQVOGyS0QWE8QOo9S0gF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Thursday All Nighter](https://open.spotify.com/album/692XUSqcbSLY9WBtLo9fGx) | 3:32 | 2023-05-22 |  |
+| [FUBAR](https://open.spotify.com/track/57YQVOGyS0QWE8QOo9S0gF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Thursday All Nighter](https://open.spotify.com/album/692XUSqcbSLY9WBtLo9fGx) | 3:32 | 2023-05-22 | 2024-02-06 |
 | [full throttle](https://open.spotify.com/track/2IBYFJJgdQvE83nt5q3Mds) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [full throttle](https://open.spotify.com/album/4I5SkvhNL9K4jXHDq2Ml9J) | 2:51 | 2022-12-16 |  |
 | [Galaxies](https://open.spotify.com/track/0HvT91CmD0AyTLPHzlABrn) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Galaxies](https://open.spotify.com/album/3bSYn35WoiHldPymVmaU4d) | 2:44 | 2022-10-07 | 2023-06-24 |
 | [Glacier](https://open.spotify.com/track/2W8nY0OmBoOaPtGxtJ3chw) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Glacier](https://open.spotify.com/album/73k8K7hyjXrHqmfEXpOyZf) | 2:12 | 2023-03-03 |  |
@@ -76,6 +78,7 @@
 | [Grapefruit](https://open.spotify.com/track/7EC8AM9PK4WHwyD8WIdZPa) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [Grapefruit](https://open.spotify.com/album/6oUQuDi0THc5zLK2cpoO2q) | 4:03 | 2023-06-23 |  |
 | [Half\-Light](https://open.spotify.com/track/3VGEC6MUbZTRjg93etNpw8) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Half\-Light](https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2) | 2:47 | 2022-09-23 | 2023-07-18 |
 | [Harmonic Science](https://open.spotify.com/track/5L51jltonR4PoeuaU9XnrF) | [Dowling](https://open.spotify.com/artist/0neKNhlcWSaKjxbRNRGczb) | [Harmonic Science](https://open.spotify.com/album/0cmCnqDEIZ6XamJnrqvz2U) | 4:00 | 2023-12-01 |  |
+| [Heading Back](https://open.spotify.com/track/3QT6mUIoG5ejZSazN5uoNb) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Severance](https://open.spotify.com/album/3z1oTe3iJBfBeFggxJulyZ) | 3:48 | 2024-02-05 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 | 2023-07-18 |
 | [I Kinda Like It](https://open.spotify.com/track/5Z4zrfHfykFUhSqNnt2Ubd) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [I Kinda Like It](https://open.spotify.com/album/4Fl0fWnj9sqmEI8mN3dIOu) | 2:27 | 2023-10-20 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
@@ -90,7 +93,7 @@
 | [Lhotse](https://open.spotify.com/track/2nnC39bmk3IhgU6Y234PEW) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Lhotse](https://open.spotify.com/album/0UOdspMM2Np1WVALtBLVdx) | 4:28 | 2022-09-23 |  |
 | [Liberty](https://open.spotify.com/track/1cJQgFcJzvGTtDeckN3E4B) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Liberty](https://open.spotify.com/album/6mgtlDn3NEr06rd4GYb6tR) | 2:17 | 2023-04-21 |  |
 | [Make It Ok](https://open.spotify.com/track/2xKYapqsbXe0KC4Q2hnTKc) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Make It Ok](https://open.spotify.com/album/0nUyUtuNpDi36HYT1JfU2x) | 2:32 | 2022-10-28 |  |
-| [Makes No Difference](https://open.spotify.com/track/1tER9ctlfFASFYpqGLb2Ux) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Makes No Difference](https://open.spotify.com/album/5O8TtrUD1c9OjG8I5H7y3N) | 2:40 | 2023-02-03 |  |
+| [Makes No Difference](https://open.spotify.com/track/1tER9ctlfFASFYpqGLb2Ux) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Makes No Difference](https://open.spotify.com/album/5O8TtrUD1c9OjG8I5H7y3N) | 2:40 | 2023-02-03 | 2024-02-06 |
 | [Meia](https://open.spotify.com/track/1G6EfETRr0lUPuTcJPlBiY) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Meia](https://open.spotify.com/album/2IfD8qk6bCxCuQmtraOZRs) | 2:29 | 2022-09-23 | 2023-07-18 |
 | [Memoria](https://open.spotify.com/track/1t9TTxVV7JYE3TqOXalOlc) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ysii](https://open.spotify.com/album/0Zoe3s98XNtiboI1Qhw2Ti) | 4:26 | 2022-09-23 | 2023-07-18 |
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2022-09-23 |  |
@@ -110,12 +113,13 @@
 | [Original Game](https://open.spotify.com/track/5q0KwjJ7RhmdnqlS6h1oEL) | [Caribbean Tiger](https://open.spotify.com/artist/06doN8kiUlhzC22kxfpmrU) | [Coconut Catch](https://open.spotify.com/album/3nK3B6WCVagAsC1y52Abl1) | 2:24 | 2023-05-22 |  |
 | [Osmosis](https://open.spotify.com/track/6GgPl2EbOG69cvo59kETdw) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Osmosis](https://open.spotify.com/album/7gIZQbcjtE5edqwBu9DwMQ) | 3:21 | 2022-11-25 | 2023-07-18 |
 | [Our Time Now](https://open.spotify.com/track/2aZuFiKKYc1nA9ASa2ymwq) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Our Time Now](https://open.spotify.com/album/6KtMeqAX5259a1x3E2i1RS) | 2:15 | 2022-09-23 | 2023-04-15 |
+| [Over 'n Out](https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN) | [Trice](https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO) | [Over 'n Out](https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL) | 3:51 | 2024-02-05 |  |
 | [Palm breeze](https://open.spotify.com/track/13VChL0DMrzA6fCSoFBZjj) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Palm breeze](https://open.spotify.com/album/5zTLMA31d9gvUHaOwJt4Ir) | 2:20 | 2023-11-24 |  |
 | [Palm Springs](https://open.spotify.com/track/33Qvtl9E5ARA8HOxgEBX4v) | [Mason Madris](https://open.spotify.com/artist/4fJWxGIcLWTW9BGjDBy7Yo) | [Palm Springs](https://open.spotify.com/album/6LxmhD0Jkhbt8r8CcYcxBf) | 3:50 | 2022-09-23 |  |
 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 | 2023-03-17 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 | 2023-07-18 |
 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 | 2023-02-17 |  |
-| [Piano Man](https://open.spotify.com/track/57nluTSCxSSYvgrWaqdE9J) | [Piankow](https://open.spotify.com/artist/3oiqntF7hzsfY8HghMi1rT) | [Piano Man](https://open.spotify.com/album/0n7wZMmkSV7FMmB1BO9r1S) | 3:06 | 2023-12-01 |  |
+| [Piano Man](https://open.spotify.com/track/57nluTSCxSSYvgrWaqdE9J) | [Piankow](https://open.spotify.com/artist/3oiqntF7hzsfY8HghMi1rT) | [Piano Man](https://open.spotify.com/album/0n7wZMmkSV7FMmB1BO9r1S) | 3:06 | 2023-12-01 | 2024-02-06 |
 | [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 | 2023-04-14 |  |
 | [Pomegranate](https://open.spotify.com/track/2mwoZ2aQjHtzoyuTXkiQTt) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Pomegranate](https://open.spotify.com/album/1M3AFo4YY0SMNxyb3Ih7pr) | 2:24 | 2023-10-02 |  |
 | [Portamento](https://open.spotify.com/track/563A3oAQnjkDEqEjlbs2bO) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Hey Valentine](https://open.spotify.com/album/4oFLsHYWq3URi7y8zdDg6r) | 2:28 | 2022-10-14 |  |

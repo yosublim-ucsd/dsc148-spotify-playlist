@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 203895,
+  "2024-02-06": 203924,
   "date_first_scraped": "2022-05-30",
   "description": "Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.",
   "name": "Quiet Hours",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 105500,
       "name": "2013",
       "url": "https://open.spotify.com/track/3PJIKoSgXBohYJ4qTwRzyd"
@@ -2779,6 +2779,24 @@
     {
       "album": {
         "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190746,
+      "name": "Islas Canarias",
+      "url": "https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp"
+    },
+    {
+      "album": {
+        "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s"
       },
       "artists": [
@@ -4293,7 +4311,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 120058,
       "name": "Rainy Forest",
       "url": "https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV"
@@ -6163,6 +6181,24 @@
       "duration_ms": 155200,
       "name": "We",
       "url": "https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW"
+    },
+    {
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/0ujB62hPrIpRUbFdm9Ok8u"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "when the leaves come falling down",
+      "url": "https://open.spotify.com/track/0h8K825a2eDfiKBc2E60RB"
     },
     {
       "album": {

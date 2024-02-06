@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-297 songs - 19 hr 11 min
+298 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-02-08 | 2022-05-25 |
 | [All of These Things](https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP) | [Emil Otto](https://open.spotify.com/artist/6J3pcOji8HrXy4nrnFd68H), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq) | [Ain’t Love a Beautiful Thing](https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y) | 3:34 | 2022-09-08 | 2023-05-06 |
 | [And Then There Was You](https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:05 | 2022-12-08 | 2023-05-06 |
-| [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 | 2021-11-19 |  |
+| [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 | 2021-11-19 | 2024-02-06 |
 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 | 2022-12-08 | 2023-05-06 |
 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 | 2021-11-19 |  |
 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 | 2021-11-19 |  |
@@ -64,6 +64,7 @@
 | [By the Time I Get to Phoenix](https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB), [Koh Mr\. Saxman](https://open.spotify.com/artist/0DT7rzrK9vI0ZC8R8uCb6j) | [Mood](https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ) | 4:38 | 2021-11-19 |  |
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-11-29 | 2023-04-27 |
 | [Can't Fight Love](https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW) | [Marifé](https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X) | [Can't Fight Love](https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV) | 4:16 | 2021-11-19 |  |
+| [Catwoman](https://open.spotify.com/track/1bOkcokcnMh8xwjwkIDfM6) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/6TvDKiV5Wd3D4NiF9oywoX) | 3:31 | 2024-02-02 |  |
 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 | 2021-11-19 | 2024-01-18 |
 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 | 2021-11-19 |  |
 | [Changing Lanes](https://open.spotify.com/track/75aqwHrxFwyhBDEKkLSq3S) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Changing Lanes](https://open.spotify.com/album/79kk1P3ZjLoVtsWveGxF5C) | 3:19 | 2021-11-19 | 2022-07-29 |

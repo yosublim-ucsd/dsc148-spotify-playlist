@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-820 songs - 2 day 1 hr 13 min
+822 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [I'll Tell You When I Understand](https://open.spotify.com/track/0c0dPCcW7KU6SKChawzOCf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I'll Tell You When I Understand](https://open.spotify.com/album/1ZHRZhPFBCY3y8cXq1K78l) | 3:06 | 2022-12-08 |  |
 | [I'm Glad There Is Us](https://open.spotify.com/track/0Pvw3low3habLe1L9lM4Vy) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [I'm Glad There Is Us](https://open.spotify.com/album/4uCtHRBUPa4sxng6Thu10D) | 4:00 | 2023-08-10 |  |
 | [I'm In The Mood For Love](https://open.spotify.com/track/2MYMJ5KztaWTeWILbZ1QYt) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [I'm In The Mood For Love](https://open.spotify.com/album/3O9IgokX9F0fFYpbjjkU4z) | 3:45 | 2023-06-15 | 2024-02-05 |
-| [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-06-28 |  |
+| [I'm in the Mood for Love](https://open.spotify.com/track/5mmeNg2rN1v5VPvgO43uRT) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I'm in the Mood for Love](https://open.spotify.com/album/7ps9PviK3EPPUJbZ7hPrsi) | 4:14 | 2022-06-28 | 2024-02-06 |
 | [I'm Not Myself Anymore](https://open.spotify.com/track/6oSK13LFez9J8gCpGbtMjx) | [Len Stark Band](https://open.spotify.com/artist/4u9GPWB44FwZ76cXVUnuKB) | [I'm Not Myself Anymore](https://open.spotify.com/album/0jYdse5LgBxoVkMF28IaGz) | 5:05 | 2022-06-28 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/6Z2gqKsxunB5ILpTiAn6Wg) | [Hooks and Lines](https://open.spotify.com/artist/0YUdQnLsDe3i8B5EEW9bQQ) | [I'm Old Fashioned](https://open.spotify.com/album/4wN6ip0j2fH9ZHoYNAIpzp) | 3:11 | 2023-06-15 |  |
 | [i've got a crush on you](https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [i've got a crush on you](https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4) | 3:36 | 2023-02-16 |  |
@@ -445,6 +445,7 @@
 | [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 | 2023-04-20 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-10-13 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2022-08-30 |  |
+| [Love's Declaration](https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB) | [Gail Cameron](https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg) | [Love's Declaration](https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml) | 3:37 | 2024-02-02 |  |
 | [Low In The Sky](https://open.spotify.com/track/64IxUrxbv4r5Mwxxez5IV2) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Low In The Sky](https://open.spotify.com/album/3zuk8Y55rA8Dc5BuW7tVJu) | 3:49 | 2023-06-15 |  |
 | [Lucidity](https://open.spotify.com/track/26Ei3Nv4ZZpSNDoGLWlcmR) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Lucidity](https://open.spotify.com/album/30ilOuAd7ASl8gFQeD4a1v) | 3:30 | 2022-08-30 | 2023-09-02 |
 | [Lull](https://open.spotify.com/track/2tRFCDcdZLESmuzhPGWegf) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Lull](https://open.spotify.com/album/3vAtfJo2p2XX1ZcbIohHZh) | 3:45 | 2023-11-17 |  |
@@ -661,7 +662,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2022-06-28 |  |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-27 | 2023-09-01 |
 | [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-28 |  |
-| [Stars Fell on Alabama](https://open.spotify.com/track/6i27I5FwSeruTANEO9dyIQ) | [Laurie Sharon Quartet](https://open.spotify.com/artist/2fMJvUaoJ5LN2k49ZCdC5m) | [Stars Fell on Alabama](https://open.spotify.com/album/01cR4pvcJ4uDGHRYtkHQXe) | 4:41 | 2022-06-28 |  |
+| [Stars Fell on Alabama](https://open.spotify.com/track/6i27I5FwSeruTANEO9dyIQ) | [Laurie Sharon Quartet](https://open.spotify.com/artist/2fMJvUaoJ5LN2k49ZCdC5m) | [Stars Fell on Alabama](https://open.spotify.com/album/01cR4pvcJ4uDGHRYtkHQXe) | 4:41 | 2022-06-28 | 2024-02-06 |
 | [Stella By Starlight](https://open.spotify.com/track/22nFrPhzV9b5yzK8GFBbEG) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Stella By Starlight](https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U) | 2:45 | 2023-11-17 |  |
 | [Stella By Starlight](https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Figgy Mold](https://open.spotify.com/album/4p6Hg570bX3GCNL7mGGzWx) | 3:28 | 2022-08-30 | 2023-11-12 |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-06-28 |  |
@@ -765,6 +766,7 @@
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-28 |  |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
+| [Vinegar replacing honey](https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Vinegar replacing honey](https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0) | 2:52 | 2024-02-02 |  |
 | [W 52nd Street](https://open.spotify.com/track/37UFqtGPmHXElXarXjFtn5) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [W 52nd Street](https://open.spotify.com/album/6mURKCToOEmWlZkDeDduqU) | 3:43 | 2022-09-29 | 2023-08-13 |
 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-11-24 |  |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-05-04 |  |

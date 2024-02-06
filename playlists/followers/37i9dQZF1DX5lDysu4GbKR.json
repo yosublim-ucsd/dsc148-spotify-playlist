@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 595717,
+  "2024-02-06": 595721,
   "date_first_scraped": "2021-12-21",
   "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
   "name": "Acoustic Soul",
@@ -3349,10 +3349,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 221119,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs"
+    },
+    {
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/73z5oOi2581XQ9UVF5d4hM"
+      },
+      "artists": [
+        {
+          "name": "Bluey Robinson",
+          "url": "https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221119,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/44KX6krxJOPMNDBalsklXs"
     },
     {
       "album": {

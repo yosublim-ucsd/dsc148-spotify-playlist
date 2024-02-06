@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 192576,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 209625,
       "name": "El Joven",
       "url": "https://open.spotify.com/track/1pdOkwv8v4XHxtoVC5ucGK"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 193151,
       "name": "El Muchacho De La Barba - en Vivo",
       "url": "https://open.spotify.com/track/6CkRmXlHU4EK01FXpB4eyu"
@@ -848,6 +848,24 @@
       "duration_ms": 140543,
       "name": "Lumbre Al Cigarro",
       "url": "https://open.spotify.com/track/59c3aYfsXyTSo88Jet72tQ"
+    },
+    {
+      "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/1IGfld5xWP3kA5zVkWjMhb"
     },
     {
       "album": {
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 231625,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Vasito Rojo",
       "url": "https://open.spotify.com/track/7mzUUkd8RTfA9EeHxzfmlD"

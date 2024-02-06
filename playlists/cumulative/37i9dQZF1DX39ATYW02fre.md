@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-212 songs - 15 hr 58 min
+213 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,12 +200,13 @@
 | [Tried \(Now Tired\)](https://open.spotify.com/track/2MMFedjD0JTyEZTqp81QSF) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Joined Ends](https://open.spotify.com/album/1hkcIY5AZvA6U7mUPJ7ENB) | 5:01 | 2020-06-12 | 2022-07-29 |
 | [Try](https://open.spotify.com/track/3wgCA7ikyME6ac6AMN5jCf) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [I YOU SHE](https://open.spotify.com/album/7tBQBS0T6plojk62SkKyvm) | 3:32 | 2021-12-07 |  |
 | [Try Repeat](https://open.spotify.com/track/1C7UXk5mdvAVaz8q8w8pSr) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 3:57 | 2021-03-16 | 2022-07-29 |
+| [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-02-01 |  |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2020-06-05\* |  |
 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 | 2020-06-05\* | 2022-11-13 |
 | [Understand](https://open.spotify.com/track/5SzMlTF8yHxnYYLXDpyaac) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Dawn Chorus](https://open.spotify.com/album/3fDOKKGXHv4CsGCOTv4W3z) | 2:50 | 2020-06-07 | 2022-07-25 |
 | [Untold](https://open.spotify.com/track/7A5mMcksu3HJeJE9uKDYoX) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 4:18 | 2020-06-10 | 2021-05-28 |
 | [Venus Express](https://open.spotify.com/track/3qfBa57MQFM6ft1tq6J5sA) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Venus Express](https://open.spotify.com/album/6SlguWoUzAXJiMEsA2ewaA) | 3:58 | 2020-09-02 | 2022-07-27 |
-| [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2020-06-05\* |  |
+| [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2020-06-05\* | 2024-02-06 |
 | [Warm Puddles](https://open.spotify.com/track/5BMgscZZQtHbyflZypgE0B) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Blue 03](https://open.spotify.com/album/5PXvjruQZlkLp7CS3oBD6v) | 7:29 | 2021-04-20 | 2021-07-27 |
 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 | 2020-06-05\* | 2024-02-02 |
 | [Watercolor](https://open.spotify.com/track/3Q7c85fyBteQk6wa9dpimM) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Beneath Your Waves](https://open.spotify.com/album/6w6YeMj7cEIBs0iaxNcvPH) | 2:51 | 2020-06-12 | 2022-06-06 |

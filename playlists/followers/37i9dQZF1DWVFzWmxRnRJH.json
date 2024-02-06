@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 246546,
+  "2024-02-06": 246691,
   "date_first_scraped": "2022-01-02",
   "description": "A fun library of country hits to pass on to the next generation!",
   "name": "Raised on Country",
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 201986,
       "name": "Fishing In The Dark",
       "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
@@ -3229,7 +3229,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"

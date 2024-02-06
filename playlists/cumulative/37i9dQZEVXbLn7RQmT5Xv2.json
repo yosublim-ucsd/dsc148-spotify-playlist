@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 331714,
       "name": "Baoul Aady",
       "url": "https://open.spotify.com/track/1NkW18VV3QVOCuoVQsBC84"
@@ -11576,7 +11576,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 252075,
       "name": "Wo3ood",
       "url": "https://open.spotify.com/track/21xzasfNyth66koAVTkNTA"
@@ -12328,6 +12328,24 @@
       "duration_ms": 272514,
       "name": "\u0627\u0644\u0633\u0631",
       "url": "https://open.spotify.com/track/5jXlvpnQwhRmixTZ6oqMo3"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0633\u0643\u0631 \u062c\u064a (\u062e\u0648\u062c\u0629 \u0641\u064a \u0627\u0644\u062c\u0645\u0628)",
+        "url": "https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7"
+      },
+      "artists": [
+        {
+          "name": "Fares Sokar",
+          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "\u0627\u0644\u0633\u0643\u0631 \u062c\u064a (\u062e\u0648\u062c\u0629 \u0641\u064a \u0627\u0644\u062c\u0645\u0628)",
+      "url": "https://open.spotify.com/track/3Hf81fxwZmFrTgqaSqyTfw"
     },
     {
       "album": {
@@ -14506,7 +14524,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 194769,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > Canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ YUNGBLUD in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,462 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,469 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [SPLEEN!](https://open.spotify.com/track/60ns8P4vHE1eVcXcOcV0QP) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [SPLEEN!](https://open.spotify.com/album/3aAPpdHN9nbcJnbcLwdo0L) | 3:16 |
 | 85 | [Rotto\#1](https://open.spotify.com/track/3swVvF5V461kUD3POV1YeL) | [Camilla PNK](https://open.spotify.com/artist/27Uqdev5esWGfrnqmUuPdd) | [Rotto\#1](https://open.spotify.com/album/3vuqLrMRvJLDBHUh9W23FY) | 2:38 |
 
-Snapshot ID: `MCxmZDdhNzY2MjJlZTZkN2UxNGM1YmNkM2UxMTNkOTdhZWM5Y2Q1ZGZm`
+Snapshot ID: `MCxiMmNiYTI5MTc5MTgxNjNjZjFhZDI0MGE0MzE5YjA5Yzg0NmRmZjIy`

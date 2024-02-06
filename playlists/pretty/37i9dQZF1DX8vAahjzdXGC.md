@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,813 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,796 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 97 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 98 | [YHH \(It's You\)](https://open.spotify.com/track/2H9mlWjyOR2lK57LjvOwBy) | [Jira](https://open.spotify.com/artist/1nEMvNilshRdPzyDhFiZ7R) | [Faraway, So Close](https://open.spotify.com/album/1LGO5nhhTYJu7RrhApTU7m) | 3:45 |
 
-Snapshot ID: `MCwxOGIxYjUzZTgyMjFjZWYzZDY3MzBiMDhlZDExOWFhZDA2NTRhZDFm`
+Snapshot ID: `MCw0Y2FkYTUzMmZkMzY0NTE4N2E3YzAxZDE4NzNmYjkwN2I3NTRjYjYz`

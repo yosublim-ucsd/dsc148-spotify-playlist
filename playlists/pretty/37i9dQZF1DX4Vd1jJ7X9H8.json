@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on. Cover: Saltburn",
-  "num_followers": 306035,
+  "num_followers": 306164,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDg0NTMzNTBkY2M3NWNhYTczNTU1YmVlYjMwYzQxOGRmZTYxMjM3",
+  "snapshot_id": "MCw4YjBlNDRjMmZlNjAxMTY4MGNhMTFlN2UyNzhiYTViYTA2MDI3MGM1",
   "tracks": [
     {
       "added_at": "2023-12-27 20:39:24",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
         "name": "Foreign Language (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/2gTe12kWJnouYrPC5m72FC"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 244080,
       "name": "Foreign Language",
       "url": "https://open.spotify.com/track/5JFDFNp3jzckTyB0QwHuwp"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 243945,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
     },
     {
       "added_at": "2023-09-29 19:53:20",

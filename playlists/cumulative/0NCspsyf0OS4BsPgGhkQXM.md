@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,004 songs - 2 day 4 hr 40 min
+1,005 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -964,6 +964,7 @@
 | [Wavecheck](https://open.spotify.com/track/2jPjdjDSZ3FCZJu1k3k3to) | [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Wavecheck](https://open.spotify.com/album/6vutYAzI1aI9anCnIIrYIk) | 2:08 | 2023-04-28 | 2023-07-29 |
 | [Waves \(with RYYZN\)](https://open.spotify.com/track/5uPPjKE3J565ucK3CwhGq4) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Waves \(with RYYZN\)](https://open.spotify.com/album/39sXUDAbIh5B6o5ola9A3H) | 2:56 | 2022-10-19 | 2022-11-24 |
 | [Way Down](https://open.spotify.com/track/0zfIq0JObVjH33aSAHVpaq) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K) | [Way Down](https://open.spotify.com/album/0YgMyFZwXn61MoCADLULbm) | 3:25 | 2022-04-01 | 2022-05-18 |
+| [Way Down We Go](https://open.spotify.com/track/2AsFzfU7hUCtMGOYJWspub) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [DEspaux](https://open.spotify.com/artist/5lh1bq69nZxIirIH2TLqon) | [Way Down We Go](https://open.spotify.com/album/0HZ9SNLDKc0THEKsQA3Yvb) | 2:31 | 2024-02-05 |  |
 | [We Are One](https://open.spotify.com/track/76BB2WqsnN5Vq0u1qbbKKh) | [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [TINYKVT](https://open.spotify.com/artist/0sWZs1jin3oOieFS6lXE5T) | [We Are One](https://open.spotify.com/album/31BSHQIikqLF0xql9YP8h3) | 3:37 | 2022-04-21 | 2022-09-15 |
 | [We Don't Talk Anymore](https://open.spotify.com/track/7fVPyPDqf5IH6iUUjM92XG) | [BOXINBOX](https://open.spotify.com/artist/6kn7LhH5siatL0X1kefy0r), [Lionsize](https://open.spotify.com/artist/3AXTxnESIwvNxngE8j6weV) | [We Don't Talk Anymore](https://open.spotify.com/album/1QxCwZN8Qoz9925sqd80dv) | 3:15 | 2022-02-15 | 2022-03-19 |
 | [We Know Who We Are](https://open.spotify.com/track/0XRsIbKGrud2SKm7OO5MoS) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [We Know Who We Are](https://open.spotify.com/album/7IMv5rFMZMddNSbrmT9qlU) | 4:07 | 2022-02-18 | 2022-07-02 |

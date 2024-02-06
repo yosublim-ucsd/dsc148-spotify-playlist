@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-220 songs - 14 hr 49 min
+221 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Loose Change for the Boatman](https://open.spotify.com/track/63Se4AtqR6HSdkfsMS3mDl) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Gamble for a Rose](https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA) | 4:02 | 2021-10-08 |  |
 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 | 2021-10-08 |  |
 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 | 2021-10-08 | 2022-10-16 |
-| [Loving, Loving](https://open.spotify.com/track/2iLeGeoUvYkApP6bGA317d) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 3:20 | 2023-09-15 |  |
+| [Loving, Loving](https://open.spotify.com/track/2iLeGeoUvYkApP6bGA317d) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/063tb1WgyOWBna83hknk3Y) | 3:20 | 2023-09-15 | 2024-02-06 |
+| [Loving, Loving](https://open.spotify.com/track/630pFe0xdR8ljvl31EUgJo) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/7L34N3XXZnO92a5xxn6zox) | 3:20 | 2023-09-15 |  |
 | [Loving, Loving](https://open.spotify.com/track/74PqdCEXhh29g5a8UGIez8) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/6jKRogMVb2zVkd0RvpxCS2) | 3:20 | 2021-10-08 | 2024-01-27 |
 | [Madness](https://open.spotify.com/track/00ZJlTq0TVZCNxOUHRc8GM) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness Guarantee](https://open.spotify.com/album/4sI93ECsXC1eCBtYZk9IUT) | 3:31 | 2021-10-08 | 2022-11-14 |
 | [Madness](https://open.spotify.com/track/0XVQTr58DZbLUcjacnTp8k) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Madness](https://open.spotify.com/album/4SxovxXXvcl71iE9ptyJKF) | 3:31 | 2021-10-08 | 2022-07-29 |

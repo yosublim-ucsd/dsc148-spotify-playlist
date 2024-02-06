@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 151678,
+  "num_followers": 151752,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGFiZTI3YzFlY2NkNjk3N2I1NGY3NjA2ZmE1YTQ1YWQ0ZjU4ZjRm",
+  "snapshot_id": "MCxhNzBjOTU3NGU2MzA4OTJhY2Q0OGU1ZWU5MGQyZmNiY2JjNzg3YzI5",
   "tracks": [
     {
       "added_at": "2024-02-01 17:30:03",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-02-01 17:30:03",
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
+      "added_at": "2024-02-01 17:30:03",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2024-02-01 17:30:03",
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
-    },
-    {
-      "added_at": "2024-02-01 17:30:03",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 156000,
       "name": "Petals",
       "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
-    },
-    {
-      "added_at": "2024-02-01 17:30:03",
-      "album": {
-        "name": "Actual Life 2 (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 250291,
-      "name": "Faisal (envelops me)",
-      "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
     },
     {
       "added_at": "2024-02-01 17:30:03",
@@ -571,6 +555,22 @@
     {
       "added_at": "2024-02-01 17:30:03",
       "album": {
+        "name": "Actual Life 2 (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 250291,
+      "name": "Faisal (envelops me)",
+      "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
+    },
+    {
+      "added_at": "2024-02-01 17:30:03",
+      "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 323080,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/2iQPembmg5KvkqXU0sd6xo"
-    },
-    {
-      "added_at": "2024-02-01 17:30:03",
-      "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "added_at": "2024-02-01 17:30:03",
@@ -631,6 +615,22 @@
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
+    },
+    {
+      "added_at": "2024-02-01 17:30:03",
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "added_at": "2024-02-01 17:30:03",
@@ -859,18 +859,22 @@
     {
       "added_at": "2024-02-01 17:30:03",
       "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
     }
   ],
   "unique_name": "Melantronic",

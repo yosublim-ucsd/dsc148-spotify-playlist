@@ -3287,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Prine",
+          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142582,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
+    },
+    {
+      "album": {
         "name": "Before your eyes",
         "url": "https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Ice Spice, Phyno, Skepta, 21 Savage, Nicki Minaj and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,971 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,103 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [PAINTING PICTURES](https://open.spotify.com/track/6RGH7mvHffrBcHuW60vgZB) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/1mHSRTfrDnc4LmEOH0ISTC) | 2:05 |
 | 50 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 |
 
-Snapshot ID: `MCwyMTZmNjdkOWMyYTdhMDMwYjgyZjEzYTBhMDM0YTA3ZWVhOGZhZjA3`
+Snapshot ID: `MCxlMGQ4NmI3ZjkwYTAwOTc1NzM0MmY1MGI2YzhhYjMxODc3MWM3NTk5`

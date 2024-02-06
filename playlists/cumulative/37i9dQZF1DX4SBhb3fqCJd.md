@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Muni Long
+> Where R&B lives\. Cover: Victoria Monét
 
 414 songs - 23 hr 25 min
 

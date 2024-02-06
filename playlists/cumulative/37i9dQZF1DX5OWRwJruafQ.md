@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-303 songs - 14 hr 22 min
+304 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [4 Days](https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7) | [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [4 Days](https://open.spotify.com/album/7c9es6ncieiN3y3tGVyxPV) | 3:41 | 2024-01-27 |  |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 |  |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
+| [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 | 2024-02-05 |  |
 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 | 2024-01-06 |
 | [Adulthood](https://open.spotify.com/track/5D8O2iH92KcvTpHRb691DF) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Adulthood](https://open.spotify.com/album/1vYVjhzmdVzLN6pM8enlFO) | 1:09 | 2023-03-29 | 2023-04-21 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-04-20 | 2023-05-06 |
@@ -227,7 +228,7 @@
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 | 2024-01-20 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 | 2023-07-06 |
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 |  |
-| [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 | 2024-01-24 |  |
+| [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 | 2024-01-24 | 2024-02-06 |
 | [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 |  |
 | [Peg](https://open.spotify.com/track/1BzaLzFeLkorzxblbTfzS0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:16 | 2023-06-29 |  |
 | [Pehli Vaari](https://open.spotify.com/track/6TCiIez3DSy7ZwpBQ4RWrw) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Supremacy](https://open.spotify.com/album/4isvJOYqf8qa24FykMvycD) | 3:18 | 2023-03-29 | 2023-04-15 |

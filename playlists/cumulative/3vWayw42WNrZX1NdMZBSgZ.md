@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias &amp; Yotuel &quot;Fría&quot;, Christian Nodal &amp; Peso Pluma &quot;La Intención&quot; Prince Royce &amp; Gabito Ballesteros &quot;Cosas de la Peda&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot;
 
-705 songs - 1 day 13 hr 54 min
+706 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 | 2023-05-31 |  |
 | [Himalaya](https://open.spotify.com/track/74KFolNpy0UwidpiCu8oT4) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Himalaya](https://open.spotify.com/album/5kMPhrT7xXXQwT13qko9WN) | 3:17 | 2022-02-25 | 2023-05-26 |
 | [Hola](https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hola](https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z) | 2:47 | 2022-08-05 | 2023-05-26 |
+| [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-02-05 |  |
 | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC) | 4:37 | 2022-12-09 | 2023-06-01 |
 | [Hoy Me Emborracho](https://open.spotify.com/track/6d8eIIRwnEarPsYEXHJ7a7) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:02 | 2022-10-26 | 2023-06-01 |
 | [Hoy Me Siento Cabrón](https://open.spotify.com/track/60BSZTGxRpmeeoIExE8PTu) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:40 | 2022-12-02 | 2023-06-02 |

@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 104146,
+  "num_followers": 104248,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDYzZjM4MzUzYTVjYjQ5NzJhMmJiZTc4YTUxMzkwNzQ4Nzk3MmQ4",
+  "snapshot_id": "MCw5NGU4ZDZjODRkOWFmMWE3NjdlMzBmZDk3YTFkMTExNzFkMjA2OTIz",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "56 Nights",
-        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 244511,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "The Good Times",
         "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 197760,
       "name": "Because I Got High",
       "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 244511,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z"
     },
     {
       "added_at": "2023-06-29 22:01:00",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 
 > Are you ready to listen JK's songs for 7 DAYS?
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,020 likes - 64 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,439 likes - 64 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello from Jung Kook](https://open.spotify.com/track/4UFpADlmFSGevw5JkFNpr6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:09 |
-| 2 | [Standing Next to You \(Usher Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(Usher Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
+| 2 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
 | 3 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 |
 | 4 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 |
 | 5 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6xGr4tVzpTX99p9Cf0hRRL) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:21 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 | 63 | [Left and Right \(feat\. Jung Kook of BTS\) \- Instrumental](https://open.spotify.com/track/3QRJgF8HY4zEuboEy4Q1gd) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(feat\. Jung Kook of BTS\) \[Instrumental\]](https://open.spotify.com/album/3wDWcowIrrWgpRmo2ZvFup) | 2:32 |
 | 64 | [Bye from Jung Kook](https://open.spotify.com/track/3sKpXrIdtKtgnzYTZ7jFGS) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:10 |
 
-Snapshot ID: `MCw1MmIwMDJjNTI0Nzc5ZWM5ZmNhMmUwMWQxODIwMjQ1MTkwY2IxOWQ0`
+Snapshot ID: `MCxjMjNlMTE3MWFmMmViMjZjODgzN2M3NmM1MmM1ZjllZjg2ZDIzZWM3`

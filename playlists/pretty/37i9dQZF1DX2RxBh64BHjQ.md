@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770,115 likes - 99 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,797 likes - 99 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 | 99 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 
-Snapshot ID: `MCxmZmIzYzllY2I3ZDFkYmQwM2Y1M2NjNzM1MTcwZDdiZTg3ZDhjNDQ4`
+Snapshot ID: `MCxhNmFlZjJlYjJmZWNmOWQ5MmJjYjZmMjhiODJkNmUzODI2NzdlZTgz`

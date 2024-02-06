@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 85723,
+  "num_followers": 85807,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQ0NjNhY2FjMjkyOTEyMzg1YTA4NzZjZTVhYWZhOTY1MGFmN2Fk",
+  "snapshot_id": "MCwzYTAzMjc4ZGY3MGQyYWI3MDAyYzc2Nzg0NzE1N2U2NDhjMWQxYTRh",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Bad Company (Deluxe)",
         "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 193853,
       "name": "Let's Work Together",
       "url": "https://open.spotify.com/track/7vJaNv4ItDyYXXCVRJreh6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 137933,
-      "name": "Tush - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Future Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Baddest Of George Thorogood And The Destroyers",
         "url": "https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 258799,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Future Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Exile On Main Street (2010 Re-Mastered)",
-        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Casino Boogie",
-      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Casino Boogie",
+      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -347,6 +347,22 @@
       "duration_ms": 222840,
       "name": "Sweet Little Rock 'N' Roller",
       "url": "https://open.spotify.com/track/6iLgfbyvQ8lRjixyIYZCW8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Spinning Wheel Blues",
+      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -399,22 +415,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Down the Dustpipe",
-        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Spinning Wheel Blues",
-      "url": "https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Joe Cocker!",
         "url": "https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Floyd's Hotel",
-      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Fighting",
         "url": "https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Never A Dull Moment",
         "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
@@ -523,6 +523,38 @@
       "duration_ms": 211933,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 189520,
+      "name": "Floyd's Hotel",
+      "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+    },
+    {
+      "added_at": "2021-04-13 15:36:15",
+      "album": {
+        "name": "Raisin' A Ruckus",
+        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
+      },
+      "artists": [
+        {
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lower On Your List Of Priorities",
+      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -543,22 +575,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Top Priority (Remastered 2017)",
         "url": "https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 290670,
       "name": "Hell Cat",
       "url": "https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c"
-    },
-    {
-      "added_at": "2021-04-13 15:36:15",
-      "album": {
-        "name": "Raisin' A Ruckus",
-        "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
-      },
-      "artists": [
-        {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Lower On Your List Of Priorities",
-      "url": "https://open.spotify.com/track/0y9jJpx0LZyD7Jz3Yaawvz"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -687,8 +687,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -715,6 +715,22 @@
       "duration_ms": 155914,
       "name": "Find Yourself Another Fool - Remastered",
       "url": "https://open.spotify.com/track/5CH51fbCNKlPdFOJs1F7g2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Essential Edgar Winter",
+        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter's White Trash",
+          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Keep Playin' That Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -763,22 +779,6 @@
       "duration_ms": 223773,
       "name": "7 O'Clock - 30th Anniversary Version",
       "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Essential Edgar Winter",
-        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter's White Trash",
-          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Keep Playin' That Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     },
     {
       "added_at": "2020-12-01 05:01:00",

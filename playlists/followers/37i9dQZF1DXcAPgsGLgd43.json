@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 3876,
+  "2024-02-06": 3881,
   "date_first_scraped": "2022-05-13",
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
   "name": "Alma",
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 203000,
       "name": "El Nacimiento",
       "url": "https://open.spotify.com/track/0tEmmDt0jqU28IIpgWGvSb"
@@ -2891,6 +2891,28 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "album": {
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
+      },
+      "artists": [
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "album": {

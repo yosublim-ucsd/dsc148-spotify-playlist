@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 482696,
+  "num_followers": 482701,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM5NDlkYTBlNjgwZTViNjFlZmQ1ZDk0ZWQzOGEyODAyYTIxNjkw",
+  "snapshot_id": "MCw5YzE2MDc3MjdlNWJjOTA1MmVkYzdkNzRjNDE2NWI5YzljZDYwYzA1",
   "tracks": [
     {
       "added_at": "2024-01-23 13:54:03",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "Your Dog Loves You",
-        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Your Dog Loves You (Feat. Crush)",
-      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
         "name": "whenever it rains",
         "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
+        "name": "Your Dog Loves You",
+        "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Your Dog Loves You (Feat. Crush)",
+      "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "added_at": "2024-01-23 13:54:03",
+      "album": {
         "name": "as long as you're okay",
         "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
       },
@@ -623,18 +639,22 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+      "duration_ms": 202173,
+      "name": "Luv Luv Luv",
+      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -663,22 +683,18 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Luv Luv Luv",
-      "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -755,8 +771,8 @@
     {
       "added_at": "2024-01-23 13:54:03",
       "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2024-01-23 13:54:03",
@@ -859,22 +875,6 @@
       "duration_ms": 196881,
       "name": "5\uc6d4\uc758 \ubc24 (May)",
       "url": "https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ"
-    },
-    {
-      "added_at": "2024-01-23 13:54:03",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2024-01-23 13:54:03",

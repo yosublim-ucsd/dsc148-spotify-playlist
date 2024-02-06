@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Littoral",
+        "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141216,
+      "name": "Littoral",
+      "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
+    },
+    {
+      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 144530,
       "name": "Secrets of the Earth",
       "url": "https://open.spotify.com/track/2ebLKk0oGuiVzJz9JCXnVs"

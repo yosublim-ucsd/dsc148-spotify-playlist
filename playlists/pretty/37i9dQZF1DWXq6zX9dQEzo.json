@@ -1,12 +1,12 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 210321,
+  "num_followers": 210605,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTdmZDU1NWI2MTQ3ZmVjYjlmZDU1NzhjNDkxMzhhYzg5NjhiNzVh",
+  "snapshot_id": "MCwwOWE5Mjc4NjJlYmM3NDE4ODkxNzI4MTMxNjkxMTZlMjViY2ZmNGRm",
   "tracks": [
     {
       "added_at": "2024-02-02 06:01:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "SO LONELY (AN EREMOS STORY)",
-        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 133408,
-      "name": "GOD DON'T LIE",
-      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "NO WEAPON (feat. Lecrae & Fred Hammond) [REMIX]",
         "url": "https://open.spotify.com/album/0xpcpeJfjzs0r8CzZkRGHK"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 242387,
       "name": "NO WEAPON (feat. Lecrae & Fred Hammond) - REMIX",
       "url": "https://open.spotify.com/track/1px8pB3hS1xWRsNy25olaM"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "SO LONELY (AN EREMOS STORY)",
+        "url": "https://open.spotify.com/album/1yMjZOuzZHF2hRzluZESSD"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 133408,
+      "name": "GOD DON'T LIE",
+      "url": "https://open.spotify.com/track/3bpr5wV8lswg90NcAaoblH"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4aOCSAYlQdAGDnvhOQTkjo"
       },
@@ -787,6 +807,30 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Good, Pt. 2",
+        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Kenny Rivers",
+          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Good, Pt. 2",
+      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
       },
@@ -815,26 +859,6 @@
       "duration_ms": 195045,
       "name": "Press Play",
       "url": "https://open.spotify.com/track/3DNuA9Bm2EJCHjK2LbPcK2"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
-      },
-      "artists": [
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -875,30 +899,6 @@
       "duration_ms": 215693,
       "name": "Love It Here - Remix",
       "url": "https://open.spotify.com/track/4cNcWi6pND2Zsmgv1HUpoX"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Good, Pt. 2",
-        "url": "https://open.spotify.com/album/3objons9Rsft3fOjdyq5G0"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Kenny Rivers",
-          "url": "https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 217750,
-      "name": "Good, Pt. 2",
-      "url": "https://open.spotify.com/track/2w5UQS0tj6nmLSX3lNduze"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -987,26 +987,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "In My Bible, In My Bag (Remix)",
-        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
       },
       "artists": [
         {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
         },
         {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+          "name": "Shawndy",
+          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
         }
       ],
-      "duration_ms": 235404,
-      "name": "In My Bible, In My Bag - Remix",
-      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
+      "duration_ms": 200097,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1027,22 +1023,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
+        "name": "In My Bible, In My Bag (Remix)",
+        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
       },
       "artists": [
         {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
         },
         {
-          "name": "Shawndy",
-          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
         }
       ],
-      "duration_ms": 200097,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
+      "duration_ms": 235404,
+      "name": "In My Bible, In My Bag - Remix",
+      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/61YS4yGbyJ4nIYW2xah08l"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 178285,
       "name": "Loud",
       "url": "https://open.spotify.com/track/6WO3KK8I7ym148Lsh8KHPG"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 118848,
-      "name": "LIGHTHOUSE",
-      "url": "https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
         "name": "Nicely",
         "url": "https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 170859,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 118848,
+      "name": "LIGHTHOUSE",
+      "url": "https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "Durag Tech",
-        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
       },
       "artists": [
         {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
         }
       ],
-      "duration_ms": 140122,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
+      "duration_ms": 161872,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
-        "name": "For A Reason",
-        "url": "https://open.spotify.com/album/7nAaP5Pj1OIdl8Zwl0oDVV"
+        "name": "Durag Tech",
+        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
       },
       "artists": [
         {
-          "name": "Starringo",
-          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
         }
       ],
-      "duration_ms": 161872,
-      "name": "For A Reason",
-      "url": "https://open.spotify.com/track/4F1jcSm2zz4hAXUsR1UgIX"
+      "duration_ms": 140122,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1399,26 +1399,6 @@
       "duration_ms": 239266,
       "name": "Up Up Up (Introducing Zach Savage)",
       "url": "https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Beautiful Monster",
-        "url": "https://open.spotify.com/album/656m1NKHcTBu3rU4Ug93AC"
-      },
-      "artists": [
-        {
-          "name": "Thi'sl",
-          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Let It Knock (feat. Derek Minor)",
-      "url": "https://open.spotify.com/track/7bgBSCehOJJfj2rfxlW2Ro"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2024-02-02 06:01:21",
       "album": {
+        "name": "Beautiful Monster",
+        "url": "https://open.spotify.com/album/656m1NKHcTBu3rU4Ug93AC"
+      },
+      "artists": [
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 221570,
+      "name": "Let It Knock (feat. Derek Minor)",
+      "url": "https://open.spotify.com/track/7bgBSCehOJJfj2rfxlW2Ro"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
         "name": "Problematic",
         "url": "https://open.spotify.com/album/30OUjNnqVA6L3Gx9AbkRi4"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 174421,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/3hR8annMZySBYsETZ54FJ5"
+    },
+    {
+      "added_at": "2024-02-02 06:01:21",
+      "album": {
+        "name": "Code of Conduct",
+        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 138154,
+      "name": "Code of Conduct",
+      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-02-02 06:01:21",
@@ -1551,22 +1567,6 @@
       "duration_ms": 185615,
       "name": "PANDEMONIUM",
       "url": "https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV"
-    },
-    {
-      "added_at": "2024-02-02 06:01:21",
-      "album": {
-        "name": "Code of Conduct",
-        "url": "https://open.spotify.com/album/6MAC46pMq1DpQNHf4sCnhW"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 138154,
-      "name": "Code of Conduct",
-      "url": "https://open.spotify.com/track/3nUZLLaAR35vbn2VVnv42H"
     },
     {
       "added_at": "2024-02-02 06:01:21",

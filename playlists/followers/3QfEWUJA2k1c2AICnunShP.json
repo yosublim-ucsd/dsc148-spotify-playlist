@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 18899,
+  "2024-02-06": 18919,
   "date_first_scraped": "2023-10-27",
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
   "name": "Klassische Musik zum Lesen, Lernen & Studieren",
@@ -51,28 +51,6 @@
       "duration_ms": 226320,
       "name": "4 Lieder, Op. 27, TrV 170: IV. Morgen! (Arr. for Cello and Piano by Julian Riem)",
       "url": "https://open.spotify.com/track/1HsXXL7Vvj9H1hj0bua2qa"
-    },
-    {
-      "album": {
-        "name": "Schumann",
-        "url": "https://open.spotify.com/album/2RcexpTBL3UC95AwyTqZAp"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sol Gabetta",
-          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
-        }
-      ],
-      "date_added": "2019-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201080,
-      "name": "5 St\u00fccke im Volkston, Op. 102: II. Langsam",
-      "url": "https://open.spotify.com/track/72M1QxJ62X7eCpt5v6uSZb"
     },
     {
       "album": {
@@ -1149,6 +1127,28 @@
       "duration_ms": 364282,
       "name": "I giorni: Andante",
       "url": "https://open.spotify.com/track/4ZHhtpmUOKBHwn8p3FGG9f"
+    },
+    {
+      "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/2RcexpTBL3UC95AwyTqZAp"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        }
+      ],
+      "date_added": "2019-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201080,
+      "name": "II. Langsam",
+      "url": "https://open.spotify.com/track/72M1QxJ62X7eCpt5v6uSZb"
     },
     {
       "album": {

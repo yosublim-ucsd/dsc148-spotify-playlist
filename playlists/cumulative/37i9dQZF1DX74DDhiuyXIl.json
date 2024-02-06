@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "\u5206\u5408",
+        "url": "https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u5206\u5408",
+      "url": "https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t"
+    },
+    {
+      "album": {
         "name": "\u5206\u624b\u610f\u4e49",
         "url": "https://open.spotify.com/album/78K4VMUYf7u0tKvqg6N2bz"
       },
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 247000,
       "name": "\u5206\u958b\u4e0d\u662f\u4f60\u7684\u932f - \u300a\u6efe\u77f3\u6458\u661f\u865f\u300b\u9078\u624b\u5275\u4f5c\u55ae\u66f2",
       "url": "https://open.spotify.com/track/3udZQ4W2qLsPLB29DJ81xu"

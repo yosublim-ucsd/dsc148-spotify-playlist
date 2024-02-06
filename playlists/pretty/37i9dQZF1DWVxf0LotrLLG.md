@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Boza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,211 likes - 202 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,215 likes - 202 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 201 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
 | 202 | [A Pesar de Ti](https://open.spotify.com/track/0B02WbDz0jc8zYYRTgk7xX) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:19 |
 
-Snapshot ID: `MCw0N2JjZDhjNGQzYTgwMmI2NTg4NDM4OTQzMTg5MThmMWE2NDIwZTUz`
+Snapshot ID: `MCw0NjU0M2FhMjZjZWQ3MDQ3MzI4NzBjMzYxNWI4ZTk4ZWFkZTI3ZWI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Deejay Telio entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,522 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,532 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Yeye](https://open.spotify.com/track/0k4lqIUYVQ3aFLDqFrx2Yu) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Yeye](https://open.spotify.com/album/6bvQP6p2Gm3FL3Zy0762e4) | 3:22 |
 | 75 | [Placas](https://open.spotify.com/track/79jG5WlRWMQbp0JeQO9r6K) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Placas](https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn) | 3:32 |
 
-Snapshot ID: `MCwxNWI5MzFmZTBmODFmYjhiZDVjOGMzYTBiNWI4OTgwNjA1YTk5Mjc3`
+Snapshot ID: `MCw2Nzk5NDAxNDUwYTQ0OWIwMDg0ZjNmYzA1YjlmODBmZjM0OTQyYmQz`

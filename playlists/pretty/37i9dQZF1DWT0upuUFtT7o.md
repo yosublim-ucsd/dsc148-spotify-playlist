@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Hana Eid
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,141 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,262 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 100 | [Paradise](https://open.spotify.com/track/6ZgaPoY2BiCUkNPpBHBcsd) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:50 |
 | 101 | [Spinning](https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:34 |
 
-Snapshot ID: `MCwzNjEzMDkwNjZlZWEwMGYyYzRhMjA1YzhiZmZmNTk1OGQxZGJmOTIw`
+Snapshot ID: `MCw5OGNjYWIxZDM1YjZjN2QzNGFiOTVmNzIyZDNjNWM2NTEzMTM2MjZl`

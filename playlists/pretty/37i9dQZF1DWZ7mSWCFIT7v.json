@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 100747,
+  "num_followers": 100808,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1OWFmZGViMzE1ZTAyNDg2YWJjOGNlYWFmMDM3NzE4YjQ3Mjhh",
+  "snapshot_id": "MCxiZGIyNzVmMTRjZmM1OThiZjU0YzhlY2M5OTIzOTg3ZTc4M2RjMTA0",
   "tracks": [
     {
       "added_at": "2024-01-11 21:43:45",
@@ -115,22 +115,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 352357,
-      "name": "Angel's Flight",
-      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 210655,
       "name": "Cup Noodle",
       "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
       "added_at": "2023-07-28 21:28:53",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
+    },
+    {
       "added_at": "2023-08-29 01:18:54",
       "album": {
         "name": "Familiar Flavours",
@@ -371,22 +387,6 @@
       "duration_ms": 262375,
       "name": "10\u00b0C",
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Amber",
-        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 397000,
-      "name": "Yulquen",
-      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
       "added_at": "2021-11-25 22:12:36",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
-      "added_at": "2022-03-30 15:08:41",
-      "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
       "added_at": "2022-09-15 12:23:59",
       "album": {
         "name": "Nutrition",
@@ -607,6 +591,22 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
+    },
+    {
+      "added_at": "2022-03-30 15:08:41",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
     },
     {
-      "added_at": "2023-10-28 00:12:45",
-      "album": {
-        "name": "Wiegenmusik / Constant Structure",
-        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
-      },
-      "artists": [
-        {
-          "name": "Simon Lovermann",
-          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
-        }
-      ],
-      "duration_ms": 152827,
-      "name": "Wiegenmusik",
-      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Tar (Jan Jelinek Remix)",
@@ -859,6 +843,22 @@
       "duration_ms": 227258,
       "name": "Anxi.",
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
+    },
+    {
+      "added_at": "2023-10-28 00:12:45",
+      "album": {
+        "name": "Wiegenmusik / Constant Structure",
+        "url": "https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lovermann",
+          "url": "https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr"
+        }
+      ],
+      "duration_ms": 152827,
+      "name": "Wiegenmusik",
+      "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
       "added_at": "2022-09-21 02:21:07",
       "album": {
         "name": "Waypoints",
@@ -1265,22 +1249,6 @@
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
     },
     {
-      "added_at": "2023-11-08 01:22:26",
-      "album": {
-        "name": "Panic Multiplier",
-        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
-      },
-      "artists": [
-        {
-          "name": "Client_03",
-          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
-        }
-      ],
-      "duration_ms": 332745,
-      "name": "Obligation Reminder",
-      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
-    },
-    {
       "added_at": "2022-03-09 04:45:41",
       "album": {
         "name": "Amygdala",
@@ -1311,6 +1279,38 @@
       "duration_ms": 289320,
       "name": "The Star Compass",
       "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
+    },
+    {
+      "added_at": "2023-11-08 01:22:26",
+      "album": {
+        "name": "Panic Multiplier",
+        "url": "https://open.spotify.com/album/1N9PkW0QGrZC3JN8o9x62D"
+      },
+      "artists": [
+        {
+          "name": "Client_03",
+          "url": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
+        }
+      ],
+      "duration_ms": 332745,
+      "name": "Obligation Reminder",
+      "url": "https://open.spotify.com/track/6vbv5qwwiQlWmfqkYfHAyv"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-04-09 04:34:06",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
     },
     {
+      "added_at": "2022-08-31 03:57:27",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
+    },
+    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -1395,22 +1411,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-08-31 03:57:27",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 687536,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Give It Your Choir - Instrumental",
-      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Badwater Psalm (Khotin Remix)",
         "url": "https://open.spotify.com/album/7KziNRnIuC3gccBpsjS28W"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Give It Your Choir - Instrumental",
+      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1587,38 +1587,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "FIBS",
-        "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
-      },
-      "artists": [
-        {
-          "name": "Anna Meredith",
-          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
-        }
-      ],
-      "duration_ms": 306794,
-      "name": "Calion",
-      "url": "https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ficciones Del Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
-      },
-      "artists": [
-        {
-          "name": "Molero",
-          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Phasma Gigas",
-      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Vril & R\u00f8dh\u00e5d Presents Out Of Place Artefacts",
         "url": "https://open.spotify.com/album/4eVEuSJZiFT5bIvkHzS78w"
       },
@@ -1639,6 +1607,38 @@
       "duration_ms": 350752,
       "name": "APOPHENIA",
       "url": "https://open.spotify.com/track/6xogUp1sNiUs2qQMTLrwjB"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
+      },
+      "artists": [
+        {
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "FIBS",
+        "url": "https://open.spotify.com/album/1s05RP1wmD0p4uGZ7q1xwC"
+      },
+      "artists": [
+        {
+          "name": "Anna Meredith",
+          "url": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        }
+      ],
+      "duration_ms": 306794,
+      "name": "Calion",
+      "url": "https://open.spotify.com/track/0p2mTY5mnZyuWuD9M8O4MT"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1673,20 +1673,20 @@
       "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     },
     {
-      "added_at": "2022-09-30 02:46:46",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+      "duration_ms": 356813,
+      "name": "F7",
+      "url": "https://open.spotify.com/track/1djSx1nXAb7nekBdshLXjE"
     }
   ],
   "unique_name": "bleeps ^ glitches",

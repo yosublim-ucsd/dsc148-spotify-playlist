@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 56550,
+  "num_followers": 56558,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDM3MjI5ZTVmODFhY2NiMmVjM2ZjY2ViNTY3MmQwZThjMjA2YmI0",
+  "snapshot_id": "MCxjYTcyMGI1YWI4MjU3MDRjYmMwY2E3NTAwOGVlNWE3NDYyOTZhZjI0",
   "tracks": [
     {
       "added_at": "2024-02-01 19:52:25",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -207,18 +223,18 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -239,22 +255,6 @@
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -295,6 +295,22 @@
       "duration_ms": 181564,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -391,22 +407,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Lo que necesito",
         "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Brancciari",
-          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
-        }
-      ],
-      "duration_ms": 170904,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Mi Droga Favorita",
         "url": "https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175813,
       "name": "Mi Droga Favorita",
       "url": "https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Brancciari",
+          "url": "https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x"
+        }
+      ],
+      "duration_ms": 170904,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "t quiero baby",
         "url": "https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 146250,
       "name": "t quiero baby",
       "url": "https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/5IPTv2WalvKpcLN2Znypzs"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 191583,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Cuando Empec\u00e9 a Quererte",
+        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
+      },
+      "artists": [
+        {
+          "name": "Gamuza",
+          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Cuando Empec\u00e9 a Quererte",
+      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Cuando Empec\u00e9 a Quererte",
-        "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
       },
       "artists": [
         {
-          "name": "Gamuza",
-          "url": "https://open.spotify.com/artist/4bufWdghDtHvVeDn2C7V5D"
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Cuando Empec\u00e9 a Quererte",
-      "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Eros (Claroscuro)",
         "url": "https://open.spotify.com/album/2rlEjJNhUnJS8kq95BqrMM"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Aquellos misterios",
+        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Aquellos misterios",
+      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 168026,
       "name": "no hace falta saber",
       "url": "https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Aquellos misterios",
-        "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 149625,
-      "name": "Aquellos misterios",
-      "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Los Abrazos son Instantes Decisivos Vol. II",
+        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Gerardo Nieto",
+          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
+        }
+      ],
+      "duration_ms": 224492,
+      "name": "Polvo de estrellas",
+      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 185296,
       "name": "Que Placer",
       "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Los Abrazos son Instantes Decisivos Vol. II",
-        "url": "https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Gerardo Nieto",
-          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
-        }
-      ],
-      "duration_ms": 224492,
-      "name": "Polvo de estrellas",
-      "url": "https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
-        "name": "SAD",
-        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
-      },
-      "artists": [
-        {
-          "name": "nano mundano",
-          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "SAD",
-      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 157389,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
+        "name": "SAD",
+        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
+      },
+      "artists": [
+        {
+          "name": "nano mundano",
+          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "SAD",
+      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
     },
     {
       "added_at": "2024-02-01 19:52:25",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2024-02-01 19:52:25",
       "album": {
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Leo Salinas",
+          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
+        },
+        {
+          "name": "Paula P\u00e1vez",
+          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
+        }
+      ],
+      "duration_ms": 236086,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
+    },
+    {
+      "added_at": "2024-02-01 19:52:25",
+      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -1643,30 +1667,6 @@
       "duration_ms": 193082,
       "name": "Perderse - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5cIBKumn6Q2taeTNlJTKYe"
-    },
-    {
-      "added_at": "2024-02-01 19:52:25",
-      "album": {
-        "name": "Volc\u00e1n",
-        "url": "https://open.spotify.com/album/4ii6T1Fyt693umGZcYzhP3"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        },
-        {
-          "name": "Leo Salinas",
-          "url": "https://open.spotify.com/artist/3AyxootFsf60iAcaQlOawD"
-        },
-        {
-          "name": "Paula P\u00e1vez",
-          "url": "https://open.spotify.com/artist/2aJMvTqheNrisBUbV9zDPM"
-        }
-      ],
-      "duration_ms": 236086,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/4GxXdJPyw9IPuhBw7wyTNM"
     },
     {
       "added_at": "2024-02-01 19:52:25",

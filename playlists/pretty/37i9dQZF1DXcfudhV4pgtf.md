@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,287 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,292 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 49 | [Fr3sh](https://open.spotify.com/track/3NQK1n8n2IqZrPyXZ1tr0W) | [Kareem Lotfy](https://open.spotify.com/artist/6kDUT9wGreEcPfDsS1agUP) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:51 |
 | 50 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |
 
-Snapshot ID: `MCw2MWMwMWZjMjUwOTRlYWRiODg1YTcwOTI3ZWM3NDg3NTRiZDZjOTdj`
+Snapshot ID: `MCwzZWRhNTRlODcxNDgyNDA3YmIwZDllNmE3YmEzNTFiODMwZWUzNmQ1`

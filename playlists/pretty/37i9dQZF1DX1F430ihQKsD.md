@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,657 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,658 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 26 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 |
 | 27 | [Roadkill](https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Roadkill](https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs) | 2:15 |
 | 28 | [Seul](https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo) | [Chapeaux pointus](https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt) | [Seul](https://open.spotify.com/album/05qQ20faez845KfgBMURfG) | 3:46 |
-| 29 | [Manteau d'ardoise](https://open.spotify.com/track/7GHFXRGBr12mXbgBqbZ7CE) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 10:00 |
+| 29 | [Manteau d'ardoise](https://open.spotify.com/track/2ijDegJ89KwTMUrNuvAK4M) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Albédo](https://open.spotify.com/album/36nNnyExlLDkLFYQAS3QkQ) | 10:00 |
 | 30 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 |
 | 31 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 |
 | 32 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Différent de toi](https://open.spotify.com/track/6QqapEQ1RsiEJnlWQKtqzf) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Différent de toi](https://open.spotify.com/album/1ir16RkFLAXmhqHvWNhDCV) | 2:45 |
 | 100 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 |
 
-Snapshot ID: `MCxkYTZkY2I1YjljZWVmYWIyZmE1NjgxN2NjNTY0OTIwM2U3NjNiNGUx`
+Snapshot ID: `MCwwNzMxOWEwOWM0YWY4ZTg1NjgwMjc5NjViNzZkNGMyZDlhNmJmZWMw`

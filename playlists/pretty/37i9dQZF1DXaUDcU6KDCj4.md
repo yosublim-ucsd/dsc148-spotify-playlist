@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Nolan Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,981 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,949 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
 | 150 | [Who Knows Where the Time Goes](https://open.spotify.com/track/2UhRzNnkitYWG88qt9YLTj) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Who Knows Where the Time Goes](https://open.spotify.com/album/2JVo6Xo58v5E8at4dLdGKY) | 5:06 |
 
-Snapshot ID: `MCwyZDllMjMzZDBiZmI0Yjk3YzE1MWJkMDAxMDRmNGQ2NGYyMDI4MDBj`
+Snapshot ID: `MCwzMTIzNDdjYmQ2ZmVlYzkyZjNmNGNhNDU2NjQ5YWE5ZjMyOTA1Mzlm`

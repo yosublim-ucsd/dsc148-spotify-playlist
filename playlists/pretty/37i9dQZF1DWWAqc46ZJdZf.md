@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New age songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 49 | [Otherside of America](https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Otherside Of America](https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE) | 3:38 |
 | 50 | [RUN \(feat\. Young Thug\)](https://open.spotify.com/track/4EPfeopXB7rDQGR4ae0Xmt) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 4:45 |
 
-Snapshot ID: `MCxhYzc3Yjc3NjM1MzM0YzMxZmUxYmI3YTg1YTZmOWZmMjAwYjU3MTQ5`
+Snapshot ID: `MCw2YTRkMjc1ZmQ1MjE5NTQyYjQ5MDViY2ExMTg2NWRiMTc5ZmU1YzFi`

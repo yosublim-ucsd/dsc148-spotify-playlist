@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a> ",
-  "num_followers": 68393,
+  "num_followers": 68481,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGQxNGFiODc5Y2VmODMwNDBiNDFhNjA5Yzg1N2JiMTljMTYzMWVm",
+  "snapshot_id": "MCxlMTVhNDhjMjYwYTA2Y2Y3ZGYyZWUyNWRlZmI5ZTVlN2MyMWIzZWM3",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+      "duration_ms": 217426,
+      "name": "He Sees You",
+      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 217426,
-      "name": "He Sees You",
-      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Signing Bonus",
-        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 159998,
-      "name": "Tables Turned",
-      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Keeper Of My Soul",
         "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 228280,
       "name": "Keeper Of My Soul",
       "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Signing Bonus",
+        "url": "https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 159998,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -787,6 +787,26 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 176822,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -871,22 +891,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
       },
       "artists": [
         {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
         }
       ],
-      "duration_ms": 176822,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "I Still Have You",
-        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "I Still Have You",
-      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1011,18 +1011,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+        "name": "Love After Hurt",
+        "url": "https://open.spotify.com/album/5goRCvtcJiGjTFIK2PL1N2"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Trevor Jackson",
+          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
         }
       ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+      "duration_ms": 158367,
+      "name": "Love After Hurt",
+      "url": "https://open.spotify.com/track/3RSe4JzcYbaSALrfjxKoZH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1043,6 +1051,22 @@
       "duration_ms": 251490,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1123,6 +1147,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "828",
+        "url": "https://open.spotify.com/album/03YoXLU2Aw8y5u2xVJVTUE"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "828",
+      "url": "https://open.spotify.com/track/0c2yBZksQI0aW0ARsMO6yS"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Mr. McClure",
         "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
@@ -1151,46 +1191,6 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Love After Hurt",
-        "url": "https://open.spotify.com/album/5goRCvtcJiGjTFIK2PL1N2"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 158367,
-      "name": "Love After Hurt",
-      "url": "https://open.spotify.com/track/3RSe4JzcYbaSALrfjxKoZH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "828",
-        "url": "https://open.spotify.com/album/03YoXLU2Aw8y5u2xVJVTUE"
-      },
-      "artists": [
-        {
-          "name": "Anthony Evans",
-          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
-        }
-      ],
-      "duration_ms": 326640,
-      "name": "828",
-      "url": "https://open.spotify.com/track/0c2yBZksQI0aW0ARsMO6yS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 184238,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Heaven Is My Goal",
         "url": "https://open.spotify.com/album/6wahQAbxPIhkR7FeYbPEVB"
       },
@@ -1527,6 +1547,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "upperroom",
+        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        }
+      ],
+      "duration_ms": 152878,
+      "name": "less is more",
+      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5ma9oYRBZVrc7b30zFKftk"
       },
@@ -1547,22 +1583,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "upperroom",
-        "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
-      },
-      "artists": [
-        {
-          "name": "Gaetan Judd",
-          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
-        }
-      ],
-      "duration_ms": 152878,
-      "name": "less is more",
-      "url": "https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 226248,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z"
-      },
-      "artists": [
-        {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 184238,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Don't Eat Crow",
-        "url": "https://open.spotify.com/album/6m8KBofA7DLoeph9I1Rj72"
-      },
-      "artists": [
-        {
-          "name": "A.I. The Anomaly",
-          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
-        }
-      ],
-      "duration_ms": 246774,
-      "name": "Don't Eat Crow",
-      "url": "https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Hymns: The Brooklyn Sessions (Live)",
         "url": "https://open.spotify.com/album/7c2v5UZkdt3t4VdNq6GKiL"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 257465,
       "name": "Burdens Down - Live",
       "url": "https://open.spotify.com/track/1fLgFGtbv5wyvcnPze7KV3"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Don't Eat Crow",
+        "url": "https://open.spotify.com/album/6m8KBofA7DLoeph9I1Rj72"
+      },
+      "artists": [
+        {
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+        }
+      ],
+      "duration_ms": 246774,
+      "name": "Don't Eat Crow",
+      "url": "https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "GENTLE IN SPIRIT",
-        "url": "https://open.spotify.com/album/16dJnmP8GcalATdncFuXh7"
+        "name": "Bless Him Some More (feat. John Dreher)",
+        "url": "https://open.spotify.com/album/5mEoo6c6XTboSBq9p9abJB"
       },
       "artists": [
         {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        },
+        {
+          "name": "John Dreher",
+          "url": "https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM"
         }
       ],
-      "duration_ms": 197872,
-      "name": "GENTLE IN SPIRIT",
-      "url": "https://open.spotify.com/track/4BrYIdMy0t397IDYNofMXz"
+      "duration_ms": 522727,
+      "name": "Bless Him Some More (feat. John Dreher)",
+      "url": "https://open.spotify.com/track/4oXjuBmnWiXM9dGUbpyzon"
     }
   ],
   "unique_name": "Lifted Frequency",

@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 174552,
+  "num_followers": 174596,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTA4MzZiMDc5NzJmZTY3MmIxN2RhMTIyNDI5OWZjNTY2MmFmMTQ2",
+  "snapshot_id": "MCwzYmIxODE4YTU1MTJjMzIyOTE0ZWFmMDhmNmI3ZTQxMjdjNDM0Yjli",
   "tracks": [
     {
       "added_at": "2024-02-02 08:52:45",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Cappadocia",
-        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 282063,
-      "name": "Cappadocia",
-      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Cappadocia",
+        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 282063,
+      "name": "Cappadocia",
+      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "Cold Light",
         "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Another Riff For The Good Times / Daydreaming",
         "url": "https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG"
       },
@@ -447,6 +447,30 @@
       "duration_ms": 228843,
       "name": "Another Riff For The Good Times",
       "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
+        }
+      ],
+      "duration_ms": 262249,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -483,30 +507,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 262249,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 300975,
       "name": "Starz",
       "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "L'owe L'owe",
         "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "Piece Of Art",
         "url": "https://open.spotify.com/album/2FxV796hbaU52R033iD7s5"
       },
@@ -631,6 +647,30 @@
       "duration_ms": 196751,
       "name": "Piece Of Art",
       "url": "https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Mwaki (Franky Wah Remix)",
+        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 217915,
+      "name": "Mwaki - Franky Wah Remix",
+      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -675,22 +715,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX"
       },
@@ -711,46 +735,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Mwaki (Franky Wah Remix)",
-        "url": "https://open.spotify.com/album/44Y3edTo7tpWjwwGtQp6h3"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 217915,
-      "name": "Mwaki - Franky Wah Remix",
-      "url": "https://open.spotify.com/track/2Jwg3J8GugivOdk4VjoUK1"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Maybe, It's Possible",
-        "url": "https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5"
-      },
-      "artists": [
-        {
-          "name": "Tommy Farrow",
-          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
-        }
-      ],
-      "duration_ms": 229248,
-      "name": "Maybe, It's Possible",
-      "url": "https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Maybe, It's Possible",
+        "url": "https://open.spotify.com/album/1ef3AznSTfNt5OOAZPIAv5"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "duration_ms": 229248,
+      "name": "Maybe, It's Possible",
+      "url": "https://open.spotify.com/track/0bHFuMqBH9kk7h3KgHMqJe"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
-        }
-      ],
-      "duration_ms": 249677,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Celestia EP",
         "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
       },
@@ -839,6 +819,42 @@
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Lofthaus",
+        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "Lofthaus",
+      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2024-02-02 08:52:45",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
-        "name": "Lofthaus",
-        "url": "https://open.spotify.com/album/0lYuuppOxA0hQtZkVduNBE"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 187900,
-      "name": "Lofthaus",
-      "url": "https://open.spotify.com/track/6WMgmqDhFWNTwH2ICanF3E"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
         "name": "Faya / The Crack",
         "url": "https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF"
       },
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-02-02 08:52:45",
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 431162,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
+    },
+    {
+      "added_at": "2024-02-02 08:52:45",
+      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/3E0HK3VIW7CkG90bFNEoqo"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 236000,
       "name": "Vivi",
       "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
-    },
-    {
-      "added_at": "2024-02-02 08:52:45",
-      "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 431162,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
     },
     {
       "added_at": "2024-02-02 08:52:45",

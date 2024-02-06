@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-951 songs - 1 day 17 hr 13 min
+954 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Reflections](https://open.spotify.com/track/0LrZlTaml0NDSuB09okF1i) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Reflections](https://open.spotify.com/album/4Oz1LLYU9sFWIiqvc0RGro) | 3:27 | 2020-08-14\* | 2022-07-29 |
 | [Reflections](https://open.spotify.com/track/1mz8brah5MF0mchAHPj9G7) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Reflections](https://open.spotify.com/album/5hRKW7zdm4ZG0EjiWHWgK9) | 3:27 | 2022-07-19 | 2022-09-15 |
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2020-09-16 |  |
+| [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 | 2024-02-05 |  |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2020-08-14\* | 2022-12-24 |
 | [Reiu](https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reiu](https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu) | 2:04 | 2023-08-07 |  |
 | [Relationships](https://open.spotify.com/track/5MfdSgLFVnTRysU8lNAoGt) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Relationships](https://open.spotify.com/album/5hCswrPQMQHv91xdeanu25) | 3:08 | 2020-08-14\* | 2021-02-25 |
@@ -709,7 +710,7 @@
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2020-08-14\* | 2020-09-30 |
 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 | 2021-06-16 | 2022-12-24 |
 | [Seljalandsfoss](https://open.spotify.com/track/5RfSTFRUsN6nkLD1Hxx4DU) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Seljalandsfoss](https://open.spotify.com/album/39oythCbXzmtubMNQBn7xf) | 2:56 | 2020-08-14\* | 2021-12-02 |
-| [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 |  |
+| [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 | 2022-09-14 | 2024-02-06 |
 | [Sempiternal](https://open.spotify.com/track/6aPNSFUv5X13wjZsjJAbYW) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Sempiternal](https://open.spotify.com/album/4dnpugZmM76LxImCmWfmgM) | 2:08 | 2022-03-16 |  |
 | [sensations](https://open.spotify.com/track/0UaE9GrJ28alAptLY3KjtL) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [sensations](https://open.spotify.com/album/7iolDRYg6Iue8V0g71m4sw) | 1:50 | 2020-08-14\* | 2023-07-25 |
 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 | 2022-12-22 | 2023-06-16 |
@@ -729,6 +730,7 @@
 | [Silent Dusk](https://open.spotify.com/track/0IjOLaGtgjYKC5MOxEhEel) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Silent Dusk / Beside The Spring](https://open.spotify.com/album/4eNl0A3k0p9f08yE7gaeqC) | 3:29 | 2020-08-14\* | 2020-09-30 |
 | [Silent Moon](https://open.spotify.com/track/5Rrq7qUuBV4fcvBV6paaFl) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Silent Moon](https://open.spotify.com/album/4SGJKdqIfa1siT0tj9Mr3p) | 1:44 | 2023-03-14 | 2023-07-25 |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-04-12 | 2022-03-02 |
+| [Silent Waltz](https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Silent Waltz](https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg) | 2:42 | 2024-02-05 |  |
 | [Silk](https://open.spotify.com/track/3Zz7Ta1hAAnpLQNbyfZazb) | [Khanipova](https://open.spotify.com/artist/7KHQppBj7ea6qRp4NsTN1u) | [Silk](https://open.spotify.com/album/0VzlmpiXcBkzEuFFbOVXsg) | 2:25 | 2020-08-14\* | 2020-09-30 |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 | 2022-06-08 |
 | [Simple Beauty](https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF) | [Jon Hailey](https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0) | [Simple Beauty](https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3) | 2:48 | 2023-09-05 |  |
@@ -852,6 +854,7 @@
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2020-11-12 |  |
 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-14 |  |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-09-02 | 2022-06-08 |
+| [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 | 2024-02-05 |  |
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2021-06-03 |  |
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-03-01 | 2023-07-25 |
 | [Treading Lightly](https://open.spotify.com/track/23ySDJ9m6BLY13Bju0t3VE) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Treading Lightly](https://open.spotify.com/album/6yq4dA4UPNEYGRoyu1emE3) | 2:29 | 2020-12-16 | 2022-10-23 |
@@ -921,13 +924,13 @@
 | [Watch You Bloom](https://open.spotify.com/track/2IYeOycaLzFrJsNcQwzp3u) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Watch You Bloom](https://open.spotify.com/album/4kc486Ylcc44GiOkDto5QR) | 2:01 | 2020-08-14\* | 2022-05-21 |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2020-08-14\* | 2022-03-02 |
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-03-26 | 2022-07-20 |
-| [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-05-06 |  |
+| [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-05-06 | 2024-02-06 |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2020-08-14\* | 2020-09-16 |
 | [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2020-11-27 | 2023-05-10 |
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2020-08-14\* | 2022-06-08 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-03-14 | 2022-05-06 |
 | [Where I grew up](https://open.spotify.com/track/2f4TKyHedMspaF5OH1BJwQ) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Where I grew up](https://open.spotify.com/album/6287s41ZPgZT1RPKEQMLpS) | 2:06 | 2020-08-14\* | 2021-05-28 |
-| [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-07-19 |  |
+| [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-07-19 | 2024-02-06 |
 | [Whisper](https://open.spotify.com/track/64kMq8c5vXQQWOEmRW3zZF) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Whisper](https://open.spotify.com/album/6bhhvyrZkvPyCYrfY0IKGA) | 2:39 | 2020-08-14\* | 2022-06-08 |
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-10-14 | 2022-12-24 |
 | [Windows](https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Windows](https://open.spotify.com/album/4SiQ4V6EHnYTjvE5tcaN0j) | 2:21 | 2020-08-14\* | 2021-05-06 |

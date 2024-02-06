@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-547 songs - 1 day 11 hr 45 min
+548 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Up & Down](https://open.spotify.com/track/16dOZA7Rvb0H14R1E04WyR) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:23 | 2024-01-01 |  |
 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 | 2024-01-08 |  |
 | [Velocity Girl](https://open.spotify.com/track/1sfI921cOH7r6HXGcJ7FnJ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Songs for Polarbears](https://open.spotify.com/album/7kYowijrwy9wBiZia6FzUs) | 4:37 | 2024-01-17 |  |
+| [Velvet Portraits](https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 1:33 | 2024-02-06 |  |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2024-01-08 |  |
 | [Voicemail](https://open.spotify.com/track/7sWoi73RVYkbkd8S7duNAV) | [Antarctigo Vespucci](https://open.spotify.com/artist/574PYry9WzUvHwvtxmKKSW) | [Love in the Time of E\-Mail](https://open.spotify.com/album/5RddM7DlVMenEItqNJRk6i) | 1:37 | 2024-01-19 |  |
 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 | 2023-06-01 |  |

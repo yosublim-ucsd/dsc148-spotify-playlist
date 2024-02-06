@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 59384,
+  "num_followers": 59530,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQyZGFkZmY5N2RhMDJhZGIwNWMzNGExZTBlMmM2Zjk0NDcyYTY2",
+  "snapshot_id": "MCwwY2UyMzQ0NmZlOWE1MTUxNzM0MzFlODY3Yjk0ZjE0Zjc2YTVhZmFm",
   "tracks": [
     {
       "added_at": "2024-01-05 17:02:31",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Between the Sheets",
         "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 340013,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 128546,
       "name": "Baby You Got It",
       "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "James & Bobby Purify",
         "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 178986,
       "name": "I'm Your Puppet",
       "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Swingsation: Sil Austin",
-        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
-      },
-      "artists": [
-        {
-          "name": "Sil Austin",
-          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Slow Walk",
-      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 395200,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Swingsation: Sil Austin",
+        "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
+      },
+      "artists": [
+        {
+          "name": "Sil Austin",
+          "url": "https://open.spotify.com/artist/4ZER6Et93aVvfwzaiwjjbI"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Slow Walk",
+      "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 212880,
       "name": "On A Sunday Afternoon",
       "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
-      },
-      "artists": [
-        {
-          "name": "El Chicano",
-          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 164133,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus"
+      },
+      "artists": [
+        {
+          "name": "El Chicano",
+          "url": "https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Dry Your Eyes",
-        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
-      },
-      "artists": [
-        {
-          "name": "Brenda And The Tabulations",
-          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
         "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 279400,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Dry Your Eyes",
+        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
+      },
+      "artists": [
+        {
+          "name": "Brenda And The Tabulations",
+          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
+      },
+      "artists": [
+        {
+          "name": "Shep And The Limelites",
+          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
-      },
-      "artists": [
-        {
-          "name": "Shep And The Limelites",
-          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
-      },
-      "artists": [
-        {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
-        },
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+      },
+      "artists": [
+        {
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Strange Feeling",
-      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Looking Back 1961-1964",
         "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 177333,
       "name": "What Love Has Joined Together - Single Version",
       "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
     },
     {
       "added_at": "2024-01-05 17:02:31",

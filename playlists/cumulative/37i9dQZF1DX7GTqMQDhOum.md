@@ -4,7 +4,7 @@
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-81 songs - 4 hr 23 min
+82 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 | 2023-08-01 |  |
 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/0kZwUHa31uMOUKGvkaawvs) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:49 | 2023-08-01 |  |
 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 | 2023-07-17 |  |
+| [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 | 2024-02-05 |  |
 | [Nausicaä of the Valley of Wind \- Opening theme](https://open.spotify.com/track/0QW4RCyj2Tc2N0hD1FjkcS) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Nausicaä of the Valley of the Wind Soundtrack: Towards the Faraway Land](https://open.spotify.com/album/1qHmdiWzKzuDWtEa1gQEW4) | 4:38 | 2023-07-17 |  |
 | [Nausicaä Requiem](https://open.spotify.com/track/57Hw6fkKnYCLiXPCXTCq91) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Nausicaä of the Valley of the Wind Soundtrack: Towards the Faraway Land](https://open.spotify.com/album/1qHmdiWzKzuDWtEa1gQEW4) | 2:55 | 2023-07-17 |  |
 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 | 2023-07-17 |  |
@@ -87,7 +88,7 @@
 | [転生](https://open.spotify.com/track/7dMKB7fnCPPOdy6cFG2Mng) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:32 | 2023-08-15 | 2023-12-02 |
 | [追憶](https://open.spotify.com/track/5ivNWIFi7xeiW8EfK6sa7n) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:05 | 2023-08-15 | 2023-12-02 |
 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 | 2023-07-17 |  |
-| [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2023-07-17 |  |
+| [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2023-07-17 | 2024-02-06 |
 | [黄昏の羽根](https://open.spotify.com/track/5K65c9VZkDOUZEx4Fg9E2d) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:41 | 2023-08-15 | 2023-12-02 |
 
 \*This playlist was first scraped on 2023-07-18. Prior content cannot be recovered.

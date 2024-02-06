@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 144586,
+  "2024-02-06": 144636,
   "date_first_scraped": "2022-06-02",
   "description": "This is Marca MP. The essential tracks, all in one playlist.",
   "name": "This Is Marca MP",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 193250,
       "name": "100 Meses",
       "url": "https://open.spotify.com/track/6m1LL1CeD1I2mBILO5OgoD"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 192576,
       "name": "De Mi Para Ti",
       "url": "https://open.spotify.com/track/1IrdLJmBmhIrzl52VwyAZQ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 209625,
       "name": "El Joven",
       "url": "https://open.spotify.com/track/1pdOkwv8v4XHxtoVC5ucGK"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 196625,
       "name": "Era Una Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/3dBVtmUtlfjmG8gQzW3qAW"
@@ -903,6 +903,24 @@
       "duration_ms": 245808,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
+    },
+    {
+      "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217875,
+      "name": "Mi Universo Entero",
+      "url": "https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67"
     },
     {
       "album": {
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 231625,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0mAf9lYGmf5qEusEhrc7pC"
@@ -1481,6 +1499,24 @@
       "duration_ms": 184680,
       "name": "Tengo Con Que",
       "url": "https://open.spotify.com/track/6Gv2GDFZzmhK6b82lUwjhG"
+    },
+    {
+      "album": {
+        "name": "LEALTAD",
+        "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Tenis Balenciaga",
+      "url": "https://open.spotify.com/track/4fARTnrr52kbgDgZW3rABR"
     },
     {
       "album": {
@@ -1571,7 +1607,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 197500,
       "name": "Vasito Rojo",
       "url": "https://open.spotify.com/track/7mzUUkd8RTfA9EeHxzfmlD"

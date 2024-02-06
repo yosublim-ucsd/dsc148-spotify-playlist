@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Lindsay Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,622 likes - 176 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,612 likes - 176 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 175 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 176 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCwzYmU3NTVmNzA4MjVkOWQzNDI4YWQzZDVkOTc0ODdhZjg2YjJjMWU0`
+Snapshot ID: `MCwwMzg0N2U3MzM0ZmEwNWVmY2I5MjMzZDE0NGQwMTc0YTQ1MTE3NWVm`

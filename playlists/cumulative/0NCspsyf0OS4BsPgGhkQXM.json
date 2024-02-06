@@ -20633,6 +20633,28 @@
     },
     {
       "album": {
+        "name": "Way Down We Go",
+        "url": "https://open.spotify.com/album/0HZ9SNLDKc0THEKsQA3Yvb"
+      },
+      "artists": [
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "DEspaux",
+          "url": "https://open.spotify.com/artist/5lh1bq69nZxIirIH2TLqon"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Way Down We Go",
+      "url": "https://open.spotify.com/track/2AsFzfU7hUCtMGOYJWspub"
+    },
+    {
+      "album": {
         "name": "We Are One",
         "url": "https://open.spotify.com/album/31BSHQIikqLF0xql9YP8h3"
       },

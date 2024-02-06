@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 111377,
+  "num_followers": 111409,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRkNGZiMTc4Y2ZhMjA5N2E3MGRhZmE0MGNkN2M0OTI2OTJjZTQ5",
+  "snapshot_id": "MCxhM2RlNTFmNDkyMDc1YjIwZDc4OTAxOWY1Njg0YmQyZDEwYjRlNzYx",
   "tracks": [
     {
       "added_at": "2022-05-25 16:50:02",
@@ -283,38 +283,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Siempre Te Voy A Querer",
-      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Tu Postura",
-      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Bien Servida",
         "url": "https://open.spotify.com/album/1O3O4TeDqMIJe44arc3ePQ"
       },
@@ -335,18 +303,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 177625,
-      "name": "El Quijote De Don Chuy",
-      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
+      "duration_ms": 281400,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -371,6 +339,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Siempre Te Voy A Querer",
+      "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Te Voy A Encontrar",
         "url": "https://open.spotify.com/album/69mw22eA0ItFjVDk3tAtdQ"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+      "duration_ms": 177625,
+      "name": "El Quijote De Don Chuy",
+      "url": "https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -451,22 +435,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "T\u00fa Me Ca\u00edste del Cielo",
-      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Borracho de Cochera",
         "url": "https://open.spotify.com/album/1q7DcJHh8ZPTGssEgjgLky"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 186408,
       "name": "Borracho de Cochera",
       "url": "https://open.spotify.com/track/1CSAJGvCFUh7jC1bj1oUbT"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "T\u00fa Me Ca\u00edste del Cielo",
+      "url": "https://open.spotify.com/track/4mOWg68kBBDgyUqP0mgGh0"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -515,6 +499,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "As\u00ed Me Fue Contigo",
         "url": "https://open.spotify.com/album/6yKo5OzeF8uKGPUfoFImQt"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 195552,
       "name": "Y C\u00f3mo Le Hago",
       "url": "https://open.spotify.com/track/7DNGQd7zBJF562e7jIe4zm"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Historias de la Calle",
-        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Gan\u00f3 Holanda, Perdi\u00f3 China",
-      "url": "https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -627,22 +611,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 150506,
       "name": "Empiernada Con la Soledad",
       "url": "https://open.spotify.com/track/1eI4aei3n9oAo3pgsOvVKC"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Gan\u00f3 Holanda, Perdi\u00f3 China",
+      "url": "https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/7DhaFzkgaiAimge0yaRQc1"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Tu Amigo Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "No Vales Un Peso",
-      "url": "https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "A la Medida",
         "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 244727,
       "name": "El Anticuado",
       "url": "https://open.spotify.com/track/3GlryytO0TPyxZ6YGESk5W"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Tu Amigo Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "No Vales Un Peso",
+      "url": "https://open.spotify.com/track/6p9m5qQNY8thHEkSZvnTD4"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Voy A Quererte Tanto",
-        "url": "https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd"
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
       "artists": [
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 172080,
-      "name": "Voy A Quererte Tanto",
-      "url": "https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof"
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+        "name": "Voy A Quererte Tanto",
+        "url": "https://open.spotify.com/album/0h3TmsfU8ORt3ibAH5T5Wd"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
         }
       ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+      "duration_ms": 172080,
+      "name": "Voy A Quererte Tanto",
+      "url": "https://open.spotify.com/track/4IMlicXimcHUaJ1M8b3kof"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -863,22 +863,6 @@
       "duration_ms": 132760,
       "name": "Bajo La Misma Luna",
       "url": "https://open.spotify.com/track/7tWUtuimvXukaJMeafXcQr"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
-      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -947,6 +931,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 220053,
+      "name": "Tambi\u00e9n Me Gusta Que Me Quieras",
+      "url": "https://open.spotify.com/track/4Il57188XOFo1uvTUd9say"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Gallo Fino",
         "url": "https://open.spotify.com/album/2IGNjAidWYUPG0w2P6G91c"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 193326,
       "name": "Al Cabo Ni Queria",
       "url": "https://open.spotify.com/track/6qplZ4xMEH3aKvSv10TvSf"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+        "url": "https://open.spotify.com/album/6KJ4oNuCLZxZpS5np9RCme"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "\u00bfY Qu\u00e9 Les Vamos A Decir?",
+      "url": "https://open.spotify.com/track/6S4KfYtYh4kMMaIrVJ4QLF"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -995,8 +1011,8 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+        "name": "Luces, C\u00e1mara Y Acci\u00f3n",
+        "url": "https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo"
       },
       "artists": [
         {
@@ -1004,41 +1020,9 @@
           "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 220053,
-      "name": "Tambi\u00e9n Me Gusta Que Me Quieras",
-      "url": "https://open.spotify.com/track/4Il57188XOFo1uvTUd9say"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Se Ve Que Te Hago Falta",
-        "url": "https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Se Ve Que Te Hago Falta",
-      "url": "https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Buena Se\u00f1al",
-        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "No Te R\u00edas",
-      "url": "https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2"
+      "duration_ms": 199226,
+      "name": "Pudo",
+      "url": "https://open.spotify.com/track/1ISmBDtScU204NHserbuHP"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
+        "name": "Se Ve Que Te Hago Falta",
+        "url": "https://open.spotify.com/album/7yZ3xpFNmQJcJzADwDHAbL"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 218693,
+      "name": "Se Ve Que Te Hago Falta",
+      "url": "https://open.spotify.com/track/1sQFmvPsuw2NUeHwSZWc8N"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/3HZ0JZp7CyL6iRDcizTNYN"
       },
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Luces, C\u00e1mara Y Acci\u00f3n",
-        "url": "https://open.spotify.com/album/3NgO1pIxZR6jIR1pQSp6Yo"
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Pudo",
-      "url": "https://open.spotify.com/track/1ISmBDtScU204NHserbuHP"
+      "duration_ms": 192124,
+      "name": "No Te R\u00edas",
+      "url": "https://open.spotify.com/track/3MGzhhCpbU8UXsy1z6euH2"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Queri\u00e9ndote M\u00e1s",
-        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Con Ganas",
         "url": "https://open.spotify.com/album/7cmbCznHxkaTG8DdsXxmep"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 155307,
       "name": "Con Ganas",
       "url": "https://open.spotify.com/track/0WlWIOn3ENBteSRbySOwMH"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Queri\u00e9ndote M\u00e1s",
+        "url": "https://open.spotify.com/album/0QuH4KokzaCQO8QREhJ7y2"
+      },
+      "artists": [
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "Pero Que Te Esta Pasando Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Mjog2lFqO5BEFHjCPk8PN"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Sigo De Pie",
-        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
-      },
-      "artists": [
-        {
-          "name": "Banda Legal",
-          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Y Si Es Posible",
-      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "La Casa Invita",
         "url": "https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 199533,
       "name": "Ya Estuvo Bueno",
       "url": "https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Sigo De Pie",
+        "url": "https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB"
+      },
+      "artists": [
+        {
+          "name": "Banda Legal",
+          "url": "https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Y Si Es Posible",
+      "url": "https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1332,22 +1332,6 @@
       "added_at": "2022-05-25 16:50:02",
       "album": {
         "name": "Estoy Listo",
-        "url": "https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto Medio",
-          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
-        }
-      ],
-      "duration_ms": 189633,
-      "name": "Estoy Listo",
-      "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
-        "name": "Estoy Listo",
         "url": "https://open.spotify.com/album/5lSADxVWOeGenxC6XQtUpf"
       },
       "artists": [
@@ -1359,6 +1343,22 @@
       "duration_ms": 180508,
       "name": "Estoy Listo",
       "url": "https://open.spotify.com/track/191oMwrlbmLmbfb3RyDoax"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Estoy Listo",
+        "url": "https://open.spotify.com/album/5l0ZVSptrcwNV1AkssAUd7"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "duration_ms": 189633,
+      "name": "Estoy Listo",
+      "url": "https://open.spotify.com/track/22AOx5ARj7PtFvYGG3OquK"
     },
     {
       "added_at": "2022-05-25 16:50:02",

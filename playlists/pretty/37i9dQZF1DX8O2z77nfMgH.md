@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. En portada: Enrique Iglesias y Yotuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,732 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,459 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 26 | [Botellas](https://open.spotify.com/track/46dlt0HuKR9LR0FdRouvll) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Botellas](https://open.spotify.com/album/3SKmGzOOnHEVVk0Z9sX8W8) | 3:42 |
 | 27 | [No será tan fácil](https://open.spotify.com/track/7yfyNiC49ss9R6bnBlbk1W) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No será tan fácil](https://open.spotify.com/album/0hz0nWmyDOOhlnEmMO3xKd) | 2:55 |
 | 28 | [Desvístete Lento](https://open.spotify.com/track/6cJLmo2HIP4Z8ZbceoSBK6) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh) | [Desvístete Lento](https://open.spotify.com/album/0faOv9t3FWL37OtpCQm7sV) | 2:31 |
-| 29 | [Tá no seu DNA \- Ao Vivo](https://open.spotify.com/track/0WpqRUBTj5qORZGrURMO9X) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá no seu DNA \(Ao Vivo\)](https://open.spotify.com/album/39wu1Gl4VI16gGPz1z9O7I) | 2:54 |
+| 29 | [Tá no seu DNA \- Ao Vivo](https://open.spotify.com/track/0WpqRUBTj5qORZGrURMO9X) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá no seu DNA \(Ao Vivo\)](https://open.spotify.com/album/39wu1Gl4VI16gGPz1z9O7I) | 2:54 |
 | 30 | [Inmersión](https://open.spotify.com/track/0my3oPKfRAFjzfN8RPJjil) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro \(Versión Libro\)](https://open.spotify.com/album/67gKu1xe7Htg15Xmri1Vx8) | 1:13 |
 | 31 | [RON](https://open.spotify.com/track/7gGzleIFpqn2ppMN3ddKM3) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [RON](https://open.spotify.com/album/5ckqrj6HS5FrkKgOCESBDd) | 3:07 |
 | 32 | [Mi Primer Amor](https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Mi Primer Amor](https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF) | 3:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Rolé na Favela de Nave](https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Didi](https://open.spotify.com/artist/15bTpg6S948FjSiOhB7eXi), [Dj Lc da Roça](https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL), [MC K9](https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag), [MC Smith](https://open.spotify.com/artist/6OUIY1hXVxeiAw6K7rDerM), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Rolé na Favela de Nave](https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH) | 3:12 |
 | 55 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 |
 
-Snapshot ID: `MCw4NGE2MDA5YmFjZmM5YjRkNGM4YTQ3MTA0NTMxZWFmOTJkNjNmYzJh`
+Snapshot ID: `MCwyZDFjZjA5NThiYTIxOGFjNThiZDViNmYzNWFmOWY0ZDk5NDMzYjMy`

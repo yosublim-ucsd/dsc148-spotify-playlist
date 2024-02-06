@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJmMjkwMDFlYzA5MzMxYTQ5NmI3MmYyMWU5OGY0OTY5MzMyN2Fk",
+  "snapshot_id": "MCw5Yzc4MGE1YjNjM2E4OTAwMjY2Yzc3YjJmYmU4NDFmNzc0MjI3Zjc3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "I'm Not Making out With You",
-      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 95386,
       "name": "Tourette's",
       "url": "https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "I'm Not Making out With You",
+      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Stay Away",
-      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sundown Syndrome / Remember Me",
-        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 261040,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
+      "duration_ms": 211440,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4l012k8ZcAdVbUvZ4kae5Q"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -615,6 +599,22 @@
       "duration_ms": 188586,
       "name": "Leash - Remastered",
       "url": "https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sundown Syndrome / Remember Me",
+        "url": "https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 261040,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Badillac",
         "url": "https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 147880,
       "name": "Badillac",
       "url": "https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -927,6 +927,22 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
+        "name": "Manipulator",
+        "url": "https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Tall Man Skinny Lady",
+      "url": "https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
         "name": "Common Sense",
         "url": "https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 203906,
       "name": "Glazin'",
       "url": "https://open.spotify.com/track/0oFkLSChaQpPTrgnCIHc4g"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
-        "name": "Oddments",
-        "url": "https://open.spotify.com/album/480wRHoZ8rOqp34KYGbD1Z"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 209011,
-      "name": "Hot Wax",
-      "url": "https://open.spotify.com/track/687yagvo8PZFbeY8ctz3vL"
     }
   ],
   "unique_name": "Sun & Surf",

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-576 songs - 2 day 6 hr 53 min
+577 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 |  |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-02-08 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |
-| [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 |  |
+| [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-08-23 | 2024-02-06 |
 | [Candela](https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Candela](https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA) | 6:08 | 2023-07-28 |  |
 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 | 2023-07-28 | 2023-09-18 |
 | [Canto Al Sol](https://open.spotify.com/track/4QTgx7hWAqLoT60XIzRLJE) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Upahl](https://open.spotify.com/album/1pw2dL0Zhv9xX90TMrzxKl) | 4:37 | 2021-05-07 | 2023-07-01 |
@@ -297,6 +297,7 @@
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 | 2023-09-30 |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-02 | 2023-09-30 |
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2021-04-21 | 2023-04-29 |
+| [Love and Hate \- Nandu Remix](https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 3:31 | 2024-02-02 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |
 | [Luma \- Tim Engelhardt Remix](https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Luma EP \- Reimagined](https://open.spotify.com/album/2RjSKeDGxZsk8mZvQqPfqr) | 7:37 | 2022-07-08 | 2022-07-12 |
 | [Lune](https://open.spotify.com/track/0KsoAc21eXJiDaccgoo8A3) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 9:27 | 2022-10-14 | 2023-11-06 |

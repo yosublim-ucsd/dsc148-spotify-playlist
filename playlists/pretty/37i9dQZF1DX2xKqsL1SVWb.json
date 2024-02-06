@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Sebasti\u00e1n Romero en portada.",
-  "num_followers": 98133,
+  "num_followers": 98132,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUxYzM0MDhiMmY2ZjdhNDNkOWUxZjk2ZjE1N2ExZWQ4ZWNiMTNm",
+  "snapshot_id": "MCxjYzdhYzZiNDRmZDBlZmY0ZGMwNGIyZDQzOTE0M2M4OTU3ZDdjYTk0",
   "tracks": [
     {
       "added_at": "2023-12-08 20:40:26",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -299,6 +299,22 @@
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -387,6 +403,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -396,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -415,22 +447,6 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -507,6 +523,22 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Amor Con Filo",
         "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -659,22 +675,6 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Tengo Que Hacer Esto Por M\u00ed",
         "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
       },
@@ -847,6 +831,30 @@
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Af\u00e9rrate a la Vida",
+        "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
+      },
+      "artists": [
+        {
+          "name": "Andreu",
+          "url": "https://open.spotify.com/artist/49pN3mdjxaRuzkwGWb8AHj"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "Afe\u0301rrate a la Vida",
+      "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -883,26 +891,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Af\u00e9rrate a la Vida",
-        "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
       "artists": [
         {
-          "name": "Andreu",
-          "url": "https://open.spotify.com/artist/49pN3mdjxaRuzkwGWb8AHj"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 209250,
-      "name": "Afe\u0301rrate a la Vida",
-      "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "contigo va a estar bien",
         "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 243175,
       "name": "Hubo Algo - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/3zwzYlSIniTBm3e6P6RC18"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/1MulQvxfRRNds6QE3rgaHT"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
         "name": "Bolero Surrealista",
         "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Llegas T\u00fa",
-        "url": "https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 197649,
-      "name": "Llegas T\u00fa",
-      "url": "https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY"
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1099,6 +1083,38 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
+        "name": "Llegas T\u00fa",
+        "url": "https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 197649,
+      "name": "Llegas T\u00fa",
+      "url": "https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY"
+    },
+    {
+      "added_at": "2023-12-08 20:40:26",
+      "album": {
         "name": "Todo Lo Que Hay",
         "url": "https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 169441,
       "name": "Todo Lo Que Hay",
       "url": "https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t"
-    },
-    {
-      "added_at": "2023-12-08 20:40:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-12-08 20:40:26",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2023-12-08 20:40:26",
       "album": {
-        "name": "Nos Dijimos Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe"
+        "name": "mejor me voy",
+        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
         }
       ],
-      "duration_ms": 222438,
-      "name": "Nos Dijimos Adi\u00f3s",
-      "url": "https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU"
+      "duration_ms": 197000,
+      "name": "mejor me voy",
+      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
     }
   ],
   "unique_name": "madera y miel",

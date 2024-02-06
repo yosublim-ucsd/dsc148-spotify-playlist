@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -6786,7 +6786,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -11826,7 +11826,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 171817,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi"
@@ -14816,6 +14816,24 @@
       "duration_ms": 200978,
       "name": "Kur tu biji",
       "url": "https://open.spotify.com/track/44qnfnjozsX4GLIRyOuHYZ"
+    },
+    {
+      "album": {
+        "name": "kur?",
+        "url": "https://open.spotify.com/album/4SSYTLiRgzTaDNHAbCcr8G"
+      },
+      "artists": [
+        {
+          "name": "V\u0113stul\u0113s",
+          "url": "https://open.spotify.com/artist/5zXbhsW6qdlYx1wDyrjV1o"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176974,
+      "name": "kur?",
+      "url": "https://open.spotify.com/track/61fqj9MwounTb3QG3RfGQc"
     },
     {
       "album": {
@@ -27012,7 +27030,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -27904,7 +27922,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
@@ -31950,7 +31968,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"

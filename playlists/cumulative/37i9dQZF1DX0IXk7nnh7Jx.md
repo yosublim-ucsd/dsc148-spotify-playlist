@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-511 songs - 1 day 6 hr 28 min
+512 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Lead Me \(Among the Ruins\)](https://open.spotify.com/track/7ICNCOdTKpSzjSm4QrQBn1) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Lead Me \(Among the Ruins\)](https://open.spotify.com/album/2H80kM6umUt3ZMVuuqqleo) | 5:11 | 2020-12-18 | 2022-07-26 |
 | [Leaning on the Everlasting Arms](https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MATIN: Rest](https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG) | 5:29 | 2024-01-26 |  |
 | [Legendary](https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Legendary](https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8) | 2:09 | 2023-08-04 |  |
-| [Let A Little Light In](https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Let A Little Light In](https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL) | 4:18 | 2023-04-07 |  |
+| [Let A Little Light In](https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Let A Little Light In](https://open.spotify.com/album/4yn8ld3VIRB5woKdPa2wBL) | 4:18 | 2023-04-07 | 2024-02-06 |
 | [Letting Go](https://open.spotify.com/track/0cfP8rKYUHke3HPfzShZdw) | [Johan Van Rensburg](https://open.spotify.com/artist/78PN6tfFrmzWMWFPyRvdrD), [Emeale Maritz](https://open.spotify.com/artist/6c43Y8VCUwZsM4bJNT2UDn) | [Letting Go](https://open.spotify.com/album/1RGpCw6f556Zl1MvVyMf4n) | 5:00 | 2024-01-26 | 2024-01-31 |
 | [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 | 2023-12-15 |  |
 | [LIFT MY HANDS](https://open.spotify.com/track/1ywzTEhz2wgVfaUvzPiXOQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LIFT MY HANDS](https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh) | 3:39 | 2023-03-10 | 2023-08-05 |
@@ -487,6 +487,7 @@
 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 | 2020-12-18 | 2023-02-19 |
 | [Wherever I Go \(Acoustic\)](https://open.spotify.com/track/2gBVcqS417YeS6Jr4rqvsg) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wherever I Go \(Acoustic\)](https://open.spotify.com/album/48da3rX8UEuuwkS9t0LUBh) | 4:10 | 2023-02-24 | 2023-04-24 |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2023-02-19 | 2023-12-02 |
+| [who am i?](https://open.spotify.com/track/0DbrwHCzHUpOk5PbgYv9ui) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [who am i?](https://open.spotify.com/album/4EGPWSYyl05FB6JqMromvO) | 2:29 | 2024-01-26 |  |
 | [Who's That Guy?](https://open.spotify.com/track/0c9Pvl5ZbuSLz74zYaJOmE) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0MI00zdMi7R5he3t0aaVRm) | 2:42 | 2023-02-24 | 2023-05-20 |
 | [Who's That Guy?](https://open.spotify.com/track/2RgmmmCOrpqLIiIcKKEx8w) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0eYhL7GwwfoMikoVzQczLE) | 2:42 | 2023-08-11 | 2023-10-23 |
 | [Whole Heart](https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful Hearts Club](https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU) | 6:40 | 2023-11-03 | 2024-01-27 |

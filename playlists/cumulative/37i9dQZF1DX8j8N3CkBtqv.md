@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Anurag Vashisht
 
-417 songs - 23 hr 2 min
+418 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-19 | 2023-06-17 |
 | [Dil Yeh Nadaan Hai](https://open.spotify.com/track/7lgWlTBzPLAaNMxaZcqSLn) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Yeh Nadaan Hai](https://open.spotify.com/album/60IDWZBHaLacsZob8ZJ7UV) | 2:36 | 2023-11-24 | 2023-12-16 |
 | [Din Shagna Da](https://open.spotify.com/track/3LkE4V0lTJuE4MyrXyBEGd) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Ishaan Mehta](https://open.spotify.com/artist/1ky6jKPIdOBuomhycGQlll), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Din Shagna Da](https://open.spotify.com/album/59PSKFuNcHWO0eM9FsaAiR) | 2:23 | 2023-12-22 | 2024-02-03 |
-| [Do Naino Ko](https://open.spotify.com/track/17nrtM4DlBB7W6On2CqfmG) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Do Naino Ko](https://open.spotify.com/album/3HCyAGNkoYlkkwWaKhL5lQ) | 3:14 | 2023-12-22 |  |
+| [Do Naino Ko](https://open.spotify.com/track/17nrtM4DlBB7W6On2CqfmG) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Do Naino Ko](https://open.spotify.com/album/3HCyAGNkoYlkkwWaKhL5lQ) | 3:14 | 2023-12-22 | 2024-02-06 |
 | [Dokhi Na](https://open.spotify.com/track/1FqYFTYND93fbxXjxZcGWC) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dokhi Na](https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh) | 2:39 | 2023-08-25 | 2023-09-30 |
 | [Dreams](https://open.spotify.com/track/69KsBGYUsA6bn6BKdS9eTF) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Dreams](https://open.spotify.com/album/10DvgJVSmj2PZbKQz2ci7x) | 2:27 | 2023-08-25 | 2023-09-30 |
 | [Duur Hai Wo](https://open.spotify.com/track/2xdKGuM3SMXYxZIytizcVP) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Duur Hai Wo](https://open.spotify.com/album/21ZHoICkVEBGFnoNiSPhBz) | 4:42 | 2023-09-08 | 2023-10-07 |
@@ -369,6 +369,7 @@
 | [Teri Meri](https://open.spotify.com/track/6LwTIK5AzysBN1n5AyD35I) | [Sugat Dhanvijay](https://open.spotify.com/artist/7Fg1T3kPu33XZxKbOvjx5h), [Adarsh Rao](https://open.spotify.com/artist/5SQnHY32o5XokokvR82PS9) | [Teri Meri](https://open.spotify.com/album/72ADiqwmhAYwSEDB7xX7ft) | 2:43 | 2023-09-15 | 2023-10-14 |
 | [Teri Meri Baatein](https://open.spotify.com/track/6TrlQk9TsIEPTNA6PbHRsY) | [Kaushal Hastwala](https://open.spotify.com/artist/1ATh9xw9uzlNkjgLVNMXKW), [Niharika](https://open.spotify.com/artist/6mx11Pg8xpXruQyEDMHaXI) | [Teri Meri Baatein](https://open.spotify.com/album/4x1h4giUwhhW0PhDkv3F4b) | 3:42 | 2023-12-15 | 2024-02-03 |
 | [Teri Roshni Pakad Lun](https://open.spotify.com/track/19nBUwaWim7X9Bp1HhWIKK) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Teri Roshni Pakad Lun](https://open.spotify.com/album/6QvT5eQ8xlA1euDj67Q7D6) | 4:09 | 2023-10-27 | 2023-12-02 |
+| [Teri Sau](https://open.spotify.com/track/39JXliQLrFFK1PgyhK8LTV) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Dj Ruchir](https://open.spotify.com/artist/6OeXoPovtn3M7xl6pbjZ4E) | [Teri Sau](https://open.spotify.com/album/6gZNv2BzaJQFuviyTBmm9V) | 2:32 | 2024-02-05 |  |
 | [Teri Yaad Mein](https://open.spotify.com/track/2aiFwTLjAPGyqoiOL5AQ0t) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Teri Yaad Mein](https://open.spotify.com/album/3tvaiYj2MUbAcCmgDn6Jku) | 2:40 | 2023-07-14 | 2023-08-19 |
 | [Tham Zaraa](https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG) | [Rang](https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo) | 4:35 | 2024-01-22 |  |
 | [Thank You](https://open.spotify.com/track/5F41lXOja3WJvPzUNFp0hf) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Thank You](https://open.spotify.com/album/32A6wDX0akX7EBsnVjNBm2) | 2:42 | 2023-06-30 | 2023-08-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 593520,
+  "num_followers": 593626,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTU5NzdhYmM1MTQwZmYxYjUyZjU1NzhjMTUyY2EzZjkwYzFkNWQw",
+  "snapshot_id": "MCxkZDg2MTQ4MTc0OWNiNmU2MTE2ZGY3MGUzNTliM2RlZjU3ODZiYjAw",
   "tracks": [
     {
       "added_at": "2023-12-12 21:56:13",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 166493,
       "name": "Far From Any Road",
       "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Imaginary Appalachia",
-        "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Sleeping on the Blacktop",
-      "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 567906,
-      "name": "Thoroughfare",
-      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Folk Songs of the American Longhair",
         "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224053,
       "name": "Too Old to Die Young",
       "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 567906,
+      "name": "Thoroughfare",
+      "url": "https://open.spotify.com/track/04P1ylRDzyxBIl9W0UNWXC"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/2pbbv2T5M8eSV1lhjNhWqH"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 228958,
       "name": "Pretty Polly",
       "url": "https://open.spotify.com/track/6XixumK1atNVgBVoqpNvAg"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Out Of Hands We Go",
-        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
-      },
-      "artists": [
-        {
-          "name": "O'Death",
-          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
-        }
-      ],
-      "duration_ms": 233873,
-      "name": "Herd",
-      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
+      },
+      "artists": [
+        {
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
+        }
+      ],
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
-      },
-      "artists": [
-        {
-          "name": "Bellstop",
-          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Micah P. Hinson and the Opera Circuit",
         "url": "https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "I'm Not Your Man",
-        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "Bellstop",
+          "url": "https://open.spotify.com/artist/0k9TGdML3mCpuY0nhAEn5o"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
+      "duration_ms": 223493,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1135,6 +1119,22 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "I'm Not Your Man",
+        "url": "https://open.spotify.com/album/6cDRHxpDNgEMgmkCIVdlP2"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/6EqCxnulMcawu0qN8B8Y5W"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 216840,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/50MNCojhSwCd4QkJ7O80E5"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Ribbon",
         "url": "https://open.spotify.com/album/0BcwJa98MGRTBiHpmNqEHl"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 241225,
       "name": "Elizabeth",
       "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     }
   ],
   "unique_name": "Southern Gothic",

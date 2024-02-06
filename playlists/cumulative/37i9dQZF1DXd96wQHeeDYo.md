@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonitoooo Foto: Bibi Babydoll
 
-68 songs - 3 hr 1 min
+69 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Sin Ganas](https://open.spotify.com/track/6F4Rx74JlcSGA5B6EAyYWB) | [POLO133](https://open.spotify.com/artist/7aMgUfXztSt88ctfcG5lCe), [MYKKA](https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa) | [Sin Ganas](https://open.spotify.com/album/2zFs2lhofV1rVbs86T8W5G) | 2:10 | 2023-11-29 | 2024-01-20 |
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-29 |  |
 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-11-29 |  |
+| [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-02-05 |  |
 | [TATA](https://open.spotify.com/track/6IlI0D193SVWInOHsyJsPE) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [17](https://open.spotify.com/album/4SFfX2D70N1iRXBMI8oszS) | 3:00 | 2023-11-29 |  |
 | [TIC TAC](https://open.spotify.com/track/1a6kcPpMuc8XMswtiMrLik) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [TIC TAC](https://open.spotify.com/album/7IlE6sD2idvrJvDCNKrJ2Z) | 2:13 | 2023-11-29 |  |
-| [trepa encima](https://open.spotify.com/track/1LHiUBGiBFsOA9ikwiZ7Qe) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Kerse Beats](https://open.spotify.com/artist/732nQsVUxEkVKUnUSLqUU4) | [trepa encima](https://open.spotify.com/album/5uUgZ4Aj01DAZdHQmsL4T6) | 2:48 | 2023-11-29 |  |
+| [trepa encima](https://open.spotify.com/track/1LHiUBGiBFsOA9ikwiZ7Qe) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Kerse Beats](https://open.spotify.com/artist/732nQsVUxEkVKUnUSLqUU4) | [trepa encima](https://open.spotify.com/album/5uUgZ4Aj01DAZdHQmsL4T6) | 2:48 | 2023-11-29 | 2024-02-06 |
 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 | 2023-11-29 |  |
 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 | 2023-11-29 |  |
 | [Uno De Eses Gatos](https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Uno De Eses Gatos](https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy) | 2:45 | 2023-11-29 |  |

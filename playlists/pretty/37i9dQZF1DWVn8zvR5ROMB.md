@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Kenny Chesney, Gabby Barrett and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,397 likes - 72 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,609 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 71 | [Hurricane](https://open.spotify.com/track/119a4i4LHVRmxPu3hmdmJz) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Hurricane](https://open.spotify.com/album/5WVYLlEHHKBQPvOfR0f2FY) | 4:20 |
 | 72 | [Devil's Money](https://open.spotify.com/track/50YJ1k4Xi4b4DmzQhyKlPL) | [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Devil's Money](https://open.spotify.com/album/2Vnruy8SLnV6iHlrgDDQSb) | 2:32 |
 
-Snapshot ID: `MCxjZDNjYWFiODU1MjYyZjYwY2RhZjcxZmM2OGQwMjk2ZjFjMTNmZDI0`
+Snapshot ID: `MCwwMjZlYWNmOTJjMGYyZDE3YWIzMWJlYmI2NGYxNjFlODI0MmFiNTEy`

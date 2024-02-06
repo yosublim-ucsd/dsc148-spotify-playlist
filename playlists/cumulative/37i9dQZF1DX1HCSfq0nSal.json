@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Eladio Carri\u00f3n",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
   "name": "PEGAO",
   "tracks": [
     {
@@ -6616,6 +6616,24 @@
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "album": {
+        "name": "Movin' loko",
+        "url": "https://open.spotify.com/album/2jdPHwa5lfRgItAPCmSDGs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158625,
+      "name": "Movin' loko",
+      "url": "https://open.spotify.com/track/6SMC0zf1HBVJuZwHTWexX1"
     },
     {
       "album": {

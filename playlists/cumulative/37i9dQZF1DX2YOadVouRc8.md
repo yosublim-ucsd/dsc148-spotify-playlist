@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-364 songs - 18 hr 5 min
+365 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Be Mine](https://open.spotify.com/track/3OpiUWJv4LPW4hyyP93EMR) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Be Mine](https://open.spotify.com/album/2CQMDgRaDf38E9gcKXw2zD) | 2:57 | 2023-04-20 | 2023-05-05 |
 | [Be On It](https://open.spotify.com/track/6O93QLd2nPvNhnaov2eYpT) | [TSCRPT](https://open.spotify.com/artist/4Z02hpbBY4eH7yN7ceInzV), [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Be On It](https://open.spotify.com/album/0hEih748IMyx6TO21NEdGw) | 3:36 | 2022-12-02 | 2023-04-04 |
 | [Beast Of Our Nation](https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Tuzi](https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ) | [Beast Of Our Nation](https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB) | 3:18 | 2023-06-22 | 2023-08-11 |
-| [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 | 2023-07-28 |  |
+| [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 | 2023-07-28 | 2024-02-06 |
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2022-06-09 |  |
 | [BECOME ONE](https://open.spotify.com/track/7LGZtDOrHuxikAW1ZCVFAu) | [Nicole Elocin](https://open.spotify.com/artist/4KlAW4TYEcxlQp46EioZhw), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [BECOME ONE](https://open.spotify.com/album/0BnMkwFk7lRK78gASQryUf) | 3:38 | 2023-05-26 | 2023-06-19 |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-06-09 |  |
@@ -111,6 +111,7 @@
 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 | 2023-05-26 | 2023-08-11 |
 | [Excited](https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Excited](https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY) | 2:03 | 2023-06-30 | 2023-09-29 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2023-10-18 |
+| [Faaji](https://open.spotify.com/track/1I1UC0ljqNUEHTfVsZNJCU) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Lazy Girl](https://open.spotify.com/album/79qFfx2Gmq4UAotRx6V0AW) | 2:32 | 2024-02-02 |  |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 |  |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-08-05 |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-17 |  |

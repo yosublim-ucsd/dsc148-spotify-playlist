@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extrarodinárias artistas, como Marisa Liz, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,351 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Maria Rita](https://open.spotify.com/track/168Hfg65TrhkWOBDIfpA9Q) | [Rita Dias](https://open.spotify.com/artist/1Sz1D01Jw9BQq7fwW1yvqK), [Ro](https://open.spotify.com/artist/07LMQJ3Tmpa5DwQGFRIGqp) | [Maria Rita](https://open.spotify.com/album/6IVZzWeUiYFB8JqanKT7rC) | 3:30 |
 | 50 | [Chegou a Hora](https://open.spotify.com/track/3vOCLmV31A2c5BjE3d563u) | [Teresinha Landeiro](https://open.spotify.com/artist/2Lof3Mf5rHMLCKlQImYvKA) | [Chegou a Hora](https://open.spotify.com/album/7cSKAYBvvkxRLCJQu2YpJD) | 3:39 |
 
-Snapshot ID: `MCxlNjNkNGE4YTg3ZjM0ZTcyYTVjYWYyZThhMmUxNzQ5MjliMGRkYTg3`
+Snapshot ID: `MCw1OTlkMWU3MmJhZWQyODYwMTA5YjgxNjcyZmQzYzE1YmZkZmIxZmJk`

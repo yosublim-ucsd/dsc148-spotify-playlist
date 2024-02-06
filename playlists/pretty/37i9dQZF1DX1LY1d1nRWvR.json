@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33441,
+  "num_followers": 33444,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQ4ODEwNWFhZjBkN2E1ZGQ4MjUwOGY5NjEzYWFiODgzN2VmM2Y1",
+  "snapshot_id": "MCxhNjUyNzE5NTQyNmU4MDEyMzk4NTdiYjAzYWVkMGZlMDJiNTBlZThm",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -171,30 +171,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Soweto Blues",
-        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 298997,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 458605,
       "name": "Lost Kingdoms",
       "url": "https://open.spotify.com/track/6eTT6SQgTfXiKXdvMe0ZID"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Clockwork Visit",
         "url": "https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 224500,
       "name": "A Place With A View - Edit",
       "url": "https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -595,22 +611,6 @@
       "duration_ms": 197000,
       "name": "Make This Right - Radio Edit",
       "url": "https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "All My Troubles",
-        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "All My Troubles",
-      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -787,6 +771,42 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "All My Troubles",
+        "url": "https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "All My Troubles",
+      "url": "https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Straight Line (Remixed)",
+        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
+      },
+      "artists": [
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 376489,
+      "name": "Straight Line - Neil Cowley Remix",
+      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -811,26 +831,6 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Straight Line (Remixed)",
-        "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
-      },
-      "artists": [
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 376489,
-      "name": "Straight Line - Neil Cowley Remix",
-      "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -883,6 +883,26 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Follow You EP (feat. Floating Points)",
+        "url": "https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw"
+      },
+      "artists": [
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Boro",
         "url": "https://open.spotify.com/album/6UZ3r4ENHQYVFeMhBKBuSB"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 352909,
       "name": "Golden Gai",
       "url": "https://open.spotify.com/track/4czb2atdxzqXMe1inOZA7p"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Follow You EP (feat. Floating Points)",
-        "url": "https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw"
-      },
-      "artists": [
-        {
-          "name": "Fatima",
-          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
     }
   ],
   "unique_name": "lush",

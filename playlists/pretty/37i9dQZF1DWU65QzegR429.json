@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Ozuna",
-  "num_followers": 11035,
+  "num_followers": 11066,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzY0YmZlZjc3MWJhYzNmYTU0MTY1NTMyMzFlODJkZDA2MDk2MGI2",
+  "snapshot_id": "MCw2NmNiYmU5NGIwZGE0MWE0NTU5OGZkYTBjMTRjNGQ2N2VkYTI1NjBk",
   "tracks": [
     {
       "added_at": "2024-02-01 05:00:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "Sin Sol",
         "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 204955,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "Se Me Nota (Agarrame)",
-        "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Se Me Nota (Agarrame) - Prod by B-One",
-      "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "El Bloke Hills",
         "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 162713,
       "name": "Gafas Pal Sol",
       "url": "https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "Se Me Nota (Agarrame)",
+        "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Se Me Nota (Agarrame) - Prod by B-One",
+      "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
+        "name": "Herrera",
+        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Herrera",
+      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
-        "name": "Herrera",
-        "url": "https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Herrera",
-      "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
     },
     {
       "added_at": "2024-02-01 05:00:00",
@@ -799,34 +799,6 @@
     {
       "added_at": "2024-02-01 05:00:00",
       "album": {
-        "name": "Ghetto Love (feat. Modblack)",
-        "url": "https://open.spotify.com/album/34IJofkFyAezKIRECKpiFC"
-      },
-      "artists": [
-        {
-          "name": "Dawer X Damper",
-          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
-        },
-        {
-          "name": "Drea Dury",
-          "url": "https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh"
-        },
-        {
-          "name": "Branbel",
-          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
-        },
-        {
-          "name": "Modblack",
-          "url": "https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil"
-        }
-      ],
-      "duration_ms": 185811,
-      "name": "Ghetto Love (feat. Modblack)",
-      "url": "https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B"
-    },
-    {
-      "added_at": "2024-02-01 05:00:00",
-      "album": {
         "name": "NI\u00d1XS ROTXS",
         "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
@@ -855,6 +827,34 @@
       "duration_ms": 153391,
       "name": "EN LA MA\u00d1ANA",
       "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "added_at": "2024-02-01 05:00:00",
+      "album": {
+        "name": "Ghetto Love (feat. Modblack)",
+        "url": "https://open.spotify.com/album/34IJofkFyAezKIRECKpiFC"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Drea Dury",
+          "url": "https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh"
+        },
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
+        },
+        {
+          "name": "Modblack",
+          "url": "https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil"
+        }
+      ],
+      "duration_ms": 185811,
+      "name": "Ghetto Love (feat. Modblack)",
+      "url": "https://open.spotify.com/track/6tKf1yECBWM1YOuld7sU4B"
     },
     {
       "added_at": "2024-02-01 05:00:00",

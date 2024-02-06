@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Pissed Jeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,744 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,780 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 | 125 | [Cool Logic](https://open.spotify.com/track/2dactM3Uk7aF8RrofihF6J) | [Eva Haze](https://open.spotify.com/artist/0L0GAoyR21K6Kf5cKVdh8g) | [Under The Tin Sky](https://open.spotify.com/album/21hTKaDybZTrIiC48zDsZA) | 4:31 |
 
-Snapshot ID: `MCw2MmZiMmE3YzQxZGFkZTc3MGY0ZjY5ZjNlNWZmYTM2ODg0YmQzZTZm`
+Snapshot ID: `MCxlMTNmNDFmOGNjYzQ4MzM2OTU3YjlmYzJlNWFiODQwMDkxMDdjNzI5`

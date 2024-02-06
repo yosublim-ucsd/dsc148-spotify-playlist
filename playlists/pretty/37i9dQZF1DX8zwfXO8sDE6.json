@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 55938,
+  "num_followers": 55954,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzhmM2RiMTdiY2ZhMDMwYjE1NDQ3NTQ0ZDA2NmIzYjc5YjZmNTFm",
+  "snapshot_id": "MCxiYmQ4NzA2Y2MzYjE3MGE5MzI5MDc4ZTY4YWMyYTI4ZDBmZDI0NWUx",
   "tracks": [
     {
       "added_at": "2022-11-16 00:55:45",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "14\u756a\u76ee\u306e\u6708",
-        "url": "https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs"
+        "name": "\u60b2\u3057\u3044\u307b\u3069\u304a\u5929\u6c17",
+        "url": "https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e"
       },
       "artists": [
         {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
         }
       ],
-      "duration_ms": 219466,
-      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
-      "url": "https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa"
+      "duration_ms": 332175,
+      "name": "\u5f71\u306b\u306a\u3063\u3066",
+      "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -91,50 +91,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "\u60b2\u3057\u3044\u307b\u3069\u304a\u5929\u6c17",
-        "url": "https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e"
+        "name": "14\u756a\u76ee\u306e\u6708",
+        "url": "https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
         }
       ],
-      "duration_ms": 332175,
-      "name": "\u5f71\u306b\u306a\u3063\u3066",
-      "url": "https://open.spotify.com/track/2iGrc21d7bfvLAdlNeNerI"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "Miki Matsubara Best Collection",
-        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Ai wa Energy",
-      "url": "https://open.spotify.com/track/0MuZbj977Ud5aqmJXaBgf2"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "Late Late Summer",
-        "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
-      },
-      "artists": [
-        {
-          "name": "Bread And Butter",
-          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
-        }
-      ],
-      "duration_ms": 239893,
-      "name": "SUMMER BLUE",
-      "url": "https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh"
+      "duration_ms": 219466,
+      "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -159,6 +127,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "Late Late Summer",
+        "url": "https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz"
+      },
+      "artists": [
+        {
+          "name": "Bread And Butter",
+          "url": "https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz"
+        }
+      ],
+      "duration_ms": 239893,
+      "name": "SUMMER BLUE",
+      "url": "https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1"
       },
@@ -171,6 +155,38 @@
       "duration_ms": 272320,
       "name": "September",
       "url": "https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Miki Matsubara Best Collection",
+        "url": "https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Ai wa Energy",
+      "url": "https://open.spotify.com/track/0MuZbj977Ud5aqmJXaBgf2"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "SUNSHOWER",
+        "url": "https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Summer Connection",
+      "url": "https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -203,22 +219,6 @@
       "duration_ms": 292573,
       "name": "\u611b\u306f\u601d\u3046\u307e\u307e",
       "url": "https://open.spotify.com/track/3wQKgH0pIudkYFo14jXVb0"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "SUNSHOWER",
-        "url": "https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Summer Connection",
-      "url": "https://open.spotify.com/track/7jRBeWs7TvE8N8W4tEk3nb"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Let's Do It",
-        "url": "https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "\u611b\u306e\u708e",
-      "url": "https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
         "name": "City Lights by the Moonlight",
         "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
       },
@@ -347,22 +331,6 @@
       "duration_ms": 232080,
       "name": "City Lights by the Moonlight",
       "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
-      },
-      "artists": [
-        {
-          "name": "Rajie",
-          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "THE TOKYO TASTE",
-      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -383,6 +351,38 @@
       "duration_ms": 199120,
       "name": "\u79c1\u81ea\u8eab",
       "url": "https://open.spotify.com/track/7iyfmOUN6wBobBPXVRdWvR"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Rajie",
+          "url": "https://open.spotify.com/artist/007kw598oq32vy4koAoVk4"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "THE TOKYO TASTE",
+      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Let's Do It",
+        "url": "https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "\u611b\u306e\u708e",
+      "url": "https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -487,18 +487,34 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "Funny Walkin' (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
-        "url": "https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV"
+        "name": "\u30b6\u30fb\u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB"
       },
       "artists": [
         {
-          "name": "Nanako Sato",
-          "url": "https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33"
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
         }
       ],
-      "duration_ms": 194853,
-      "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
+      "duration_ms": 226333,
+      "name": "The Tokyo Taste",
+      "url": "https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "BAND WAGON (Remastered 2017)",
+        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
+      },
+      "artists": [
+        {
+          "name": "Shigeru Suzuki",
+          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Suna no Onna",
+      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -523,18 +539,34 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "BAND WAGON (Remastered 2017)",
-        "url": "https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt"
+        "name": "HORO",
+        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
       },
       "artists": [
         {
-          "name": "Shigeru Suzuki",
-          "url": "https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z"
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
         }
       ],
-      "duration_ms": 235853,
-      "name": "Suna no Onna",
-      "url": "https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc"
+      "duration_ms": 233186,
+      "name": "\u6d41\u661f\u90fd\u5e02",
+      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
+        "name": "Funny Walkin' (2017 \u30ea\u30de\u30b9\u30bf\u30fc)",
+        "url": "https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV"
+      },
+      "artists": [
+        {
+          "name": "Nanako Sato",
+          "url": "https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "\u30b5\u30d6\u30bf\u30ec\u30cb\u30a2\u30f3\u4e8c\u4eba\u307c\u3063\u3061 - 2017 \u30ea\u30de\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -551,22 +583,6 @@
       "duration_ms": 206760,
       "name": "\u590f\u306e\u5149\u306b",
       "url": "https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u30b6\u30fb\u30d9\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB"
-      },
-      "artists": [
-        {
-          "name": "Sadistics",
-          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "The Tokyo Taste",
-      "url": "https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
-        "name": "HORO",
-        "url": "https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4"
+        "name": "WE ARE JUST TAKING OFF",
+        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
       "artists": [
         {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
         }
       ],
-      "duration_ms": 233186,
-      "name": "\u6d41\u661f\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7"
+      "duration_ms": 371226,
+      "name": "ON THE SEASHORE",
+      "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -651,6 +667,22 @@
     {
       "added_at": "2022-11-16 00:55:45",
       "album": {
+        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
+      },
+      "artists": [
+        {
+          "name": "Chu Kosaka",
+          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
+      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
+    },
+    {
+      "added_at": "2022-11-16 00:55:45",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
       },
@@ -679,22 +711,6 @@
       "duration_ms": 209053,
       "name": "\u30bd\u30d0\u30ab\u30b9\u306e\u3042\u308b\u5c11\u5973",
       "url": "https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "WE ARE JUST TAKING OFF",
-        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
-      },
-      "artists": [
-        {
-          "name": "Sadistics",
-          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
-        }
-      ],
-      "duration_ms": 371226,
-      "name": "ON THE SEASHORE",
-      "url": "https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b"
     },
     {
       "added_at": "2022-11-16 00:55:45",
@@ -743,22 +759,6 @@
       "duration_ms": 227266,
       "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/0HZDrIXAyBCnkpz1Hsa6jm"
-    },
-    {
-      "added_at": "2022-11-16 00:55:45",
-      "album": {
-        "name": "\u30e2\u30fc\u30cb\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ"
-      },
-      "artists": [
-        {
-          "name": "Chu Kosaka",
-          "url": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "\u30dc\u30f3\u30dc\u30e4\u30fc\u30b8\u6ce2\u6b62\u5834",
-      "url": "https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa"
     },
     {
       "added_at": "2022-11-16 00:55:45",

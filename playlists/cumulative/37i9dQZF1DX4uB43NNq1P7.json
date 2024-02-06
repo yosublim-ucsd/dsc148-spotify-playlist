@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "a rainy drive",
+        "url": "https://open.spotify.com/album/1db6UHObCrBOlTR6GgcpxC"
+      },
+      "artists": [
+        {
+          "name": "Mikki Johansson",
+          "url": "https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "a rainy drive",
+      "url": "https://open.spotify.com/track/1CaxxugXqfTttf5WPyXjZL"
+    },
+    {
+      "album": {
         "name": "Agronomy",
         "url": "https://open.spotify.com/album/1oKBvI5blJWJCcfkek7pwZ"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 126500,
       "name": "Cosima and the rain",
       "url": "https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs"
+    },
+    {
+      "album": {
+        "name": "Cosy Day",
+        "url": "https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0"
+      },
+      "artists": [
+        {
+          "name": "Little Florence",
+          "url": "https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146446,
+      "name": "Cosy Day",
+      "url": "https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ"
     },
     {
       "album": {
@@ -1734,6 +1770,24 @@
       "duration_ms": 135000,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"
+    },
+    {
+      "album": {
+        "name": "Windbreaker (Rain)",
+        "url": "https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd"
+      },
+      "artists": [
+        {
+          "name": "Loulaz",
+          "url": "https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Windbreaker (Rain)",
+      "url": "https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo"
     },
     {
       "album": {

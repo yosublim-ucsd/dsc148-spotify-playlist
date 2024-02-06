@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122307,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
+    },
+    {
+      "album": {
         "name": "Dentro da Jacuzzi",
         "url": "https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi"
       },
@@ -756,7 +778,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 180000,
       "name": "Piru Marcad\u00e3o",
       "url": "https://open.spotify.com/track/5t8LgC0jHNajpSi3n1AFME"

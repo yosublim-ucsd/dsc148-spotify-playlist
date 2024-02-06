@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 20758,
+  "num_followers": 20804,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGMwYTRmNTkzZTgwNDZhMjk0OTUzMWY4NWNlOTUzODBiZDcyZGYz",
+  "snapshot_id": "MCxiMDUzMmE2OTJjNjBiZjNkOTlhMjM5NmE4NmRiNzVkZGI2MzQyZGIx",
   "tracks": [
     {
       "added_at": "2024-01-12 05:26:27",
@@ -187,18 +187,22 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Summers",
+        "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+      "duration_ms": 209605,
+      "name": "4 Nothin'",
+      "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -223,22 +227,18 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Summers",
-        "url": "https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 209605,
-      "name": "4 Nothin'",
-      "url": "https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL"
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -351,6 +351,26 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "Gentility (feat. Wande Coal)",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "Feel Different",
         "url": "https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Gentility (feat. Wande Coal)",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg"
+      },
+      "artists": [
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/5plKeEs2bHRz44nTFkByhg"
-      },
-      "artists": [
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
-    },
-    {
-      "added_at": "2024-01-12 05:26:27",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -675,22 +659,18 @@
     {
       "added_at": "2024-01-12 05:26:27",
       "album": {
-        "name": "My Own (feat. Blaqbonez)",
-        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc"
       },
       "artists": [
         {
-          "name": "Major AJ",
-          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
         }
       ],
-      "duration_ms": 180765,
-      "name": "My Own (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
+      "duration_ms": 169600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
     },
     {
       "added_at": "2024-01-12 05:26:27",
@@ -715,6 +695,26 @@
       "duration_ms": 150000,
       "name": "Baby I'm Jealous",
       "url": "https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD"
+    },
+    {
+      "added_at": "2024-01-12 05:26:27",
+      "album": {
+        "name": "My Own (feat. Blaqbonez)",
+        "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
+      },
+      "artists": [
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 180765,
+      "name": "My Own (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
     },
     {
       "added_at": "2024-01-12 05:26:27",

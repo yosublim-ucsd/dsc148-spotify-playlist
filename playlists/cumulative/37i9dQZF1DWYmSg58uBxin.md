@@ -4,13 +4,14 @@
 
 > Soothing piano and strings to help you concentrate.
 
-251 songs - 11 hr 39 min
+254 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2020-10-20\* |  |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-09-08 |  |
 | [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
+| [A Soulful Journey](https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [A Soulful Journey](https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q) | 2:44 | 2024-02-05 |  |
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2021-09-03 | 2023-09-09 |
 | [A82 \(Cello Version\)](https://open.spotify.com/track/6TMpieLJKF4pl2AMx9f5sN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Alice Allen](https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC) | [A82 \(Cello Version\)](https://open.spotify.com/album/0p7uwkvw1HTT6AL4KsIfT9) | 2:40 | 2023-09-08 |  |
 | [Adagio in G Minor](https://open.spotify.com/track/2AjyreHCD6PKAtRGV2qsK5) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 4:26 | 2020-10-20\* | 2021-10-21 |
@@ -228,6 +229,7 @@
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-09-26 |  |
 | [The Essence](https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Pause To Think](https://open.spotify.com/album/00gHKH9fv0mUYsKqWBfK4x) | 3:19 | 2020-10-20\* | 2021-12-11 |
 | [The Flow](https://open.spotify.com/track/5utTNDqFPpLSC19SqHNIXx) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Sleepwalking](https://open.spotify.com/album/7i4b354sCe4KyTPaelIKdn) | 2:45 | 2020-10-20\* | 2022-07-08 |
+| [The Morning Sun](https://open.spotify.com/track/1gnBN1KT8jwMvjX8yFr8yT) | [Marcin Bela](https://open.spotify.com/artist/6M5HHFDVrLdRAYQc0KHi5q) | [The Morning Sun](https://open.spotify.com/album/3Zd7Ds12F1kejK84x5yOP0) | 2:20 | 2024-02-05 |  |
 | [The Night Falls Deep](https://open.spotify.com/track/7iMpckuKV0NZV4Ta9bHrxM) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [Moonlight Reflections](https://open.spotify.com/album/0U93oQQXhaAVO7gfLfsKbr) | 3:38 | 2020-10-20\* | 2023-09-09 |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-05-20 | 2023-09-09 |
 | [The Sacrament](https://open.spotify.com/track/7JDeCzVl0C9cqqTxqaFhU9) | [Elenor Fuchs](https://open.spotify.com/artist/0sDCRQ87f2NG1mIoXc9yBb) | [The Sacrament](https://open.spotify.com/album/6PCHBDH0Zpllxm3FKuBnMz) | 2:15 | 2020-10-20\* | 2023-09-09 |
@@ -250,6 +252,7 @@
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2023-09-09 |
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |
 | [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
+| [warm cocoa](https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [warm cocoa](https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC) | 2:24 | 2024-02-05 |  |
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2020-10-20\* | 2021-09-24 |
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* |  |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-26 |  |

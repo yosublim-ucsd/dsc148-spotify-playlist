@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 375812,
+  "num_followers": 375792,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDg4YmQ4NTY1N2FiOTFkMDYxMmM2ZGIyMzExNjY5OWE0YTlkZTQ3",
+  "snapshot_id": "MCxjZDA0N2M2NDE3ZmNhMTkxY2UyMDg2ZGFmMTdlYTM2OGFhNmJiYTY4",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
         }
       ],
-      "duration_ms": 254871,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -543,38 +543,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
       "artists": [
         {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+      "duration_ms": 254871,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -595,6 +575,26 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "something more",
+        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "something more",
+      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 194088,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "something more",
-        "url": "https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL"
-      },
-      "artists": [
-        {
-          "name": "j ember",
-          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "something more",
-      "url": "https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Corners Of My Mind",
+      "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Far From Here",
         "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Corners Of My Mind",
-      "url": "https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "6 Letters",
-        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
-      },
-      "artists": [
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 166469,
-      "name": "6 Letters",
-      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Two Steps",
         "url": "https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 242000,
       "name": "Two Steps",
       "url": "https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "6 Letters",
+        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "6 Letters",
+      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6IDIZB9Fp1Sl94IsYw0q2J"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "duration_ms": 224113,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/7mEowvi9llcvmL3tLqmhAy"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "That Was Now",
         "url": "https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 192792,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/6IDIZB9Fp1Sl94IsYw0q2J"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        }
-      ],
-      "duration_ms": 224113,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/7mEowvi9llcvmL3tLqmhAy"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1723,18 +1723,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Bonfire",
-        "url": "https://open.spotify.com/album/6xNNsoSK34afFAmROzjUGA"
+        "name": "A Producer From Vienna",
+        "url": "https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp"
       },
       "artists": [
         {
-          "name": "Woodes",
-          "url": "https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 203593,
-      "name": "Bonfire",
-      "url": "https://open.spotify.com/track/7eN3OqvoVyILThTEWQfbW1"
+      "duration_ms": 155502,
+      "name": "Trying Not To Think About You",
+      "url": "https://open.spotify.com/track/33tnb8bGqn3eTXxbzc3Wml"
     }
   ],
   "unique_name": "Creativity Boost",

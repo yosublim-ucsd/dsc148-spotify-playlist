@@ -11010,10 +11010,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 219922,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh"
+    },
+    {
+      "album": {
+        "name": "Knock, Knock",
+        "url": "https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC"
+      },
+      "artists": [
+        {
+          "name": "Heather Russell",
+          "url": "https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219922,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB"
     },
     {
       "album": {

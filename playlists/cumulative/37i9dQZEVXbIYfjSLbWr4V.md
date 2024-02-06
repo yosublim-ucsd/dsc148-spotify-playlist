@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-57 songs - 2 hr 30 min
+58 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,12 @@
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-29 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 |  |
 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 |  |
-| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-29 | 2024-02-02 |
+| [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-29 |  |
 | [Антидепрессант](https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 2:00 | 2024-01-29 |  |
 | [АФТЕРПАТИ](https://open.spotify.com/track/2trIptvItNErAkJBJnJ3j9) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 3:18 | 2024-01-29 |  |
 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 | 2024-01-29 |  |
 | [Дерьмо](https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [JERK SHIT HAPPENS](https://open.spotify.com/album/5vuwrdSk8QOlcMCCeKyCgV) | 1:30 | 2024-01-29 |  |
-| [Дорога домой](https://open.spotify.com/track/1ThEP94Iih9kvh08PJERVF) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Дорога домой](https://open.spotify.com/album/1HW3bEOH1B1kBz9tsuqVQ5) | 3:02 | 2024-02-03 |  |
+| [Дорога домой](https://open.spotify.com/track/1ThEP94Iih9kvh08PJERVF) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [Дорога домой](https://open.spotify.com/album/1HW3bEOH1B1kBz9tsuqVQ5) | 3:02 | 2024-02-03 | 2024-02-06 |
 | [Дымок](https://open.spotify.com/track/3cHHxlwvB16a1PllSM97jX) | [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs), [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz) | [Дымок](https://open.spotify.com/album/2SjkQbWglFSOGpM7NziXF6) | 2:19 | 2024-01-29 |  |
 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 | 2024-01-29 |  |
 | [запретить](https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [запретить](https://open.spotify.com/album/2KsakqU4JrFItqZbRP1UuR) | 2:53 | 2024-02-03 |  |
@@ -40,6 +40,7 @@
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 |  |
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2024-01-29 |  |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 |  |
+| [немерено](https://open.spotify.com/track/6KRiMyT78RNeatgjnI7sPM) | [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW), [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr) | [добраться до него](https://open.spotify.com/album/5ApMHZ83bd5lLH02pPGRIN) | 3:24 | 2024-02-05 |  |
 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 | 2024-01-29 |  |
 | [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 | 2024-01-29 |  |
 | [Отпускай](https://open.spotify.com/track/1yrQI5Ycgi7xU9P4i98NXL) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Байполар](https://open.spotify.com/album/4nH2r0VNehreKjeCQoKrqY) | 3:27 | 2024-01-31 | 2024-02-04 |
@@ -64,6 +65,6 @@
 | [Эй](https://open.spotify.com/track/2oUSzRUIE4GvMw29rLKlWw) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Сборник хуйни и картинки](https://open.spotify.com/album/6bNQ6UFOF8C70iz7IajffH) | 2:15 | 2024-01-29 |  |
 | [Это любовь](https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Дом с нормальными явлениями](https://open.spotify.com/album/7j7tgADtrPaN7Rrfb8qIcI) | 4:39 | 2024-01-29 |  |
 | [Я уёбываю в джаз](https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Я уёбываю в джаз](https://open.spotify.com/album/2AvnyNwfyaS3qNawe1eqxK) | 2:24 | 2024-01-29 |  |
-| [Я хочу быть с тобой](https://open.spotify.com/track/1oWbH9Opqup135f8S8VOh7) | [Nautilus Pompilius](https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0) | [Подъем](https://open.spotify.com/album/3S70BaqeIZzFzggeQaLIBx) | 4:20 | 2024-01-29 |  |
+| [Я хочу быть с тобой](https://open.spotify.com/track/1oWbH9Opqup135f8S8VOh7) | [Nautilus Pompilius](https://open.spotify.com/artist/3tYzkTZtYt5dGBSrAnWpX0) | [Подъем](https://open.spotify.com/album/3S70BaqeIZzFzggeQaLIBx) | 4:20 | 2024-01-29 | 2024-02-06 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

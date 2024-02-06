@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The very best new alternative tracks\. Cover: Dehd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,373 likes - 128 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,316 likes - 128 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 127 | [Burton St.](https://open.spotify.com/track/3rDqVSKIclW1yVsnTVikcZ) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Burton St.](https://open.spotify.com/album/4VEZamvG17yncSjEaKvarZ) | 3:16 |
 | 128 | [Impressively Average](https://open.spotify.com/track/1sL6n9kMtrlAvPokQKlZGP) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Impressively Average](https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv) | 3:18 |
 
-Snapshot ID: `MCw3MDhkYzkwMDg0NTY1ODdlNmVmMjY0ZTZhMjFmNjc1ODQ4NWY5Njcy`
+Snapshot ID: `MCw0YTBlZmMwOGRkYTZlMjhhZWIzNTM5NGMzNzNiZDIyZmJkMzM3ZDM5`

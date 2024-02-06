@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-1,684 songs - 3 day 19 hr 15 min
+1,685 songs - 3 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,7 +847,7 @@
 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 | 2023-05-24 | 2023-06-14 |
 | [Madrid](https://open.spotify.com/track/4qa0GxbPdzhH0BVCKmMoMi) | [JocaBegge](https://open.spotify.com/artist/0DicwL5r1PUqGe9vVaaXhO) | [Madrid](https://open.spotify.com/album/3HN4YC7niYSVhVQWmgagOI) | 3:20 | 2023-04-20 | 2023-05-04 |
 | [Magnate Full Jordan 23](https://open.spotify.com/track/7BWPn9KWAQPlVIWpWEOdbb) | [Young Pfet](https://open.spotify.com/artist/2mwDtqszYZLRVMkibzqGpL) | [Magnate Full Jordan 23](https://open.spotify.com/album/28f5lWm7Z8fD7FScGWQsBn) | 2:58 | 2022-06-15 | 2022-07-16 |
-| [Majo Majo](https://open.spotify.com/track/2G2aYr05fBoYIzKXScwAnI) | [Jhondiez](https://open.spotify.com/artist/7vQwpzJpeyKlFz0Zract9q), [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Majo Majo](https://open.spotify.com/album/04ZXgkOTgJyu3eGmqYBYqF) | 3:10 | 2023-12-26 |  |
+| [Majo Majo](https://open.spotify.com/track/2G2aYr05fBoYIzKXScwAnI) | [Jhondiez](https://open.spotify.com/artist/7vQwpzJpeyKlFz0Zract9q), [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Majo Majo](https://open.spotify.com/album/04ZXgkOTgJyu3eGmqYBYqF) | 3:10 | 2023-12-26 | 2024-02-06 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-06 | 2023-07-26 |
 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 | 2023-06-02 | 2023-06-07 |
 | [Mal Mal Mal](https://open.spotify.com/track/3BTYZkMCqYWLqrxfub1NmE) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Mal Mal Mal](https://open.spotify.com/album/02XKfKw71CaZmNGOC0lDPz) | 3:10 | 2023-07-25 | 2023-08-02 |
@@ -1311,6 +1311,7 @@
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-04-15 | 2022-06-26 |
 | [Santería](https://open.spotify.com/track/53gSTKzT1uIbmj2ZXnkkBV) | [Osalía](https://open.spotify.com/artist/1UaOU2LZqX7b1GR7yGZSBD) | [Santería](https://open.spotify.com/album/59P0SIVAtxo6bhyF8StelZ) | 2:23 | 2022-12-07 | 2022-12-15 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-06-13 | 2023-06-28 |
+| [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-02-05 |  |
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-11 | 2022-06-08 |
 | [SE ENDIABLA](https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [SE ENDIABLA](https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp) | 2:39 | 2022-10-18 | 2022-11-02 |
 | [Se Ha Puesto El Sol](https://open.spotify.com/track/5rQ0TAm1ly6dqEIQyjc41S) | [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [Clásicos de Oro](https://open.spotify.com/album/0qeDcJEpjH02ZocpBvYhEY) | 2:34 | 2023-07-27 | 2023-08-03 |

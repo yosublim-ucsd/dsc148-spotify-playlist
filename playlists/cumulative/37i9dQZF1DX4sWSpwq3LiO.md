@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,677 songs - 3 day 2 hr 30 min
+1,678 songs - 3 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Becalm](https://open.spotify.com/track/4N9UKWy0TLiwNEuzeynWiU) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Solo](https://open.spotify.com/album/4Ht3iY23RMXFTnYe02lrtC) | 2:29 | 2019-07-11 | 2020-03-31 |
 | [Because This Must Be](https://open.spotify.com/track/2HJNYanZcDyKGts6BRXm3z) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Keys \(Volume One\)](https://open.spotify.com/album/18IuYgjm8tw0xyQtIwthy7) | 2:45 | 2019-05-26\* | 2020-03-04 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-08 | 2023-11-21 |
+| [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 | 2024-02-05 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-01-26 | 2022-09-13 |
 | [Beginnings](https://open.spotify.com/track/7b8DOqqVacD80vEyQeK954) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Modulations: EP2](https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut) | 3:58 | 2021-07-02 | 2021-09-01 |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2020-09-08 | 2022-04-15 |

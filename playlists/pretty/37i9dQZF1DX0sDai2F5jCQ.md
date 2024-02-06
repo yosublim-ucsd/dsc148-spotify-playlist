@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,609 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,619 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 68 | [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 |
 | 69 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 
-Snapshot ID: `MCwwOTM1NGI1MjY2YjdkMWVkMWM0ZGFlZWM5YzU5MDg0NTk4NzFiNzI0`
+Snapshot ID: `MCw2MTEzMjkwNTE3NGU4MTM4NzQzMTk3MzY5NmEyMTUzZjE2NjY0YzAw`

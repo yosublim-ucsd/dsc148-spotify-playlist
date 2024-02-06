@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 87192,
+  "num_followers": 87234,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRmZTMwNzM3OThlNzU3OWU3ZDBmMTY3Y2FkYzk2OTc0N2QyNTgz",
+  "snapshot_id": "MCxmZDMwYzE4YTA2Mzg3YTZlYzY0MDVlZTVkM2FjOTYzNWMyOGJhZTc4",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "The 1971 Fillmore East Recordings",
         "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -315,6 +315,38 @@
       "duration_ms": 138533,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Hittin' the Note",
+        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 372560,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -371,8 +403,8 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
+        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
       "artists": [
         {
@@ -380,25 +412,9 @@
           "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
         }
       ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "Hittin' the Note",
-        "url": "https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 372560,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx"
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Ry Cooder",
         "url": "https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
         }
       ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+      "duration_ms": 236786,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "South Of I-10",
-        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
-      },
-      "artists": [
-        {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
-        }
-      ],
-      "duration_ms": 380266,
-      "name": "Congo Square",
-      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 135106,
       "name": "Talk To Me Baby (I Can\u2019t Hold Out)",
       "url": "https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "South Of I-10",
+        "url": "https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 380266,
+      "name": "Congo Square",
+      "url": "https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Fight",
-        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Songlines",
         "url": "https://open.spotify.com/album/1T6rgbl3cemngWpcLC99MH"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 593546,
       "name": "Sahib Teri Bandi - Maki Madni",
       "url": "https://open.spotify.com/track/3J7ftHdeBesSHblVt5629o"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Fight",
+        "url": "https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC"
     },
     {
       "added_at": "2023-01-16 21:05:55",

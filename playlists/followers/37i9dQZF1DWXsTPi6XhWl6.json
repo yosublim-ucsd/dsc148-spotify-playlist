@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 33585,
+  "2024-02-06": 33583,
   "date_first_scraped": "2021-12-21",
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
   "name": "Wide Awake",
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 270135,
       "name": "Mansion Door",
       "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 233755,
       "name": "Road to Joy",
       "url": "https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB"

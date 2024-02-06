@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate, in 2023.
 
-589 songs - 1 day 10 hr 4 min
+590 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 | 2023-03-20 |  |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2020-10-16 | 2023-02-17 |
 | [Crocodile](https://open.spotify.com/track/5D4RqYeLGebipeelVqUpWA) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Crocodile](https://open.spotify.com/album/4R0LvyXONImViHbzwSFTx1) | 3:41 | 2022-08-19 | 2023-04-22 |
+| [Crushed Velvet](https://open.spotify.com/track/55cSt1DAB1fm4YMsD54rN3) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Crushed Velvet](https://open.spotify.com/album/72JHD6nEDoTlOvgkpYoLSq) | 3:15 | 2024-02-05 |  |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-06-07 | 2023-02-02 |
 | [Crust](https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:13 | 2022-08-19 | 2023-03-22 |
 | [Daisy](https://open.spotify.com/track/61aJAWoZAj4ymQOkkfUSnk) | [After Ours](https://open.spotify.com/artist/48mkLSnW17hfCg0rDjMzs7) | [Daisy](https://open.spotify.com/album/6ubBnaA12qbh5WbxoNXsn2) | 4:02 | 2023-10-13 | 2024-01-13 |
@@ -471,7 +472,7 @@
 | [squirrel song](https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [squirrel song](https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn) | 1:48 | 2023-02-24 | 2023-06-03 |
 | [STAND STILL](https://open.spotify.com/track/6C54NvHWrSBZ5hQJTGH5RN) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80), [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [STAND STILL](https://open.spotify.com/album/1qP5cEcugmuQOHNzHG70BD) | 4:26 | 2020-10-14 | 2022-09-17 |
 | [Stanley](https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Going Steady](https://open.spotify.com/album/26P67Eiu9rHgW52g3vsRrY) | 2:06 | 2023-09-07 |  |
-| [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 | 2023-03-02 |  |
+| [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 | 2023-03-02 | 2024-02-06 |
 | [Start Again](https://open.spotify.com/track/1paqDaEmvtY89pZPso63bT) | [Steve Cousins](https://open.spotify.com/artist/48W7OjKwB7Aj78pMskyZiO) | [Start Again](https://open.spotify.com/album/3qyt5asteYs11agJXDNBSq) | 3:00 | 2020-05-29 | 2022-01-22 |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-08-11 |  |
 | [STAY](https://open.spotify.com/track/4xVeqNkWlKZkEqsmD8akJp) | [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew), [Jayden](https://open.spotify.com/artist/2TYELN8GW9hc6ft18Knmrx) | [STAY](https://open.spotify.com/album/6lmSVJO6vLr5zlPjVHkG5M) | 4:11 | 2023-01-13 | 2023-08-12 |

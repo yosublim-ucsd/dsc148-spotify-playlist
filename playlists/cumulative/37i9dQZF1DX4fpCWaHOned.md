@@ -2,7 +2,7 @@
 
 ### [Confidence Boost](https://open.spotify.com/playlist/37i9dQZF1DX4fpCWaHOned)
 
-> You're on top of the world\. Don't forget it.
+> You're on top of the world\. Don't forget it\. Cover: Miley Cyrus
 
 472 songs - 1 day 2 hr 13 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,055 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,112 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Wie lang](https://open.spotify.com/track/5jMbm8FdjIu3dmBEm19IJv) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wie lang](https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo) | 2:29 |
 | 75 | [BLa\*\_\*](https://open.spotify.com/track/4yzpCGNFvaxrENB5H78uwb) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [BLa\*\_\*](https://open.spotify.com/album/3K8nQKOvOzpCa5aKeQJKoK) | 2:27 |
 
-Snapshot ID: `MCwxNjgzODk2ZTBkOGRjYjA3ZWRjNDEwNGZhYmNlZDI5MTQzOWRiYjVk`
+Snapshot ID: `MCwyZTUxOWU5NjMzYmZjMzY1ZDZmYzg3NTM0YjZlNmY4MmE4NzE2NDE4`

@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 47959,
+  "num_followers": 47993,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDA2Nzk2N2U0OTEwNThkN2ZlNTk3NTkwZWE1YmE0MjQ0MmI3Zjdk",
+  "snapshot_id": "MCw3ZjhiOGU1YmQ2ZTBkZDMzNTZjZDZmNzFjMTJiM2I2YTliZDI3NzI2",
   "tracks": [
     {
       "added_at": "2024-01-04 08:28:26",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Weary Whispers",
-        "url": "https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6"
-      },
-      "artists": [
-        {
-          "name": "Alec Taylor Trio",
-          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Weary Whispers",
-      "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Breakup Blues",
         "url": "https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 177520,
       "name": "Brother Rabbit",
       "url": "https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Weary Whispers",
+        "url": "https://open.spotify.com/album/7pUujzA6emE3Th9X9Dbcv6"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Weary Whispers",
+      "url": "https://open.spotify.com/track/3OiYzoixJ1b73KWVxgR6M2"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Tammy's Song",
-        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+        "name": "Mindful in Solitude",
+        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
       },
       "artists": [
         {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
         }
       ],
-      "duration_ms": 260690,
-      "name": "Tammy's Song",
-      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
+      "duration_ms": 233323,
+      "name": "The Way of the Winds",
+      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Gnostic",
+        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
+      },
+      "artists": [
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        }
+      ],
+      "duration_ms": 216614,
+      "name": "Gnostic",
+      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "She Steps Into The Frame",
         "url": "https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD"
       },
@@ -611,34 +627,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Mindful in Solitude",
-        "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
+        "name": "Tammy's Song",
+        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
       "artists": [
         {
-          "name": "Ryder Quartet",
-          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
         }
       ],
-      "duration_ms": 233323,
-      "name": "The Way of the Winds",
-      "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Gnostic",
-        "url": "https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis"
-      },
-      "artists": [
-        {
-          "name": "Heine Hansen",
-          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
-        }
-      ],
-      "duration_ms": 216614,
-      "name": "Gnostic",
-      "url": "https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru"
+      "duration_ms": 260690,
+      "name": "Tammy's Song",
+      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "The Longing",
-      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Unsentimental",
         "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 300618,
       "name": "Unsentimental",
       "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "The Longing",
+      "url": "https://open.spotify.com/track/50pznqqke3fvXOLW7MqL99"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Steps from the Nightingale",
-        "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 154681,
-      "name": "Steps from the Nightingale",
-      "url": "https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 240903,
       "name": "End Music",
       "url": "https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Steps from the Nightingale",
+        "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "duration_ms": 154681,
+      "name": "Steps from the Nightingale",
+      "url": "https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "The Tale of Bon Jean",
-        "url": "https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu"
-      },
-      "artists": [
-        {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
-        }
-      ],
-      "duration_ms": 160109,
-      "name": "The Tale of Bon Jean",
-      "url": "https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Min B\u00e4sta V\u00e4n",
         "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 243013,
       "name": "Leave Me Here",
       "url": "https://open.spotify.com/track/3odLwNmrGr91br8fhtrP1v"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "The Tale of Bon Jean",
+        "url": "https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "duration_ms": 160109,
+      "name": "The Tale of Bon Jean",
+      "url": "https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "A Hero Lives Another Day",
-        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
-      },
-      "artists": [
-        {
-          "name": "Claudia Torrek",
-          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "A Hero Lives Another Day",
-      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 475213,
       "name": "You've Changed - Live",
       "url": "https://open.spotify.com/track/7HleoJP6ECvm5m7AJBDwgT"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "A Hero Lives Another Day",
+        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
+      },
+      "artists": [
+        {
+          "name": "Claudia Torrek",
+          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "A Hero Lives Another Day",
+      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Soul Dancer",
-        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
-      },
-      "artists": [
-        {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
-        }
-      ],
-      "duration_ms": 202802,
-      "name": "Morning Thoughts",
-      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 325400,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Soul Dancer",
+        "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "duration_ms": 202802,
+      "name": "Morning Thoughts",
+      "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Beloved of the Sky",
-        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
-      },
-      "artists": [
-        {
-          "name": "Renee Rosnes",
-          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
-        }
-      ],
-      "duration_ms": 440513,
-      "name": "The Winter of My Discontent",
-      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
         "name": "Being the problem",
         "url": "https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T"
       },
@@ -1771,18 +1755,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
+        "name": "Beloved of the Sky",
+        "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
       },
       "artists": [
         {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
+          "name": "Renee Rosnes",
+          "url": "https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD"
         }
       ],
-      "duration_ms": 244879,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
+      "duration_ms": 440513,
+      "name": "The Winter of My Discontent",
+      "url": "https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1803,22 +1787,18 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
-        "name": "Entering the Woods",
-        "url": "https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist",
-          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
-        },
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
         }
       ],
-      "duration_ms": 221053,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
+      "duration_ms": 244879,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1835,6 +1815,26 @@
       "duration_ms": 523266,
       "name": "Sweet Sorrow",
       "url": "https://open.spotify.com/track/0zkZ2DiZf6RAjDLdE0n6Os"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
+        "name": "Entering the Woods",
+        "url": "https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist",
+          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+        },
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW"
     },
     {
       "added_at": "2024-01-04 08:28:26",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2024-01-04 08:28:26",
       "album": {
+        "name": "Colour",
+        "url": "https://open.spotify.com/album/00G3MkRVJ8Kkd6YYxLS0uA"
+      },
+      "artists": [
+        {
+          "name": "Anat Fort Trio",
+          "url": "https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3"
+        },
+        {
+          "name": "Anat Fort",
+          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+        }
+      ],
+      "duration_ms": 337804,
+      "name": "Goor Katan",
+      "url": "https://open.spotify.com/track/2OvghHcDNdpXYutDpm90f6"
+    },
+    {
+      "added_at": "2024-01-04 08:28:26",
+      "album": {
         "name": "Broken Blue",
         "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 356920,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1"
-    },
-    {
-      "added_at": "2024-01-04 08:28:26",
-      "album": {
-        "name": "Colour",
-        "url": "https://open.spotify.com/album/00G3MkRVJ8Kkd6YYxLS0uA"
-      },
-      "artists": [
-        {
-          "name": "Anat Fort Trio",
-          "url": "https://open.spotify.com/artist/6wRrC6uElotCB6oDjQxbK3"
-        },
-        {
-          "name": "Anat Fort",
-          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
-        }
-      ],
-      "duration_ms": 337804,
-      "name": "Goor Katan",
-      "url": "https://open.spotify.com/track/2OvghHcDNdpXYutDpm90f6"
     },
     {
       "added_at": "2024-01-04 08:28:26",

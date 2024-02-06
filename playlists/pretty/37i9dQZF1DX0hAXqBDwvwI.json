@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 546988,
+  "num_followers": 547419,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3ODMyM2FkYzNmYjNjOTE1NWQzMjdiOTNhMzA1ZDk1NTQ1Mjdj",
+  "snapshot_id": "MCw0OTA4NGViNmFiZmNlZmJkOWIxYzViOGI5NDM2YjU0ZmUyNGViNDYz",
   "tracks": [
     {
       "added_at": "2024-01-25 15:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "\u659c\u967d",
+        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "HOLIDAYS IN THE SUN",
         "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 264126,
       "name": "SOUVENIR",
       "url": "https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u659c\u967d",
-        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "\u659c\u967d",
-      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "Under the Tree",
-        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
         }
       ],
-      "duration_ms": 121692,
-      "name": "Under the Tree",
-      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 121692,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
         "name": "the WORLD Ruler",
         "url": "https://open.spotify.com/album/0ckCTCvo6W7poV4HFuUsdU"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
-        "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "ADAMAS",
-      "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "PURE",
         "url": "https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 174893,
       "name": "asphyxia",
       "url": "https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
+        "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "ADAMAS",
+      "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "VIVID VICE",
-        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
-      },
-      "artists": [
-        {
-          "name": "Who-ya Extended",
-          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "VIVID VICE",
-      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u708e",
         "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 275000,
       "name": "\u708e",
       "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "\u88f8\u306e\u52c7\u8005",
+        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "\u88f8\u306e\u52c7\u8005",
+      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "VIVID VICE",
+        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
+      },
+      "artists": [
+        {
+          "name": "Who-ya Extended",
+          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "VIVID VICE",
+      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 265986,
       "name": "Shout Baby",
       "url": "https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
-        "name": "\u88f8\u306e\u52c7\u8005",
-        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "\u88f8\u306e\u52c7\u8005",
-      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
     },
     {
       "added_at": "2024-01-25 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-25 15:00:00",
       "album": {
-        "name": "DOGLAND",
-        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
-      },
-      "artists": [
-        {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "DOGLAND",
-      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
-    },
-    {
-      "added_at": "2024-01-25 15:00:00",
-      "album": {
         "name": "\u8679",
         "url": "https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"
+    },
+    {
+      "added_at": "2024-01-25 15:00:00",
+      "album": {
+        "name": "DOGLAND",
+        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "DOGLAND",
+      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
     },
     {
       "added_at": "2024-01-25 15:00:00",

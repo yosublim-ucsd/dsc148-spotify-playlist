@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367933,
+      "name": "Megalomaniac",
+      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
+    },
+    {
+      "album": {
         "name": "Moon Pix",
         "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
       },
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"

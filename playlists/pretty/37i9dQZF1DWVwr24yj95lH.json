@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 620047,
+  "num_followers": 620010,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmJjYjQwMDJhMWI5M2MxMDIzZGQyZTc0ODUxOTkyYzRkMjU4YmUy",
+  "snapshot_id": "MCwzZDQ3MDUzNjRmNzFjYWNlMDZhOTU2NDJkYTA5MThiNjdiYWI0N2E0",
   "tracks": [
     {
       "added_at": "2024-01-22 09:39:02",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-01-22 09:39:02",
       "album": {
+        "name": "Three Days Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "added_at": "2024-01-22 09:39:02",
+      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 222826,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Three Days Grace (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
     },
     {
       "added_at": "2024-01-22 09:39:02",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-01-22 09:39:02",
       "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+    },
+    {
+      "added_at": "2024-01-22 09:39:02",
+      "album": {
         "name": "Savages",
         "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-01-22 09:39:02",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2024-01-22 09:39:02",
@@ -795,22 +811,6 @@
       "duration_ms": 230066,
       "name": "Control",
       "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2024-01-22 09:39:02",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-01-22 09:39:02",
       "album": {
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+    },
+    {
+      "added_at": "2024-01-22 09:39:02",
+      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 255000,
       "name": "Doesn't Remind Me",
       "url": "https://open.spotify.com/track/0o995gJCGebaza0LWybToU"
-    },
-    {
-      "added_at": "2024-01-22 09:39:02",
-      "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2024-01-22 09:39:02",

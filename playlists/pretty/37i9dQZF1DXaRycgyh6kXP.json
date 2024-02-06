@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 207343,
+  "num_followers": 207491,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY0OTY4YTExMjY1NWMwZGRkY2MzNTM5NzM2ZTc3MTA0ZTljOGVk",
+  "snapshot_id": "MCxlNTAwN2I4YTExYTBhNmI2OTI5MmJmMTY2ZTU2NTgxM2JhMzdjNDk2",
   "tracks": [
     {
       "added_at": "2024-01-19 05:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Other Lights",
-        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
       },
       "artists": [
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 128773,
-      "name": "An Ending, a Beginning",
-      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+        "name": "Other Lights",
+        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
+      "duration_ms": 128773,
+      "name": "An Ending, a Beginning",
+      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "The Noise Made By People",
-        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Echo's Answer",
-      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/74qv9Kr09Yz3ot2RiDnaKp"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/5a73pqoQFFooJRxuNLP8tO"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "The Noise Made By People",
+        "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Echo's Answer",
+      "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Rushing",
         "url": "https://open.spotify.com/album/4VxWJ3iWQ2PIE7KDFyoRut"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 136000,
       "name": "My Lights Kiss Your Thoughts Every Moment",
       "url": "https://open.spotify.com/track/0sGJSiKG9sfYKEZkqvlRB4"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 220355,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/7eDL9nf3cfWeuTVKEgQcc3"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 220355,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/6N2kDyz5HSGB5giAUh29YM"
     },
     {
       "added_at": "2024-01-19 05:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "FTLOG",
-        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 247869,
-      "name": "FTLOG",
-      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
         "name": "The Tunnel and the Clearing",
         "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "FTLOG",
+        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 247869,
+      "name": "FTLOG",
+      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
     }
   ],
   "unique_name": "Electronica Romantica",

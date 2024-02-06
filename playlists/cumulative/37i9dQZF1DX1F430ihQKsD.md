@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Jane Penny
 
-418 songs - 1 day 0 hr 11 min
+419 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,8 +232,9 @@
 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 | 2023-01-20 |  |
 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 | 2023-05-26 | 2023-08-19 |
 | [Ma peau brûle](https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY Vol\. I](https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN) | 3:22 | 2023-01-13 | 2024-01-20 |
+| [Manteau d'ardoise](https://open.spotify.com/track/2ijDegJ89KwTMUrNuvAK4M) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Albédo](https://open.spotify.com/album/36nNnyExlLDkLFYQAS3QkQ) | 10:00 | 2024-01-26 |  |
 | [Manteau d'ardoise](https://open.spotify.com/track/7E4auyJcpWwOAJPJUsIo6h) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Manteau d'ardoise](https://open.spotify.com/album/1p7Jqg1d1gI8dAJWCk8Tfh) | 10:00 | 2023-08-18 | 2023-11-09 |
-| [Manteau d'ardoise](https://open.spotify.com/track/7GHFXRGBr12mXbgBqbZ7CE) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 10:00 | 2023-10-27 |  |
+| [Manteau d'ardoise](https://open.spotify.com/track/7GHFXRGBr12mXbgBqbZ7CE) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [L'heure des fontaines](https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA) | 10:00 | 2023-10-27 | 2024-02-06 |
 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 | 2022-10-14 | 2023-04-01 |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 | 2022-10-15 |
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-03-25 | 2022-04-29 |

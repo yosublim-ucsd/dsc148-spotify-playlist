@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van Nederland\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,793 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,770 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 |
 | 50 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
 
-Snapshot ID: `MCwxOTgwODkwNjBmZDc4OTZlMjY4ODBlMWMwYTg4Njc0MTA5NTQzZTA5`
+Snapshot ID: `MCw3NTQ2NzAzYzlmMWMxMWE2OTdhNzBiNzgxNDM2MmU2NjdjYWFlMjU1`

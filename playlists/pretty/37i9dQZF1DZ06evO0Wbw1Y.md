@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,778 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 40 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
 | 41 | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/track/70uI28CvYn53Pdrup7l2Zf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Quién Como Tú \(Amazon Original\)](https://open.spotify.com/album/7rMM6AFd033KI3CsuZateJ) | 2:49 |
 
-Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDA0MTE4NzY5YzQ2NDY0ZDU1YWQ0Mzg1MTEyZWI0MDBiMQ==`
+Snapshot ID: `Mjg0NTIyMzEsMDAwMDAwMDA5MDkyMmNlYTA5MTY0ZTA1NjYyZmI5Y2VjNDUyY2Y1Mg==`

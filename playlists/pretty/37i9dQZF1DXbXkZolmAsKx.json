@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 8566,
+  "num_followers": 8580,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTIzZjU5OWQ3Y2FkMTk2NmUyZmZkZTcwNGJiOGMxZjQ2ODY1ODhj",
+  "snapshot_id": "MCxiNzMzZTcxMjVkNTZkZWI1ODczYTYxNDY1NDI2ZGMxMDUzNDFiOGM0",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Social Network",
-        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 99278,
-      "name": "It Catches up With You",
-      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -203,6 +187,38 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "Weightless Part 6",
+      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Social Network",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 99278,
+      "name": "It Catches up With You",
+      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -235,22 +251,6 @@
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "Weightless Part 6",
-      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "Mary, On the Wall - Second Heart Tone",
+      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "Mary, On the Wall - Second Heart Tone",
-      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Narkopop 1",
-      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 98946,
       "name": "Made of Metal",
       "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Narkopop 1",
+      "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -911,6 +911,22 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 199517,
-      "name": "Blue Diamond",
-      "url": "https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 134382,
       "name": "Bridgets' Theme",
       "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Goodbye To Language",
+        "url": "https://open.spotify.com/album/73ajNnvLxWcPD4dx1TdKIN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lanois",
+          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
+        }
+      ],
+      "duration_ms": 199517,
+      "name": "Blue Diamond",
+      "url": "https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Replica",
-        "url": "https://open.spotify.com/album/7H6gso8aBfKK7mlouLCsW3"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 230759,
-      "name": "Submersible",
-      "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Low Distance",
         "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Living With Yourself",
-        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
-      },
-      "artists": [
-        {
-          "name": "Mark McGuire",
-          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Two Different People",
-      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Xen",
-        "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
+        "name": "Living With Yourself",
+        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Mark McGuire",
+          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
         }
       ],
-      "duration_ms": 129553,
-      "name": "Wound",
-      "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
+      "duration_ms": 202000,
+      "name": "Two Different People",
+      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Xen",
+        "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 129553,
+      "name": "Wound",
+      "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Bring Me The Head of Kyle Bobby Dunn",
         "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 489535,
       "name": "An Evening With Dusty",
       "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        }
-      ],
-      "duration_ms": 373003,
-      "name": "Imprint (Bonus Track)",
-      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1479,6 +1463,22 @@
       "duration_ms": 364253,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4Vpk6njMa2XRc72cDtzCic"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        }
+      ],
+      "duration_ms": 373003,
+      "name": "Imprint (Bonus Track)",
+      "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Drifters / Love Is the Devil",
-        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
-      },
-      "artists": [
-        {
-          "name": "Dirty Beaches",
-          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "This Is Not My City",
-      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Similes",
         "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 209560,
       "name": "Nightmare 5",
       "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Drifters / Love Is the Devil",
+        "url": "https://open.spotify.com/album/0eKBCl5Qo6ds8hIrY5M6Dl"
+      },
+      "artists": [
+        {
+          "name": "Dirty Beaches",
+          "url": "https://open.spotify.com/artist/7JRs0G0kHZTBs0Lo7qOjL8"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "This Is Not My City",
+      "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Make Me Know You Sweet",
         "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 445241,
       "name": "AAE-KZT",
       "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
     },
     {
       "added_at": "2023-06-07 15:21:34",

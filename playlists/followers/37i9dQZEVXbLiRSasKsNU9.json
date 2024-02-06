@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 1769346,
+  "2024-02-06": 1769182,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -28801,7 +28801,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
@@ -31275,6 +31275,24 @@
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Peak of Love",
+        "url": "https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48"
+      },
+      "artists": [
+        {
+          "name": "Aldi Haqq",
+          "url": "https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Peak of Love",
+      "url": "https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2"
     },
     {
       "album": {
@@ -36077,6 +36095,24 @@
       "duration_ms": 256284,
       "name": "Shauq",
       "url": "https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49"
+    },
+    {
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
       "album": {

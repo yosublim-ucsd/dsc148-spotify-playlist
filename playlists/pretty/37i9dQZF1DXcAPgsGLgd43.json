@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3876,
+  "num_followers": 3881,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODU4YjE1YTdkNWQ2YmJhOTc0NDBlZDYwMTE5YTgxMGFjNWE3NGRh",
+  "snapshot_id": "MCwxOWIxMzdkZWI0OGI2ZjMwMTMxMzFhM2ZmMjI3YTRhMDUxMDJmNDc4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -767,6 +767,34 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Chakachaka",
+        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Damien N-Drix",
+          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Chakachaka",
+      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
       },
@@ -799,34 +827,6 @@
       "duration_ms": 182891,
       "name": "Vente",
       "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Chakachaka",
-        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Damien N-Drix",
-          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Chakachaka",
-      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1011,42 +1011,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Catuca",
-        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Catuca",
-      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1071,6 +1035,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Catuca",
+        "url": "https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Catuca",
+      "url": "https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Que Pasa",
         "url": "https://open.spotify.com/album/0m7ydDnuLaqCUAKVZ4iRMi"
       },
@@ -1147,6 +1167,34 @@
       "duration_ms": 168750,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/1VZBZKvJIrmX69vTg9xWyv"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1183,26 +1231,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
@@ -1235,8 +1263,8 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht"
       },
       "artists": [
         {
@@ -1244,21 +1272,17 @@
           "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Gabsy",
-          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+          "name": "Kuisitamb\u00f3",
+          "url": "https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+      "duration_ms": 168750,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1339,22 +1363,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Canutito",
-        "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 206962,
-      "name": "Canutito",
-      "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Tuku Tu",
         "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
@@ -1371,26 +1379,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht"
+        "name": "Canutito",
+        "url": "https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Kuisitamb\u00f3",
-          "url": "https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK"
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW"
+      "duration_ms": 206962,
+      "name": "Canutito",
+      "url": "https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Esta Pegao",
         "url": "https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 160000,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Labios (La Noche)",
+        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Labios (La Noche)",
+      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Bandolera (feat. Buza)",
         "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
@@ -1667,18 +1683,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Labios (La Noche)",
-        "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
+        "name": "Senta Relaxa",
+        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 161760,
-      "name": "Labios (La Noche)",
-      "url": "https://open.spotify.com/track/7IXMuwxUl31NmFfisypx7d"
+      "duration_ms": 180014,
+      "name": "Senta Relaxa",
+      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1699,26 +1719,6 @@
       "duration_ms": 231562,
       "name": "Q' Pario",
       "url": "https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Senta Relaxa",
-        "url": "https://open.spotify.com/album/7lWGajsmdYsXV2V5HDgzS0"
-      },
-      "artists": [
-        {
-          "name": "De Qualite",
-          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Senta Relaxa",
-      "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
     },
     {
       "added_at": "2024-02-02 05:00:00",

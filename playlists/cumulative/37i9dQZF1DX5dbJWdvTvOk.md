@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-643 songs - 1 day 3 hr 15 min
+645 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 | 2022-10-29 |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-07-15 | 2023-04-22 |
-| [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2023-04-21 |  |
+| [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2023-04-21 | 2024-02-06 |
 | [Apex](https://open.spotify.com/track/0hszWwnBHYA7WmKeBnaF37) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Apex](https://open.spotify.com/album/5CsVDwvXW4hyQqBfcqRptQ) | 2:12 | 2023-04-21 | 2023-11-01 |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 |  |
 | [Aquarela da Vida](https://open.spotify.com/track/3W72SrUpDoLiTnxNttOo4B) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Aquarela da Vida](https://open.spotify.com/album/7b0K2VoR8mxJADRbTCxWvz) | 3:20 | 2022-07-15 | 2023-03-31 |
@@ -190,6 +190,7 @@
 | [Estranged](https://open.spotify.com/track/0m4k7I8pzwZxEDXRsWAoK9) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Estranged](https://open.spotify.com/album/5Mpt0ni0EKTkySMwhRLoKo) | 2:07 | 2023-04-21 |  |
 | [Estrella](https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Estrella](https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE) | 2:33 | 2022-11-18 | 2023-03-11 |
 | [Estrella clara](https://open.spotify.com/track/7IJ4FPYqUabB1cbWrMYn0q) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Estrella clara](https://open.spotify.com/album/761mDMnpM2KsejP3TuTtUn) | 1:37 | 2023-04-21 | 2023-08-26 |
+| [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 | 2022-07-15 | 2022-10-29 |
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2023-04-21 |  |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2023-04-21 | 2023-06-23 |
@@ -422,7 +423,7 @@
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-04-21 |  |
 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 | 2023-04-21 |  |
 | [Ordino](https://open.spotify.com/track/2OQ8WuB2K93XqZhwCh6aSv) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Ordino](https://open.spotify.com/album/17Ur7n3dhPusy2R1M9UO0i) | 2:37 | 2023-04-21 |  |
-| [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 |  |
+| [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 | 2024-02-06 |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2023-04-21 |  |
 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 | 2023-04-21 |  |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 |  |
@@ -430,6 +431,7 @@
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2023-04-21 | 2023-06-03 |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-07-15 |  |
 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 | 2023-03-31 | 2023-04-22 |
+| [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 |  |
 | [Patagonia Wind](https://open.spotify.com/track/1fl6ukQEOZMlVTjncfPXph) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Patagonia Wind](https://open.spotify.com/album/2JHhVGRoYytdxgslOztSp4) | 3:31 | 2022-07-15 |  |
 | [Path To The Mind](https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Path To The Mind](https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF) | 3:23 | 2022-07-15 | 2023-04-22 |
 | [Peaberry](https://open.spotify.com/track/22BqJ4x6hb0oRhtyvToTon) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Peaberry](https://open.spotify.com/album/5eOtON3CwbqLE9lgeuROqA) | 2:49 | 2023-09-29 |  |

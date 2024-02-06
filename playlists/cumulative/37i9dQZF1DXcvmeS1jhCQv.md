@@ -4,7 +4,7 @@
 
 > New tunes from Ireland for your discovery\. Cover: SPIDER
 
-80 songs - 4 hr 32 min
+81 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Chess](https://open.spotify.com/track/3KMoXqNDbTFMXcZUs6MWUp) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Chess](https://open.spotify.com/album/3dALI1Y4N2D5D0oV09aWrO) | 3:11 | 2024-02-02 |  |
 | [Chris Pratt](https://open.spotify.com/track/6JOGJuVv7MKNbubKUwhU45) | [Róisín O](https://open.spotify.com/artist/7nsv8ov54a8qlNXwhEkgkr) | [Chris Pratt](https://open.spotify.com/album/1Bkd5tNY4W4Oo78U4vDply) | 3:51 | 2024-02-02 |  |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 |  |
-| [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 |  |
+| [Daylight Savings](https://open.spotify.com/track/1Op1ZYMmDFvxOEY2HGuq1a) | [Reevah](https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ) | [Daylight Savings](https://open.spotify.com/album/0gEzE0fSM4PbGYfNm28ZOC) | 3:37 | 2024-02-02 | 2024-02-06 |
 | [DECAY](https://open.spotify.com/track/7ujHwnDCjSx77is9AI1tdR) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [ROCK 'N' RAVE](https://open.spotify.com/album/3oRlu91UUBH536qpdagyNQ) | 2:26 | 2024-02-02 |  |
 | [Discovery](https://open.spotify.com/track/0telt43FI47tAzJUB5oaPG) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Discovery](https://open.spotify.com/album/1RxKY5Gd6rn86pHiP5P6QY) | 4:20 | 2024-02-02 |  |
+| [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-02-05 |  |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-02-02 |  |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2024-02-02 |  |
 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 | 2024-02-02 |  |

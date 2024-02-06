@@ -2,7 +2,7 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keeping it lowkey with the best chill pop\. Cover: The Kid Laroi
+> Keeping it lowkey with the best chill pop\. Cover: Laufey
 
 1,567 songs - 3 day 12 hr 18 min
 
@@ -1452,7 +1452,7 @@
 | [Used to That](https://open.spotify.com/track/639pSiru77s6AAgWPNTbk8) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Used to That](https://open.spotify.com/album/5rUB8sX7uuyADrS1VJ3jUq) | 2:26 | 2021-06-12 | 2021-07-24 |
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-01-15 | 2021-03-19 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-10-13 |
-| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-10 | 2023-07-29 |
+| [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-10 |  |
 | [Vampire At The Swimming Pool](https://open.spotify.com/track/0vHTSJYkN0U0Q6JR9fUV6I) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Vampire At The Swimming Pool](https://open.spotify.com/album/4IBd99GncJCe9dTWbVDRue) | 3:35 | 2021-11-20 | 2022-05-07 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-01 | 2023-12-09 |
 | [Visible](https://open.spotify.com/track/0n9iRYwxMckBU4Y22FbDPf) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Visible](https://open.spotify.com/album/1S3IW5HpbpZ21n0VwizcJN) | 3:21 | 2023-07-28 | 2023-08-26 |

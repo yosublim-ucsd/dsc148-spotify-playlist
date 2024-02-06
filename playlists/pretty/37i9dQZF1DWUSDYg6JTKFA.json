@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 165157,
+  "num_followers": 165223,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDdlYjY1OGJhN2ViYzI2ZTU5OTIxODVmYzFlZTVmZDMyZjg2NDJl",
+  "snapshot_id": "MCw3MzQ0ZjVkN2Q2NTEzNjcwZjRkM2U2ZWU1NWIzNjg0N2U3ZjBhMGNk",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Never Lose Sight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -675,6 +675,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 415079,
+      "name": "Jesus We Love You - Live",
+      "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "What If We",
         "url": "https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk"
       },
@@ -687,6 +707,22 @@
       "duration_ms": 232693,
       "name": "Give Me Your Eyes",
       "url": "https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -711,42 +747,6 @@
       "duration_ms": 353546,
       "name": "Good Grace - Live",
       "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 415079,
-      "name": "Jesus We Love You - Live",
-      "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Christmas: The Peace Project",
-        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -1087,22 +1067,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Strong Tower",
-        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Strong Tower",
-      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -1115,6 +1079,42 @@
       "duration_ms": 280960,
       "name": "We Fall Down",
       "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Christmas: The Peace Project",
+        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Strong Tower",
+        "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Strong Tower",
+      "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
     },
     {
       "added_at": "2020-07-23 14:38:16",

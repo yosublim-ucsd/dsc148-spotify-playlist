@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-334 songs - 16 hr 48 min
+335 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Fire](https://open.spotify.com/track/4DJZTapBDzc9UOpB0uv1tG) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Fire](https://open.spotify.com/album/77nfpZASYJDshkwOViek9M) | 3:48 | 2023-04-05 | 2023-05-26 |
 | [Flip A Switch\. \- Sped Up](https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Flip A Switch\. \(Sped Up\)](https://open.spotify.com/album/1JG0F1lN0d4lN6lj6nVgxD) | 3:05 | 2023-04-06 | 2023-05-26 |
 | [Follow Me](https://open.spotify.com/track/0y90AiV6XrXb4lvNxx8EFq) | [Amanda Lear](https://open.spotify.com/artist/0Xkd9GsWwOYETVF0kPXZIG) | [Let Me Entertain You](https://open.spotify.com/album/2WIMTvRQXRw5zeeNJXRGr6) | 4:07 | 2023-03-16 | 2023-03-25 |
+| [Formidable](https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:33 | 2024-02-05 |  |
 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 | 2023-07-13 | 2023-11-10 |
 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-05-25 | 2024-01-07 |
 | [Ga Naar De Gym](https://open.spotify.com/track/0ILN49UubBDhmYcGiIvbQ0) | [Klaus Veen](https://open.spotify.com/artist/5hEZc6Innys0o99gLeha3K), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Ga Naar De Gym.](https://open.spotify.com/album/3SYhaoBhD7NE7dteRlCuW6) | 2:27 | 2023-02-23 | 2023-04-12 |

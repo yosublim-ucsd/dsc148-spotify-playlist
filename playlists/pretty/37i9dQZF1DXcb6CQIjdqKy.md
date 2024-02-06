@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  This month, we’re celebrating the essence of Black culture across the world\. Discover more Black artists and their contributions <a href="spotify:genre:0JQ5DAqbMKFF9bY76LXmfI">here.</a>  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,512 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,489 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [The Lord's Prayer \(It's Yours\) \- Acoustic](https://open.spotify.com/track/1baVBBJwh3e2EMvRTDI8WH) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\) \[Acoustic\]](https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6) | 3:44 |
 | 100 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 
-Snapshot ID: `MCxhMDQ3ZjRmZDIyZTQ1MzgxOGJlMzZiZmQ3MmFjNjRmZmU0YmUzMGQz`
+Snapshot ID: `MCxkZTJhMDZjZTk5ZjQ4Y2I0OTM4ODc5YmM0YTZkM2Y3ODlkNjQ5OGUx`

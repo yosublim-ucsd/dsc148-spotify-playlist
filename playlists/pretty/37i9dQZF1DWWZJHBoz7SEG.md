@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La playlist con las tres B's! Bellakath, Belinda y The Blessed Madonna 💅 La Licenciada del Perreo en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,933 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,982 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Me Lo Busqué](https://open.spotify.com/track/1uDocPbWtfTqHNUlpYzFIb) | [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS) | [Me Lo Busqué](https://open.spotify.com/album/2AmKHpdFhHgROYj9Iq8ZxW) | 2:58 |
 | 50 | [DUCATI](https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [DUCATI](https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3) | 2:36 |
 
-Snapshot ID: `MCw5YjRkZjNmMzY0YjA2YzNkNDhkMjU2M2RjNzk2MTdlYmI4OGRlYjlm`
+Snapshot ID: `MCw0NThiZTQwNzlhZDBhNDEyMWQ3MDgzNzA5NTI5OWU2NzRhY2E3YzVh`

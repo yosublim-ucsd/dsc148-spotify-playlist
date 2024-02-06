@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-104 songs - 4 hr 39 min
+105 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Daniela \(de quoi te mêles\-tu Daniela\)](https://open.spotify.com/track/7H1PXJ9fh4L7T8dLF9v2za) | [Les Chaussettes Noires](https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/5VpUEu2db3vWXVMCkpOGb2) | 2:33 | 2022-06-28 | 2022-11-13 |
 | [Daniela \(de quoi te mêles\-tu Daniela\)](https://open.spotify.com/track/3ViDEvv6PgjE0yiYDmJjrA) | [Les Chaussettes Noires](https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK) | [Long Box 3 CD](https://open.spotify.com/album/7pfowC0bQ1sp5KV4uIXcVj) | 2:35 | 2021-07-26 | 2022-07-29 |
 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Tendres Annees](https://open.spotify.com/album/5ka3kH5QiNRqPJr0HvTSmY) | 2:24 | 2022-06-28 | 2022-07-29 |
-| [Dans mes bras oublie ta peine](https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd) | 2:24 | 2022-06-28 |  |
+| [Dans mes bras oublie ta peine](https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd) | 2:24 | 2022-06-28 | 2024-02-06 |
+| [Dans mes bras oublie ta peine](https://open.spotify.com/track/3rakh6DtVFDNlxLfYwiGsl) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/1GbMzpbeGFaR7fnJQYOc0P) | 2:24 | 2022-06-28 |  |
 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/3v2OihRftMdzfWpNpQ1AD5) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:24 | 2022-06-28 | 2022-11-14 |
 | [Demain tu te maries](https://open.spotify.com/track/0Aziek43A42InI3fZgORWf) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Les années 60, Vol\. 2](https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom) | 2:54 | 2022-06-28 | 2023-09-30 |
 | [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 | 2021-07-26 |  |

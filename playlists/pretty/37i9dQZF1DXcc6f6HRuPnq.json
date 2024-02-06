@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 150914,
+  "num_followers": 151012,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjZlMzQ3MjE4MWUwZGU4ODJmMGU1MDc4YThhYTRhNGI4ODMyN2Nk",
+  "snapshot_id": "MCxmNTI0ZTczYTU1M2MyNzNhMmMxYjA3NDZhNzQyNDkwOTBhMmQwNzYz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:53:30",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "I Hear Some Blues Downstairs",
-        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
-      },
-      "artists": [
-        {
-          "name": "Fenton Robinson",
-          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 313840,
       "name": "Ghetto Woman",
       "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "I Hear Some Blues Downstairs",
+        "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 133293,
       "name": "The Moon is Rising",
       "url": "https://open.spotify.com/track/736frSQjibzIkMg2byvPoW"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -427,22 +459,6 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -475,22 +491,6 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/0EiOsxtSUCiyOCiHU8kUF0"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 184466,
       "name": "Black Angel Blues",
       "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/0EiOsxtSUCiyOCiHU8kUF0"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Bad Mouthin'",
-        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 186000,
       "name": "That Evening Train - Remastered 2022",
       "url": "https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Bad Mouthin'",
+        "url": "https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
-      },
-      "artists": [
-        {
-          "name": "Kai Strauss",
-          "url": "https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E"
-        }
-      ],
-      "duration_ms": 451560,
-      "name": "Night Shift Blues",
-      "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 373933,
       "name": "Same Old Blues Again (2007 - Remaster)",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE"
+      },
+      "artists": [
+        {
+          "name": "Kai Strauss",
+          "url": "https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E"
+        }
+      ],
+      "duration_ms": 451560,
+      "name": "Night Shift Blues",
+      "url": "https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
+        "name": "Old Bones, New Fire",
+        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+      },
+      "artists": [
+        {
+          "name": "Miraculous Mule",
+          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
         "name": "Scream, Holler & Howl",
         "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Old Bones, New Fire",
-        "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
       "artists": [
         {
-          "name": "Miraculous Mule",
-          "url": "https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 187524,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+      "duration_ms": 292520,
+      "name": "Empty Bed Blues - Mono",
+      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
     },
     {
       "added_at": "2023-10-05 08:53:30",
@@ -1127,22 +1143,6 @@
       "duration_ms": 263037,
       "name": "Wish Her Well",
       "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Empty Bed Blues - Mono",
-      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
     },
     {
       "added_at": "2023-10-05 08:53:30",

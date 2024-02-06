@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: cehryl \(Hong Kong\)
 
-1,154 songs - 2 day 21 hr 28 min
+1,155 songs - 2 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-17 | 2023-10-27 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-26 | 2022-07-08 |
 | [Safe Flight](https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Safe Flight](https://open.spotify.com/album/3oZDDfuIuDzRDC12mnVrDF) | 2:51 | 2022-08-04 | 2022-09-23 |
-| [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
+| [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 | 2024-02-06 |
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-30 | 2022-09-02 |
 | [Sansinukob](https://open.spotify.com/track/7jOqzJjLxMTg6yScO5nYDb) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Sansinukob](https://open.spotify.com/album/3jXW9PJLrAvYhBQMrQTVti) | 3:13 | 2023-03-23 | 2023-04-14 |
 | [Satu Episode](https://open.spotify.com/track/2B9PQPeNFwJoeP87QIEtC6) | [Humidumi](https://open.spotify.com/artist/1dwMXJoNbFfZYWsQvhofyS), [Bagas Yudhiswa](https://open.spotify.com/artist/4ui58ATHcmmgu8bhi1yX5c) | [Satu Episode](https://open.spotify.com/album/1H0szrIN3UUcRPLemBmXRj) | 5:22 | 2022-07-07 | 2022-07-15 |
@@ -893,6 +893,7 @@
 | [Sweet Sixteen](https://open.spotify.com/track/0KX2a4PmL8hEUbezn5dqlX) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Sweet Sixteen](https://open.spotify.com/album/6re1wyeYE507jyE715Rn3r) | 4:16 | 2022-09-01 | 2022-10-07 |
 | [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-25 | 2023-07-28 |
 | [Take It Slow](https://open.spotify.com/track/6ZRdwFsEw5crjTzHo6Idxh) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [愛是我們必經的辛苦](https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav) | 5:24 | 2022-09-22 | 2023-06-09 |
+| [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-02-01 |  |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-07-29 |
 | [Take My Hug](https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Take My Hug](https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ) | 4:01 | 2022-11-17 | 2023-02-10 |
 | [Taken](https://open.spotify.com/track/0dDgHiRigu5x81GYhIPF2R) | [A New World If You Can Take It](https://open.spotify.com/artist/2PAWeJB5IPKkWEzlYYOBM1) | [Taken](https://open.spotify.com/album/13crrogpgBub9XFWzHHMpi) | 3:47 | 2023-07-27 | 2023-09-01 |

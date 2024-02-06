@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "album": {
         "name": "Counting Empties",
         "url": "https://open.spotify.com/album/73VMcdgWUHy6NzizKuqbly"
       },
@@ -3577,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Religion for One",
+        "url": "https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Religion for One",
+      "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
+    },
+    {
+      "album": {
         "name": "Mourn",
         "url": "https://open.spotify.com/album/33hGrLt8Dj5WP6Iv4MK8uz"
       },
@@ -4370,7 +4406,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 205703,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz"
@@ -5762,7 +5798,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 256810,
       "name": "zi oi \u81ea\u7231",
       "url": "https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X"

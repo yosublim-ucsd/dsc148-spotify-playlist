@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 140421,
+  "2024-02-06": 140552,
   "date_first_scraped": "2022-01-26",
   "description": "A soft and slow soundtrack to play in the background to all your activities.",
   "name": "Soft Jazz",
@@ -1111,6 +1111,24 @@
       "duration_ms": 184135,
       "name": "An Evening In Vienna",
       "url": "https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267690,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2"
     },
     {
       "album": {
@@ -5288,6 +5306,24 @@
     },
     {
       "album": {
+        "name": "Hay Square Serenade",
+        "url": "https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228656,
+      "name": "Hay Square Serenade",
+      "url": "https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR"
+    },
+    {
+      "album": {
         "name": "He Knows I'm Sophisticated",
         "url": "https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf"
       },
@@ -8780,6 +8816,24 @@
     },
     {
       "album": {
+        "name": "Love's Declaration",
+        "url": "https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Love's Declaration",
+      "url": "https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB"
+    },
+    {
+      "album": {
         "name": "Low In The Sky",
         "url": "https://open.spotify.com/album/3zuk8Y55rA8Dc5BuW7tVJu"
       },
@@ -9133,7 +9187,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 327129,
       "name": "Memories of Yesterday",
       "url": "https://open.spotify.com/track/6Ccr8bF355Uab89QUH1OPY"
@@ -11479,7 +11533,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 212440,
       "name": "Purple Shades",
       "url": "https://open.spotify.com/track/4cvRXIv9hBLFPWwGDpyfTm"
@@ -12441,7 +12495,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 218566,
       "name": "Snow in the Night",
       "url": "https://open.spotify.com/track/5pkV89tLr5KvFchu3jsEyS"
@@ -12463,6 +12517,24 @@
       "duration_ms": 208507,
       "name": "Snowbound",
       "url": "https://open.spotify.com/track/7sDq8pkhmQJCkRR68jnnzz"
+    },
+    {
+      "album": {
+        "name": "Snowdrops",
+        "url": "https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225328,
+      "name": "Snowdrops",
+      "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
     },
     {
       "album": {
@@ -14069,7 +14141,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 319298,
       "name": "The Days of Wine and Roses",
       "url": "https://open.spotify.com/track/4mummEvXDYUwKdTiMV55UI"
@@ -15001,7 +15073,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 324280,
       "name": "Throughout",
       "url": "https://open.spotify.com/track/3CzfCEu7xH7dDDD1MreOz0"
@@ -15549,6 +15621,24 @@
       "duration_ms": 146020,
       "name": "Vine Street",
       "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+    },
+    {
+      "album": {
+        "name": "Vinegar replacing honey",
+        "url": "https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Troedsson",
+          "url": "https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172378,
+      "name": "Vinegar replacing honey",
+      "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
     },
     {
       "album": {

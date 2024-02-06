@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3693058,
+  "num_followers": 3693326,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGMyMGNmY2FlOWVmNTA2OGYxZTgyNWJkNTI1Yzc3ZGZlMjIzYjFi",
+  "snapshot_id": "MCw3ZWYwZjUxN2FkMWVmMDMzM2Y1NjlhMGM0OThiMzU4Mzg0ODEyNjAy",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Ghostkeeper",
         "url": "https://open.spotify.com/album/0ZoNlJeutDZYpf1rSzGInO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152298,
       "name": "Rain",
       "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 284563,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
@@ -1079,18 +1095,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Paradox",
-        "url": "https://open.spotify.com/album/0YePuQd1BOP4iZiBV33Sqy"
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/0xgfpmTmQDHCO7fxMMG6Zw"
+      "duration_ms": 269221,
+      "name": "Running In A Dream",
+      "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1131,30 +1155,6 @@
       "duration_ms": 172331,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 269221,
-      "name": "Running In A Dream",
-      "url": "https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 153532,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I Can Make It",
         "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
@@ -1387,22 +1367,46 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
         },
         {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+          "name": "Plaha",
+          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         }
       ],
-      "duration_ms": 220383,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+      "duration_ms": 178604,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1439,30 +1443,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
-      },
-      "artists": [
-        {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        },
-        {
-          "name": "Plaha",
-          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 212906,
       "name": "IOU",
       "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 162338,
       "name": "Company",
       "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
-      },
-      "artists": [
-        {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        },
-        {
-          "name": "Exit Coda",
-          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/46oJS2fg8Q9uCDGn38QA1u"
       },
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        },
+        {
+          "name": "Exit Coda",
+          "url": "https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8"
+        }
+      ],
+      "duration_ms": 227987,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Manzanita",
         "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
@@ -1775,22 +1775,6 @@
       "duration_ms": 164433,
       "name": "Manzanita",
       "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1811,6 +1795,62 @@
       "duration_ms": 271025,
       "name": "Making Time",
       "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1839,46 +1879,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Back to You (Amtrac Remix)",
         "url": "https://open.spotify.com/album/7Eczcaoa9Snixo72qACVB9"
       },
@@ -1899,38 +1899,42 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     }
   ],
   "unique_name": "Chill Tracks",

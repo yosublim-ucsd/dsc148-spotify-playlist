@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Dot.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,596 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,661 likes - 98 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 97 | [En Otro Lugar](https://open.spotify.com/track/5HKQ7IMuZqp4UE32rFWjhS) | [Unidad y Armonía](https://open.spotify.com/artist/05qFHgf1VfCSmZUgC5aLX9) | [En otro lugar](https://open.spotify.com/album/26jqQyRwg4FBCLdAtgkZ07) | 4:00 |
 | 98 | [TU M0VIMIENT0](https://open.spotify.com/track/7qY6EP2f22aOthOgme41AN) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [TU M0VIMIENT0](https://open.spotify.com/album/7ojXU3ahQjm8sDYiT1jivK) | 3:03 |
 
-Snapshot ID: `MCxiMWI5Zjk2YjRlNTMxYmI5MmVlOGUwNmJhZjQ3YzE0NTY0OWQ5YmJi`
+Snapshot ID: `MCw5NWFjN2FmMDIzYjQ4ODZjNWRjOTcxN2I5YzI4NGY1OGFhYjY4NGRm`

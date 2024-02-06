@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 32388,
+  "2024-02-06": 32382,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
@@ -3937,7 +3937,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 160551,
       "name": "BUGATTI",
       "url": "https://open.spotify.com/track/4Q6a7rd2NH1BmNld68FdGM"
@@ -8021,7 +8021,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -10981,7 +10981,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -11865,7 +11865,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -16390,6 +16390,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -17399,7 +17417,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
@@ -23317,7 +23335,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 166764,
       "name": "Skinny",
       "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
@@ -27229,7 +27247,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 174400,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/7lBvRZwaioI3zs2yxr5mf2"

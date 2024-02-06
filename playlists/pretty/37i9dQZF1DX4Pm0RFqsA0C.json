@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5449,
+  "num_followers": 5447,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDIyYTRmOTBjMDA2MjhkOTVlZTdhZmMxMDk5OGI4ODQ5MjcxNTgy",
+  "snapshot_id": "MCw5MDNlMDhhMGNiNjQzYjk5NWU4ZGJkNmNhZTE2MzQxYWE3M2JlNDA2",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Perfect Man - The 5th Album",
-        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 236147,
       "name": "10 Minutes",
       "url": "https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Perfect Man - The 5th Album",
+        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Couple",
-      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
       },
@@ -219,34 +203,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "S.E.S. - The 1st Album",
-        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "(\u2032Cause) I\u2032m Your Girl",
-      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
+      "duration_ms": 250066,
+      "name": "Couple",
+      "url": "https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -279,6 +247,38 @@
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "S.E.S. - The 1st Album",
+        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "(\u2032Cause) I\u2032m Your Girl",
+      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "HEY, COME ON! - The 4th Album",
-        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Wild Eyes",
-      "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Wolf And Sheep",
         "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "HEY, COME ON! - The 4th Album",
+        "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Choose My Life-U - The 5th Album",
         "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 228000,
       "name": "Just A Feeling - Original Version",
       "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -443,22 +459,6 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "SHOO. EUGENE. SEA - The 2nd Album",
-        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
-      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Virginalness Bloom",
         "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
@@ -559,18 +543,34 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "All System Go",
+        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
+      "duration_ms": 249420,
+      "name": "3!4!",
+      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "SHOO. EUGENE. SEA - The 2nd Album",
+        "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/5Qy3PCR9u6KeNAjRV405uv"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "All System Go",
-        "url": "https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 249420,
-      "name": "3!4!",
-      "url": "https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk"
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "DJ. DOC 4th Album",
-        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
+        "name": "280KM SPEED",
+        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
       },
       "artists": [
         {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 192888,
-      "name": "Dance with DOC",
-      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
+      "duration_ms": 193085,
+      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
+      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -683,6 +683,22 @@
       "duration_ms": 238004,
       "name": "\uc6b0\uc5f0",
       "url": "https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "DJ. DOC 4th Album",
+        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 192888,
+      "name": "Dance with DOC",
+      "url": "https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -735,22 +751,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "280KM SPEED",
-        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 193085,
-      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
-      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Wolf And Sheep",
         "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 233966,
       "name": "\ub09c \ub110 \uc6d0\ud574",
       "url": "https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -831,22 +815,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -863,6 +831,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 234888,
       "name": "White",
       "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "NEW SENSATION",
-        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
       "artists": [
         {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 243095,
-      "name": "Twist king",
-      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Baby V.O.X Special Album",
+        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
+      },
+      "artists": [
+        {
+          "name": "Baby V.O.X",
+          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
+        }
+      ],
+      "duration_ms": 99686,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1035,6 +1035,22 @@
       "duration_ms": 230791,
       "name": "\uc815",
       "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "NEW SENSATION",
+        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 243095,
+      "name": "Twist king",
+      "url": "https://open.spotify.com/track/4hTrNbqzskHUuq0Jz0XroB"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1083,22 +1099,6 @@
       "duration_ms": 265116,
       "name": "\uc120\ubb3c",
       "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Baby V.O.X Special Album",
-        "url": "https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9"
-      },
-      "artists": [
-        {
-          "name": "Baby V.O.X",
-          "url": "https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo"
-        }
-      ],
-      "duration_ms": 99686,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/6FNzGOfb27z0xahzEHv9si"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Shaky Friendship",
-      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Jaurim, The Wonder Land",
         "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213933,
       "name": "Magic carpet ride",
       "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Shaky Friendship",
+      "url": "https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
-        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
       "artists": [
         {
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
         }
       ],
-      "duration_ms": 217786,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/7A4eu80BnbdWEAEBO7pTyC"
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
+        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/7A4eu80BnbdWEAEBO7pTyC"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "\uc0ac\ub791\ud560\uc218\uc5c6\ub294\ub108",
         "url": "https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 264739,
       "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
       "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw"
-      },
-      "artists": [
-        {
-          "name": "Kim Won Jun",
-          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+        "name": "Show",
+        "url": "https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "Kim Won Jun",
+          "url": "https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8"
         }
       ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+      "duration_ms": 227423,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Travel \u221e Directions",
-        "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
-      },
-      "artists": [
-        {
-          "name": "Han Kyung Il",
-          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
-        }
-      ],
-      "duration_ms": 253570,
-      "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
-      "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "parkjiyoon 20th anniversary photo&live album",
         "url": "https://open.spotify.com/album/2th6tmq8mLVr3sUlcoOKru"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 229862,
       "name": "\uc18c\uc911\ud55c \uc0ac\ub791 Precious Love - Live",
       "url": "https://open.spotify.com/track/0KZ00Z3mrfCOVJzvnkNmSO"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Travel \u221e Directions",
+        "url": "https://open.spotify.com/album/3i1AS6MZNPsORiHrJYTHgb"
+      },
+      "artists": [
+        {
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+        }
+      ],
+      "duration_ms": 253570,
+      "name": "\uc2ac\ud508 \ucd08\ub300\uc7a5",
+      "url": "https://open.spotify.com/track/78kHVc50ML3pR6TNaBVQgP"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "1st",
-        "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
-      },
-      "artists": [
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/705uQTKwhztraXRflr1sl4"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/2iOFwjFKYQE1bTLXLAnb38"
       },
@@ -2028,25 +2012,25 @@
           "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 266893,
-      "name": "Same Old Story",
-      "url": "https://open.spotify.com/track/66yv1ZsM9nqkOtt0LotgCN"
+      "duration_ms": 256133,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/705uQTKwhztraXRflr1sl4"
     },
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Chapter 3",
-        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+        "name": "1st",
+        "url": "https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx"
       },
       "artists": [
         {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 242333,
-      "name": "\uac70\uc9d3\ub9d0 Lie",
-      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
+      "duration_ms": 266893,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/66yv1ZsM9nqkOtt0LotgCN"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2063,6 +2047,22 @@
       "duration_ms": 235386,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/5mk916aCyM4P5tU4cpSYid"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "Chapter 3",
+        "url": "https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "\uac70\uc9d3\ub9d0 Lie",
+      "url": "https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "I Yah! - The 4th Album",
-        "url": "https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "I yah!",
-      "url": "https://open.spotify.com/track/1T7Bba0gPmoyulQioB9ZGt"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Wedding - The 6th Album",
         "url": "https://open.spotify.com/album/2z3PuFKRY0tH0XOIzZzfoF"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 206733,
       "name": "\ub108\uc758 \uacb0\ud63c\uc2dd Wedding",
       "url": "https://open.spotify.com/track/0bjz3D1sw6AoSGhhKzikbt"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "I Yah! - The 4th Album",
+        "url": "https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "I yah!",
+      "url": "https://open.spotify.com/track/1T7Bba0gPmoyulQioB9ZGt"
     },
     {
       "added_at": "2021-02-01 12:18:54",

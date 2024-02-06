@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-650 songs - 1 day 13 hr 40 min
+651 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BLEEP BLOOP](https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [BLEEP BLOOP](https://open.spotify.com/album/2pYDaq6cycAXPtCShZk0zY) | 2:32 | 2023-06-05 | 2023-09-01 |
 | [Blinding](https://open.spotify.com/track/7EumtlWTL8XRzS0ZEDoE4i) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Wolfy Lights](https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z) | [Blinding](https://open.spotify.com/album/39eGOxLGyql1izxsJjK7lS) | 3:43 | 2023-05-05 | 2023-07-29 |
 | [Blood Rush \- Spotify Singles](https://open.spotify.com/track/487irnHaIRbh6VOWFf9qGs) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 3:17 | 2022-11-09 | 2023-02-04 |
+| [Bloodshot](https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Bloodshot](https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr) | 2:43 | 2024-02-05 |  |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Skepsis",
-  "num_followers": 55275,
+  "num_followers": 55317,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmM0OGJlNjQyMzVmNGYxZjU5YTkyMDdiZWMyZmIxZDVjYTM4MzQw",
+  "snapshot_id": "MCxjNDVjOGU5NTE3MDYzMTNjNGVlNTFkOWQwOTdlMzgzNDQ2YTYzOGE5",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "looking 4 me",
         "url": "https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 147245,
       "name": "looking 4 me",
       "url": "https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Overload / Somebody Else, Pt. 2",
+        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Lydia Plain",
+          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
+        }
+      ],
+      "duration_ms": 197485,
+      "name": "Somebody Else, Pt. 2",
+      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -723,26 +743,6 @@
       "duration_ms": 240000,
       "name": "Tekkers Riddim (feat. Harry Shotta & Mr Traumatik)",
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Overload / Somebody Else, Pt. 2",
-        "url": "https://open.spotify.com/album/6WVPZVv5W9F6PzNYaIC7kl"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Lydia Plain",
-          "url": "https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs"
-        }
-      ],
-      "duration_ms": 197485,
-      "name": "Somebody Else, Pt. 2",
-      "url": "https://open.spotify.com/track/3NaHRpWW3rvlSq1vxS6pxx"
     },
     {
       "added_at": "2023-11-17 16:57:48",

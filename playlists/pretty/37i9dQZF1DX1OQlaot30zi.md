@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rayan e Intifaya, Cancun, SPOOKYPBL, Papa V e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,681 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,713 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 73 | [Bellingham](https://open.spotify.com/track/0gtb0nnDrELFYBpL43DSR6) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [Bellingham](https://open.spotify.com/album/33BPYrVRqxxJ2rbW2sAzhH) | 2:16 |
 | 74 | [STEP BY STEP](https://open.spotify.com/track/6azRsazhYFpDXcjOcEaqdC) | [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/0TwdOHVNvrlbU0YSJ487KK) | [STEP BY STEP](https://open.spotify.com/album/3QmRXmRqLCBpOxAiN78Ibg) | 2:29 |
 
-Snapshot ID: `MCwxY2NkYWE1MDBjYzQ2ZTZiMjQyNTIzNzRmOTg1M2IxNTlhOTkxNWM2`
+Snapshot ID: `MCwyZDcwMjYyZTQ2NmFjNzIzZGJiNTVmYWNhYWEyNzhhYzIxMWUwNGMy`

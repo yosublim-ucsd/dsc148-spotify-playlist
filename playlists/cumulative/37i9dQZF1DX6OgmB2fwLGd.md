@@ -4,7 +4,7 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-944 songs - 1 day 14 hr 30 min
+945 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Cherry](https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Cherry](https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12) | 2:19 | 2023-12-01 |  |
 | [Chill Speedy](https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ) | [IShowSpeed](https://open.spotify.com/artist/6fq2794JwAdmCXVaz5tDym) | [Chill Speedy](https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0) | 1:13 | 2023-04-21 | 2023-05-20 |
 | [circus](https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [circus](https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r) | 2:13 | 2022-10-14 | 2022-10-26 |
+| [CLAY HEART](https://open.spotify.com/track/1dxxQAxZRLpB1rQhQUI51q) | [Raeusi](https://open.spotify.com/artist/2gVbZgSkbei8oQAfREgBMt) | [CLAY HEART](https://open.spotify.com/album/1zFUzr5m4N02u4T3wauMoc) | 2:22 | 2024-02-05 |  |
 | [Clocking U](https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:56 | 2023-09-22 | 2024-02-04 |
 | [CLUBHOUSE! \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/2UKEafEb8WaCuMJFfHNq5n) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [CLUBHOUSE! / UNCIVILIZED! \(GO!\)](https://open.spotify.com/album/4BPihCuvLuLFhxc1pzUk7R) | 2:33 | 2022-06-17 | 2022-07-30 |
 | [Clumsy Dancer](https://open.spotify.com/track/6LuD2JSlTWmidYCxwoDwMw) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [exiit](https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g) | 3:16 | 2023-06-16 | 2023-09-23 |

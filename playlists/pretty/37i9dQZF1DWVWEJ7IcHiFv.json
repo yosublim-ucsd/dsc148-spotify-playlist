@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 116940,
+  "num_followers": 117043,
   "original_name": "80s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzQ3NzQxMGI0NjFjZDZjZmNkZTFmMmRhODJmNzYzYTYyODMwZDRm",
+  "snapshot_id": "MCw2YzJiZmQ0ZTFjZTZlMzZkNGQ2OWEwYjFjYjdkMGZlZmRmYWM3OWQ2",
   "tracks": [
     {
       "added_at": "2023-02-17 21:03:29",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 265706,
       "name": "Cuando Seas Grande",
       "url": "https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -303,24 +287,8 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
@@ -328,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -363,6 +331,22 @@
       "duration_ms": 181600,
       "name": "No Voy en Tren",
       "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -411,6 +395,22 @@
       "duration_ms": 173560,
       "name": "Tu Pirata Soy Yo",
       "url": "https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cuando Pase el Temblor",
+      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 239373,
       "name": "Ay Que Pesado",
       "url": "https://open.spotify.com/track/70JuT3NRucLbbJVG1vlDMW"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Cuando Pase el Temblor",
-      "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Persiana Americana",
+      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
+    },
+    {
+      "added_at": "2023-02-17 21:03:29",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-02-17 21:03:29",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
         }
       ],
-      "duration_ms": 290786,
-      "name": "Persiana Americana",
-      "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
+      "duration_ms": 210893,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
     },
     {
       "added_at": "2023-02-17 21:03:29",
@@ -783,22 +799,6 @@
       "duration_ms": 262560,
       "name": "Dr. Beat",
       "url": "https://open.spotify.com/track/21kwcsNL7YnianpVjXumHc"
-    },
-    {
-      "added_at": "2023-02-17 21:03:29",
-      "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
     },
     {
       "added_at": "2023-02-17 21:03:29",

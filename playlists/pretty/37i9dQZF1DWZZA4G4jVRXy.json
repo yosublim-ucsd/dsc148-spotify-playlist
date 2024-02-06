@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127434,
+  "num_followers": 127445,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWJlMWMxMTM0NmE3ZTljOWQ4MzU3MDEwNjljZDI2OTgxNzVkYTRi",
+  "snapshot_id": "MCxjY2Q3NjM0OTNjY2NhYWY0ZmJkMmVjNTIxYTVmZDgzYTE0NGQ3ZDY2",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
-      },
-      "artists": [
-        {
-          "name": "Webley Edwards",
-          "url": "https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "Alika - Digitally Remastered 1996",
-      "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Best Of Martin Denny's Exotica",
@@ -187,6 +171,22 @@
       "duration_ms": 158653,
       "name": "Misirlou - 1995 Digital Remaster",
       "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
+      },
+      "artists": [
+        {
+          "name": "Webley Edwards",
+          "url": "https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Alika - Digitally Remastered 1996",
+      "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "The Soul Of The Drums",
         "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 165440,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Latin-Esque",
@@ -483,22 +499,6 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "MGANGA!",
-        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
-      },
-      "artists": [
-        {
-          "name": "Tak Shindo",
-          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Mombasa Love Song",
-      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Vintage Dance Orchestras No. 304 - EP: Provocative Cha Cha Cha",
@@ -607,6 +591,22 @@
       "duration_ms": 161595,
       "name": "Too Young Cha Cha",
       "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "MGANGA!",
+        "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
+      },
+      "artists": [
+        {
+          "name": "Tak Shindo",
+          "url": "https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Mombasa Love Song",
+      "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
         "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 190840,
       "name": "Ke Kali Nei Au - The Hawaiian Wedding Song",
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1Z4aOyNZmQ95yBRzPWgFJ3"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Soundproof",
@@ -1123,6 +1107,22 @@
       "duration_ms": 142720,
       "name": "Conjuration",
       "url": "https://open.spotify.com/track/09VEnlRzGS48WD5TCHzQqj"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

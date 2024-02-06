@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,889 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,927 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 8 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 9 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:08 |
 | 10 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 |
-| 11 | [Kinderszenen, Op\. 15: No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
+| 11 | [No\. 1, Von fremden Ländern und Menschen](https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Vladimir Horowitz](https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq) | [Schumann: Kinderszenen; Arabesque; Fantasie; Träumerei](https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2) | 1:33 |
 | 12 | [Aboriginal Lullaby](https://open.spotify.com/track/7cYVvcT0wfBnFE6RDeFRIs) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty) | [Aboriginal Lullaby](https://open.spotify.com/album/5aMHHjldNmnqUEayrOZGlj) | 1:53 |
 | 13 | [Four Seasons Variation \(Arr\. for Piano from Violin Concerto, RV 297, "Winter": II\. Largo by Svetoslav Karparov\)](https://open.spotify.com/track/7jezOL1bXEUmQtbCKFrmof) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:01 |
 | 14 | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I) | [Polovtsian Dances from Prince Igor \(piano arr\. by L\. Faulkner\)](https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G) | 2:52 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 51 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 52 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 |
 
-Snapshot ID: `MCw0MjRmMzNhNzBiYTQ4NTNmZmRjNDc0YTBiOGVkNDFmZjJlMDIzNjU1`
+Snapshot ID: `MCw5MTc5YWU0ZjU5MmY3ZjdjNGI4ODdjYzk3ZmFhOTYzNDQ2MGI5Y2U2`

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 148201,
+  "num_followers": 148238,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjNhZTc2ZThkYzIwODkyZjQwOThmODJlMDJiOTUyMjBiZjY2ZDYz",
+  "snapshot_id": "MCxjOGRkNWYyYzRmNDQwYzA1MzQ1YzkwYjE0NzMxY2IxY2M2NDBjOThm",
   "tracks": [
     {
       "added_at": "2023-12-04 19:43:02",
@@ -211,26 +211,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Rave Out",
-        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
         }
       ],
-      "duration_ms": 148155,
-      "name": "Rave Out",
-      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -379,22 +375,26 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+        "name": "Rave Out",
+        "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
         },
         {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
         }
       ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+      "duration_ms": 148155,
+      "name": "Rave Out",
+      "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "messy in heaven",
-        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 170437,
-      "name": "messy in heaven",
-      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "messy in heaven",
+        "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 170437,
+      "name": "messy in heaven",
+      "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Where Do We Go (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 197241,
-      "name": "Elemental",
-      "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 197241,
+      "name": "Elemental",
+      "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Stars On The Roof (feat. MOMO)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MOMO)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Move Your Body (Hedex Remix)",
         "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Stars On The Roof (feat. MOMO)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MOMO)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Mesmerised",
-        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Mesmerised",
-      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "Freedom 2",
         "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Out of Time",
-        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
+        "name": "Mesmerised",
+        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         }
       ],
-      "duration_ms": 231605,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
+      "duration_ms": 266400,
+      "name": "Mesmerised",
+      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1071,6 +1051,26 @@
       "duration_ms": 242750,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 231605,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Vibration (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 266929,
       "name": "Party All the Time (feat. Kay)",
       "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Vibration (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Lazers Not Included",
+        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 287241,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Lazers Not Included",
-        "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        }
-      ],
-      "duration_ms": 287241,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
     },
     {
       "added_at": "2023-12-04 19:43:02",

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Shipra Goyal
 
-263 songs - 15 hr 16 min
+264 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [In My Skin](https://open.spotify.com/track/3FyeaNDJhPGM8MqKvtne5T) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [In My Skin](https://open.spotify.com/album/2mRojYGgIJFkDsI75rIP98) | 2:22 | 2022-01-04 | 2022-02-02 |
 | [Is It Love](https://open.spotify.com/track/0dm2tJyQDozAbvATPwfwop) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Jay Mehta](https://open.spotify.com/artist/0bDwO8yUl7akZ4rs1vvXrD) | [Is It Love](https://open.spotify.com/album/1cuBbMpP693dk8S4BdVinS) | 3:39 | 2022-02-01 | 2022-03-08 |
 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 | 2022-08-03 | 2023-01-04 |
-| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 | 2024-02-06 |
 | [Itne Pyaar Se \(Thoda Darr Lagta Hai\)](https://open.spotify.com/track/0wPLLfMuqG8aH8xCVAe4I9) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Itne Pyaar Se \(Thoda Darr Lagta Hai\)](https://open.spotify.com/album/1zpcx8SUq3d79ROmkdBK8P) | 3:30 | 2021-12-10 | 2022-02-02 |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2022-02-01 | 2023-01-04 |
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-18 |

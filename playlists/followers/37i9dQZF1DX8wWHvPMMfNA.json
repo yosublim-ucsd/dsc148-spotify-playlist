@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 244188,
+  "2024-02-06": 244279,
   "date_first_scraped": "2021-12-28",
   "description": "Soft instrumental jazz for working or studying.",
   "name": "Focus Jazz",
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267690,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2"
+    },
+    {
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz"
       },
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 488733,
       "name": "Ballad Medley",
       "url": "https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 211146,
       "name": "Blues For Daryl",
       "url": "https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI"
@@ -3373,7 +3391,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 319333,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
@@ -4364,6 +4382,24 @@
     },
     {
       "album": {
+        "name": "Hay Square Serenade",
+        "url": "https://open.spotify.com/album/3sRv5jrINXZxy4p37o1hgr"
+      },
+      "artists": [
+        {
+          "name": "Gus Anderson",
+          "url": "https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228656,
+      "name": "Hay Square Serenade",
+      "url": "https://open.spotify.com/track/6JCQEwLMwUIOh9Lrt9W7YR"
+    },
+    {
+      "album": {
         "name": "He Said She Got It Going",
         "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
       },
@@ -5161,7 +5197,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 368653,
       "name": "I'll Never Be The Same",
       "url": "https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj"
@@ -6824,6 +6860,24 @@
     },
     {
       "album": {
+        "name": "Lonely Avenue",
+        "url": "https://open.spotify.com/album/3IYk8IZhaNiz2JETes8Cbd"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219404,
+      "name": "Lonely Avenue",
+      "url": "https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS"
+    },
+    {
+      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -7040,6 +7094,24 @@
     },
     {
       "album": {
+        "name": "Love's Declaration",
+        "url": "https://open.spotify.com/album/7vCrLBacRaLY8VLcL9hBml"
+      },
+      "artists": [
+        {
+          "name": "Gail Cameron",
+          "url": "https://open.spotify.com/artist/3xmDjA6LY5tG4L7AmNPTXg"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Love's Declaration",
+      "url": "https://open.spotify.com/track/1Af92SAPa18SSvdcdjJ0xB"
+    },
+    {
+      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk"
       },
@@ -7051,7 +7123,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 256252,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
@@ -9406,6 +9478,24 @@
     },
     {
       "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167722,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62"
+    },
+    {
+      "album": {
         "name": "Sails",
         "url": "https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm"
       },
@@ -9997,6 +10087,24 @@
       "duration_ms": 125328,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe"
+    },
+    {
+      "album": {
+        "name": "Snowdrops",
+        "url": "https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225328,
+      "name": "Snowdrops",
+      "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
     },
     {
       "album": {
@@ -13153,7 +13261,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 362040,
       "name": "With A Little Bit Of Luck - Instrumental",
       "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"

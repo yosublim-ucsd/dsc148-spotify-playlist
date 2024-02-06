@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del Hip Hop para toda la familia a disfrutar.",
-  "num_followers": 7592,
+  "num_followers": 7606,
   "original_name": "Historia del Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGU3Yzk1ZDFlZDQ3Yzc1YzdiODgxN2Q2MjNhZGQ2YmQyYWEyODU5",
+  "snapshot_id": "MCxhNmUzNzNlM2Y5MzlkZDI1NGFmY2ExNjBjOWVhOTBhNzI1MGFkNzE5",
   "tracks": [
     {
       "added_at": "2021-04-21 17:09:31",
@@ -268,34 +268,6 @@
       "added_at": "2021-04-21 17:09:31",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 290293,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
-        "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
       "artists": [
@@ -339,6 +311,34 @@
       "duration_ms": 247506,
       "name": "Mr. Wendal",
       "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/29pTiwvAAgbAjrl0g1twLy"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "duration_ms": 290293,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/2HAVFycrhtbmLxyyxpm6JI"
     },
     {
       "added_at": "2021-04-21 17:09:31",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "I Can't Live Without My Radio",
-      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
         "name": "3 Years, 5 Months And 2 Days In The Life Of...",
         "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 272706,
       "name": "Tennessee",
       "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "I Can't Live Without My Radio",
+      "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
     },
     {
       "added_at": "2021-04-21 17:09:31",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 330573,
-      "name": "Rock Box",
-      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
         "name": "Knowledge Is King",
         "url": "https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 282093,
       "name": "I Go To Work",
       "url": "https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 330573,
+      "name": "Rock Box",
+      "url": "https://open.spotify.com/track/2XYNq7LIQrh82m7LPiPN8w"
     },
     {
       "added_at": "2021-04-21 17:09:31",

@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144101,
+  "num_followers": 144104,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRiN2FlMjZjMzY4YTQ3YjY4ZGIxMTgzZjM0YTc1YzQ3MGIzMWM4",
+  "snapshot_id": "MCxkMTFhZjQ4YWViYTIyMTg2NTFlOWY5MmUyNzNhMDYxZTU4Zjc2NDAy",
   "tracks": [
     {
       "added_at": "2024-01-18 09:41:12",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Floral Green",
-        "url": "https://open.spotify.com/album/4VDX4YuDzvaRPfHaZ4FrFV"
-      },
-      "artists": [
-        {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Head in the Ceiling Fan",
-      "url": "https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 208853,
       "name": "Daylily",
       "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Floral Green",
+        "url": "https://open.spotify.com/album/4VDX4YuDzvaRPfHaZ4FrFV"
+      },
+      "artists": [
+        {
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Head in the Ceiling Fan",
+      "url": "https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "Millennial",
         "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 178795,
       "name": "Reckless Tongue",
       "url": "https://open.spotify.com/track/2JG9Gdo54L72gepntVPZQ4"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "From the Leaves of Your Garden",
-        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
-      },
-      "artists": [
-        {
-          "name": "Modern Color",
-          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
-        }
-      ],
-      "duration_ms": 190672,
-      "name": "Pale",
-      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+        "name": "From the Leaves of Your Garden",
+        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
       },
       "artists": [
         {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
         }
       ],
-      "duration_ms": 222207,
-      "name": "Life In A Jar",
-      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
+      "duration_ms": 190672,
+      "name": "Pale",
+      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -427,6 +411,22 @@
       "duration_ms": 291333,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 222207,
+      "name": "Life In A Jar",
+      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Bakesale: Deluxe Edition",
-        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 106613,
-      "name": "License to Confuse - Remastered",
-      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 282121,
       "name": "Weed Pin",
       "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Bakesale: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0FVtcEj9ZmOa7QKvsZNFoh"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 106613,
+      "name": "License to Confuse - Remastered",
+      "url": "https://open.spotify.com/track/4hjMwtr7tPmU62d32Hwia5"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Promise Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 222040,
-      "name": "Aquasun",
-      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Slow Heart",
         "url": "https://open.spotify.com/album/5rSuj8zTBnFqQETbm25sFb"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 249800,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5f4cJRc2JpB92ljQRJeA6K"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Promise Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Aquasun",
+      "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 458293,
-      "name": "Thru The Eyes Of Ruby - Remastered 2012",
-      "url": "https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 236986,
       "name": "Don\u2019t Give Up Your Ghost",
       "url": "https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 458293,
+      "name": "Thru The Eyes Of Ruby - Remastered 2012",
+      "url": "https://open.spotify.com/track/5W8AYj6e6syodRPzPrJcrb"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
         "name": "Holy Ghost",
         "url": "https://open.spotify.com/album/0XvjdaLFvJ510mcmVXriw7"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+        "name": "Flacco",
+        "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
       },
       "artists": [
         {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
         }
       ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
+      "duration_ms": 250110,
+      "name": "Flacco",
+      "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Flacco",
-        "url": "https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq"
+        "name": "Abstract Figures in the Dark",
+        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
         }
       ],
-      "duration_ms": 250110,
-      "name": "Flacco",
-      "url": "https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
-        "name": "to me",
-        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 243329,
-      "name": "to me",
-      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+      "duration_ms": 246005,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Abstract Figures in the Dark",
-        "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 246005,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "The Remote Part",
         "url": "https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 143760,
       "name": "A Modern Way of Letting Go",
       "url": "https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN"
-      },
-      "artists": [
-        {
-          "name": "Mascara",
-          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
-        }
-      ],
-      "duration_ms": 449655,
-      "name": "Innervisions",
-      "url": "https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq"
-    },
-    {
-      "added_at": "2024-01-18 09:41:12",
-      "album": {
         "name": "Blackened Sky",
         "url": "https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2024-01-18 09:41:12",
       "album": {
-        "name": "The Difference In Good And Bad Dreams",
-        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN"
       },
       "artists": [
         {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+          "name": "Mascara",
+          "url": "https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
+      "duration_ms": 449655,
+      "name": "Innervisions",
+      "url": "https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq"
     },
     {
       "added_at": "2024-01-18 09:41:12",
@@ -1595,6 +1579,22 @@
       "duration_ms": 271733,
       "name": "Goldfinger",
       "url": "https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig"
+    },
+    {
+      "added_at": "2024-01-18 09:41:12",
+      "album": {
+        "name": "The Difference In Good And Bad Dreams",
+        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+      },
+      "artists": [
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
     },
     {
       "added_at": "2024-01-18 09:41:12",

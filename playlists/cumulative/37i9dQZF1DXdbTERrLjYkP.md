@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Grae
 
-617 songs - 1 day 8 hr 47 min
+618 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [WW3](https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [WW3](https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2) | 3:12 | 2023-04-07 | 2023-09-02 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-14 | 2022-10-01 |
 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 | 2023-08-11 | 2023-12-14 |
-| [You Are](https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock](https://open.spotify.com/album/0umWCbaDIHnRU7Q989s0nd) | 3:39 | 2023-12-01 |  |
+| [You Are](https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock](https://open.spotify.com/album/0umWCbaDIHnRU7Q989s0nd) | 3:39 | 2023-12-01 | 2024-02-06 |
+| [You Are](https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:39 | 2024-02-02 |  |
 | [You Just Didn't Like Me That Much](https://open.spotify.com/track/08uFpUUmJVfmF2tdUBejfg) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [You Just Didn't Like Me That Much](https://open.spotify.com/album/4nkYKsTD0UIctyKKAvLwgp) | 2:36 | 2022-10-28 | 2022-12-24 |
 | [You Look Like You Can't Swim](https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [You Look Like You Can't Swim](https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n) | 2:48 | 2023-07-14 | 2023-12-14 |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-22 | 2022-08-13 |

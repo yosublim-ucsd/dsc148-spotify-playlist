@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3853,
+  "num_followers": 3852,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzdlODQ3OWQ4MGE0YjE2MjEzNGE4ZjFkNjNjMTc4MWY5NjMzMGQ1",
+  "snapshot_id": "MCw5Y2Q2OTBmZGUwNzBmZTM3YWYxNzc2OTEyMDhmMTllYjQwODlkY2Uz",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soif",
-        "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
-      },
-      "artists": [
-        {
-          "name": "L'Isle",
-          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
-        }
-      ],
-      "duration_ms": 203534,
-      "name": "Tous les corps",
-      "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Cosmologie",
         "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 198666,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soif",
+        "url": "https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC"
+      },
+      "artists": [
+        {
+          "name": "L'Isle",
+          "url": "https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP"
+        }
+      ],
+      "duration_ms": 203534,
+      "name": "Tous les corps",
+      "url": "https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Waska Matisiwin",
-        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
-      },
-      "artists": [
-        {
-          "name": "Laura Niquay",
-          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
-        }
-      ],
-      "duration_ms": 118609,
-      "name": "Wactenamaci - Illumine-moi",
-      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "3050 DEGREEZ: Condamn\u00e9 \u00e0 l'Excellence",
         "url": "https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 145617,
       "name": "AUDEMARS",
       "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "duration_ms": 118609,
+      "name": "Wactenamaci - Illumine-moi",
+      "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1347,6 +1347,42 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tiamat, Mon Amour",
+        "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
+      },
+      "artists": [
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        },
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 209559,
+      "name": "Pas toi encore",
+      "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Soap Box",
+        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
+      },
+      "artists": [
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 205030,
+      "name": "Te revoir",
+      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Aurore",
         "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
       },
@@ -1375,42 +1411,6 @@
       "duration_ms": 168190,
       "name": "Le matin",
       "url": "https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soap Box",
-        "url": "https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W"
-      },
-      "artists": [
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 205030,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Tiamat, Mon Amour",
-        "url": "https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq"
-      },
-      "artists": [
-        {
-          "name": "Greg Beaudin",
-          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
-        },
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 209559,
-      "name": "Pas toi encore",
-      "url": "https://open.spotify.com/track/4wOQ5zG7CD8wXRgQPnFYqG"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Exposition individuelle",
-        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Le temps des morts",
-      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nous aurons toujours le ciel",
         "url": "https://open.spotify.com/album/359QSNmwW8lrYF98xYH7CE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 272490,
       "name": "Pauvre & malheureux",
       "url": "https://open.spotify.com/track/1ti7F59demudfrzZebTins"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Exposition individuelle",
+        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Le temps des morts",
+      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Rap Queb Monuments",
-        "url": "https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        }
-      ],
-      "duration_ms": 253095,
-      "name": "Dans l'sang",
-      "url": "https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Grand Bleu",
         "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 216960,
       "name": "C'est un bum",
       "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Rap Queb Monuments",
+        "url": "https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "duration_ms": 253095,
+      "name": "Dans l'sang",
+      "url": "https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "M\u00e9tastases",
         "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "La clairi\u00e8re",
-        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Mon petit chemin",
-      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1759,6 +1743,22 @@
       "duration_ms": 224000,
       "name": "03.04.19",
       "url": "https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Mon petit chemin",
+      "url": "https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Winston Express",
-        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
-      },
-      "artists": [
-        {
-          "name": "Le Winston Band",
-          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Fais-moi tien",
-      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 123541,
       "name": "Chou",
       "url": "https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Winston Express",
+        "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
+      },
+      "artists": [
+        {
+          "name": "Le Winston Band",
+          "url": "https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Fais-moi tien",
+      "url": "https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le"
     },
     {
       "added_at": "2023-05-25 23:46:15",

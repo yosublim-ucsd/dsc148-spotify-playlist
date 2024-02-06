@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 45462,
+  "num_followers": 45497,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWU3ZWEwMWY5YzUyYTExM2M5NzRlYjg2NDZkMjVkN2I0NDFiZjJk",
+  "snapshot_id": "MCwzMDA1Njk0Njc2ZDFkNzNkZDJiZTI4NDU2MGM5YTJmNjQyMTMwOTdh",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Love You!",
-        "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "Rock The Bop",
-      "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 187520,
       "name": "Gimme a Pigfoot - Mono",
       "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Love You!",
+        "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "Rock The Bop",
+      "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Crazy Blues: The Best Of Mamie Smith",
         "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
       },
@@ -599,6 +583,54 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
+        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+      },
+      "artists": [
+        {
+          "name": "Clara Smith",
+          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "It's Tight Like That",
+      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -615,18 +647,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
-        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
       "artists": [
         {
-          "name": "Clara Smith",
-          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 195586,
-      "name": "It's Tight Like That",
-      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -651,34 +683,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 180400,
-      "name": "I'm Feeling Alright",
-      "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -695,22 +711,6 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Lil's Big Hits",
-        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
-      },
-      "artists": [
-        {
-          "name": "Lilgreen",
-          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
-        }
-      ],
-      "duration_ms": 202964,
-      "name": "Romance In The Dark",
-      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Ma Rainey Vol. 3 (1925-1926)",
         "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 175726,
       "name": "Stack O'Lee Blues",
       "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Lil's Big Hits",
+        "url": "https://open.spotify.com/album/2bqHbihz5UMPJE5gdPHN08"
+      },
+      "artists": [
+        {
+          "name": "Lilgreen",
+          "url": "https://open.spotify.com/artist/6vchx2WteYQ1SnTTHE0ib7"
+        }
+      ],
+      "duration_ms": 202964,
+      "name": "Romance In The Dark",
+      "url": "https://open.spotify.com/track/5eLdg6SFlue27XADwrAxzS"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Territory Singers Vol. 1 (1922-1928)",
-        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
-      },
-      "artists": [
-        {
-          "name": "Ada Brown",
-          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Evil Mama Blues",
-      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Those Dirty Blues, Vol. 2",
         "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 205000,
       "name": "Honey Dripper Blues",
       "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Territory Singers Vol. 1 (1922-1928)",
+        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
+      },
+      "artists": [
+        {
+          "name": "Ada Brown",
+          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Evil Mama Blues",
+      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
     },
     {
       "added_at": "2023-08-23 10:15:28",

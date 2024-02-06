@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
+> Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Metallica
 
 792 songs - 2 day 10 hr 40 min
 

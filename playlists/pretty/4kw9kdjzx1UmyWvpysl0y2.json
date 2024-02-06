@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126427,
+  "num_followers": 126425,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDU0NSxiOTE2NmJhYzMwZWFjZDliZjQ5MTZiYmZjMzRhZDYzNmI3YTRkM2Fk",
+  "snapshot_id": "NDU0NixiODcwMDk5ZDRkNDA0ZDQ5Y2I0ZGI0Zjg1OWE0MWUxN2VlYzM4NDc3",
   "tracks": [
+    {
+      "added_at": "2024-02-05 20:04:41",
+      "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g"
+    },
     {
       "added_at": "2024-02-02 17:48:08",
       "album": {

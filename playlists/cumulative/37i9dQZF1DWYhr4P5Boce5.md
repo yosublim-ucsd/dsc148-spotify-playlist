@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-213 songs - 12 hr 25 min
+214 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-01-31 |  |
 | [My Love](https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Michelle Vinueza](https://open.spotify.com/artist/0sP7O4UNgzyEZk9x0Vba1m) | [My Love](https://open.spotify.com/album/5tFVSwKfZ7A5WAH3vtak1I) | 2:57 | 2024-02-03 |  |
 | [Nice n Slow](https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Nice n Slow](https://open.spotify.com/album/30KjESF2FdVdfgSZNT7bIg) | 2:05 | 2024-02-03 |  |
+| [NOTHING NEW \(I DO\) \- \[Wedding Version\]](https://open.spotify.com/track/2ExOEgZzYA0EULVB8ORnUv) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [NOTHING NEW \(I DO\) \[Wedding Version\]](https://open.spotify.com/album/0u5tMnp65M9EvT3SJ1sUTq) | 4:34 | 2024-02-05 |  |
 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 3:52 | 2023-01-31 |  |
 | [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 3:52 | 2023-01-31 | 2023-12-25 |
 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 | 2023-01-31 | 2023-12-24 |
@@ -167,7 +168,7 @@
 | [South Florida \(Remix\)](https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI) | [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p) | [South Florida \(Remix\)](https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E) | 2:45 | 2024-02-03 |  |
 | [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 | 2024-02-03 |  |
 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 | 2024-02-03 |  |
-| [sweetest love \- live recording](https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [sweetest love \(live recording\)](https://open.spotify.com/album/73v6JUuRaryWzqCXEsRh9r) | 4:42 | 2024-02-03 |  |
+| [sweetest love \- live recording](https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [sweetest love \(live recording\)](https://open.spotify.com/album/73v6JUuRaryWzqCXEsRh9r) | 4:42 | 2024-02-03 | 2024-02-06 |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2024-02-03 |  |
 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 | 2023-01-31 |  |
 | [TEMPERATURA](https://open.spotify.com/track/5RwBAq3yfF3skrMDgV2GVA) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TEMPERATURA](https://open.spotify.com/album/6Zd0nWUKXIsOBituSPhqK6) | 1:51 | 2024-02-03 |  |

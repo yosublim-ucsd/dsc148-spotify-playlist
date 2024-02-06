@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 213393,
+  "2024-02-06": 213431,
   "date_first_scraped": "2022-01-05",
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
   "name": "Headliners",
@@ -4000,6 +4000,28 @@
     },
     {
       "album": {
+        "name": "Festival Favorites 2015 - Armada Music",
+        "url": "https://open.spotify.com/album/6bhnNR98I84d01XZmIzaJ1"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "The Hum",
+      "url": "https://open.spotify.com/track/0h1yorZXMX1sRRLfq0aOAK"
+    },
+    {
+      "album": {
         "name": "The Veldt (feat. Chris James)",
         "url": "https://open.spotify.com/album/57jutsGPCkXUkmBL0pCdlB"
       },
@@ -4539,7 +4561,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 299113,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/7M2t0mMSjLJSweu8BwrY2R"

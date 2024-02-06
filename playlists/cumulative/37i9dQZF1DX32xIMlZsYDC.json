@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 160086,
       "name": "Asilah",
       "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
@@ -1316,6 +1316,24 @@
       "duration_ms": 137500,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx"
+    },
+    {
+      "album": {
+        "name": "Passing By",
+        "url": "https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko"
+      },
+      "artists": [
+        {
+          "name": "Mikayo Koide",
+          "url": "https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139124,
+      "name": "Passing By",
+      "url": "https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu"
     },
     {
       "album": {

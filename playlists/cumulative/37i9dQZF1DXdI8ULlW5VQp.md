@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Reik y Ha\*Ash en portada.
 
-260 songs - 14 hr 53 min
+261 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Ella Qué Te Dio](https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Ella Qué Te Dio](https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe) | 3:48 | 2022-02-04 | 2023-12-21 |
 | [Enamorarte Otra Vez](https://open.spotify.com/track/1l8IJKqEqOSJH0UwO1oQ1b) | [Gus Vazquez](https://open.spotify.com/artist/02ZQCHMjjOq0naJ8M4e5XZ) | [Enamorarte Otra Vez](https://open.spotify.com/album/6U1W4fL3BjIkrTXODb6LuP) | 3:02 | 2022-02-04 | 2022-02-19 |
 | [Entre Tú y Yo](https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Entre Tú y Yo](https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz) | 4:01 | 2022-03-11 | 2024-02-02 |
+| [Entre Tú y Yo](https://open.spotify.com/track/3mE3dc4gce6Z2KvKwJqHnh) | [Karla Breu](https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1) | [Entre Tú y Yo](https://open.spotify.com/album/10aN8c0GaKn8cCNTa8REYh) | 4:01 | 2023-09-26 |  |
 | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/track/7G1ZWXlnSXRQ1arx8I60Yd) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Estar contigo \(feat\. La Oreja de Van Gogh\)](https://open.spotify.com/album/23h7gVEPjvnosj6kQsuv2Y) | 3:57 | 2022-02-11 |  |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-05-19 | 2023-06-17 |
 | [Fantasmas](https://open.spotify.com/track/16PqxLDKhV4By0dhNMZAW7) | [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV), [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Fantasmas](https://open.spotify.com/album/7hQwxDJyHrHmSkw6ceGDVc) | 3:11 | 2022-02-04 | 2023-01-14 |
@@ -246,7 +247,7 @@
 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 | 2023-04-21 |  |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/1aCjnwgnKGLZbOlikxfWRt) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Un Velero Llamado Libertad](https://open.spotify.com/album/5I8z2fN21JJ5RkmVXeRE1v) | 3:23 | 2022-02-04 | 2022-04-19 |
 | [Un Viaje a Todas Partes](https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Un Viaje a Todas Partes](https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0) | 3:23 | 2023-01-13 |  |
-| [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 | 2023-03-11 |  |
+| [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 | 2023-03-11 | 2024-02-06 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-11 | 2022-07-23 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2023-02-08 | 2023-03-11 |
 | [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 3:48 | 2022-02-04 | 2023-01-14 |

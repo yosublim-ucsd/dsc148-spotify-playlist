@@ -4,7 +4,7 @@
 
 > The south got something to say\. Cover: Yo Gotti
 
-152 songs - 10 hr 59 min
+153 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Space Age Pimpin'](https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE) | [8Ball & MJG](https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq) | [On Top Of The World](https://open.spotify.com/album/2UBBDl07r4miPVFPp0OMCX) | 5:10 | 2021-04-02 | 2022-02-24 |
 | [Splash Waterfalls](https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 4:50 | 2023-09-29 | 2023-11-04 |
 | [SpottieOttieDopaliscious](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 7:06 | 2023-09-01 | 2023-09-30 |
-| [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 | 2022-02-28 |  |
+| [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 | 2022-02-28 | 2024-02-06 |
 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 | 2021-03-09 |  |
 | [Stay Schemin](https://open.spotify.com/track/0nq6sfr8z1R5KJ4XUk396e) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Stay Schemin](https://open.spotify.com/album/33bJwRLv35ynnhhFyj96hK) | 4:27 | 2021-08-27 | 2022-03-01 |
 | [Still Fly](https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [Hood Rich](https://open.spotify.com/album/3qcWuKB3pGWcB07FWksnWr) | 5:35 | 2021-03-09 |  |
@@ -148,6 +148,7 @@
 | [Vica Versa](https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr) | [Pastor Troy](https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY) | [Face Off](https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU) | 4:23 | 2021-03-09 | 2022-07-29 |
 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 | 2022-02-28 | 2023-04-09 |
 | [Wanna Be A Baller](https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo) | [Lil' Troy](https://open.spotify.com/artist/12mkoe71zJDWs4j0rCeXGR) | [Sittin' Fat Down South](https://open.spotify.com/album/2czjXveZPf9X2dutQGlh2r) | 5:55 | 2023-01-06 |  |
+| [We Takin' Over](https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We The Best](https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf) | 4:23 | 2023-12-01 |  |
 | [We Takin' Over](https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We The Best](https://open.spotify.com/album/3kh9dhan1rQm2QOrISk4SK) | 4:23 | 2022-02-28 | 2023-12-23 |
 | [Welcome to Atlanta \(feat\. Ludacris\)](https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Instructions \(Explicit Version\)](https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht) | 3:20 | 2021-03-09 | 2022-03-01 |
 | [What a Job](https://open.spotify.com/track/1QpMNpzkMxchOeYOn9RbNJ) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Waitin' to Inhale](https://open.spotify.com/album/5txiu4iRX3AeHxuKqXyFna) | 5:32 | 2021-08-27 | 2022-01-19 |

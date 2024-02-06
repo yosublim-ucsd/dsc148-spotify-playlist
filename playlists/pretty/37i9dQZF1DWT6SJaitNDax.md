@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Arya Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,819 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,888 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 54 | [Outside](https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Outside](https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b) | 2:19 |
 | 55 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 
-Snapshot ID: `MCxjZDcxZDE4MGQ5MmM2NjJkOTFjM2NmN2ZhY2FjZTAyMTcxYWFhZWU0`
+Snapshot ID: `MCwwZGQyN2IyNzIyYjljZGE1OTliZTgwZTYxNjA5MWJkYjMzYzg2NDBh`

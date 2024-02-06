@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-217 songs - 11 hr 34 min
+219 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 | 2024-01-19 |  |
 | [Rhythm Of The Universe](https://open.spotify.com/track/3j6UdCJ41uUyltna8AaydD) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh) | [Rhythm Of The Universe](https://open.spotify.com/album/095Sx28P1dXrdSPMG8VIDK) | 2:26 | 2023-09-22 |  |
 | [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 | 2023-10-13 |  |
+| [Rising High](https://open.spotify.com/track/57k1kWRJSLUsj8HXpAZnOD) | [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Rising High](https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc) | 3:48 | 2024-02-05 |  |
 | [RNCL](https://open.spotify.com/track/7BYAcW2avsjOYqMFmCGD0P) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [RNCL](https://open.spotify.com/album/0a9oirk3mX6TOm7WK4GZ3T) | 3:11 | 2023-08-18 |  |
 | [Roller Coaster](https://open.spotify.com/track/2j9Cp1haqQMOtpxwaoUn2e) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Roller Coaster](https://open.spotify.com/album/4h4X4w53GY3nDdTiKIYP5F) | 2:49 | 2023-06-16 |  |
 | [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:26 | 2023-06-13 |  |
@@ -173,6 +174,7 @@
 | [Save Me](https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Save Me](https://open.spotify.com/album/0d4DHBW1784ap3EhId52ii) | 2:52 | 2023-10-30 |  |
 | [Scars](https://open.spotify.com/track/3QaQwIhjTKe1vWZlk0fjtw) | [Stadtmos](https://open.spotify.com/artist/1shg38hoNaL56c6eZXIYCb), [Sky Garden](https://open.spotify.com/artist/2HU8Xi4rVgijIwIALsVbNo) | [Scars](https://open.spotify.com/album/5v9btuYXMyOS8eGrmGvTN4) | 3:32 | 2023-08-22 |  |
 | [Se Pone Loca](https://open.spotify.com/track/0UyJooJf2H3WsrS9hNJ1Ue) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Se Pone Loca](https://open.spotify.com/album/70KHuQWKfG8x2RvCT90WxB) | 3:08 | 2023-08-28 |  |
+| [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-05 |  |
 | [Shook Part 3](https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 7:02 | 2023-12-08 |  |
 | [Sibali](https://open.spotify.com/track/1n6PUs41fNQREmJRKCudvB) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Sibali](https://open.spotify.com/album/672SAgtwb5oZ9KS6yp0F5j) | 3:23 | 2023-06-30 |  |
 | [Silence](https://open.spotify.com/track/6WpcKQpHlmnQvzIaduUOkU) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [Silence](https://open.spotify.com/album/5U4ADX9bIDh1pN4aSQZM4a) | 2:59 | 2023-05-19 |  |

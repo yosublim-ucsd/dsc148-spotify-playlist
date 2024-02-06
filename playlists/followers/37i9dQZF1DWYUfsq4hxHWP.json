@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 81485,
+  "2024-02-06": 81513,
   "date_first_scraped": "2022-01-02",
   "description": "Fresh country music by independent artists every Wednesday. Cover: Mike Parker, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
@@ -10207,10 +10207,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 189181,
       "name": "Every Boy's Girl",
       "url": "https://open.spotify.com/track/2OjCphtFcgMncFiRZFyuZ0"
+    },
+    {
+      "album": {
+        "name": "From The Writin' Room",
+        "url": "https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189181,
+      "name": "Every Boy's Girl",
+      "url": "https://open.spotify.com/track/5Abo95RRTF7gNxK43aJIP9"
     },
     {
       "album": {
@@ -27678,6 +27696,24 @@
     },
     {
       "album": {
+        "name": "From The Writin' Room",
+        "url": "https://open.spotify.com/album/4lyLy6TQ4gxsvOjV5acAuI"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153699,
+      "name": "Same You",
+      "url": "https://open.spotify.com/track/3TZXrcuetPGOovtsSnMtjc"
+    },
+    {
+      "album": {
         "name": "Same You",
         "url": "https://open.spotify.com/album/0KclLvZwxANfpNl6dptLCh"
       },
@@ -27689,7 +27725,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 153699,
       "name": "Same You",
       "url": "https://open.spotify.com/track/52Gw0J24KpdvITqjngF6Pb"

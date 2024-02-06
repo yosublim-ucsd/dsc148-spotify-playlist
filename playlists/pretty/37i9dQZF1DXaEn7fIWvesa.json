@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 6263,
+  "num_followers": 6281,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTI4MmYxZmFiZDYyYjhjYmFkMDdlOTNjOGFlZjE1MTNjOTdkZTZk",
+  "snapshot_id": "MCxmMzBkZGNkYTgwYWI3NTc4ZmIyZTZjMjY5Mjk0YzAwYWM5MjgyMjQ2",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 157777,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -275,26 +275,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
       "artists": [
         {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
         },
         {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
         }
       ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -323,42 +319,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
       "artists": [
         {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
         },
         {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -387,6 +367,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
       },
@@ -399,30 +399,6 @@
       "duration_ms": 202268,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Pornosotros",
-        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        },
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Pornosotros",
-      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -471,30 +447,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Funimate",
-        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Pokercito",
-          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Funimate - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -523,6 +475,54 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Funimate",
+        "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "Pokercito",
+          "url": "https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Funimate - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Pornosotros",
+        "url": "https://open.spotify.com/album/0VIN822VobCM6QGwNlCRhx"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        },
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Pornosotros",
+      "url": "https://open.spotify.com/track/7DTnxzUjeho8NYE0IsoDw1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Hits Kings",
         "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
@@ -539,30 +539,6 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "La Que Quiero Yo",
-        "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        },
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        }
-      ],
-      "duration_ms": 189942,
-      "name": "La Que Quiero Yo",
-      "url": "https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -607,6 +583,30 @@
       "duration_ms": 187826,
       "name": "Southwezzzt",
       "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "La Que Quiero Yo",
+        "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "duration_ms": 189942,
+      "name": "La Que Quiero Yo",
+      "url": "https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Que Locura",
         "url": "https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 231250,
       "name": "Toxica",
       "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "#Round2",
+        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
+      },
+      "artists": [
+        {
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 178055,
+      "name": "Pobre Coraz\u00f3n - with Lenier",
+      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Epicentro",
         "url": "https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 342932,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "#Round2",
-        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
-      },
-      "artists": [
-        {
-          "name": "Divan",
-          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 178055,
-      "name": "Pobre Coraz\u00f3n - with Lenier",
-      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Te Quiero Pa' Mi",
-        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
-      },
-      "artists": [
-        {
-          "name": "El Kimiko y Yordy",
-          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
-        }
-      ],
-      "duration_ms": 201365,
-      "name": "Te Quiero Pa' Mi",
-      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Descaradita",
         "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 258298,
       "name": "Descaradita",
       "url": "https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Te Quiero Pa' Mi",
+        "url": "https://open.spotify.com/album/7HWJg3Yznnix51OBoq4BRP"
+      },
+      "artists": [
+        {
+          "name": "El Kimiko y Yordy",
+          "url": "https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn"
+        }
+      ],
+      "duration_ms": 201365,
+      "name": "Te Quiero Pa' Mi",
+      "url": "https://open.spotify.com/track/6f1iOMpbJFItdBug6CepDl"
     },
     {
       "added_at": "2024-01-26 05:00:00",

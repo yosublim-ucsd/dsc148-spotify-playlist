@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Tom Walker, Jazzy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,844 likes - 130 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,842 likes - 130 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 121 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 |
 | 122 | [his version.](https://open.spotify.com/track/0fM8xN993MUQLa0LxxHs50) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [his version.](https://open.spotify.com/album/1fk1BaUDpMwllgpfFRvrH3) | 3:45 |
 | 123 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 |
-| 124 | [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 |
+| 124 | [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 |
 | 125 | [I Might](https://open.spotify.com/track/0vUMCgfgcoblVHcz1Qopt9) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Might](https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32) | 3:28 |
 | 126 | [Broken](https://open.spotify.com/track/2bddJBCw0Fo6HIGO2vhuDV) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Broken](https://open.spotify.com/album/7JB3vES78G6hfEdCzPIC0Q) | 3:07 |
 | 127 | [Harsh Truths](https://open.spotify.com/track/2vBuwVdGniGOGq4wkT1pfA) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Harsh Truths](https://open.spotify.com/album/5UDZ6aEChMeFyYSMLdYEXe) | 5:05 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Spinning Sides](https://open.spotify.com/track/4azJjpjM9wzySL8Nz6aWgG) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Spinning Sides](https://open.spotify.com/album/1rs0wOw1XnxBU71oTpxP5g) | 3:57 |
 | 130 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 
-Snapshot ID: `MCxkNmE3NzhmNGE1NTY4NmE1M2NiNjBhMmJmOThjN2E1ZTE4NjZlNmE4`
+Snapshot ID: `MCxiZjliNGZiNTE4YWZjMDg1MDBmY2Y1MDBlZmM3NjgyYzM5YjM2MjEy`

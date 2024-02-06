@@ -388,7 +388,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 222096,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0oTyoTKEKMdF3rXcOLyEfN"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
@@ -3744,10 +3744,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 214325,
       "name": "Workin On It",
       "url": "https://open.spotify.com/track/2zdiCw4NwKL5khISYcSzWz"
+    },
+    {
+      "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214325,
+      "name": "Workin On It",
+      "url": "https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 66773,
+  "num_followers": 66776,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI1YzY2ZTZlMTQ5NzVmY2NjOGJmODJhZmU2YmFlYTNmYTFkNmM5",
+  "snapshot_id": "MCwyODI4ZDU0ZTJlOWJjMTAxNmEwMzA2ZDhlMTU0YmM2N2EyMTY0OWRm",
   "tracks": [
     {
       "added_at": "2024-01-29 03:45:26",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Before last month",
-        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 124238,
-      "name": "Before last month",
-      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "Piano Songs",
         "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 225180,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/252R4Lnh0YARC14bvRHE2s"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Dream Helpers",
-        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
       "artists": [
         {
-          "name": "Spirits Of Our Dreams",
-          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
         }
       ],
-      "duration_ms": 124864,
-      "name": "Moving Silence",
-      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -767,6 +751,22 @@
       "duration_ms": 77672,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Dream Helpers",
+        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
+      },
+      "artists": [
+        {
+          "name": "Spirits Of Our Dreams",
+          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+        }
+      ],
+      "duration_ms": 124864,
+      "name": "Moving Silence",
+      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Breathe In (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 89893,
-      "name": "Summer Waltz / The Drive",
-      "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+        "name": "Breathe In (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5cvhwLaFo0osyZmxdTvis2"
       },
       "artists": [
         {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
         }
       ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+      "duration_ms": 89893,
+      "name": "Summer Waltz / The Drive",
+      "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -879,6 +863,22 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+      },
+      "artists": [
+        {
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+        }
+      ],
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Water Lilly Pond",
-        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
-      },
-      "artists": [
-        {
-          "name": "Malouvia",
-          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Water Lilly Pond",
-      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "Nibiru",
         "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 238277,
       "name": "Over The Rainbow",
       "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Water Lilly Pond",
+        "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
+      },
+      "artists": [
+        {
+          "name": "Malouvia",
+          "url": "https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Water Lilly Pond",
+      "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
-      },
-      "artists": [
-        {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
-        }
-      ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "I've Grown Accustomed to Her Face",
         "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 159107,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
+      },
+      "artists": [
+        {
+          "name": "Ricki Westberg",
+          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
+        }
+      ],
+      "duration_ms": 112750,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
+        "name": "First Sunrise",
+        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "First Sunrise",
+      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
         "name": "erinna",
         "url": "https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "First Sunrise",
-        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
       },
       "artists": [
         {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+          "name": "Morten Lidahl",
+          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
         }
       ],
-      "duration_ms": 212000,
-      "name": "First Sunrise",
-      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
+      "duration_ms": 131202,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1359,22 +1375,6 @@
       "duration_ms": 132773,
       "name": "Swear on this Life",
       "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/2gRUbzO0fVE1cmNLQLTMZr"
-      },
-      "artists": [
-        {
-          "name": "Morten Lidahl",
-          "url": "https://open.spotify.com/artist/1RI9zJgpCO01hSCfh9k7YT"
-        }
-      ],
-      "duration_ms": 131202,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1CcNphJqbsJSlMLZEldCYU"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2024-01-29 03:45:26",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2024-01-29 03:45:26",
       "album": {
-        "name": "Interconnectivity",
-        "url": "https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
       "artists": [
         {
-          "name": "Sigr\u00ed\u00f0ur",
-          "url": "https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT"
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
         }
       ],
-      "duration_ms": 103713,
-      "name": "Interconnectivity",
-      "url": "https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S"
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2024-01-29 03:45:26",
@@ -1635,6 +1619,22 @@
       "duration_ms": 133500,
       "name": "Sagittabondo",
       "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2024-01-29 03:45:26",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

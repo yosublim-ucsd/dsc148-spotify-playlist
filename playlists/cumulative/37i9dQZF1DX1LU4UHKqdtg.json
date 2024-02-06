@@ -7639,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Killin' It",
+        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
+    },
+    {
+      "album": {
         "name": "Killin' Me Good (English Ver.)",
         "url": "https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb"
       },
@@ -9976,6 +9994,28 @@
       "duration_ms": 155214,
       "name": "Oh Sorry Ya",
       "url": "https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe"
+    },
+    {
+      "album": {
+        "name": "Ok (with Jay Park)",
+        "url": "https://open.spotify.com/album/4iBeXJoh6XJNfzz0tD4A1g"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW"
+        },
+        {
+          "name": "\ubc15\uc7ac\ubc94",
+          "url": "https://open.spotify.com/artist/7aaMNmVHKrzB79hKWvSU1t"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204877,
+      "name": "Ok (with Jay Park)",
+      "url": "https://open.spotify.com/track/7Ai5mckgwFyTKfD7BjJdTJ"
     },
     {
       "album": {

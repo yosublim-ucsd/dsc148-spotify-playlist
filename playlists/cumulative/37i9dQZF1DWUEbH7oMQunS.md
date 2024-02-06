@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-150 songs - 10 hr 26 min
+151 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Clearly](https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN) | [Clearly](https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u) | 3:43 | 2023-07-28 |  |
 | [Come Near](https://open.spotify.com/track/6L35gpPSKYwCyJWGEH4ucP) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [Come Near](https://open.spotify.com/album/6uElGh9tQQTiDZXnxRoG7e) | 4:09 | 2018-02-14 | 2023-07-29 |
 | [Dawn](https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:31 | 2018-02-14 | 2024-02-02 |
+| [Dawn](https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:31 | 2023-07-28 |  |
 | [Dirty And Left Out](https://open.spotify.com/track/1SLJG1GJq87z1OKOn8YYNX) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:42 | 2018-02-14 | 2023-07-29 |
 | [Dreams](https://open.spotify.com/track/1LbPuFrhTY3mwrIvOGGWRn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Dreams](https://open.spotify.com/album/6d9lh8EoMSl1jmucqyoerC) | 4:48 | 2018-07-07 | 2023-07-29 |
 | [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 | 2023-07-28 |  |
@@ -70,7 +71,7 @@
 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 | 2018-02-14 | 2023-07-29 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-07-28 |  |
 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 | 2023-07-28 |  |
-| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 |  |
+| [How To Love](https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [How To Love](https://open.spotify.com/album/5GimHqufYnL4RwURn1kiMB) | 2:00 | 2023-07-28 | 2024-02-06 |
 | [I Could Sing Of Your Love Forever \- Instrumental](https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 3:43 | 2018-02-14 |  |
 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 | 2023-07-28 |  |
 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 | 2023-07-28 |  |

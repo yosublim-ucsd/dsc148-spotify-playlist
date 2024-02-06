@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
 
-897 songs - 2 day 0 hr 55 min
+899 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Just for one day](https://open.spotify.com/track/6QTgxMjYeWbYTR9iTN6RPF) | [NiiiiiA](https://open.spotify.com/artist/0sINulttJuGzx4hGKDfuDC) | [NiiiiiA 1st Solo Mini Album '2Years'](https://open.spotify.com/album/3ohfZOqwSP5cI11MYJmElr) | 3:46 | 2022-08-03 | 2022-08-24 |
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2023-01-18 |
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-13 | 2023-05-10 |
+| [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-05 |  |
 | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb) | 3:05 | 2023-09-14 | 2023-11-16 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-23 | 2022-02-22 |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-18 |  |
@@ -537,6 +538,7 @@
 | [Off the record](https://open.spotify.com/track/47lTvvI1PR0H8bktWpwtcX) | [WOOYOUNG](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Off the record](https://open.spotify.com/album/1iIPGbC21FsxaXM2KX7hnd) | 3:32 | 2023-05-24 | 2023-06-07 |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-02 |  |
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-18 |
+| [Ok \(with Jay Park\)](https://open.spotify.com/track/7Ai5mckgwFyTKfD7BjJdTJ) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [박재범](https://open.spotify.com/artist/7aaMNmVHKrzB79hKWvSU1t) | [Ok \(with Jay Park\)](https://open.spotify.com/album/4iBeXJoh6XJNfzz0tD4A1g) | 3:24 | 2024-02-05 |  |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-02 | 2023-09-06 |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-19 |  |
 | [On My Youth \- English Version](https://open.spotify.com/track/3aybnlPK0zZK2YRmlRm0Ph) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [On My Youth \- The 2nd Album](https://open.spotify.com/album/5E0N8pJpGjx60wKTlpu9Hs) | 3:32 | 2023-10-31 | 2023-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Mong Tong
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,056 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,060 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [To The Beat](https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/34VdSaTKOFKlgj5UTwN6p7) | 2:34 |
 | 50 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 |
 
-Snapshot ID: `MCxkODg0NjY0MWJlN2JjNGU1OGJkMTg2ZDdiOTM1YTJiNWE5MzVhYTcy`
+Snapshot ID: `MCwxNWJmMzU1MzliZGNjOThhMjc2YjZiY2Q3ZjYxZjA5YzRhNGZkODNj`

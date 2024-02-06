@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Saiko, Lola Indigo
 
-380 songs - 19 hr 4 min
+381 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beso robado](https://open.spotify.com/track/5SJ3VK1dPFCDsywYd9Czox) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Beso robado](https://open.spotify.com/album/2O04tkJGpsLkoUcbjBBs57) | 4:19 | 2023-03-13 | 2023-07-11 |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-21 | 2023-12-12 |
 | [Bora Bora](https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Bora Bora](https://open.spotify.com/album/2PnRPLXqb7SHg141358iah) | 2:48 | 2023-03-13 | 2023-04-18 |
+| [Brillos Platino](https://open.spotify.com/track/0sg2A4gp3zMgjRqloSg4cM) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy) | [Brillos Platino](https://open.spotify.com/album/0WDooaR44RHUYUXWmQW8YT) | 2:26 | 2024-02-05 |  |
 | [Buenos Aires](https://open.spotify.com/track/1ItVCwBxcwLvQDh4Y2LjVq) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Buenos Aires](https://open.spotify.com/album/6Ynslwcc3SYcsqihB4eJn0) | 2:55 | 2023-05-30 | 2023-06-13 |
 | [Buffet](https://open.spotify.com/track/2B7QcLIE1VlnVwIeCGzR7V) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [Buffet](https://open.spotify.com/album/0isPHpy36TvbD5vNeKKk5q) | 2:44 | 2023-10-09 | 2023-10-24 |
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-21 | 2023-04-04 |
@@ -250,7 +251,7 @@
 | [No me ves](https://open.spotify.com/track/3KeZmRdDk7QtxDz3ldUuaD) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [No me ves](https://open.spotify.com/album/2x45IbGkx4zYbuK8j3D1Bh) | 2:54 | 2023-03-13 | 2023-03-22 |
 | [No Quiero A Nadie](https://open.spotify.com/track/3FPqolx3Gbz8bynQyKpnrJ) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [No Quiero A Nadie](https://open.spotify.com/album/6FjYYd8o10nGLadNi6tI6V) | 2:58 | 2023-03-13 | 2023-03-30 |
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2023-06-20 | 2023-07-05 |
-| [No Te Conozco](https://open.spotify.com/track/7uWpQKO15DghiCLafPYRdU) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [No Te Conozco](https://open.spotify.com/album/6RVTyVzPCbZv17ByqITGr7) | 3:00 | 2024-01-25 |  |
+| [No Te Conozco](https://open.spotify.com/track/7uWpQKO15DghiCLafPYRdU) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [No Te Conozco](https://open.spotify.com/album/6RVTyVzPCbZv17ByqITGr7) | 3:00 | 2024-01-25 | 2024-02-06 |
 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 | 2023-11-28 | 2023-12-12 |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-05-09 | 2023-09-26 |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-03-13 | 2023-08-29 |

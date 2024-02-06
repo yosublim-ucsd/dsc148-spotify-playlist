@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GU5JDX5Fk7.md) - [plain]
 | 21 | [NWP](https://open.spotify.com/track/7lmW5PhqQWzwXh2rwpWmNf) | [Xitsuh](https://open.spotify.com/artist/4vYWMxCZYe3kua8Yp5Ne2Z) | [NWP](https://open.spotify.com/album/0DwlgRKtnK83puTQbxBRsP) | 2:55 |
 | 22 | [Gucci](https://open.spotify.com/track/4g92HssasRkeh512kmMbUd) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [un2verse](https://open.spotify.com/album/1CUXs8F2dNEVkvHMgTAvuo) | 2:55 |
 
-Snapshot ID: `MCw4NzY4M2ExMGFhMjEzZThiM2NhYzNlODlhMjg1Njg1NzRiY2E0MjBl`
+Snapshot ID: `MCwxZGQwZjc0YjMxMDA3N2IzY2NkYTFiNjk0MDk2Y2E0NWE5YzE0MmU2`

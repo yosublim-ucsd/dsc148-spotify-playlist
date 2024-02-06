@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> congrats to the boys! cover: boygenius
+> congrats to the boys! cover: boygenius, taylor swift, jack antonoff
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,511 likes - 119 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,672 likes - 118 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 115 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 |
 | 116 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 |
 | 117 | [my year of rest & relaxation](https://open.spotify.com/track/7zXu0C04YAU6AZIJJpuaeu) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [my year of rest & relaxation](https://open.spotify.com/album/5cBu8tYI0XxXX3wTLdiekQ) | 2:41 |
-| 118 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
-| 119 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 |
+| 118 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 |
 
-Snapshot ID: `MCxiMjgwMWQ5MzE1ZWE5MjZlNTNkYTQwNWQ0ZTc4YzE5YTdmZjg5ODcz`
+Snapshot ID: `MCxlNzcwODBmY2NhNDRkZDhiYmRkZjU5ODRiMWRiZGI3MjhhZWQ2ZWIx`

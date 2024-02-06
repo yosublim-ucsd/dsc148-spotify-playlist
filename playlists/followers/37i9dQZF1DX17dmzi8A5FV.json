@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 682437,
+  "2024-02-06": 682492,
   "date_first_scraped": "2021-12-21",
   "description": "All the biggest hits from the biggest boybands!  Cover: *NSYNC",
   "name": "Ultimate Boybands",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Back Here",
       "url": "https://open.spotify.com/track/6znv7i4Wif5fLwI6OjKHZ4"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 255866,
       "name": "I'll Be There for You",
       "url": "https://open.spotify.com/track/6zkiaTaT7TocrAgBYfr6W1"

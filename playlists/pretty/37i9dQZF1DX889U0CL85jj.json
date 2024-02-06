@@ -1,12 +1,12 @@
 {
   "description": "Just chill, and potentially disassociate, in 2023. ",
-  "num_followers": 2470999,
+  "num_followers": 2471038,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWQ5NWI3OWI4YTk1Mjk5MzNkMDM1NzQ3YThjMTFiNDk4NDljY2Y3",
+  "snapshot_id": "MCw1YzhiYWQyNTIwNDJhY2UzYzBlYmJlY2Y2MzZmZmU0N2FlNTk5ZjQx",
   "tracks": [
     {
       "added_at": "2023-09-29 19:55:22",
@@ -223,6 +223,26 @@
       "duration_ms": 215306,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+    },
+    {
+      "added_at": "2024-02-05 19:31:41",
+      "album": {
+        "name": "Crushed Velvet",
+        "url": "https://open.spotify.com/album/72JHD6nEDoTlOvgkpYoLSq"
+      },
+      "artists": [
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Crushed Velvet",
+      "url": "https://open.spotify.com/track/55cSt1DAB1fm4YMsD54rN3"
     },
     {
       "added_at": "2023-10-13 15:51:42",
@@ -2355,22 +2375,6 @@
       "duration_ms": 240640,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Star Song",
-        "url": "https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD"
-      },
-      "artists": [
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 210490,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
     }
   ],
   "unique_name": "Chill Vibes",

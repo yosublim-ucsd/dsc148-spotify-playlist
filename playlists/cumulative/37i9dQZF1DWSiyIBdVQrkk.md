@@ -4,7 +4,7 @@
 
 > Celebrating the film Bob Marley: One Love.
 
-411 songs - 1 day 2 hr 17 min
+412 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Best of Me](https://open.spotify.com/track/27FkRxzVuWHCrwYEt2K5j0) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Best of Me](https://open.spotify.com/album/24TXQYteRWBURvGjjLO308) | 3:46 | 2021-10-18 | 2022-07-17 |
 | [Better Must Come](https://open.spotify.com/track/0npA0d5jbB01k53LMRccKP) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson Anthology](https://open.spotify.com/album/0Aa3KpdwjwMeiEpi4rAbsV) | 2:43 | 2021-10-18 | 2022-07-29 |
 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 | 2022-09-09 |  |
+| [Big Ship](https://open.spotify.com/track/3wIMCE0IWJmOQFeBjCS6hy) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/0BYUeVSCYNS6CaldxhIo1F) | 3:17 | 2024-01-29 |  |
 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 | 2021-10-18 | 2023-08-17 |
 | [Bit Too Shy](https://open.spotify.com/track/74Yf1fyltgX7ahvxMx0ElN) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Bit Too Shy \-Single](https://open.spotify.com/album/6Z2VyD9aNBvRPCiQ0CGOjL) | 3:53 | 2021-10-18 | 2022-07-29 |
 | [Black Roses](https://open.spotify.com/track/4iZxFlcCg5Z6bVYsxqiT61) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z) | 3:07 | 2022-07-29 | 2022-08-19 |
@@ -305,7 +306,7 @@
 | [Row Fisherman](https://open.spotify.com/track/3GpgLptxcPrmMb5fI7LKDr) | [Wailing Souls](https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL) | [The Wailing Souls](https://open.spotify.com/album/3C760CClUcp62jdg2GQOZQ) | 5:23 | 2021-10-18 | 2022-07-29 |
 | [Rub a Dub](https://open.spotify.com/track/1NIOyoX5kS8Mb1jDFP6Ri0) | [Christopher Ellis](https://open.spotify.com/artist/1CEhqTYXYpWeVLCCZE0LEs) | [Rub a Dub](https://open.spotify.com/album/3J9pOnKkvIwqUcDVITu9Bl) | 3:11 | 2022-08-18 | 2022-09-10 |
 | [Same Ole Song](https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/60k6wvQw02aUj1Ds6GnPtD) | 3:57 | 2021-10-18 | 2022-01-11 |
-| [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 | 2021-10-18 |  |
+| [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 | 2021-10-18 | 2024-02-06 |
 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 | 2021-10-18 | 2022-07-29 |
 | [Seasons Change](https://open.spotify.com/track/7Gx5mMJZR7r5GqmR1XbqHz) | [Natty](https://open.spotify.com/artist/2bYR6To8Z49UmceWctNMIb), [The Rebel Ship](https://open.spotify.com/artist/4Hz6u0mY9f1Aze6PL7KWfP), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Release the Fear](https://open.spotify.com/album/5iJ90W80jAZskysv5a8s6d) | 5:38 | 2021-10-18 | 2022-07-27 |
 | [Second Chance](https://open.spotify.com/track/0Nb25RVViGcI4n0LBNrK4W) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:07 | 2022-08-18 | 2022-09-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,430 likes - 507 songs - 1 day 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,430 likes - 507 songs - 1 day 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 7 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
 | 8 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 9 | [Tell Me Where It Hurts](https://open.spotify.com/track/4v8P0GLVWoFojZJgecPGcm) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Beyond Acoustic](https://open.spotify.com/album/5eMocdxlmX2odxGITRmIGZ) | 4:13 |
-| 10 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
-| 11 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
-| 12 | [Ti Amo](https://open.spotify.com/track/0gAbf0NL9no1Urk1Wj8Uui) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [E' nell' aria…ti amo](https://open.spotify.com/album/4mtA5ClPItnUF8yfg5uygI) | 4:05 |
-| 13 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 |
-| 14 | [I Was Here](https://open.spotify.com/track/0gdzXKkOMuajNI0UJ1ki9t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe) | 3:59 |
-| 15 | [Pretend](https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \(Japan Edition\)](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 3:20 |
-| 16 | [Don’t You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:28 |
+| 10 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 |
+| 11 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 12 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 |
+| 13 | [Ti Amo](https://open.spotify.com/track/0gAbf0NL9no1Urk1Wj8Uui) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [E' nell' aria…ti amo](https://open.spotify.com/album/4mtA5ClPItnUF8yfg5uygI) | 4:05 |
+| 14 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 |
+| 15 | [I Was Here](https://open.spotify.com/track/0gdzXKkOMuajNI0UJ1ki9t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe) | 3:59 |
+| 16 | [Pretend](https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Que Quiénes Somos \(Japan Edition\)](https://open.spotify.com/album/2jDT9YZn8juzCugiUjpopd) | 3:20 |
 | 17 | [Why Did You Do That?](https://open.spotify.com/track/1sv0BhPPnrUgQ6dziZlmuM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:04 |
 | 18 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 |
 | 19 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 145 | [Wrap U Around Me](https://open.spotify.com/track/7yaSV1A46vEcTM27dpd8EC) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Tomorrow](https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi) | 3:22 |
 | 146 | [Sweetest Sin](https://open.spotify.com/track/3YumK1QacSUMKO7KdGvMVP) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [In This Skin \(Deluxe Edition\)](https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV) | 3:12 |
 | 147 | [Call the Shots \- From the Motion Picture "Miss Bala"](https://open.spotify.com/track/0omgsCxtyJoNhm0e5h9yPv) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Call the Shots \(From the Motion Picture "Miss Bala"\)](https://open.spotify.com/album/4IpwdybMmuiddQze9ul20w) | 3:31 |
-| 148 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
-| 149 | [We All Fall Down](https://open.spotify.com/track/6eckoL4HX101w6fFqSSaRM) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 5:14 |
+| 148 | [We All Fall Down](https://open.spotify.com/track/6eckoL4HX101w6fFqSSaRM) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 5:14 |
+| 149 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
 | 150 | [Somebody's Somebody](https://open.spotify.com/track/7AuYG9icp1t2Q5BRAJ7AiC) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 5:02 |
 | 151 | [Solitaire](https://open.spotify.com/track/17RxTPSIGg0WP92dAiZliC) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 4:05 |
 | 152 | [Let's Make It Last All Night](https://open.spotify.com/track/6uZfdeaNSXh42d16eSj49M) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Two Fires](https://open.spotify.com/album/2F9ywIws07eHYcIvg8KFTn) | 4:06 |
@@ -516,4 +516,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 506 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 507 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `Mjg0NTE2NTAsMDAwMDAwMDBhZGVjNjkzYzY0NDIxNmVlOWQ2Njk2YzUzZDE3ZmFhNA==`
+Snapshot ID: `Mjg0NTMwOTAsMDAwMDAwMDA2NzQwZmNiMmU1MDlhNjlhYWViOGU3NTlkOWExZjBlZg==`

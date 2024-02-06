@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64714,
+  "num_followers": 64712,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDA5ODUyNTIyZjc4MjQ5YjEyM2VjZmY4ZWY0NmQ3NWM5MDk0MjY3",
+  "snapshot_id": "MCw0YzRjNTIzYTUxYTk2NWI4OWIyZWZkMTlmZDg1YmE1OThjYTEyYTU3",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -195,6 +195,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -211,34 +227,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -259,18 +259,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 167373,
       "name": "I'm a Believer - 2006 Remaster",
       "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -419,34 +435,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+        "name": "Some Girls",
+        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
-      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
+      "duration_ms": 288666,
+      "name": "Miss You - Remastered",
+      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -467,34 +467,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Some Girls",
-        "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 288666,
-      "name": "Miss You - Remastered",
-      "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Little Girl Blue (2013 - Remaster)",
-        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -535,18 +519,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -563,6 +547,22 @@
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
       },
       "artists": [
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Tempos Modernos",
-      "url": "https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA"
+      "duration_ms": 214040,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -635,18 +635,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5"
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
       },
       "artists": [
         {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6ub8sQIKHkyYK4KlB9gbxh"
+      "duration_ms": 224906,
+      "name": "Tempos Modernos",
+      "url": "https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Falso Brilhante",
-        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247293,
       "name": "De Do Do Do, De Da Da Da",
       "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Falso Brilhante",
+        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/2ZC8sdv4Kvuql7Q9T8Agzv"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -819,6 +819,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Andar com f\u00e9",
+      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 233015,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Andar com f\u00e9",
-      "url": "https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 180813,
       "name": "Bicycle Race - Remastered 2011",
       "url": "https://open.spotify.com/track/3lUx27TOwV2nAiKwnYYXxe"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Chico 50 Anos - O Trovador",
-        "url": "https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Jo\u00e3o E Maria",
-      "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -1151,22 +1131,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
-        "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
+        "name": "Chico 50 Anos - O Trovador",
+        "url": "https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Always on My Mind - with The Royal Philharmonic Orchestra",
-      "url": "https://open.spotify.com/track/1EIvjDvoKjwhokJsigvleb"
+      "duration_ms": 141773,
+      "name": "Jo\u00e3o E Maria",
+      "url": "https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1235,6 +1215,26 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "The Wonder of You: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/6oWz2hJ89n9mKarg3SO9ou"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Always on My Mind - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/1EIvjDvoKjwhokJsigvleb"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "All Aglow Again!",
-        "url": "https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 260133,
       "name": "Divino Maravilhoso",
       "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "All Aglow Again!",
+        "url": "https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico 2",
         "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "O Que Fa\u00e7o \u00c9 Musica",
         "url": "https://open.spotify.com/album/1ODdKdJ6X3kiolyEJ54CQA"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 304533,
       "name": "Vapor Barato",
       "url": "https://open.spotify.com/track/2vhwNpHlTFGSwGffxVMIuM"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1577,6 +1593,22 @@
       "url": "https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2"
     },
     {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 222849,
+      "name": "Quando Voc\u00ea Passa (Turu Turu) - Ao Vivo",
+      "url": "https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi"
+    },
+    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Retratos",
@@ -1591,22 +1623,6 @@
       "duration_ms": 201360,
       "name": "S\u00e1 Marina",
       "url": "https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Nossa Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx"
+        "name": "Quem Sabe Isso Quer Dizer Amor",
+        "url": "https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU"
       },
       "artists": [
         {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 222849,
-      "name": "Quando Voc\u00ea Passa (Turu Turu) - Ao Vivo",
-      "url": "https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "'G\u00eet\u00e2'",
-        "url": "https://open.spotify.com/album/5oOsBQphe8sbvZULbepg7U"
-      },
-      "artists": [
-        {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Gita",
-      "url": "https://open.spotify.com/track/4mdIZdlpZ8ilKNPDoWEpSK"
+      "duration_ms": 167568,
+      "name": "O Sal da Terra",
+      "url": "https://open.spotify.com/track/374SHBJGZL3oaArhIi2GFi"
     }
   ],
   "unique_name": "Pais e Filhos",

@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-486 songs - 20 hr 46 min
+488 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [DO MY DANCE](https://open.spotify.com/track/1j9wfEnJlZtcv5Lb9n1ZWF) | [Mac NL](https://open.spotify.com/artist/2RD8WghGrjxnCeAWRXY4wu) | [LONG TIME COMING](https://open.spotify.com/album/7ARBabgm4CrlBdI5kW3Oxy) | 3:19 | 2023-06-20 | 2023-07-21 |
 | [DO NOT RESUSCITATE](https://open.spotify.com/track/6J0pQxIy3vFORwI8MTqByk) | [hix](https://open.spotify.com/artist/4Eqq0H4QPYpM3U8SKFTJDq), [ething](https://open.spotify.com/artist/4c6MrhMBcutKWe7Blqqnct) | [THE OUTSIDER](https://open.spotify.com/album/5hjlO9o1y5uf4GdaaTpBdn) | 1:47 | 2023-07-03 | 2023-07-19 |
 | [DON'T KNOW ME](https://open.spotify.com/track/5VXBT5kzlGQMDUyNxbUWGz) | [curxlxss](https://open.spotify.com/artist/0kFC3U8ClpCMpRttE8vDcp), [Alex Pristupa](https://open.spotify.com/artist/3VCUWGwcgl2CU554ec70Mb) | [DON'T KNOW ME](https://open.spotify.com/album/02BiuMVMRZ93Rmcra4M240) | 2:11 | 2023-12-22 |  |
+| [Don't Say Goodbye](https://open.spotify.com/track/08MVALsSWAzp2UJlALTJCY) | [Echo Drone](https://open.spotify.com/artist/03PGDP8aU9P7vOFqZN9S2i) | [Arsenal EP](https://open.spotify.com/album/5KIB8Z5rzeWPi3KE1v1gk8) | 3:04 | 2024-02-05 |  |
 | [DOOMSDAY](https://open.spotify.com/track/0j8mk7LcS5tmUrLDeOnihT) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DOOMSDAY](https://open.spotify.com/album/6hyyVJHfFBFjh4zF9XF7Re) | 2:06 | 2023-08-21 | 2023-09-26 |
 | [Drive Forever](https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Drive Forever](https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO) | 2:25 | 2023-06-12 |  |
 | [DRXFT](https://open.spotify.com/track/6cI4mcLDQHchYhcQpoiDi5) | [GXTHMODE](https://open.spotify.com/artist/1p3418t2jRBA2ttFkBMMhT) | [DRXFT](https://open.spotify.com/album/6kvY3tlx9OcdHEymKFvdBu) | 1:36 | 2023-12-21 | 2024-01-09 |
@@ -198,7 +199,7 @@
 | [Hit They Block](https://open.spotify.com/track/7fAzFEtjInkP8l2PZa4t2M) | [Onsight Deeda](https://open.spotify.com/artist/3T6NFoNsKDpm22Ve9YsdAO) | [Hit They Block](https://open.spotify.com/album/4iOnDGQpZLEx78o18yIkE2) | 4:04 | 2023-06-12 | 2023-07-29 |
 | [HOL UP!](https://open.spotify.com/track/28dg8b4SX6lMuR3cg4KcbR) | [FXRCE](https://open.spotify.com/artist/5UKXrvmyouEgmvon7DwwzA) | [HOL UP!](https://open.spotify.com/album/3lqZFdkoKEMcIuCTB5zGVl) | 2:03 | 2023-09-05 | 2023-12-14 |
 | [HOLD ME BACK](https://open.spotify.com/track/1PlxqTIamw8Y5u5YWTdlXf) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [HOLD ME BACK](https://open.spotify.com/album/1lEG2qlitwQWCl3SVHJibq) | 2:53 | 2023-08-24 | 2023-09-26 |
-| [Hollow](https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [Hollow](https://open.spotify.com/album/7DarvJQ1pM56CZOLwEQQbi) | 2:50 | 2024-01-08 | 2024-01-29 |
+| [Hollow](https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [Hollow](https://open.spotify.com/album/7DarvJQ1pM56CZOLwEQQbi) | 2:50 | 2024-01-08 |  |
 | [HOLLOW!](https://open.spotify.com/track/3Xoev7ljloR0PYQu5FlzHz) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6), [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5) | [HOLLOW!](https://open.spotify.com/album/6cSgx3g5fRwAx6MaAYp4Oz) | 1:37 | 2023-07-19 | 2023-08-20 |
 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2023-12-08 |  |
 | [HOP3L3SS](https://open.spotify.com/track/3pZU2L3xRHD2DU4uWQEGoI) | [MEMBER](https://open.spotify.com/artist/0ifDzAhf5knfZyaUiG4Deu) | [PURG4TORY](https://open.spotify.com/album/3han0ROhcZfxeS4FWMIWC5) | 1:14 | 2024-01-08 |  |
@@ -391,6 +392,7 @@
 | [SHORT CIRCUIT](https://open.spotify.com/track/2uG7QUtz7owCcQr84JD7fG) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SHORT CIRCUIT](https://open.spotify.com/album/4q6mDmOB3YhI6xrNMQKFW8) | 1:56 | 2023-08-03 | 2023-09-26 |
 | [Show Me](https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Show Me](https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n) | 2:23 | 2023-08-26 | 2023-12-14 |
 | [Shrapnel](https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn) | [Rok Ali and the Addiction](https://open.spotify.com/artist/2LIBmNEFBvgXxkqVw91tAg) | [Rok Ali and the Addiction](https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST) | 4:16 | 2023-06-12 | 2023-07-04 |
+| [sink into you](https://open.spotify.com/track/0yx6myRdp0otpA2mL4C0EB) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 4:20 | 2024-02-05 |  |
 | [SKULLcrusher](https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SKULLcrusher](https://open.spotify.com/album/5pcu430nfrb9B4OU7guw3j) | 1:49 | 2023-06-12 |  |
 | [SKYBRAIN](https://open.spotify.com/track/0hMF9JZmQDneq3U5LAlQ26) | [NIGHTHAVVK](https://open.spotify.com/artist/6xLEm2hwUy19nyzwWPoUNt) | [SKYBRAIN](https://open.spotify.com/album/6lQIMyQGe68OcwCMZyfFBu) | 2:48 | 2023-12-21 |  |
 | [Skyline](https://open.spotify.com/track/3GTNPbq9ycUnBfIZBq7ko1) | [Astrani](https://open.spotify.com/artist/5qqwQ9tQhy8USkdYB3VE8P) | [Skyline](https://open.spotify.com/album/1OQiTRJVr4aJjJiBZ7Ax81) | 4:10 | 2023-07-03 | 2023-07-19 |

@@ -4,7 +4,7 @@
 
 > New music from BADBADNOTGOOD, USHER, 24kGoldn, TALK and more.
 
-10,642 songs - 23 day 14 hr 3 min
+10,643 songs - 23 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4718,7 +4718,8 @@
 | [it doesn't get any better than this](https://open.spotify.com/track/4oHipBv2ATIdYtgRgVvy9Q) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [it doesn't get any better than this](https://open.spotify.com/album/6E1nEdbPAxQSSZgOhcswwf) | 2:35 | 2023-05-26 | 2023-06-03 |
 | [It Gets Dark](https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [It Gets Dark](https://open.spotify.com/album/4jEjxmfyDepTh4ObH2qJtr) | 3:23 | 2022-03-11 | 2022-03-18 |
 | [IT HAPPENS \(feat\. bbno$\)](https://open.spotify.com/track/5k6U9CkHfN8v4lyo9GJubg) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [IT HAPPENS \(feat\. bbno$\)](https://open.spotify.com/album/2SgeyxneRXJmRYfXgNehN7) | 3:11 | 2023-10-06 | 2023-10-14 |
-| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J) | 3:27 | 2024-02-02 |  |
+| [It Is What It Is \(Madhaniya\)](https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Love Like That](https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC) | 3:27 | 2024-02-02 | 2024-02-06 |
 | [It Never Went Away \- From the Netflix Documentary “American Symphony”](https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [It Never Went Away \(From the Netflix Documentary “American Symphony”\)](https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm) | 3:48 | 2023-11-24 | 2023-12-02 |
 | [It Only Takes Two](https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ) | 2:38 | 2022-08-26 | 2022-09-03 |
 | [It Takes 3](https://open.spotify.com/track/15ggd6ccKQ1UJ4mzltHsh1) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Trackhouse](https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R) | 1:56 | 2023-10-06 | 2023-10-14 |

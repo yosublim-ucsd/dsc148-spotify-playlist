@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: \u00c1ngela Aguilar",
-  "num_followers": 80324,
+  "num_followers": 80367,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUyZWU1OTQxOWI5YzEwMjlkZjI5NGRkMDYwZGMwMTE2OGU3OTE5",
+  "snapshot_id": "MCw5MjJlMzg1YjdmZWViZDk2ZWE5ZDY0MDkxY2UyMGIyZjFmMmUzMzgw",
   "tracks": [
     {
       "added_at": "2024-02-02 15:45:34",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-02-02 15:45:34",
       "album": {
-        "name": "A Color",
-        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
-      },
-      "artists": [
-        {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 104273,
       "name": "que te ped\u00ed//",
       "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
+        "name": "A Color",
+        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
+      },
+      "artists": [
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
     },
     {
       "added_at": "2024-02-02 15:45:34",
@@ -779,42 +779,6 @@
     {
       "added_at": "2024-02-02 15:45:34",
       "album": {
-        "name": "Tu Camisa",
-        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        }
-      ],
-      "duration_ms": 188139,
-      "name": "Tu Camisa",
-      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
-        "name": "Encanto Tropical",
-        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Me Vas a Hacer Falta",
-      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
         "name": "COMO ARRUINARTE LA VIDA",
         "url": "https://open.spotify.com/album/5aEq1iRskstuZoDRcCD44Z"
       },
@@ -847,6 +811,58 @@
       "duration_ms": 212680,
       "name": "Si por Mi Fuera",
       "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
+        "name": "Tu Camisa",
+        "url": "https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        }
+      ],
+      "duration_ms": 188139,
+      "name": "Tu Camisa",
+      "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
+        "name": "Encanto Tropical",
+        "url": "https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Me Vas a Hacer Falta",
+      "url": "https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o"
     },
     {
       "added_at": "2024-02-02 15:45:34",
@@ -887,6 +903,22 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "added_at": "2024-02-02 15:45:34",
+      "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
     },
     {
       "added_at": "2024-02-02 15:45:34",
@@ -943,22 +975,6 @@
     {
       "added_at": "2024-02-02 15:45:34",
       "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP"
-      },
-      "artists": [
-        {
-          "name": "MIA",
-          "url": "https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
         "name": "Enemigo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 242840,
       "name": "Enemigo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
-    },
-    {
-      "added_at": "2024-02-02 15:45:34",
-      "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": "2024-02-02 15:45:34",

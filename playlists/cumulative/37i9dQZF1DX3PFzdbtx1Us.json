@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 198277,
       "name": "Always",
       "url": "https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 148062,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d"
@@ -1064,6 +1064,24 @@
       "duration_ms": 127313,
       "name": "Bird of Passage",
       "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
+    },
+    {
+      "album": {
+        "name": "Blooms in grace",
+        "url": "https://open.spotify.com/album/1VxBXYp3DzCYQX8SwuPEUv"
+      },
+      "artists": [
+        {
+          "name": "Thibaud Fleming",
+          "url": "https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140984,
+      "name": "Blooms in grace",
+      "url": "https://open.spotify.com/track/3tUGh814AK93KVoZNrdTdt"
     },
     {
       "album": {
@@ -1787,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
+    },
+    {
+      "album": {
         "name": "Ficelles",
         "url": "https://open.spotify.com/album/7FnU9q86zFuA6lmsgzs2H5"
       },
@@ -2140,10 +2176,28 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 244345,
       "name": "If The Wind Stops - Calm Version",
       "url": "https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj"
+    },
+    {
+      "album": {
+        "name": "in the midst of it all",
+        "url": "https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1"
+      },
+      "artists": [
+        {
+          "name": "aung",
+          "url": "https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "in the midst of it all",
+      "url": "https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug"
     },
     {
       "album": {
@@ -2842,7 +2896,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
@@ -2882,6 +2936,24 @@
       "duration_ms": 143229,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/5UO03m8S0mJKptzwKo5N7c"
+    },
+    {
+      "album": {
+        "name": "Lost In The Bookstore",
+        "url": "https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171902,
+      "name": "Lost In The Bookstore",
+      "url": "https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I"
     },
     {
       "album": {
@@ -3062,6 +3134,24 @@
       "duration_ms": 107585,
       "name": "Maybe One Day",
       "url": "https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI"
+    },
+    {
+      "album": {
+        "name": "Mellow Moonlit Melody",
+        "url": "https://open.spotify.com/album/66C59BnUX617aAMbRux3Nu"
+      },
+      "artists": [
+        {
+          "name": "Giovanna Petrini",
+          "url": "https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161391,
+      "name": "Mellow Moonlit Melody",
+      "url": "https://open.spotify.com/track/3f0kAErxdkQiZpXmTufdLd"
     },
     {
       "album": {
@@ -3926,6 +4016,24 @@
       "duration_ms": 179500,
       "name": "Refraction",
       "url": "https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8"
+    },
+    {
+      "album": {
+        "name": "Regarde les flammes danser",
+        "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131960,
+      "name": "Regarde les flammes danser",
+      "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
     },
     {
       "album": {
@@ -5386,6 +5494,24 @@
       "duration_ms": 120319,
       "name": "Wind of Change",
       "url": "https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo"
+    },
+    {
+      "album": {
+        "name": "winter waltz",
+        "url": "https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171871,
+      "name": "winter waltz",
+      "url": "https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW"
     },
     {
       "album": {

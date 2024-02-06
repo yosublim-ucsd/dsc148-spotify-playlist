@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-186 songs - 15 hr 8 min
+187 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Khatira Khatira](https://open.spotify.com/track/1ANh0Pyrr6axtL5PhoRqPh) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Halaou Laou](https://open.spotify.com/album/6lFGyoekQTFfltRpxY7Bpd) | 9:42 | 2022-10-25 |  |
 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 | 2021-10-19 | 2022-12-07 |
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
+| [Ki telfetlah bgha ykatefna](https://open.spotify.com/track/1XAwe7TX1iSlVBB0U2tNyl) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Ki telfetlah bgha ykatefna](https://open.spotify.com/album/3ZjkQpXeOF0weNHOyMUFtF) | 4:26 | 2024-02-05 |  |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 | 2022-12-27 |
 | [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 | 2023-10-11 |  |
 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 | 2022-11-21 |
@@ -103,7 +104,7 @@
 | [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
 | [Lgalb Lgalb](https://open.spotify.com/track/1oBFL6Oi6gfVqpe6ma1SoD) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Lgalb Lgalb](https://open.spotify.com/album/4WfhNfj7kIHN0Y34eMA5nt) | 5:53 | 2023-03-22 |  |
 | [Lhalaba Rahom Bazef](https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Lhalaba Rahom Bazef](https://open.spotify.com/album/6gkLMemVXimjoXoeqDSDVf) | 4:36 | 2023-08-25 |  |
-| [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
+| [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 | 2024-02-06 |
 | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 | 2023-04-18 |  |
 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 | 2022-11-14 | 2022-11-21 |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 | 2023-05-19 |

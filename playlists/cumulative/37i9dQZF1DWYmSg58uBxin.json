@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Soulful Journey",
+        "url": "https://open.spotify.com/album/3nNSJxyQHDBzYOrWrtaP2q"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "A Soulful Journey",
+      "url": "https://open.spotify.com/track/12anw5aeRQWbQVZINMKaoo"
+    },
+    {
+      "album": {
         "name": "A String in the Night",
         "url": "https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH"
       },
@@ -4013,6 +4031,24 @@
     },
     {
       "album": {
+        "name": "The Morning Sun",
+        "url": "https://open.spotify.com/album/3Zd7Ds12F1kejK84x5yOP0"
+      },
+      "artists": [
+        {
+          "name": "Marcin Bela",
+          "url": "https://open.spotify.com/artist/6M5HHFDVrLdRAYQc0KHi5q"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "The Morning Sun",
+      "url": "https://open.spotify.com/track/1gnBN1KT8jwMvjX8yFr8yT"
+    },
+    {
+      "album": {
         "name": "Moonlight Reflections",
         "url": "https://open.spotify.com/album/0U93oQQXhaAVO7gfLfsKbr"
       },
@@ -4418,6 +4454,24 @@
       "duration_ms": 160687,
       "name": "Waltz In The Sunset",
       "url": "https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs"
+    },
+    {
+      "album": {
+        "name": "warm cocoa",
+        "url": "https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144208,
+      "name": "warm cocoa",
+      "url": "https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c"
     },
     {
       "album": {

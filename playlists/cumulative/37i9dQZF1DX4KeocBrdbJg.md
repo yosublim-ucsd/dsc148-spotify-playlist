@@ -4,7 +4,7 @@
 
 > la más coquette 🎀
 
-523 songs - 1 day 4 hr 50 min
+524 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Otra Vez](https://open.spotify.com/track/2dz1PWeukbAfsXgJadiaBu) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/1KLSJkv7h010RmYOVgCSSr) | 2:14 | 2024-01-25 |  |
 | [Otra Vez](https://open.spotify.com/track/5LNf5l8xXqus1s9A43ReEZ) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/5408habaWK37BE9QUNEstD) | 2:14 | 2023-07-13 | 2024-01-31 |
 | [P rreo](https://open.spotify.com/track/1ZI1nMfnnfFhdIyIKv5Igv) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [P rreo](https://open.spotify.com/album/5aiZSpUvzqEpoVolKUVPnw) | 3:18 | 2022-05-06 | 2022-06-07 |
-| [Pacas y Pacas](https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Pacas y Pacas](https://open.spotify.com/album/1O7JXwCrIZGbuYAKsIIhav) | 2:20 | 2023-12-15 |  |
+| [Pacas y Pacas](https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Pacas y Pacas](https://open.spotify.com/album/1O7JXwCrIZGbuYAKsIIhav) | 2:20 | 2023-12-15 | 2024-02-06 |
+| [Pacas y Pacas](https://open.spotify.com/track/1hFg6ilfrckIhcz0IBmp2b) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc) | [Pacas y Pacas](https://open.spotify.com/album/7jL1caHfpQfZdJrNtsnbAm) | 2:20 | 2024-01-25 |  |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-07-07 | 2023-08-02 |
 | [Paint It Black](https://open.spotify.com/track/1OuCn2F9BmyTAdM0Jylo9X) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/4YZI5RGjvxQsZmeY8ewpxs) | 2:22 | 2022-12-07 | 2023-04-22 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-28 | 2023-04-22 |

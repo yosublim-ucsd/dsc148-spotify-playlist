@@ -4097,6 +4097,28 @@
     },
     {
       "album": {
+        "name": "Shine So Bright",
+        "url": "https://open.spotify.com/album/4lLrR2yweAQouf7Ryq0z24"
+      },
+      "artists": [
+        {
+          "name": "DVNB",
+          "url": "https://open.spotify.com/artist/6PJcVdm72UEcORWfdyWGOS"
+        },
+        {
+          "name": "Jan Liva",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Shine So Bright",
+      "url": "https://open.spotify.com/track/0hSpPmY8ktBSav1lpazGTY"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/1tzUJiSHMB30oeNy1EHRQW"
       },

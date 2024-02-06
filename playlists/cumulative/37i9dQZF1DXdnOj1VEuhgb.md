@@ -4,11 +4,11 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Lvbel C5
 
-273 songs - 11 hr 55 min
+274 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [dehainc](https://open.spotify.com/artist/7Hz6CNU0L0sdoXL7EWLvhn), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 | 2024-01-25 |  |
+| [\#PHONKFREESTYLE](https://open.spotify.com/track/3Ei2OxIID6rSuPkvp6dIGP) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [\#PHONKFREESTYLE](https://open.spotify.com/album/0OYDRhRornVSIIeHrjvScc) | 2:58 | 2024-01-25 |  |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-03-09 | 2023-03-31 |
 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 | 2023-01-10 |  |
 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 | 2023-04-27 | 2023-10-13 |
@@ -220,6 +220,7 @@
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 |  |
 | [ROTTERDAM FREESTYLE](https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [ROTTERDAM FREESTYLE](https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3) | 4:03 | 2023-12-14 | 2024-01-19 |
+| [RXCKSTAR](https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [RXCKSTAR](https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY) | 1:13 | 2024-02-05 |  |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-23 | 2023-04-28 |
 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-12-12 |  |
 | [SANA NE](https://open.spotify.com/track/44wJznydk7liXuhYExo19u) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [SANA NE](https://open.spotify.com/album/5Pj9XsRe6EC94uVdz9IAPc) | 2:42 | 2023-08-24 | 2023-09-09 |
@@ -249,7 +250,7 @@
 | [Tarihin En İyisi](https://open.spotify.com/track/3mgF1mUM8j1VmKVwjhnxGk) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [Tarihin En İyisi](https://open.spotify.com/album/42N04xSRE7G3BSxJ5IRbMY) | 2:29 | 2023-03-30 | 2023-04-14 |
 | [Taştan](https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc) | 2:56 | 2023-07-06 | 2023-08-11 |
 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 | 2023-07-27 |  |
-| [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 |  |
+| [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-05 | 2024-02-06 |
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
 | [TUZAK](https://open.spotify.com/track/4gGbpg8ReIJLP76IFyTLgs) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [TUZAK](https://open.spotify.com/album/17wcTygeAOQwBEIkGItzAX) | 3:16 | 2023-04-20 | 2023-05-04 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |

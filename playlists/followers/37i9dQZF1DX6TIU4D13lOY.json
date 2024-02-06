@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 247290,
+  "2024-02-06": 247373,
   "date_first_scraped": "2022-09-15",
   "description": "Classic soft rock for a nice and easy drive.",
   "name": "Soft Rock Drive",
@@ -431,10 +431,28 @@
       ],
       "date_added": "2020-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "album": {
+        "name": "Gaucho",
+        "url": "https://open.spotify.com/album/6FRN2BwvClQEMsG2I4Cofb"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2020-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309018,
+      "name": "Hey Nineteen",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: The War and Treaty
+> Top trending country tracks from the last few months\. Cover: Zach Bryan and Kacey Musgraves
 
 361 songs - 19 hr 18 min
 

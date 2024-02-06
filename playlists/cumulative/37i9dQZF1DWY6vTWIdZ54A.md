@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
+| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 | 2024-02-06 |
 | [.CoDA.](https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:44 | 2022-10-07 |  |
 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 | 2023-05-04 |
 | [A Taste of Silver](https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06) | 3:02 | 2022-10-07 | 2022-11-13 |
@@ -27,7 +27,7 @@
 | [Bad Spell](https://open.spotify.com/track/3KXN0yyh3iy665jdKFFQXZ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 3:15 | 2022-10-07 | 2022-11-13 |
 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 | 2022-06-17 | 2022-11-14 |
 | [Bad Spell](https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq) | 3:15 | 2022-06-13 | 2022-07-29 |
-| [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2022-10-07 | 2023-12-27 |
+| [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2022-10-07 |  |
 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 | 2021-01-29 | 2023-06-11 |
 | [bernard trigger](https://open.spotify.com/track/1JhppwOaVjg1cgs7jYzGQS) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [bernard trigger](https://open.spotify.com/album/4uJd2CmhskVkDs7ehfKQNH) | 3:29 | 2022-06-17 | 2022-09-24 |
 | [bernard trigger](https://open.spotify.com/track/7KLmBGIrxaOaoTcUQrLKub) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [the boys](https://open.spotify.com/album/3YLIa2HCjlMNgLFHqHwgor) | 3:29 | 2020-12-11 | 2022-07-29 |

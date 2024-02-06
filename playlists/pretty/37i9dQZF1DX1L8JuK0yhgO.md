@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,408 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,412 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 46 | [What do you say? It feels like this](https://open.spotify.com/track/33UtVcBpnWRF9zfaiwe9b1) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [FU\-G](https://open.spotify.com/artist/4bHyVu4lqB320P6DLeJD96) | [TAIKAI](https://open.spotify.com/album/0VhB9rsvGy9z2Poa9Yqr98) | 2:51 |
 | 47 | [KAZE](https://open.spotify.com/track/44TZNoKRrrh2KmlUHoDvhl) | [GOiTO](https://open.spotify.com/artist/7uDWC8t2y1sXFU56amcWOq), [Liberal](https://open.spotify.com/artist/2FguVSVvh2yE8a3IYPsGkS) | [Unwavering](https://open.spotify.com/album/2DyB9fWmhKw3bJDnZPJCAB) | 2:52 |
 | 48 | [Laundry](https://open.spotify.com/track/6bJRh7YmjrHUScZklgSSDO) | [tachyon+MCビル風](https://open.spotify.com/artist/1GxctAK4OPZgW7tNNtmx7s) | [Laundry](https://open.spotify.com/album/5jk9FY1t59kdgUANrGla6I) | 4:16 |
-| 49 | [Spot](https://open.spotify.com/track/4erZfcz2pDj4mSDxffyHVp) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [Hum](https://open.spotify.com/artist/0vFPtjKC5Mqd14ZbBPKfRZ), [Esosa Vee](https://open.spotify.com/artist/5kPHeikKvfVPeoJ9n1BgfN) | [Spot](https://open.spotify.com/album/4CNJJu3iaJwv0py9qaHyvr) | 3:16 |
+| 49 | [Spot](https://open.spotify.com/track/4erZfcz2pDj4mSDxffyHVp) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [Hum](https://open.spotify.com/artist/0D40U65ZXNkD4b3lfqrOnU), [Esosa Vee](https://open.spotify.com/artist/5kPHeikKvfVPeoJ9n1BgfN) | [Spot](https://open.spotify.com/album/4CNJJu3iaJwv0py9qaHyvr) | 3:16 |
 | 50 | [Wannabe](https://open.spotify.com/track/0ROR97a9Q9SeEkDCON5fmd) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [Wannabe](https://open.spotify.com/album/59ArA4migkYQtlzAvKE7aM) | 3:11 |
 | 51 | [no reception](https://open.spotify.com/track/7xHaCM2lDhmKGJKMTvSc0Q) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [yayako](https://open.spotify.com/artist/0O34oKZU1DC7InSHbNoO5g) | [venus in aries](https://open.spotify.com/album/0KS2U9aA7K4I6EHWfzrKPX) | 3:12 |
 | 52 | [Bandit](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Terracotta](https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Terracotta](https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb) | 2:03 |
 | 60 | [w\_mimoza](https://open.spotify.com/track/7p2HpAWNCccsnw200qMY4y) | [misaki umei](https://open.spotify.com/artist/0FPmaZxBJK2vpitRLwrSAO) | [w\_mimoza](https://open.spotify.com/album/6BlasL1illknRHy2KfgXHv) | 6:55 |
 
-Snapshot ID: `MCwzZTdlMjBiZTdjMzc2ZTI5MjNkZTU3YzViYzUwODhiYTBmODMwOGM4`
+Snapshot ID: `MCw5ZjU1YjlhMDBmNzA0ZDE4OWY2ZjA1ZTU4NGJmMTgyODlkZmE0Yjc3`

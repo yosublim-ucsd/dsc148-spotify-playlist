@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-423 songs - 1 day 1 hr 36 min
+424 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Therapist](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 | 2023-10-06 | 2023-11-16 |
 | [There'll Never Be](https://open.spotify.com/track/0AhfJf1WvL61ipcVsL8Xs8) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 5:29 | 2022-09-30 | 2022-10-04 |
 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 | 2023-05-26 | 2023-10-07 |
-| [Things Meant For Me](https://open.spotify.com/track/7vW8UHj4GscNOaiCofbUmu) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Things Meant For Me](https://open.spotify.com/album/3kOB1v88nRMJh7ILdJDEPi) | 4:58 | 2023-07-21 |  |
+| [Things Meant For Me](https://open.spotify.com/track/7vW8UHj4GscNOaiCofbUmu) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Things Meant For Me](https://open.spotify.com/album/3kOB1v88nRMJh7ILdJDEPi) | 4:58 | 2023-07-21 | 2024-02-06 |
 | [Thinking of You](https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Thinking of You](https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0) | 3:21 | 2022-09-09 | 2022-10-04 |
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-05-19 |  |
 | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Tigress & Tweed \(Music from the Motion Picture "The United States vs\. Billie Holiday"\)](https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz) | 3:11 | 2021-12-03 | 2022-07-29 |
@@ -430,6 +430,7 @@
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-15 |
 | [Yesterday Was Heaven](https://open.spotify.com/track/2xqHPcmoyo1CJN1WzbdWlr) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Yesterday Was Heaven](https://open.spotify.com/album/5oNQFN3okVx45dvbueOWzs) | 3:27 | 2023-04-28 | 2023-05-13 |
 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 | 2022-11-04 | 2023-10-26 |
+| [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9) | 3:29 | 2024-02-02 |  |
 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 | 2022-03-11 | 2023-05-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 68698,
+  "2024-02-06": 68688,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Black Mirror Society",
+        "url": "https://open.spotify.com/album/0tRYZ8ajmixiR1p6rZzCrx"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197477,
+      "name": "Circles And Squares",
+      "url": "https://open.spotify.com/track/0AHRkAho9lWERZ8HZu0gOx"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 275200,
       "name": "Friend Of A Friend",
       "url": "https://open.spotify.com/track/4lTLmo9aTyMJ1SoHa63WA6"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 191451,
       "name": "Poison Poison",
       "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 210417,
       "name": "The Worst Person Alive",
       "url": "https://open.spotify.com/track/1YmJULNnUkQ5Ko5lGr14Lr"

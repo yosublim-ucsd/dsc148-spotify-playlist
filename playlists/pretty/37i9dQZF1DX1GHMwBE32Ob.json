@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zlatan & Asake",
-  "num_followers": 43977,
+  "num_followers": 44120,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWY3OThmOGYxMDMyMTZjZDBmOWI5MTk4MjZlYTI3MzRiYTliMzkz",
+  "snapshot_id": "MCxkYTU3M2IzODc0ODIyM2E5ZGEwMzk3MTk5ZTg0MDc5MDYyOGFkZGI5",
   "tracks": [
     {
       "added_at": "2024-02-02 00:01:00",
@@ -199,18 +199,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Ex Convict",
-        "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
+        "name": "Puff & Pass (Remix)",
+        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
       "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 202605,
-      "name": "Ex Convict",
-      "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"
+      "duration_ms": 161515,
+      "name": "Puff & Pass (Remix)",
+      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -235,22 +239,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Puff & Pass (Remix)",
-        "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
       },
       "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
         {
           "name": "Shallipopi",
           "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 161515,
-      "name": "Puff & Pass (Remix)",
-      "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Puff & Pass",
+        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "Puff & Pass",
+      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -411,38 +427,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man of The Year",
-      "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Puff & Pass",
-        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "Puff & Pass",
-      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Id.Me",
         "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
       },
@@ -459,22 +443,18 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+      "duration_ms": 144000,
+      "name": "Man of The Year",
+      "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -495,18 +475,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
+        "name": "Child's Play",
+        "url": "https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
+      "duration_ms": 151710,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -531,22 +515,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Child's Play",
-        "url": "https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
       "artists": [
         {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 151710,
-      "name": "Child's Play",
-      "url": "https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um"
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -627,6 +611,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Walking Dead",
         "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "NSV",
         "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188372,
       "name": "NSV",
       "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "HBP",
+        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "HBP",
+      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "New Religion",
         "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "HBP",
-        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "HBP",
-      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -807,6 +823,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "Tiff",
+        "url": "https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 132257,
+      "name": "Tiff",
+      "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "Ghetto Vibrations",
         "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 129593,
       "name": "Don Perignon",
       "url": "https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "Tiff",
-        "url": "https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 132257,
-      "name": "Tiff",
-      "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -919,22 +919,26 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD"
+        "name": "Cash App",
+        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
       "artists": [
         {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Lincoln",
+          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
         }
       ],
-      "duration_ms": 143300,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
+      "duration_ms": 236068,
+      "name": "Cash App",
+      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -959,26 +963,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
-        "name": "Cash App",
-        "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Lincoln",
-          "url": "https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 236068,
-      "name": "Cash App",
-      "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
     },
     {
       "added_at": "2024-02-02 00:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-02 00:01:00",
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
+    },
+    {
+      "added_at": "2024-02-02 00:01:00",
+      "album": {
         "name": "A True Champion",
         "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
-    },
-    {
-      "added_at": "2024-02-02 00:01:00",
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     }
   ],
   "unique_name": "Street Energy ",

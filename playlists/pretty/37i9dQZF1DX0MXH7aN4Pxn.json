@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 675755,
+  "num_followers": 675641,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzZhNjdiYTk4ZjZkOGJkNDJjZGMzY2NhZGNmNWY5OTE2Njc1ZDI4",
+  "snapshot_id": "MCxlMzc0NWFhYjYzZGM4ZjNmNTAzNmNlZDM5YjNmNTY5YTE0ZGIwMzVj",
   "tracks": [
     {
       "added_at": "2024-01-26 12:16:12",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "JOY (Push The Button)",
-        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
-        }
-      ],
-      "duration_ms": 235198,
-      "name": "JOY (Push The Button)",
-      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -967,22 +947,22 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
       "artists": [
         {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         },
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
         }
       ],
-      "duration_ms": 186541,
-      "name": "Don't Stop Just Yet",
-      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1023,6 +1003,26 @@
       "duration_ms": 200005,
       "name": "Rhymes",
       "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 186541,
+      "name": "Don't Stop Just Yet",
+      "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
     },
     {
       "added_at": "2024-01-26 12:16:12",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-01-26 12:16:12",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        }
+      ],
+      "duration_ms": 163957,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
+    },
+    {
+      "added_at": "2024-01-26 12:16:12",
+      "album": {
         "name": "Tic Tacs (JAKKOB Remix)",
         "url": "https://open.spotify.com/album/3667AW7fmvUul08gOsR0L7"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 179076,
       "name": "Tic Tacs - JAKKOB Remix",
       "url": "https://open.spotify.com/track/1THLb2bASzBj3HNpeW4QwG"
-    },
-    {
-      "added_at": "2024-01-26 12:16:12",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0"
-      },
-      "artists": [
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        }
-      ],
-      "duration_ms": 163957,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd"
     },
     {
       "added_at": "2024-01-26 12:16:12",

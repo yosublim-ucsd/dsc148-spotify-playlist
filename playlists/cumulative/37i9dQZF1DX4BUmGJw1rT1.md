@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-222 songs - 15 hr 21 min
+223 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,10 +215,11 @@
 | [Third Degree](https://open.spotify.com/track/1th2vwXpgv6prxxHbVccV9) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 5:08 | 2022-05-25 | 2022-10-17 |
 | [Third Degree](https://open.spotify.com/track/3R6Lzof0YvFqhE8ca1BYMh) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 5:08 | 2022-11-17 |  |
 | [Third Degree \- 2015 Remaster](https://open.spotify.com/track/5jqRbGwNtD7rvsGiSeTmcu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Forever Man](https://open.spotify.com/album/3gaFg68VkhrZUU9wfaLp5T) | 5:10 | 2022-10-03 | 2022-11-24 |
-| [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6) | [THE DAWN LIGHT](https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A) | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD) | 5:29 | 2022-05-25 |  |
+| [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6) | [THE DAWN LIGHT](https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A) | [THOUSAND STRINGED INSTRUMENT](https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD) | 5:29 | 2022-05-25 | 2024-02-06 |
 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 | 2022-05-25 | 2023-05-27 |
 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 | 2023-05-26 |  |
 | [Too Much Pride \- Alternate / Remastered 2022](https://open.spotify.com/track/7HsCiZZR1EIAhmnY1kshIl) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [South Side Of Soul Street: The SSS Sessions \(Remastered 2022\)](https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef) | 2:27 | 2023-08-18 |  |
+| [Trouble And Shame](https://open.spotify.com/track/12crpofRI1U2y7gqmOyeoW) | [Mollie Marriott](https://open.spotify.com/artist/1zQ0BvcGGvuhvI6E9YBoTP) | [Trouble And Shame](https://open.spotify.com/album/6upHpN96CSd3BvxQrOBc2X) | 3:50 | 2023-11-24 |  |
 | [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 | 2024-01-13 |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |

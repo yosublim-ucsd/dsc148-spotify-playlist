@@ -4,11 +4,12 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-98 songs - 4 hr 25 min
+101 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Rainy Day in Temple](https://open.spotify.com/track/630N0zkAsYJYhjThC5UzTA) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [A Rainy Day in Temple](https://open.spotify.com/album/265FNDSkFrjOJLNPq4G2rS) | 4:13 | 2023-03-13 | 2023-04-25 |
+| [a rainy drive](https://open.spotify.com/track/1CaxxugXqfTttf5WPyXjZL) | [Mikki Johansson](https://open.spotify.com/artist/4AF3ZcezStUKA4fhjEcoUT) | [a rainy drive](https://open.spotify.com/album/1db6UHObCrBOlTR6GgcpxC) | 2:38 | 2024-02-05 |  |
 | [Agronomy](https://open.spotify.com/track/02waHCZlp2s2ivnqDp3CjA) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Agronomy](https://open.spotify.com/album/1oKBvI5blJWJCcfkek7pwZ) | 2:23 | 2023-03-13 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-03-13 |  |
 | [Back to life](https://open.spotify.com/track/7apr0AjkfBJD0Ma5h1uNvk) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:50 | 2023-03-13 | 2023-10-20 |
@@ -18,6 +19,7 @@
 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 | 2023-03-13 |  |
 | [Calm After the Storm](https://open.spotify.com/track/3235QVqcxdKo9ZrJhRY9of) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Calm After the Storm](https://open.spotify.com/album/10ovShyd8irxuFd71dxjvj) | 3:46 | 2024-01-09 |  |
 | [Cosima and the rain](https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Cosima and the rain](https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI) | 2:06 | 2023-03-13 |  |
+| [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 | 2024-02-05 |  |
 | [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 | 2023-03-13 |  |
 | [Distant Rain](https://open.spotify.com/track/4EPGDewzvCS2TWK2URXVNE) | [Haley Rainwater](https://open.spotify.com/artist/0Sn2RT3NZROgbQCKGPihxA) | [Melancholie](https://open.spotify.com/album/0G9IpJZcX6h2xhP323FhpV) | 1:33 | 2023-03-13 | 2023-08-03 |
 | [Echoes Of The Forest](https://open.spotify.com/track/55xmZl9vnU0hBA3r3MPdDt) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Echoes Of The Forest](https://open.spotify.com/album/5pfaXhko9DKEet3w3O8h3v) | 2:06 | 2023-03-13 |  |
@@ -104,6 +106,7 @@
 | [Twilight \(Rain\)](https://open.spotify.com/track/6A8BVf7yLDPwbGJ1xFuKyw) | [Greg Bevis](https://open.spotify.com/artist/4ngLyEjORduhTNduB1I3Hu), [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Friluftsliv](https://open.spotify.com/album/0AatQyqxu4MbOEJYbfPH6t) | 2:08 | 2024-01-09 |  |
 | [Under The Oak](https://open.spotify.com/track/0TBeVsPId87STJeWjD4jrb) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Under The Oak](https://open.spotify.com/album/4qfl4P8MTH2y5W5rMfDMHJ) | 3:09 | 2023-07-06 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
+| [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |
 | [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/1rXR5cwxxippMLTtaeAa6y) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
 | [You're My Favorite Song](https://open.spotify.com/track/1VivWZ7QS8igflqDXZHlCF) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:36 | 2023-03-13 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,983 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,974 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 95 | [Trash Can](https://open.spotify.com/track/2wBFARKyNwkL7f1Fjsl1Zh) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Trash Can](https://open.spotify.com/album/17iGRF0zmObmYu2BseX8Oy) | 3:53 |
 | 96 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 |
 | 97 | [Stand Still](https://open.spotify.com/track/2GOKL8ynbeBg0vzBH46eXa) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Stand Still](https://open.spotify.com/album/1mbpklFb3tk249EMHhF5Zy) | 3:01 |
-| 98 | [Otherside](https://open.spotify.com/track/65ybsaE29ZYqelgjXSc7xd) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock,](https://open.spotify.com/album/2vcW1BucVQMfVGN5LLb8XF) | 3:34 |
+| 98 | [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 |
 | 99 | [Burn](https://open.spotify.com/track/7xusJWTJfFsyNw0SJYICfv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf) | 2:23 |
 | 100 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 |
 
-Snapshot ID: `MCwxNGRjYjFlMTVjOTY0ZjFmYTExNDY5MjQ4NTQyMmU1NTA0MDcyMWFl`
+Snapshot ID: `MCwwNjg4Mzk4OWZiYWJlZGVjOWVhYjE4NzEwNWY1ZjI0NTM5NjI5YWIz`

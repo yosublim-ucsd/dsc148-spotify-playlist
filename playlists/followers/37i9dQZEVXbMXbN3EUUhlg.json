@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 3481514,
+  "2024-02-06": 3481590,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Brazil.",
   "name": "Top 50 - Brazil",
@@ -3095,7 +3095,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
@@ -9363,7 +9363,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 166774,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/53PpijFATt35Zxfl6LTxoK"
@@ -12227,7 +12227,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 140322,
       "name": "Novo Balan\u00e7o",
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
@@ -12825,7 +12825,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -14147,7 +14147,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
@@ -17542,6 +17542,28 @@
     },
     {
       "album": {
+        "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167551,
+      "name": "Torce o Olho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ykvcYpoXid0u9rvzZzNy8"
+    },
+    {
+      "album": {
         "name": "Torce o Olho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4iDEMrwkGMQ6LpdbdTnLGy"
       },
@@ -18621,7 +18643,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
@@ -19345,7 +19367,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 150000,
       "name": "zumzumzum",
       "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"

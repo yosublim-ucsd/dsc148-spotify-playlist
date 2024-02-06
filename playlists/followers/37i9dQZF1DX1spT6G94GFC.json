@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 2797638,
+  "2024-02-06": 2798219,
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the 80s.",
   "name": "80s Rock Anthems",
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 506400,
       "name": "Money for Nothing",
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"

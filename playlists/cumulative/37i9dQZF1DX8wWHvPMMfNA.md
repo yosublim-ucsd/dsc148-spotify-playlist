@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-759 songs - 2 day 0 hr 17 min
+762 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 |  |
 | [Anything Valuable](https://open.spotify.com/track/5a7Q73tRHa4y1qXPT1VCdC) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Anything Valuable](https://open.spotify.com/album/7aDY8EF18etZAMxa1Rm2R7) | 3:46 | 2023-12-22 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2023-06-01 |  |
-| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 |  |
+| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 | 2024-02-06 |
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-17 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-06-01 |  |
@@ -97,6 +97,7 @@
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2021-12-16 |  |
 | [Body and Soul](https://open.spotify.com/track/3i373wW6lYwp4gkjoVw2uk) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Body and Soul](https://open.spotify.com/album/3Ao6Lz6auN7hcXvlDRxp3I) | 3:26 | 2023-09-22 |  |
 | [Born To Be Blue](https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 4:21 | 2022-05-18 |  |
+| [Break from rehearsals](https://open.spotify.com/track/1tXQgPnVbEDKT0j3z6xDTK) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Break from rehearsals](https://open.spotify.com/album/5YQZlmR5mEc09OghE0Sc0V) | 3:41 | 2024-02-02 |  |
 | [Breakup Blues](https://open.spotify.com/track/3UAfrwiIszzcAlCIfpVF96) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Breakup Blues](https://open.spotify.com/album/2HdHsBiLbSjvx9GlS7cK3P) | 3:27 | 2023-08-10 |  |
 | [Bright Drops](https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Bright Drops](https://open.spotify.com/album/0irXga7rgvezY56zr9ynVE) | 4:44 | 2023-06-01 |  |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 |  |
@@ -310,6 +311,7 @@
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2023-06-01 |  |
 | [Ill Wind](https://open.spotify.com/track/4BPd4Z916ZXnm8oXNqHxZg) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 7:59 | 2021-12-16 |  |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
+| [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-02 |  |
 | [Impressive\-looking](https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Impressive\-looking](https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs) | 3:24 | 2023-08-10 |  |
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-27 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/6WzMl7FoqNmET1OpHNiC09) | [Tommy Flanagan Trio](https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU) | [Tommy Flanagan Trio](https://open.spotify.com/album/6ib55A9F22eHSqsVDjQPvu) | 6:39 | 2021-12-16 |  |
@@ -592,10 +594,10 @@
 | [Stephanie](https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:55 | 2021-12-16 | 2022-11-11 |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-11 |  |
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2023-06-01 |  |
-| [Stick Around](https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Stick Around](https://open.spotify.com/album/3OGuwr110zyVOAtdPVUKqe) | 3:02 | 2023-08-10 |  |
+| [Stick Around](https://open.spotify.com/track/0fAm8fg0phPSokcYL4YCg9) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Stick Around](https://open.spotify.com/album/3OGuwr110zyVOAtdPVUKqe) | 3:02 | 2023-08-10 | 2024-02-06 |
 | [Storvindeln](https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Storvindeln](https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr) | 3:36 | 2023-02-09 |  |
 | [Story of My Dream](https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1) | [Almost Here](https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs) | [Story of My Dream](https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79) | 2:57 | 2023-09-22 |  |
-| [Stranger In Town](https://open.spotify.com/track/5WORP69uuwI9bSLIVQ94Or) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Glad To Be Unhappy](https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG) | 6:23 | 2021-12-16 |  |
+| [Stranger In Town](https://open.spotify.com/track/5WORP69uuwI9bSLIVQ94Or) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Glad To Be Unhappy](https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG) | 6:23 | 2021-12-16 | 2024-02-06 |
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-23 |  |
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 |  |
 | [Street Of Dreams](https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Street Of Dreams](https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U) | 3:21 | 2023-06-01 |  |
@@ -696,6 +698,7 @@
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-11 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-11-11 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
+| [Vinegar replacing honey](https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Vinegar replacing honey](https://open.spotify.com/album/7tCtyUnPDyb1hc6565GfC0) | 2:52 | 2024-02-02 |  |
 | [Vineyard](https://open.spotify.com/track/51vkNmbOPJkfP6nHu8wsGv) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Inner Peace](https://open.spotify.com/album/5kJ4YhodZnsl11AWeh71Rs) | 3:11 | 2023-12-22 |  |
 | [Waiting](https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Waiting](https://open.spotify.com/album/7hNxS9E1smQnmOBfDQ7UBk) | 3:20 | 2023-11-24 |  |
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 2495,
+  "2024-02-06": 2495,
   "date_first_scraped": "2023-02-03",
   "description": "Our weekly selection is here \u26a1\ufe0f",
   "name": "AGLF Playlist",
@@ -550,6 +550,24 @@
     },
     {
       "album": {
+        "name": "Beat",
+        "url": "https://open.spotify.com/album/1dQbJzsDTiMZxKwc4Xe7fv"
+      },
+      "artists": [
+        {
+          "name": "Jamie G",
+          "url": "https://open.spotify.com/artist/6BDpVmQwKZSv0lQL83wN7i"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Beat",
+      "url": "https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2"
+    },
+    {
+      "album": {
         "name": "Been Dreaming",
         "url": "https://open.spotify.com/album/45DVxrONjJSdjVkFtfVeqH"
       },
@@ -689,6 +707,24 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
+    },
+    {
+      "album": {
+        "name": "Body Chalk",
+        "url": "https://open.spotify.com/album/12EVz1TFhTPxEr7QRFQsZq"
+      },
+      "artists": [
+        {
+          "name": "Toyzz",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Body Chalk",
+      "url": "https://open.spotify.com/track/0QE8eb7vXTb4WHbVBwu4Ql"
     },
     {
       "album": {
@@ -1023,6 +1059,28 @@
       "duration_ms": 175714,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp"
+    },
+    {
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "album": {
@@ -1755,7 +1813,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 175878,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/17eXvlZ3lu7QdlLHpBz0nX"
@@ -2122,6 +2180,24 @@
     },
     {
       "album": {
+        "name": "Fire Starter",
+        "url": "https://open.spotify.com/album/5ogyTM6e1fUbjzKnzQZ4jP"
+      },
+      "artists": [
+        {
+          "name": "Loge21",
+          "url": "https://open.spotify.com/artist/29DWvZyWy1yvU8jpIePBYi"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Fire Starter",
+      "url": "https://open.spotify.com/track/4A5zw4ohqaPLWwFElhA6kV"
+    },
+    {
+      "album": {
         "name": "Pam Pam",
         "url": "https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU"
       },
@@ -2483,7 +2559,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 198850,
       "name": "Get Down Down",
       "url": "https://open.spotify.com/track/0A8agun7eBJpnTiFiwAX7c"
@@ -2759,7 +2835,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 185538,
       "name": "High",
       "url": "https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc"
@@ -3216,6 +3292,24 @@
     },
     {
       "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX"
+    },
+    {
+      "album": {
         "name": "Jumpin'/Party Like",
         "url": "https://open.spotify.com/album/4F2Cav6N3x1DXqjRBseCLs"
       },
@@ -3231,10 +3325,28 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 354466,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/0e3RJm3cL2AcGz0YWZEEjT"
+    },
+    {
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "album": {
@@ -3493,6 +3605,32 @@
       "duration_ms": 190491,
       "name": "Less That",
       "url": "https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d"
+    },
+    {
+      "album": {
+        "name": "Let's Go Dancing (Matroda Remix)",
+        "url": "https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        },
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "Let's Go Dancing - Matroda Remix",
+      "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
       "album": {
@@ -4001,7 +4139,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 186625,
       "name": "Needle On The Record",
       "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
@@ -4041,7 +4179,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 220781,
       "name": "No Mendacium - Radio Edit",
       "url": "https://open.spotify.com/track/1XMQsx7IzYpuYcj3HZEqJQ"
@@ -4299,7 +4437,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 223636,
       "name": "Pop It",
       "url": "https://open.spotify.com/track/1CFeZJuTbLuTejzToWJsXX"
@@ -4317,7 +4455,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 241889,
       "name": "Potion",
       "url": "https://open.spotify.com/track/7gYRwtk5htZEHexDo42cp3"
@@ -4343,6 +4481,24 @@
       "duration_ms": 185196,
       "name": "Preach",
       "url": "https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m"
+    },
+    {
+      "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/4nMJrwnDEK64HL3Bxnvu8V"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Prodigy",
+      "url": "https://open.spotify.com/track/6HIV6cFs5NWjduJ5CJvmuy"
     },
     {
       "album": {
@@ -4379,6 +4535,28 @@
       "duration_ms": 275348,
       "name": "Prophet",
       "url": "https://open.spotify.com/track/6C4TSZaIUH0emM3uiJcisg"
+    },
+    {
+      "album": {
+        "name": "Check Yo' Self EP",
+        "url": "https://open.spotify.com/album/6VBnFCDKS5hYgNJRjlmgjD"
+      },
+      "artists": [
+        {
+          "name": "MAYO (US)",
+          "url": "https://open.spotify.com/artist/4d1ukhuuIDLUI7sIWrah7G"
+        },
+        {
+          "name": "Jhojho",
+          "url": "https://open.spotify.com/artist/17a3EtrBd0MdaZ609KMIHR"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Protect Ya Neck - Jhojho Edit",
+      "url": "https://open.spotify.com/track/4rp9ZFa6OhRxGjJm8hYDnd"
     },
     {
       "album": {
@@ -4561,6 +4739,28 @@
       "duration_ms": 181173,
       "name": "Rock The House",
       "url": "https://open.spotify.com/track/3EYzxRhzkkVKRiw1PRvPQ6"
+    },
+    {
+      "album": {
+        "name": "Roll Deep",
+        "url": "https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c"
+      },
+      "artists": [
+        {
+          "name": "Nightlapse",
+          "url": "https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX"
+        },
+        {
+          "name": "JSED",
+          "url": "https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160250,
+      "name": "Roll Deep",
+      "url": "https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov"
     },
     {
       "album": {
@@ -5369,7 +5569,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 208129,
       "name": "The Funktion",
       "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
@@ -5867,7 +6067,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 343673,
       "name": "Wrop",
       "url": "https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX"

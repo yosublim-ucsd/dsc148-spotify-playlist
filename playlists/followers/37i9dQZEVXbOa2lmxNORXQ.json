@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 822966,
+  "2024-02-06": 822918,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Colombia.",
   "name": "Top 50 - Colombia",
@@ -10920,6 +10920,24 @@
     },
     {
       "album": {
+        "name": "El Se\u00f1orazo (En Vivo)",
+        "url": "https://open.spotify.com/album/01eo94qU3vhVzEsgAjMLz2"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181685,
+      "name": "Mi Palabra Contra la de Ellos - En Vivo",
+      "url": "https://open.spotify.com/track/0sBVn4NN8VlR9WMmyZ1Cek"
+    },
+    {
+      "album": {
         "name": "Que Sea un Motivo (30 A\u00f1os de Vida Art\u00edstica)",
         "url": "https://open.spotify.com/album/4vWUGT7oPoxqJ6f4kMb80E"
       },
@@ -18351,7 +18369,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 167500,
       "name": "VISAJE",
       "url": "https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT"

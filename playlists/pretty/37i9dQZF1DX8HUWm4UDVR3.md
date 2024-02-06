@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Leslie Medina
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,623 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,628 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 |
 | 50 | [État normal](https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [État normal](https://open.spotify.com/album/0JwKhFsPG4KIkGZeQy0YWY) | 2:18 |
 
-Snapshot ID: `MCxmMTQ5MTM3Mjc2YmM4NTZlM2FjNGVjMzY2YzZiMjIxYjQ5ZDBiNDE0`
+Snapshot ID: `MCwyNzc1NWI2ZDQ5MDkwNWM4OGM4NDJjYjZkOTY0MDc1NjkxOTQ0MmMx`

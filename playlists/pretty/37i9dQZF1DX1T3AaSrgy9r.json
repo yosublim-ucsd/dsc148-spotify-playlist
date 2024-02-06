@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 120289,
+  "num_followers": 120346,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjY4ZWEyZjM2YTZjMWM2ZTNmOTBiZTFhOTA2ZDFhMWM3YjQ0NjA3",
+  "snapshot_id": "MCxlYzRhNjdmOTQxMjQwMmQzZGUwMjE4OGFmNDllODNkMDU4NjMwZWEx",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -159,18 +159,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -191,18 +191,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 360426,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -371,26 +371,6 @@
       "duration_ms": 149080,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
-        }
-      ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -435,18 +415,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
         }
       ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -479,6 +463,22 @@
       "duration_ms": 293773,
       "name": "I Might Be Wrong",
       "url": "https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Tweekend",
         "url": "https://open.spotify.com/album/3mfsKYh9lIsHYuraTmfsdv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 255093,
       "name": "Name Of The Game",
       "url": "https://open.spotify.com/track/4XKEVz0X1BIDhCAfb782tm"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Metropol",
-        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
-      },
-      "artists": [
-        {
-          "name": "Lunatic Calm",
-          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Leave You Far Behind",
-      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Vegas",
         "url": "https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 445000,
       "name": "Busy Child",
       "url": "https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Metropol",
+        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Calm",
+          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Leave You Far Behind",
+      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Journey Man",
-        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
-      },
-      "artists": [
-        {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        },
-        {
-          "name": "Ulterior Motive",
-          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
-        },
-        {
-          "name": "Natalie Williams",
-          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
-        }
-      ],
-      "duration_ms": 366387,
-      "name": "I Adore You",
-      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Swamp Thing",
         "url": "https://open.spotify.com/album/6q2Cg5nOfvYzKj6BSYWfTq"
       },
@@ -1143,22 +1119,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Little Fluffy Clouds - Dance Mix 2",
-      "url": "https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Pre Millennium Tension",
         "url": "https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu"
       },
@@ -1175,6 +1135,46 @@
       "duration_ms": 241000,
       "name": "Makes Me Wanna Die",
       "url": "https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "The Journey Man",
+        "url": "https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt"
+      },
+      "artists": [
+        {
+          "name": "Goldie",
+          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
+        },
+        {
+          "name": "Ulterior Motive",
+          "url": "https://open.spotify.com/artist/711RACYACplatReI4JGaoa"
+        },
+        {
+          "name": "Natalie Williams",
+          "url": "https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF"
+        }
+      ],
+      "duration_ms": 366387,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Little Fluffy Clouds - Dance Mix 2",
+      "url": "https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1243,22 +1243,6 @@
       "duration_ms": 327173,
       "name": "Dealing with the Roster",
       "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "U.F.Off: The Best Of The Orb",
-        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Toxygene - 7\" Edit",
-      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1343,22 +1327,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+        "name": "U.F.Off: The Best Of The Orb",
+        "url": "https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
-        },
-        {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+      "duration_ms": 211533,
+      "name": "Toxygene - 7\" Edit",
+      "url": "https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1379,18 +1359,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        },
+        {
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
         }
       ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Atom Bomb",
+        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
+      },
+      "artists": [
+        {
+          "name": "Fluke",
+          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Atom Bomb - Atomix 1",
+      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Dead Cities",
         "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Atom Bomb",
-        "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
       },
       "artists": [
         {
-          "name": "Fluke",
-          "url": "https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Atom Bomb - Atomix 1",
-      "url": "https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1"
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

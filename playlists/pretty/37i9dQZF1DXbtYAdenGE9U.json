@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 526853,
+  "num_followers": 527229,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDc5MWI4NzEyNzY2OTQyZTZjMjc0Mjg5OGQ1MzA4YmNkMDYyZDNk",
+  "snapshot_id": "MCwwODY1YjY5OGEyMjVjNTNmNWZhYThmNzEwOGU1ZWNjZDgwOGVhNDA4",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Headliners",
+        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Headliners",
-        "url": "https://open.spotify.com/album/6ptnlw9K2gpKuocxaO8F2N"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -367,6 +367,34 @@
       "duration_ms": 234160,
       "name": "Beachball - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        }
+      ],
+      "duration_ms": 518221,
+      "name": "Insomnia - Monster Mix",
+      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -459,34 +487,6 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/2w9Yfj0FcyKcPCIkzsRSwD"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Rollo Armstrong",
-          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
-        },
-        {
-          "name": "Sister Bliss",
-          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
-        },
-        {
-          "name": "Goetz",
-          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
-        }
-      ],
-      "duration_ms": 518221,
-      "name": "Insomnia - Monster Mix",
-      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm"
+      },
+      "artists": [
+        {
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm"
-      },
-      "artists": [
-        {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
     },
     {
       "added_at": "2023-08-11 10:02:57",

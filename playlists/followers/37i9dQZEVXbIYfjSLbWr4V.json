@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 4453,
+  "2024-02-06": 4467,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 153600,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "\u0437\u0438\u043c\u0430",
       "url": "https://open.spotify.com/track/0cOftxEWGyu4XAqEsqmdWS"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 200952,
       "name": "\u0422\u0430\u0440\u043e",
       "url": "https://open.spotify.com/track/4M4zuhpRODqsfRJcdySb00"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 136888,
       "name": "\u0442\u043e\u043b\u0441\u0442\u043e\u0432\u043a\u0430",
       "url": "https://open.spotify.com/track/79CYW9mDBGmCW4icaV4ITL"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 260546,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u0431\u044b\u0442\u044c \u0441 \u0442\u043e\u0431\u043e\u0439",
       "url": "https://open.spotify.com/track/1oWbH9Opqup135f8S8VOh7"

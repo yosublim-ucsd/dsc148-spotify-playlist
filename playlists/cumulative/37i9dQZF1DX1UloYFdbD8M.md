@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-155 songs - 10 hr 53 min
+157 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kalliyankatt Neeli \- Namah](https://open.spotify.com/track/0dlqKuiPPbXQ5I3Q2juSah) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 6:00 | 2023-09-26 |  |
 | [Kana Katrile](https://open.spotify.com/track/6lGgT5zvJAbLxYJu9qOSdm) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR), [Niveditha K Namboothiri](https://open.spotify.com/artist/7I8yiJBqKCthM4I0VzDVKb) | [Kana Katrile](https://open.spotify.com/album/0IhXgOUdJGPBsSkojJWtjM) | 3:14 | 2023-12-22 |  |
 | [Kanavellam](https://open.spotify.com/track/3X7wafdT1bXxUVFzsnw1hw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanavellam](https://open.spotify.com/album/7HYSdLk9eNmEY6804fOQpU) | 4:30 | 2023-07-03 | 2023-07-28 |
+| [Kanavin Vaniyilayi](https://open.spotify.com/track/1w11f3c04z3X9T7saJCuFJ) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Kanavin Vaniyilayi](https://open.spotify.com/album/3v3Li8neGDEwY4mfrs91U0) | 3:58 | 2024-02-05 |  |
 | [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 | 2023-07-28 |
 | [Kanne \- Namah](https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Anandraj Benjamin Paul](https://open.spotify.com/artist/2mx8hHr8DpgOzv6gURprW5) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 4:55 | 2023-07-27 |  |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |
@@ -137,6 +138,7 @@
 | [Subrahmanyena Rakshitoham \(Onwards & Upwards\)](https://open.spotify.com/track/7JNYHEL3kmsjC0pet07dZl) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Subrahmanyena Rakshitoham \(Onwards & Upwards\) \- Single](https://open.spotify.com/album/2M1qEeEmU1W7YDctJqJiw8) | 7:05 | 2022-12-22 | 2023-12-16 |
 | [Sunday Morning](https://open.spotify.com/track/1TVyR9DMy3TWx5pR2aish4) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 2:32 | 2022-10-17 | 2023-07-28 |
 | [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 | 2023-09-22 |  |
+| [Swasamay](https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe) | [Goutham Vincent](https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Ridhu Krishna](https://open.spotify.com/artist/0VAXoBqMrGpLbF1PC3rNbD) | [Swasamay](https://open.spotify.com/album/2gsKpKlh3cT5zXGeA1yLG6) | 2:37 | 2024-02-05 |  |
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 |  |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 | 2023-07-27 | 2023-12-16 |

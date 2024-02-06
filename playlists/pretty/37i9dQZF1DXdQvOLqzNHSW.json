@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 972534,
+  "num_followers": 972885,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWVkNGRkMzVmMTZlZTA0ZGZjYjI0OGI4YWM4NTljZWMzMWMwZTAw",
+  "snapshot_id": "MCw2MGQ3ZDE4ZTU4Y2UzODY2YTVkN2JiODQxNWQyNDBjYTQ1MGIxYWE1",
   "tracks": [
     {
       "added_at": "2024-01-04 16:08:54",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
+        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "LOVE + POP",
         "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 97179,
       "name": "My Shadow Life",
       "url": "https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
-        "name": "Big Crown Vaults Vol. 3 - Holy Hive",
-        "url": "https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Okonski",
-          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "By The Lake",
-      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "On The Inside",
         "url": "https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 223733,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "By The Lake",
+      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Le Soir",
-        "url": "https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 73053,
-      "name": "Mom",
-      "url": "https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Dream Room",
         "url": "https://open.spotify.com/album/59ppoPlK5PjXnl8IMPnOZi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 188800,
       "name": "All the Good Times Never Die",
       "url": "https://open.spotify.com/track/39MAU8JIcR7ojQA4hnoPDS"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Le Soir",
+        "url": "https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 73053,
+      "name": "Mom",
+      "url": "https://open.spotify.com/track/7zeQPFtQPH6Y8Jqz5jXCQg"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "What's Even Real Anymore",
-        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
-      },
-      "artists": [
-        {
-          "name": "Old Man Canyon",
-          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
-        }
-      ],
-      "duration_ms": 249548,
-      "name": "What's Even Real Anymore",
-      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 237865,
       "name": "Get Well",
       "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "What's Even Real Anymore",
+        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 249548,
+      "name": "What's Even Real Anymore",
+      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Iris and I",
-        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Iris and I",
-      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "NYC Stuff and NYC Bags - EP",
         "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 115773,
       "name": "Outro 4 NYC",
       "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN"
+        "name": "This Is The Music",
+        "url": "https://open.spotify.com/album/4p3EQ2SClzjDvfUw819Eim"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "The Greys",
+          "url": "https://open.spotify.com/artist/6apNNO7QWui1YEMQOZ7TKy"
         }
       ],
-      "duration_ms": 213381,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em"
+      "duration_ms": 215212,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/4Xe6EVrp69ccMVEhhPHdJ3"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "This Is The Music",
-        "url": "https://open.spotify.com/album/4p3EQ2SClzjDvfUw819Eim"
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN"
       },
       "artists": [
         {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "The Greys",
-          "url": "https://open.spotify.com/artist/6apNNO7QWui1YEMQOZ7TKy"
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
         }
       ],
-      "duration_ms": 215212,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/4Xe6EVrp69ccMVEhhPHdJ3"
+      "duration_ms": 213381,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em"
     },
     {
       "added_at": "2024-01-04 16:08:54",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "No Pressure at All",
-        "url": "https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Benedikt",
-          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
-        },
-        {
-          "name": "Ursina",
-          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
-        }
-      ],
-      "duration_ms": 137343,
-      "name": "Like a Pie",
-      "url": "https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh"
-    },
-    {
-      "added_at": "2024-01-04 16:08:54",
-      "album": {
         "name": "East",
         "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
       },
@@ -1663,6 +1643,26 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
+        "name": "No Pressure at All",
+        "url": "https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Benedikt",
+          "url": "https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL"
+        },
+        {
+          "name": "Ursina",
+          "url": "https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY"
+        }
+      ],
+      "duration_ms": 137343,
+      "name": "Like a Pie",
+      "url": "https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh"
+    },
+    {
+      "added_at": "2024-01-04 16:08:54",
+      "album": {
         "name": "Lionel Boy",
         "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-01-04 16:08:54",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
+        "name": "KUNG FU",
+        "url": "https://open.spotify.com/album/06zM2jv03fSX4Hm1NHdPvK"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
         }
       ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
+      "duration_ms": 219880,
+      "name": "KUNG FU",
+      "url": "https://open.spotify.com/track/4IH71AAPmNPSQPqS6dVZbt"
     }
   ],
   "unique_name": "late night vibes",

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 13340,
+  "num_followers": 13342,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
+  "snapshot_id": "MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5",
   "tracks": [
     {
       "added_at": "2024-01-10 17:55:32",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 240573,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
       },
@@ -159,34 +175,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Faroles",
-        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 178479,
-      "name": "Faroles",
-      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Cosas De La Vida",
         "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
       },
@@ -199,22 +187,6 @@
       "duration_ms": 164143,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 240573,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -259,6 +231,34 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "Faroles",
+        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 178479,
+      "name": "Faroles",
+      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "ANNA Vol1. LOS AMANTES",
         "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
       },
@@ -291,18 +291,34 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Todas Seremos Reinas",
-        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
+        "name": "COPY+PASTE",
+        "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         }
       ],
-      "duration_ms": 168360,
-      "name": "Me Enamore De Mi",
-      "url": "https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1"
+      "duration_ms": 139746,
+      "name": "COPY+PASTE",
+      "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "MONA XINA",
+        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "MONA XINA",
+      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -339,54 +355,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "MONA XINA",
-        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "MONA XINA",
-      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "COPY+PASTE",
-        "url": "https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 139746,
-      "name": "COPY+PASTE",
-      "url": "https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -407,6 +375,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Nos lo hemos dicho todo",
         "url": "https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 253271,
       "name": "Nos lo hemos dicho todo",
       "url": "https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Todas Seremos Reinas",
+        "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Me Enamore De Mi",
+      "url": "https://open.spotify.com/track/5Ollqs3igkGH8yxiAyCjj1"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -451,26 +451,6 @@
       "duration_ms": 195000,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 176529,
-      "name": "Naughty Girl",
-      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -527,22 +507,6 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Agarra",
-        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Agarra",
-      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
       },
@@ -559,34 +523,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "Agarra",
+        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
         }
       ],
-      "duration_ms": 174709,
-      "name": "LENTO",
-      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 236077,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
+      "duration_ms": 181855,
+      "name": "Agarra",
+      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -607,6 +555,42 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 176529,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 174709,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
       },
@@ -619,38 +603,6 @@
       "duration_ms": 182384,
       "name": "Fine",
       "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Centenas De Miles De A\u00f1os",
-        "url": "https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "Centenas De Miles De A\u00f1os",
-      "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "De Canciones Tristes y Otras Sutilezas",
-        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 310024,
-      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
-      "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -671,6 +623,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 236077,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/79tK7MDahFqieifay7yXCb"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Brujer\u00edas de Cantina",
         "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "De Canciones Tristes y Otras Sutilezas",
+        "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 310024,
+      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
+      "url": "https://open.spotify.com/track/4ja24P4mH0J8YijrErAQAh"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "La Chica de Rojo",
         "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 222640,
       "name": "Yo Sin Tu Amor",
       "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Centenas De Miles De A\u00f1os",
+        "url": "https://open.spotify.com/album/2VEb1mzailGntQVRoWqaq9"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 192244,
+      "name": "Centenas De Miles De A\u00f1os",
+      "url": "https://open.spotify.com/track/6xa21lEbZdVtQa41HDkQcY"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -747,6 +747,22 @@
       "duration_ms": 203506,
       "name": "Al Fin Te Encontre",
       "url": "https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 255897,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -803,22 +819,6 @@
       "duration_ms": 208541,
       "name": "A Veces T\u00fa",
       "url": "https://open.spotify.com/track/7CSAIA6x0PFZcDVjO34pxS"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 255897,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
     },
     {
       "added_at": "2024-01-10 17:55:32",

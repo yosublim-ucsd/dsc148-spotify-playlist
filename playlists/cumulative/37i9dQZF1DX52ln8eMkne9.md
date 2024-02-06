@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-325 songs - 1 day 0 hr 20 min
+326 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Mélusine](https://open.spotify.com/track/5VrrO6QJF5OMD9mEyQ4VhQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 3:13 | 2023-05-30 |  |
 | [Never Let Me Go](https://open.spotify.com/track/4TIU2oX0NLrGUyqP0JDM6R) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Never Let Me Go](https://open.spotify.com/album/2Mji2KTTzRiYqViOCeu3Hn) | 4:26 | 2023-05-30 |  |
 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 | 2021-12-17 | 2023-09-14 |
+| [Next Time](https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Next Time](https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL) | 5:18 | 2024-02-02 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2021-12-17 | 2022-12-07 |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-02-18 |  |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-02-18 | 2022-07-29 |
@@ -321,7 +322,7 @@
 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |
 | [Where or When](https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 3:50 | 2022-09-27 |  |
 | [While My Lady Sleeps \(take 10\) \- Alternate Take](https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 4:22 | 2021-12-17 |  |
-| [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Quill](https://open.spotify.com/artist/2dScqoyglnFy1sPO8L0fCF) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 | 2021-12-17 |  |
+| [Will I Find](https://open.spotify.com/track/34Qfsdz0oLWpI0E9Z64Ps1) | [Carmen Quill](https://open.spotify.com/artist/2dScqoyglnFy1sPO8L0fCF) | [Don't Get Comfy / Nowhere](https://open.spotify.com/album/6OY9cmz2EmT35b9LwkdJ4S) | 4:10 | 2021-12-17 | 2024-02-06 |
 | [Willow Weep For Me](https://open.spotify.com/track/4gzBrWc5wahvkagtUfQnCE) | [Lizzie Thomas](https://open.spotify.com/artist/7qj1hYL7SUX4oMFV31OJNA), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [Willow Weep For Me](https://open.spotify.com/album/4aHsGp7HdVDoG0efsFgP7q) | 5:05 | 2023-05-30 | 2024-01-07 |
 | [With You](https://open.spotify.com/track/1dfNHO9qYZWCHJTg3MHRfD) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I), [Asgeir Asgeirsson](https://open.spotify.com/artist/6GBsjZ8qGJpZuuVlsurdku), [Sigmar Matthiasson](https://open.spotify.com/artist/7KTpau3S6cd2QmC4s3UtdO), [Matthias Hemstock](https://open.spotify.com/artist/4gkcifXmpsFYaKUGedJBuv) | [Ljóð](https://open.spotify.com/album/73DjaiUmsULgS6pnWX5Bh0) | 4:31 | 2023-05-09 |  |
 | [With You](https://open.spotify.com/track/2ZKc7hQb9ZmC1N44viyo1J) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I), [Sigmar Matthiasson](https://open.spotify.com/artist/7KTpau3S6cd2QmC4s3UtdO), [Asgeir Asgeirsson](https://open.spotify.com/artist/6GBsjZ8qGJpZuuVlsurdku), [Matthias Hemstock](https://open.spotify.com/artist/4gkcifXmpsFYaKUGedJBuv) | [With You](https://open.spotify.com/album/7JD5AJgOju0DTV3F1hrSjd) | 4:30 | 2022-02-18 | 2023-04-27 |

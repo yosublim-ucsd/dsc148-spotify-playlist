@@ -1,15 +1,31 @@
 {
-  "description": "Songs from some of the greatest films in the history of cinema.",
-  "num_followers": 711701,
+  "description": "The greatest songs in the history of cinema. Cover: Demi Moore + Patrick Swayze in \"Ghost\" ",
+  "num_followers": 870834,
   "original_name": "Hits From The Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmFjZjI3Y2IwYzk1Nzk0ZDZiN2Q3YzcyOGMyNzliYzY3MGJjOTc1",
+  "snapshot_id": "MCw0Yzc0NWQzY2ZiN2M3YzdiNjYyMDY0OTc4NDllNzNkNjJmYWExNThk",
   "tracks": [
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Curtain Call: The Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
@@ -157,7 +157,23 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
@@ -189,7 +205,23 @@
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
@@ -285,7 +317,23 @@
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
@@ -301,39 +349,7 @@
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
         "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
@@ -353,7 +369,23 @@
       "url": "https://open.spotify.com/track/0EvykocuR3aWthETr0OfFr"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
@@ -369,23 +401,39 @@
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
@@ -401,39 +449,39 @@
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+        "name": "Death to the Pixies",
+        "url": "https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         }
       ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+      "duration_ms": 229226,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
@@ -449,7 +497,23 @@
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Secret Dreams and Forbidden Fire",
         "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
@@ -465,7 +529,7 @@
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
@@ -481,7 +545,7 @@
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
@@ -497,7 +561,7 @@
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
@@ -513,7 +577,7 @@
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
@@ -529,23 +593,7 @@
       "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
@@ -561,7 +609,7 @@
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
@@ -577,7 +625,7 @@
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
@@ -613,7 +661,23 @@
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
@@ -629,7 +693,7 @@
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Hooked On A Feeling",
         "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Footloose (15th Anniversary Collectors' Edition)",
         "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
@@ -665,7 +729,7 @@
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
@@ -705,43 +769,7 @@
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
-      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
@@ -757,7 +785,7 @@
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Picture This (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
@@ -773,7 +801,7 @@
       "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
@@ -789,27 +817,7 @@
       "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Patrick Swayze",
-          "url": "https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD"
-        },
-        {
-          "name": "Wendy Fraser",
-          "url": "https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
+      "added_at": "2024-02-05 23:58:58",
       "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
@@ -835,26 +843,6 @@
       "duration_ms": 267960,
       "name": "Lady Marmalade - Single Edit",
       "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
-    },
-    {
-      "added_at": "2021-07-08 23:00:00",
-      "album": {
-        "name": "Trading Snakeoil for Wolftickets",
-        "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
-      },
-      "artists": [
-        {
-          "name": "Gary Jules",
-          "url": "https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa"
-        },
-        {
-          "name": "Michael Andrews",
-          "url": "https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
     }
   ],
   "unique_name": "Hits From The Movies",

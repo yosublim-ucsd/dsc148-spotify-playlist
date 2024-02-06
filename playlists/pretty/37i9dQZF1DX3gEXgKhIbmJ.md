@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,660 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 49 | [Só Quero Paz](https://open.spotify.com/track/6ha0SNOb0eUgdMdTiArK5D) | [Mingas The Teen](https://open.spotify.com/artist/6mcBDsPPbdnR64MTjkMRlm), [Ph](https://open.spotify.com/artist/6c0iWNjEIdiKn1lxdIAFwK), [SHYY BEATS](https://open.spotify.com/artist/0DPr6TVQvHfTEMnW5j1dtE) | [Só Quero Paz](https://open.spotify.com/album/62TCz9CO7BJILiQgJzqKo2) | 2:15 |
 | 50 | [Desempenho](https://open.spotify.com/track/4mSw6eVj2owYdH1PHbOKeO) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Desempenho](https://open.spotify.com/album/1qpdXJLvdRT0jouxlCa2ic) | 2:42 |
 
-Snapshot ID: `MCwwMTNlYzAyZWM3OTUzMWM4NTkyNDAyNTQxZjVhOGFjN2YxN2FhODA0`
+Snapshot ID: `MCxiODJiZDNiODIwZjg2ZjZmMjkyOGU1NGRkODBiYTU3ODdmM2UyNmM5`

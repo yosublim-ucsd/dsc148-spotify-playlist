@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 18108,
+  "2024-02-06": 18104,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Estonia.",
   "name": "Top 50 - Estonia",
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 147746,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
@@ -5793,7 +5793,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -8831,7 +8831,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 194526,
       "name": "Exw Trelathi",
       "url": "https://open.spotify.com/track/69gv1djsBgvXIWnZ3IVtM0"
@@ -9469,7 +9469,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -14751,7 +14751,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 162295,
       "name": "kastehein",
       "url": "https://open.spotify.com/track/41XLcwECxYj7tokaF2a7sA"
@@ -15311,7 +15311,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -16151,7 +16151,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 182048,
       "name": "Let It Go (feat. Shapes)",
       "url": "https://open.spotify.com/track/280gb8mXCUDCvFQzmthd6g"
@@ -23512,6 +23512,24 @@
     },
     {
       "album": {
+        "name": "Praise Jah In The Moonlight",
+        "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263040,
+      "name": "Praise Jah In The Moonlight",
+      "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
         "name": "Playing the Angel",
         "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
@@ -29731,7 +29749,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -33829,7 +33847,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 157862,
       "name": "\u00fcksinda",
       "url": "https://open.spotify.com/track/3twcQodZ6qtF8sGydUJKL6"

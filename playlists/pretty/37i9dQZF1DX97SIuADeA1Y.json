@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 332298,
+  "num_followers": 332364,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzE4NmJlMWIzZmMwYmM3YWQxZDQwZDI1ODNlOGI2YmM0ODIzZmY3",
+  "snapshot_id": "MCxhNGE2MzQ0MDhjYjNkYzBkYTkwNGFiMmNjNTk3Y2YxMzhkZmY2MjNj",
   "tracks": [
     {
       "added_at": "2023-12-01 11:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-12-01 11:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2023-12-01 11:00:00",
-      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 164704,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
+    },
+    {
+      "added_at": "2023-12-01 11:00:00",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
     },
     {
       "added_at": "2023-12-01 11:00:00",

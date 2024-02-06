@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 254000,
       "name": "Aenaa",
       "url": "https://open.spotify.com/track/0prIS5YgoC27IVoXmd4hLm"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 460869,
       "name": "Bottom Dweller - Chris Liebing Remix",
       "url": "https://open.spotify.com/track/03l26HDtPdbAv29bHtvo2u"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 395151,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/4PkWgt6DOdCDQPHnVyKefW"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 258573,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
@@ -4330,6 +4330,32 @@
       "duration_ms": 422016,
       "name": "Gamma (Joyhauser Remix)",
       "url": "https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0"
+    },
+    {
+      "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208804,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
     },
     {
       "album": {
@@ -5745,6 +5771,28 @@
     },
     {
       "album": {
+        "name": "Kinetic Katalyst",
+        "url": "https://open.spotify.com/album/7eNdIp76hwVYT8JJ7236Ko"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        },
+        {
+          "name": "VEENMOL",
+          "url": "https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363529,
+      "name": "Kinetic Katalyst",
+      "url": "https://open.spotify.com/track/2yLY336qTeOIGPWV5xgt0b"
+    },
+    {
+      "album": {
         "name": "Knaldrang",
         "url": "https://open.spotify.com/album/2O7Ws5qEgZFBKPYP5Pa6td"
       },
@@ -5796,6 +5844,24 @@
       "duration_ms": 412500,
       "name": "Kompass",
       "url": "https://open.spotify.com/track/3LZTg851SpD9lNLu1CLgKu"
+    },
+    {
+      "album": {
+        "name": "Oscuridad Lunar EP",
+        "url": "https://open.spotify.com/album/2QqgEk0W1LeTUaxX5tMqGe"
+      },
+      "artists": [
+        {
+          "name": "Diego Infanzon",
+          "url": "https://open.spotify.com/artist/0FftQDGCw3QAW32UH6z4TA"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336350,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5eKKGdnKtWcLA2oq4MChrH"
     },
     {
       "album": {
@@ -6230,7 +6296,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 399022,
       "name": "LXR02",
       "url": "https://open.spotify.com/track/3T8drVfyLMXG9eyOCqJgjb"
@@ -6702,6 +6768,28 @@
       "duration_ms": 350322,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/7wqQ92BF3CMJywHRKmCLl1"
+    },
+    {
+      "album": {
+        "name": "Mirazh",
+        "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Mirazh",
+      "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
     },
     {
       "album": {
@@ -7348,6 +7436,28 @@
       "duration_ms": 376615,
       "name": "Nova",
       "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0bH98ZSn4uWsvDdaRDomml"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Oliver Jass",
+          "url": "https://open.spotify.com/artist/2ODPpeNxF16AvaVFhbo0sy"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316444,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7p7ynUWRKWApwEAbE9HAJg"
     },
     {
       "album": {
@@ -8104,7 +8214,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 116580,
       "name": "Quiero TCNO",
       "url": "https://open.spotify.com/track/14tORDfZn9H1FqXlE3KAMx"
@@ -8144,7 +8254,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 387373,
       "name": "Quieto - Flashpoint Mix",
       "url": "https://open.spotify.com/track/0shf2cylCpUpw7dv584Kis"
@@ -8857,6 +8967,24 @@
     },
     {
       "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Arfeli",
+          "url": "https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249326,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt"
+    },
+    {
+      "album": {
         "name": "Sandbox Wars",
         "url": "https://open.spotify.com/album/7f468hoVKxOGPtXrbcaVzl"
       },
@@ -9213,6 +9341,28 @@
     },
     {
       "album": {
+        "name": "Silo",
+        "url": "https://open.spotify.com/album/6GEfhtPzudN4ADLaiSruVn"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394681,
+      "name": "Silo",
+      "url": "https://open.spotify.com/track/4UoIfUBfZtepuH3APCEg5P"
+    },
+    {
+      "album": {
         "name": "Simplicity",
         "url": "https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB"
       },
@@ -9424,6 +9574,24 @@
       "duration_ms": 436931,
       "name": "Spule",
       "url": "https://open.spotify.com/track/21t50P2lLUDKXFnlekKBEX"
+    },
+    {
+      "album": {
+        "name": "Stabbing",
+        "url": "https://open.spotify.com/album/3KP5JK9Riqrclze7nHMm3p"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289130,
+      "name": "Stabbing",
+      "url": "https://open.spotify.com/track/11HNHTJMORdbZM5JimuXoz"
     },
     {
       "album": {
@@ -10688,7 +10856,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 251586,
       "name": "Time",
       "url": "https://open.spotify.com/track/1BEWNSB8KuQFYsFRUQ3LTF"
@@ -11732,7 +11900,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"

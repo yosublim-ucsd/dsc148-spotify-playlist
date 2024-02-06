@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Rachel Grae
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,710 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,733 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 39 | [Stay Or Surrender](https://open.spotify.com/track/0amJK8Hyb5e3Or5aGJpfI1) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Stay Or Surrender](https://open.spotify.com/album/0ABFSXpuEMN6ggYfgHURYN) | 2:34 |
 | 40 | [Tell You More](https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Tell You More](https://open.spotify.com/album/3UY4wNYSfoWTbVEjGpGcud) | 3:17 |
 | 41 | [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 |
-| 42 | [You Are](https://open.spotify.com/track/5wliKBkmhX7j7mG5zTHjyh) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock](https://open.spotify.com/album/0umWCbaDIHnRU7Q989s0nd) | 3:39 |
+| 42 | [You Are](https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:39 |
 | 43 | [Stop Looking at Me Like That](https://open.spotify.com/track/5bwKZfXDiLIx5v3guwEIrU) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Stop Looking at Me Like That](https://open.spotify.com/album/22ok0HtUav7MN1otSm48Jw) | 2:15 |
 | 44 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 45 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 59 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 |
 | 60 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 |
 
-Snapshot ID: `MCxiZjE2ZmNiN2Q3ZjZkZjAxZDUxN2EyMTcwMzdhYTljZGY5YTg1NTE2`
+Snapshot ID: `MCxmY2FlZDI1OTVlNjU4M2Y0YmI4MGVhZmFlZGU0Y2U4ODljNDdiZGEz`

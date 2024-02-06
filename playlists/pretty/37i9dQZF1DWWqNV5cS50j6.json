@@ -1,12 +1,12 @@
 {
   "description": "The anti pop archive: tracks added by our editors over the last year. Cover: Gorillaz",
-  "num_followers": 700334,
+  "num_followers": 700463,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTNiMzZjM2FmZjVlOWJlMDg4YjgzZTBmZTk0N2IyZWEwZDA4NzUw",
+  "snapshot_id": "MCxmZTJkZmE2N2U5NDE4Mzc5YWQzNDcyMzIwZDdlYTk0NmFjZWI2NzQw",
   "tracks": [
     {
       "added_at": "2024-01-09 14:46:15",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 214557,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 132786,
-      "name": "Sweet (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "the Rake (can\u2019t complain)",
         "url": "https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF"
       },
@@ -615,22 +595,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 130207,
-      "name": "kickstand",
-      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -647,6 +611,26 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Sweet (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
@@ -659,22 +643,6 @@
       "duration_ms": 177952,
       "name": "SINS",
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -699,6 +667,22 @@
       "duration_ms": 147025,
       "name": "One Of Those Days (feat. Lil Yachty & with 347aidan)",
       "url": "https://open.spotify.com/track/2GVThPVZQQ1K21uEefG4r6"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "DOA",
+        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 130207,
+      "name": "kickstand",
+      "url": "https://open.spotify.com/track/0lDT25U4Jxr2joTulE7ao8"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -771,6 +755,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "DOA",
         "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 148468,
       "name": "sweet tooth",
       "url": "https://open.spotify.com/track/3EGa3eOp7SFocMhRuiltEz"
-    },
-    {
-      "added_at": "2024-02-02 06:00:00",
-      "album": {
-        "name": "How Do You Sleep At Night?",
-        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "UUHH",
-      "url": "https://open.spotify.com/track/7sRWSZHTZNdd8cZ0EOSVyK"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 168805,
       "name": "I Might be Fake",
       "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
+    },
+    {
+      "added_at": "2024-02-02 06:00:00",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "UUHH",
+      "url": "https://open.spotify.com/track/7sRWSZHTZNdd8cZ0EOSVyK"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        }
-      ],
-      "duration_ms": 174648,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
-    },
-    {
       "added_at": "2024-02-02 06:00:00",
       "album": {
         "name": "Apartment A",
@@ -1271,6 +1255,22 @@
       "duration_ms": 192133,
       "name": "Apartment A",
       "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "duration_ms": 174648,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Erotic Probiotic 2",
-        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 214200,
       "name": "I Want To Be Your Only Pet",
       "url": "https://open.spotify.com/track/0bRtjZg3D4IrSJPLj3Jyhu"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Erotic Probiotic 2",
+        "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "MOVIES! WORLDWIDE: PART I",
         "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 124917,
       "name": "Gloria !",
       "url": "https://open.spotify.com/track/6sEKSKRnCCsl20GRPNlAQj"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Hearth Room",
+        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Driver",
-        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 165989,
-      "name": "Driver",
-      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Stay Blessed",
         "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 177731,
       "name": "Stay Blessed",
       "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/3PqeO4aB2VIw27kSffCZL4"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 165989,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
     },
     {
       "added_at": "2024-01-09 14:46:15",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
-        "name": "Fishnets",
-        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
-      },
-      "artists": [
-        {
-          "name": "Croosh",
-          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Fishnets",
-      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
         "name": "Sunny Boy",
         "url": "https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 146298,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
+        "name": "Fishnets",
+        "url": "https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Fishnets",
+      "url": "https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2"
     },
     {
       "added_at": "2024-02-02 06:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-01-09 14:46:15",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Crush - Unfinished",
+      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
+    },
+    {
+      "added_at": "2024-01-09 14:46:15",
+      "album": {
         "name": "WORLD STOP TURNING (feat. Warren Hue)",
         "url": "https://open.spotify.com/album/73uv8IgpT6e22cr6ZRzH2x"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 248403,
       "name": "WORLD STOP TURNING (feat. Warren Hue)",
       "url": "https://open.spotify.com/track/4nrTZBPIBCmU4RDsXfNwp0"
-    },
-    {
-      "added_at": "2024-01-09 14:46:15",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Crush - Unfinished",
-      "url": "https://open.spotify.com/track/516daakwmX9S2aRifLUCp8"
     }
   ],
   "unique_name": "anti pop",

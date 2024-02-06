@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,573 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,611 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 2 | [Rivers of Babylon](https://open.spotify.com/track/75gMrQKXJctiyN6IOkj6WE) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Super Best](https://open.spotify.com/album/32hj03FdtuCNIf2AHMFILY) | 4:17 |
 | 3 | [The Tide Is High](https://open.spotify.com/track/1GUcIBgJB2AX0Ex6J6SKXM) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:45 |
 | 4 | [Rock Steady](https://open.spotify.com/track/6azx6iv2R1DhwovSp4xd5v) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi), [The Flames](https://open.spotify.com/artist/6y9NFR6yJCWkTkc0F701r2) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:40 |
-| 5 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
-| 6 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
+| 5 | [Stop That Train](https://open.spotify.com/track/04ZaKWF8eYEsVhO8mNxvhB) | [Keith](https://open.spotify.com/artist/7hm0Ngouir56yhbzXu9yRH), [Tex](https://open.spotify.com/artist/1OFhmPA8VQArSdLb7CVClv) | [Stop That Train!](https://open.spotify.com/album/6B5wJp7kFC8s0VMilKj7ou) | 3:20 |
+| 6 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 |
 | 7 | [Don't Stay Away](https://open.spotify.com/track/1ZVPLwKRtfenddrUxoc7eN) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh), [Tommy McCook](https://open.spotify.com/artist/27CnIh4lLIOW2DqEwO1QIf), [The Supersonics](https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt) | [One Life to Live \(Expanded Version\)](https://open.spotify.com/album/60BHEQHVN6213VZndkiI4Q) | 2:33 |
 | 8 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/7D6amNSNFFM2K5opPnpQ8F) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/2aMpqeisASnf5MSZ5pCmdO) | 3:07 |
 | 9 | [Weather Report](https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Cultural Things](https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO) | 2:25 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 33 | [Hold Them](https://open.spotify.com/track/5iyyttRc4xFRhKzAu02mtw) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:47 |
 | 34 | [To Sir with Love](https://open.spotify.com/track/0g2ommIQUwilxSkTNrEmMZ) | [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Rock Steady Greatest Hits](https://open.spotify.com/album/1wFh18B1EcUfc6CHFZ1cta) | 2:40 |
 | 35 | [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 |
-| 36 | [Love Is a Treasure](https://open.spotify.com/track/7JLut7wHBQtkfOXNCX6wnd) | [Lizzy](https://open.spotify.com/artist/2ALKeoNm5gPzmKLsILFwvx) | [Barry Myers Presents Scratchy Sounds \(Ska, Dub, Roots & Reggae Nuggets\)](https://open.spotify.com/album/1LREwTyPObrP14E7KEKvKk) | 2:38 |
-| 37 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
-| 38 | [Only a Smile](https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:59 |
+| 36 | [Only a Smile](https://open.spotify.com/track/67WdcR9xldpJuH7BVLNlt5) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Original Paragons At Treasure Isle](https://open.spotify.com/album/2LekDlww2q2hr2HuKJeww1) | 2:59 |
+| 37 | [Love Is a Treasure](https://open.spotify.com/track/7JLut7wHBQtkfOXNCX6wnd) | [Lizzy](https://open.spotify.com/artist/2ALKeoNm5gPzmKLsILFwvx) | [Barry Myers Presents Scratchy Sounds \(Ska, Dub, Roots & Reggae Nuggets\)](https://open.spotify.com/album/1LREwTyPObrP14E7KEKvKk) | 2:38 |
+| 38 | [Everybody Needs Love](https://open.spotify.com/track/5H0CQe9x3iuI4cTPwMfASQ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/52WLwJ8y3rQypxuB8z0J5t) | 2:15 |
 | 39 | [Baba Boom Time](https://open.spotify.com/track/7aPjIs1vrygEAGgODAo6Ca) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Celebrating Jamaica 50: The History of Reggae](https://open.spotify.com/album/5EeBMrKxZEkVcr00cNgZM2) | 3:00 |
 | 40 | [A.B.C\. Rocksteady](https://open.spotify.com/track/5woVKCevHAbyVp2vPPISH9) | [Gladstone Anderson](https://open.spotify.com/artist/3Z3kWa8uItZfj3a6prijGz), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Glad Sounds](https://open.spotify.com/album/5HX8xcXRhKcrQCWzv3eoLT) | 2:12 |
 | 41 | [Raindrops](https://open.spotify.com/track/39RGl1mXtFTjwcyHnbDRUr) | [The Silvertones](https://open.spotify.com/artist/2i7lcqmkXenSMNTeXdAsPZ) | [Essential Ska Masters](https://open.spotify.com/album/4rThjBhFQlgVBhYyky2gTz) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Never Found a Girl](https://open.spotify.com/track/7JeKEYyHe1D7IseeOrPSeH) | [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [Trojan Lovers Collection](https://open.spotify.com/album/0dqxC81crojSFb0MHjagaQ) | 3:53 |
 | 50 | [Lost Without You](https://open.spotify.com/track/6vGhyZvt0jbLb06wrFnB3K) | [Lloyd Charmers](https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD) | [Jamaican Rock Steady Party](https://open.spotify.com/album/3b5MkzDcKc935xC3JR1aVI) | 2:02 |
 
-Snapshot ID: `MCwzNThiNjI3ODU1YmZkM2NkMWY0NmFiZjM3YWFjMGFmZDJhZDNiYTQ1`
+Snapshot ID: `MCw4YjE0NjQwYjY3YTVlNzAyNGNkMWVhNzBiNGEzNjNhOTJmNDE1Zjll`

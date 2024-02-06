@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15343,
+  "num_followers": 15351,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQ2YjZhNGY1OGIzMzg3M2Y2ODMxZGE1ZjEyYjU5MzdhNzE4NTBk",
+  "snapshot_id": "MCwzYWQzOWI2ZWM3MzU0NTgyMjZmOTM0ZmFkZDQ0MGE1NTQ0MjNlNjBm",
   "tracks": [
     {
       "added_at": "2024-01-25 20:39:18",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Wildest Dreams (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220433,
-      "name": "Wildest Dreams (Taylor's Version)",
-      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Wildest Dreams (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220433,
+      "name": "Wildest Dreams (Taylor's Version)",
+      "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -503,22 +487,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Agua Salada",
         "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Lejos De Todo",
-        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 178678,
-      "name": "Lejos De Todo",
-      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Lejos De Todo",
+        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 178678,
+      "name": "Lejos De Todo",
+      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
     },
     {
       "added_at": "2024-01-25 20:39:18",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Volverte a Ver",
-        "url": "https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Volverte a Ver",
-      "url": "https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183696,
       "name": "Beso de Luna",
       "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Volverte a Ver",
+        "url": "https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Volverte a Ver",
+      "url": "https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p"
     },
     {
       "added_at": "2024-01-25 20:39:18",

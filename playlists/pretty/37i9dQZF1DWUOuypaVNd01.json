@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nebrugg",
-  "num_followers": 36272,
+  "num_followers": 36290,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDVkMWEyNjk1MWU3NDE3MzFiY2IyNzQzZjZlZjVhOTY2Yzk5MWMy",
+  "snapshot_id": "MCw3NjM5YzE2MTJjZWFmYWVjYjcxY2IwOWM5YTYyMTAwYjlhNWQxMjA2",
   "tracks": [
     {
       "added_at": "2024-01-19 03:01:00",
@@ -187,6 +187,30 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 139328,
+      "name": "Como \u00c9 Que T\u00e1?",
+      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -215,82 +239,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "BRAZIL",
-        "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Ery",
-          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
-        }
-      ],
-      "duration_ms": 124564,
-      "name": "BRAZIL",
-      "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 139328,
-      "name": "Como \u00c9 Que T\u00e1?",
-      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Os Pitbull do Ano, Pt. 2",
-        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
-        }
-      ],
-      "duration_ms": 207976,
-      "name": "Os Pitbull do Ano, Pt. 2",
-      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Sirenes",
         "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
@@ -311,6 +259,30 @@
       "duration_ms": 230000,
       "name": "Sirenes",
       "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "BRAZIL",
+        "url": "https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
+        }
+      ],
+      "duration_ms": 124564,
+      "name": "BRAZIL",
+      "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -355,6 +327,34 @@
       "duration_ms": 179574,
       "name": "Dez e Faixa",
       "url": "https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Os Pitbull do Ano, Pt. 2",
+        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+        }
+      ],
+      "duration_ms": 207976,
+      "name": "Os Pitbull do Ano, Pt. 2",
+      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -459,6 +459,74 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "MIXTAPE EU MERMO",
+        "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 215652,
+      "name": "Los Pollos",
+      "url": "https://open.spotify.com/track/6pWqwooQXcgBVuifMpv128"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Infravermelho",
         "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
       },
@@ -495,74 +563,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "MIXTAPE EU MERMO",
-        "url": "https://open.spotify.com/album/7vRgYe1RGL5md2vIZQadmW"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 215652,
-      "name": "Los Pollos",
-      "url": "https://open.spotify.com/track/6pWqwooQXcgBVuifMpv128"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Armamento do Ir\u00e3",
         "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
       },
@@ -587,38 +587,6 @@
       "duration_ms": 259754,
       "name": "Armamento do Ir\u00e3",
       "url": "https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Chove Chuva",
-        "url": "https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 170802,
-      "name": "Chove Chuva",
-      "url": "https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -655,6 +623,38 @@
       "duration_ms": 192223,
       "name": "Diz Quem Ta na Pista",
       "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Chove Chuva",
+        "url": "https://open.spotify.com/album/39kN9xSE9LbuQAiXQAe52G"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 170802,
+      "name": "Chove Chuva",
+      "url": "https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -719,6 +719,58 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
+        "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
+      },
+      "artists": [
+        {
+          "name": "Grone",
+          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "A Matilha",
+          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 322298,
+      "name": "Rival",
+      "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -735,22 +787,6 @@
       "duration_ms": 157241,
       "name": "Encomenda",
       "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -775,6 +811,42 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Fresh Sesh #02 - Sinais de Sucessagem",
+        "url": "https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        },
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "LH Emici",
+          "url": "https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK"
+        },
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        }
+      ],
+      "duration_ms": 212745,
+      "name": "Fresh Sesh #02 - Sinais de Sucessagem",
+      "url": "https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -819,78 +891,6 @@
       "duration_ms": 125793,
       "name": "9mm",
       "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
-        "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
-      },
-      "artists": [
-        {
-          "name": "Grone",
-          "url": "https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "A Matilha",
-          "url": "https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 322298,
-      "name": "Rival",
-      "url": "https://open.spotify.com/track/56V2S0c5x60HACG3HBuWEi"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Fresh Sesh #02 - Sinais de Sucessagem",
-        "url": "https://open.spotify.com/album/1uoUpCO6SWml6hqHwfDTy9"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pior Vers\u00e3o de Mim",
-          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
-        },
-        {
-          "name": "Fresh Mind Co.",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "LH Emici",
-          "url": "https://open.spotify.com/artist/2W1myCBiCFdRWmQuzQWCdK"
-        },
-        {
-          "name": "Nochica",
-          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
-        }
-      ],
-      "duration_ms": 212745,
-      "name": "Fresh Sesh #02 - Sinais de Sucessagem",
-      "url": "https://open.spotify.com/track/03lg4qwy8ugN6TtZgcQwxh"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "FILHO PR\u00d3DIGO 2",
-        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
-      },
-      "artists": [
-        {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        }
-      ],
-      "duration_ms": 133168,
-      "name": "RJ CLIMA HOSTIL",
-      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Chav\u00e3o",
         "url": "https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 88154,
       "name": "Mais Preciso",
       "url": "https://open.spotify.com/track/4rz6sfePVV4bYWInrvaJnc"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "FILHO PR\u00d3DIGO 2",
+        "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
+      },
+      "artists": [
+        {
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        }
+      ],
+      "duration_ms": 133168,
+      "name": "RJ CLIMA HOSTIL",
+      "url": "https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx"
     }
   ],
   "unique_name": "Malandro Posturado",

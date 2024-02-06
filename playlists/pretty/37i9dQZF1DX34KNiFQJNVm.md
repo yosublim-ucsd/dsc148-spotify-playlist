@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho com Ana Castela, LUDMILLA com Mari Fernandez, Teto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,863 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,902 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 23 | [4 Namorados \- Ao Vivo](https://open.spotify.com/track/7Ik73jUyCCSEhKBu1pMD5F) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [4 Namorados \(Ao Vivo\)](https://open.spotify.com/album/6jCgJxBFltgD8xqlovvlmR) | 2:09 |
 | 24 | [Mexer Com Álcool \- Ao Vivo](https://open.spotify.com/track/4MP0XhogMtpYJnuj3A3owM) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Finalmente Ao Vivo](https://open.spotify.com/album/7j71oEebZZYYxpTCn0ebuV) | 2:40 |
 | 25 | [O Destino](https://open.spotify.com/track/0iEaFZq4pD3p5HyJZelAGq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [A culpa é do meu SIGNO](https://open.spotify.com/album/7JjEHekB15sJmSy23SO0Cd) | 2:50 |
-| 26 | [Tá no seu DNA \- Ao Vivo](https://open.spotify.com/track/0WpqRUBTj5qORZGrURMO9X) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá no seu DNA \(Ao Vivo\)](https://open.spotify.com/album/39wu1Gl4VI16gGPz1z9O7I) | 2:54 |
+| 26 | [Tá no seu DNA \- Ao Vivo](https://open.spotify.com/track/0WpqRUBTj5qORZGrURMO9X) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá no seu DNA \(Ao Vivo\)](https://open.spotify.com/album/39wu1Gl4VI16gGPz1z9O7I) | 2:54 |
 | 27 | [Coração Âncora](https://open.spotify.com/track/2PIRztrsPMBPRyxMqKaEj9) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Coração Âncora](https://open.spotify.com/album/75qI9jXApNfjOtkhxUr71P) | 2:31 |
 | 28 | [Calor Dobrado](https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Calor Dobrado](https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ) | 2:36 |
 | 29 | [Cruz de Ouro](https://open.spotify.com/track/22Y7uQ0pZ15zCasVWQUqev) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [LV](https://open.spotify.com/artist/3f6CmIIWksZbvLr5Of18BY) | [Cruz de Ouro](https://open.spotify.com/album/0PwQ89mXzz5uDdFkigKM19) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Quando For Amor](https://open.spotify.com/track/6PsCWmX6LF9LoXJkUpqyAM) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quando For Amor](https://open.spotify.com/album/0Q9JIvxHTagHY3HTHKpYf5) | 3:47 |
 | 75 | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/track/6lVxenf5o3TB78HuqoEQqa) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw), [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg), [Moacyr Luz](https://open.spotify.com/artist/5VdzirhEjTkESMJw5sfbJN) | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/album/29IZBbR8KDO3JVOzE1Q03V) | 4:51 |
 
-Snapshot ID: `MCxmMWYyZTY3Yjk5N2Y0NTE5ZjU1MWNhZWI4ZDM4YzhmZjIyMTJiODYy`
+Snapshot ID: `MCwyOGIzYmQ5Zjk0YzY0M2QxMTg1MWU2MTAyOGU0Yjg3ODQzZGFkZjBj`

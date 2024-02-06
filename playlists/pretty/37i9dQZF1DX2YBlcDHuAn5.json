@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6851,
+  "num_followers": 6859,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQ3Mzk4YWY0NTRmZjZiYzZmZGZjZWIxMGJlM2Y2NTY3NzI4YjRl",
+  "snapshot_id": "MCw5NzY3ZDNmMjZkY2FkMzRlMTk1YjllMWU0YWRmZDdkMjkzNDI3MzE3",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 220885,
       "name": "Quittin' Time",
       "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Fruits Of My Labor",
         "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 185542,
       "name": "Love Is A Place",
       "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 206773,
       "name": "Know Your Demons",
       "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -599,38 +615,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -807,34 +807,18 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Mattanja Joy Bradley",
-          "url": "https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 249616,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-02-01 23:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 213168,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim"
+      },
+      "artists": [
+        {
+          "name": "Mattanja Joy Bradley",
+          "url": "https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush"
+        }
+      ],
+      "duration_ms": 249616,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS"
     }
   ],
   "unique_name": "Route Americana",

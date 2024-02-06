@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-671 songs - 1 day 14 hr 47 min
+672 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Legendary Days](https://open.spotify.com/track/1CJ55e1kyGUzTSiv8utzQw) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Legendary Days](https://open.spotify.com/album/1cKE4N7SuHLkHMFyVhB5Wn) | 3:13 | 2023-11-17 | 2024-01-19 |
 | [Legends \- Radio edit](https://open.spotify.com/track/7yq3wcy7JT8zrUSNLw5Iu0) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY) | [Legends](https://open.spotify.com/album/5ER2L54ZS4tl64UJhB4DLf) | 2:29 | 2021-12-16 | 2023-08-17 |
 | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2) | 3:35 | 2023-08-31 | 2024-01-18 |
+| [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/4sCkVuX3Nj0guPB7LCksHt) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/10wLUtDoGhJE1Jv0ARmRv9) | 3:35 | 2024-01-31 |  |
 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 | 2021-12-16 | 2023-01-27 |
 | [Life Eternal](https://open.spotify.com/track/211NL8R1Ly2KrUVgOH9UIW) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Life Eternal](https://open.spotify.com/album/0DafX8yOGKXXbaKNlO5FS4) | 3:50 | 2021-12-16 | 2022-09-09 |
 | [Life In Reverse](https://open.spotify.com/track/0yPFuWtbg4rQfz7aJJe4jF) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Life In Reverse](https://open.spotify.com/album/1ROG6YCkxH61Che3zwQWTF) | 2:51 | 2021-12-16 | 2022-07-28 |
@@ -505,7 +506,7 @@
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 |  |
 | [Sandstorm](https://open.spotify.com/track/2yyaTlex3YaCat520CSzti) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Sandstorm](https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a) | 3:08 | 2023-12-14 |  |
 | [Schlafen](https://open.spotify.com/track/09Bih0una9FiwnHEaHitAB) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Schlafen](https://open.spotify.com/album/2mahYCPok06pb1rqGRJC5C) | 3:04 | 2023-06-01 | 2023-08-02 |
-| [See You](https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [See You](https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp) | 4:14 | 2022-05-23 |  |
+| [See You](https://open.spotify.com/track/57mgyauwTOeC725Xa0zJdw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [See You](https://open.spotify.com/album/5Y6ldf67fe8DGh71d1HTLp) | 4:14 | 2022-05-23 | 2024-02-06 |
 | [Sensory](https://open.spotify.com/track/74gECA67oUmYxdqTPNf93n) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Sensory](https://open.spotify.com/album/0VNM27SXVAJ2Dd3J39XvuB) | 3:34 | 2022-05-23 | 2023-11-03 |
 | [Set Myself Free](https://open.spotify.com/track/6NKDJqMa6yxXOOdLC9hGRz) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [Set Myself Free](https://open.spotify.com/album/2u3LgDNajPpcbj5zfbBYOy) | 3:47 | 2022-06-12 | 2023-11-08 |
 | [Shabaka](https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/46GQVv2jjSSb53Vn8nhy41) | 3:33 | 2023-02-23 |  |

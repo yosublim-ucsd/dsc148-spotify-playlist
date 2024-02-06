@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,022 songs - 4 day 8 hr 42 min
+2,023 songs - 4 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 | 2023-05-30 | 2023-06-21 |
 | [Bença](https://open.spotify.com/track/3IyHot1hbizbIjvCkRrLHT) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:27 | 2023-04-29 | 2023-05-26 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-18 | 2023-04-26 |
-| [Besteira Feita \- Ao Vivo](https://open.spotify.com/track/3Av0UfVtu9eT3GVyfVyphA) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Besteira Feita: Buteco das Igual \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5iLJSooiKsA9hAu2IAa91I) | 2:40 | 2024-01-02 |  |
+| [Besteira Feita \- Ao Vivo](https://open.spotify.com/track/3Av0UfVtu9eT3GVyfVyphA) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Besteira Feita: Buteco das Igual \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5iLJSooiKsA9hAu2IAa91I) | 2:40 | 2024-01-02 | 2024-02-06 |
 | [Better Than Revenge](https://open.spotify.com/track/1By2VQkUN0Frd8mKNV5NYC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 3:37 | 2023-07-08 | 2023-07-12 |
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-09-06 | 2023-09-08 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-15 | 2022-08-14 |
@@ -861,6 +861,7 @@
 | [idyll](https://open.spotify.com/track/0GirVGtZ50YAHXdtcrVIgy) | [Jonjthan](https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx) | [idyll](https://open.spotify.com/album/4BrYq3nCEijPj9k8IvTDOB) | 1:13 | 2023-11-21 | 2023-11-27 |
 | [idyll](https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI) | [Jonjthan](https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx) | [idyll](https://open.spotify.com/album/5SrwygCxFLQtFY1NNWJuPA) | 1:13 | 2023-11-15 | 2023-11-18 |
 | [idyll](https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [idyll](https://open.spotify.com/album/0tD93sRLtDnm47FQvHqmhQ) | 1:13 | 2023-11-20 | 2023-11-22 |
+| [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-02-05 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-07 | 2023-03-23 |
 | [If You Believe](https://open.spotify.com/track/1Z25zW2xBqMHVfgYAdKeqX) | [Strive to Be](https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj), [Patch Crowe](https://open.spotify.com/artist/1MIq5NXNxANzwF7LJj6UQR) | [A Great Work](https://open.spotify.com/album/0o9a31MuEFplebgbvfQCWt) | 2:33 | 2023-01-16 | 2023-02-22 |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-30 |  |

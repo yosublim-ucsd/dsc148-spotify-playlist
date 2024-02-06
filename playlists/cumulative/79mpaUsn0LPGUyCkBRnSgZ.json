@@ -9477,6 +9477,24 @@
     },
     {
       "album": {
+        "name": "Velvet Portraits",
+        "url": "https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93546,
+      "name": "Velvet Portraits",
+      "url": "https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb"
+    },
+    {
+      "album": {
         "name": "Live Through This",
         "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
       },

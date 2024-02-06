@@ -2,7 +2,7 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: サバシスター \(Saba Sister\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: SHANK
 
 711 songs - 1 day 14 hr 5 min
 

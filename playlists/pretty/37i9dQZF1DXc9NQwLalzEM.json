@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192796,
+  "num_followers": 192808,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjlmMWYxNWVmMjhlMmRkOTYzNTY4YzI5MTIzOWVhNjBhMjEzZTRj",
+  "snapshot_id": "MCxhMzQxM2FhNjJjOTcyYTNlMTJlYmU5NzQ3MDljMjkxMTYyOGMzMzg1",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Tell Her b/w The Dance Got Old",
+        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
+      },
+      "artists": [
+        {
+          "name": "Fred Williams",
+          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
+        },
+        {
+          "name": "The Jewel Band",
+          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "99 Lbs",
         "url": "https://open.spotify.com/album/6tewGtDU5aaFwzMhCJIPKV"
       },
@@ -131,26 +151,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Tell Her b/w The Dance Got Old",
-        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
-      },
-      "artists": [
-        {
-          "name": "Fred Williams",
-          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
-        },
-        {
-          "name": "The Jewel Band",
-          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "I Choose You (formerly Blind Over You)",
         "url": "https://open.spotify.com/album/5wBWAyctOB7SMSiF9s3Dio"
       },
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Is It Because I'm Black",
-        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "Concrete Reservation",
-      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
         "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 152933,
       "name": "Heaven Must Have Sent You - Mono Single",
       "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Is It Because I'm Black",
+        "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Concrete Reservation",
+      "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -347,6 +347,38 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 415333,
+      "name": "Family Reunion",
+      "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Love is a Hurtin' Thing",
+        "url": "https://open.spotify.com/album/690m6ee1hi30Rx9iK1kbVV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Ann Taylor",
+          "url": "https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "How Can You Say It",
+      "url": "https://open.spotify.com/track/0HlFUfeYx81U8LwaxanS82"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -363,18 +395,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 415333,
-      "name": "Family Reunion",
-      "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
+      "duration_ms": 177066,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -395,18 +427,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Love is a Hurtin' Thing",
-        "url": "https://open.spotify.com/album/690m6ee1hi30Rx9iK1kbVV"
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
-          "name": "Gloria Ann Taylor",
-          "url": "https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 172973,
-      "name": "How Can You Say It",
-      "url": "https://open.spotify.com/track/0HlFUfeYx81U8LwaxanS82"
+      "duration_ms": 221600,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -475,22 +507,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Young, Tough And Terrible",
         "url": "https://open.spotify.com/album/4B1BWIoETGx6guwhJVp8zP"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW"
+      "duration_ms": 169866,
+      "name": "(We'll Be) United",
+      "url": "https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -571,6 +587,22 @@
       "duration_ms": 154624,
       "name": "Never Did I Stop Loving You",
       "url": "https://open.spotify.com/track/1PRufdjxbQgUwy0Gpapz98"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 333133,
+      "name": "You Got Your Hooks in Me",
+      "url": "https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -627,22 +659,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "(We'll Be) United",
-      "url": "https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Million to One",
         "url": "https://open.spotify.com/album/0gceDfD8ET1hnhUyLU3i1d"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 266106,
       "name": "One Life to Live",
       "url": "https://open.spotify.com/track/4uW41encpb6TYP6329O6FY"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 333133,
-      "name": "You Got Your Hooks in Me",
-      "url": "https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1965: Marvin Gaye",
-        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "As Long As She Needs Me",
-      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 6: 1966",
         "url": "https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 143612,
       "name": "Try It (You'll Like It)",
       "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1965: Marvin Gaye",
+        "url": "https://open.spotify.com/album/1L5IFq2w2ZtwvzOp3fXe9V"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "As Long As She Needs Me",
+      "url": "https://open.spotify.com/track/58suLi0CzmcVtmRDFJIfZi"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Yes I'm Ready",
-        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 124533,
-      "name": "Keep Him",
-      "url": "https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Pardon My Innocent Heart b/w Main Squeeze",
         "url": "https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Yes I'm Ready",
+        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 124533,
+      "name": "Keep Him",
+      "url": "https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
         "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 274346,
-      "name": "Find Me a Girl",
-      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown!",
         "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 160266,
       "name": "My Sugar Baby",
       "url": "https://open.spotify.com/track/6zOM8k0i1xe087FfD4yGYf"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 274346,
+      "name": "Find Me a Girl",
+      "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: Twinight's Lunar Rotation",
-        "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
-      },
-      "artists": [
-        {
-          "name": "Kaldirons",
-          "url": "https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "To Love Someone (That Don't Love You)",
-      "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Lift This Hurt b/w You're Being Unfair",
         "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 161800,
       "name": "Lift This Hurt",
       "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: Twinight's Lunar Rotation",
+        "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
+      },
+      "artists": [
+        {
+          "name": "Kaldirons",
+          "url": "https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "To Love Someone (That Don't Love You)",
+      "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj"
-      },
-      "artists": [
-        {
-          "name": "The Incredibles",
-          "url": "https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "I'll Make It Easy (If You'll Come On Home)",
-      "url": "https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased: 1966",
         "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 137077,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj"
+      },
+      "artists": [
+        {
+          "name": "The Incredibles",
+          "url": "https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "I'll Make It Easy (If You'll Come On Home)",
+      "url": "https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Could It Be Magic",
-        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
-      },
-      "artists": [
-        {
-          "name": "Anthony White",
-          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Yes, You Need Love",
-      "url": "https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 150186,
       "name": "Please Love Me - Mono",
       "url": "https://open.spotify.com/track/0XQWZGT2B9VmiJ4d9wiTzO"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Could It Be Magic",
+        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
+      },
+      "artists": [
+        {
+          "name": "Anthony White",
+          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Yes, You Need Love",
+      "url": "https://open.spotify.com/track/64JBsxyOVpGnlmdFkHQZc8"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Tamla And Motown Singles...Plus!",
-        "url": "https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW"
+        "name": "Could It Be Magic",
+        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
       },
       "artists": [
         {
-          "name": "The Satintones",
-          "url": "https://open.spotify.com/artist/6CpK7aaneTdvYmRsPOlF25"
+          "name": "Anthony White",
+          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
         }
       ],
-      "duration_ms": 153240,
-      "name": "Motor City - Single Version",
-      "url": "https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r"
+      "duration_ms": 262773,
+      "name": "Stop & Think It Over",
+      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Could It Be Magic",
-        "url": "https://open.spotify.com/album/4zrerm48QQpeBk3U5PWRG9"
+        "name": "The Complete Tamla And Motown Singles...Plus!",
+        "url": "https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW"
       },
       "artists": [
         {
-          "name": "Anthony White",
-          "url": "https://open.spotify.com/artist/4uLJWWkpzgSb8BP3723f7o"
+          "name": "The Satintones",
+          "url": "https://open.spotify.com/artist/6CpK7aaneTdvYmRsPOlF25"
         }
       ],
-      "duration_ms": 262773,
-      "name": "Stop & Think It Over",
-      "url": "https://open.spotify.com/track/12y8RDhXX9Z2pPdcbWrjxd"
+      "duration_ms": 153240,
+      "name": "Motor City - Single Version",
+      "url": "https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1963",
-        "url": "https://open.spotify.com/album/4SZuhxneLhFEaKsJW7N4qL"
-      },
-      "artists": [
-        {
-          "name": "Labrenda Ben",
-          "url": "https://open.spotify.com/artist/6jWzI9sYhG5OFUr6SfgeAn"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "I Don't Want Your Promises",
-      "url": "https://open.spotify.com/track/7Cvq8wzGHZKA3VAEHRCezL"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Plenty Good Eaton",
         "url": "https://open.spotify.com/album/3y5rM8Qy4xVHL40WVKmz9E"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 445320,
       "name": "Are You out There Somewhere Caring",
       "url": "https://open.spotify.com/track/4mZN8iHvweAZIUkQnPwat0"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1963",
+        "url": "https://open.spotify.com/album/4SZuhxneLhFEaKsJW7N4qL"
+      },
+      "artists": [
+        {
+          "name": "Labrenda Ben",
+          "url": "https://open.spotify.com/artist/6jWzI9sYhG5OFUr6SfgeAn"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "I Don't Want Your Promises",
+      "url": "https://open.spotify.com/track/7Cvq8wzGHZKA3VAEHRCezL"
     },
     {
       "added_at": "2022-05-11 12:29:38",

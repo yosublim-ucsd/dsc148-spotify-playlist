@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 46834,
+  "num_followers": 46861,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWEyNWQ5MTU4M2I1ODgzYTVjNjRlZWNmNzMxMDYzYjI4NGE3NThk",
+  "snapshot_id": "MCxjMDJiYjBlMzIxNDNiOTA0Nzc5YTQwNWM1YzZkZTY3NGJhZTMyNmQy",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -119,18 +119,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
       },
       "artists": [
         {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
         }
       ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -151,18 +151,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
       },
       "artists": [
         {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -515,42 +515,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Mighty Poplar",
-        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
-      },
-      "artists": [
-        {
-          "name": "Mighty Poplar",
-          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
-        },
-        {
-          "name": "Andrew Marlin",
-          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Alex Hargreaves",
-          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
-        },
-        {
-          "name": "Greg Garrison",
-          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
-        }
-      ],
-      "duration_ms": 229383,
-      "name": "Grey Eagle",
-      "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Viridian",
         "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
       },
@@ -583,6 +547,42 @@
       "duration_ms": 213520,
       "name": "Annabelle June",
       "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+      },
+      "artists": [
+        {
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+        }
+      ],
+      "duration_ms": 229383,
+      "name": "Grey Eagle",
+      "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "From Sea To Sky",
         "url": "https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
       "artists": [
         {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
         }
       ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -899,22 +915,6 @@
       "duration_ms": 188293,
       "name": "Thousand Dollar Holler",
       "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1135,30 +1135,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Short Trip Home",
-        "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
       "artists": [
         {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "Mike Marshall",
-          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
         }
       ],
-      "duration_ms": 244706,
-      "name": "If I Knew - Instrumental",
-      "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1175,22 +1167,6 @@
       "duration_ms": 356561,
       "name": "Updraft",
       "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1219,22 +1195,46 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Short Trip Home",
+        "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
         },
         {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Mike Marshall",
+          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 244706,
+      "name": "If I Knew - Instrumental",
+      "url": "https://open.spotify.com/track/1kBUMCRkZfBEnZRXc2xdD9"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Me & My Guitar",
-        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "Port Tobacco",
-      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 174093,
       "name": "Wolf Moon",
       "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Me & My Guitar",
+        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "Port Tobacco",
+      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Bluegrass 96",
         "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 186333,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 198357,
+      "name": "Shallows",
+      "url": "https://open.spotify.com/track/0WaQSVtzER7nT9sPLu918r"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Chemical Plant Zone",
         "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
       },
@@ -1595,34 +1611,38 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Place of Growth",
-        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+        "name": "Live from Bristol",
+        "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
       },
       "artists": [
         {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        },
+        {
+          "name": "Sarah Kate Morgan",
+          "url": "https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa"
         }
       ],
-      "duration_ms": 198357,
-      "name": "Shallows",
-      "url": "https://open.spotify.com/track/0WaQSVtzER7nT9sPLu918r"
+      "duration_ms": 174143,
+      "name": "Waynesboro - Live",
+      "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
     },
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/3TqQrkhhHrnwJQEkS7PSdH"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
         }
       ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+      "duration_ms": 203621,
+      "name": "Wellington",
+      "url": "https://open.spotify.com/track/5uD5JxoeCv8W9UfWs0bwd3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1663,18 +1683,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1699,22 +1719,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Live from Bristol",
-        "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        },
-        {
-          "name": "Sarah Kate Morgan",
-          "url": "https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa"
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
         }
       ],
-      "duration_ms": 174143,
-      "name": "Waynesboro - Live",
-      "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1731,22 +1747,6 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Hurricane Clarice",
-        "url": "https://open.spotify.com/album/3TqQrkhhHrnwJQEkS7PSdH"
-      },
-      "artists": [
-        {
-          "name": "Allison de Groot & Tatiana Hargreaves",
-          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
-        }
-      ],
-      "duration_ms": 203621,
-      "name": "Wellington",
-      "url": "https://open.spotify.com/track/5uD5JxoeCv8W9UfWs0bwd3"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1803,38 +1803,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 372746,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Passages and Partings",
         "url": "https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx"
       },
@@ -1851,6 +1819,38 @@
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

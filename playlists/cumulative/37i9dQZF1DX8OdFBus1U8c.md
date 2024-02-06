@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : KSHMR, Dabzee, Vedan
+> Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Vedan, Sushin Shyam
 
-137 songs - 7 hr 21 min
+138 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [CALICITY](https://open.spotify.com/track/5j71vL2fsf8BZUxPTbYeOF) | [Shihab Huzzain](https://open.spotify.com/artist/4upFgLK2iUIjC3fzj6nfLU), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD), [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx) | [CALICITY](https://open.spotify.com/album/3CoQQAOqbcFdCSRlHIrYED) | 1:54 | 2023-11-06 |  |
 | [Ceasefire Now](https://open.spotify.com/track/1vLVrRcfDIKhRlsrQ6gIuK) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Ceasefire Now](https://open.spotify.com/album/4i7U8lSSrQeS18qqeVRgqE) | 3:06 | 2023-11-28 |  |
 | [Chathi](https://open.spotify.com/track/0HJVTFwv2ht5u4y9RCzfho) | [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n), [AMANI KL10](https://open.spotify.com/artist/0f9QWfK1JSGrmCo2MEXuMr) | [Chathi](https://open.spotify.com/album/0CyndZDyLdIqYlcG1JiwzL) | 3:54 | 2023-11-28 |  |
+| [CHECK CHECK](https://open.spotify.com/track/7KieJoUWl3NAxZGmV24vJk) | [San Jaimt](https://open.spotify.com/artist/2BrfO48KSTebyOrNEyeMOm) | [CHECK CHECK](https://open.spotify.com/album/5mcYXrsMZ6X0xogQHGKnnL) | 2:32 | 2024-02-05 |  |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2021-12-03 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2021-12-03 |  |
 | [CHILL OUT](https://open.spotify.com/track/1gUmzKldDiBbVUKcaxDygk) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Thudwiser](https://open.spotify.com/artist/6z8IZH6zc5YxGOGZT1ZswT) | [CHILL OUT](https://open.spotify.com/album/2jKDdkD9BVxDdYkCidRAf0) | 3:05 | 2022-06-23 | 2023-09-12 |

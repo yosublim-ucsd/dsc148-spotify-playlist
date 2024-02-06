@@ -4,7 +4,7 @@
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-228 songs - 15 hr 12 min
+229 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 | 2021-08-18 |  |
 | [Breath](https://open.spotify.com/track/2Kx3PncAXwpq8ELDYmcTvn) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [Last Days](https://open.spotify.com/album/4UocQzxqD7TsnvFw7JEBiA) | 3:59 | 2021-08-18 | 2022-07-28 |
 | [Brutal Treatment \(Part\. 1\) \[feat\. Kebee & The Quiett\]](https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [Kebee & The Quiett](https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:18 | 2021-08-18 |  |
+| [Bulldozer](https://open.spotify.com/track/57dAn3xBS8XfKeWJBmoTCC) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Double Single \[Bulldozer\]](https://open.spotify.com/album/6txoJd4oDnxtdoR4PAznRO) | 3:24 | 2023-08-10 |  |
 | [Bulldozer](https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Bulldozer](https://open.spotify.com/album/01fJjO7rrzQ8mn6Efrkbbe) | 3:24 | 2021-08-18 | 2024-02-04 |
 | [Burning The Bridges Behind 배수의 진](https://open.spotify.com/track/2QIlJLNJO6hz6ZFqKQ9r7L) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf) | [MP Hip Hop 2000 CHO MP Hip Hop 2000 초 \(Remastered\)](https://open.spotify.com/album/6ODD9lNXi3MXFXu8LuYtZk) | 4:27 | 2021-08-18 | 2022-07-29 |
 | [Burning The Bridges Behind 배수의 진](https://open.spotify.com/track/3hfBuDKj3DOfhPWeCzVvZu) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf) | [Beatz 4 Da Streetz](https://open.spotify.com/album/22IDKUmV5T4Cyd4hSKj2ri) | 4:32 | 2021-08-18 | 2022-07-28 |
@@ -78,7 +79,7 @@
 | [Hiphop Music 힙합 뮤직 \(Feat\. Lim Jeong Hee\)](https://open.spotify.com/track/1QtfHLzRndSuUvzwaPVeVX) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf), [Lim Jeong Hee](https://open.spotify.com/artist/6VDMtQjKKIrMJ3bog4MdaJ) | [Superior Vol.2 \- Seoul City's Finest](https://open.spotify.com/album/0inR9U2ispTxUMi9bokwbE) | 3:47 | 2021-08-18 | 2022-07-29 |
 | [History In The Making \- 2021 Remaster](https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:42 | 2021-08-18 | 2022-07-29 |
 | [I Don't Give a F\*\*k](https://open.spotify.com/track/7rzA8J89ASSb9pTFWqvjrB) | [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g), [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [One Nation](https://open.spotify.com/album/3tkDFbJob8hqiVVagiq3Kn) | 3:48 | 2021-08-18 | 2022-07-29 |
-| [I Don't Give a F\*\*k \(With DEADP, DEEPFLOW\)](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 | 2021-08-18 |  |
+| [I Don't Give a F\*\*k \(With DEADP, DEEPFLOW\)](https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn) | [DEADP](https://open.spotify.com/artist/3hk800Fb8F8IQe1WfFGT1w), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Nastyz](https://open.spotify.com/artist/7i3DzAwRJW84LWLHGjzY6g) | [One Nation](https://open.spotify.com/album/6lspY215eSyzOThJHq0WFq) | 3:48 | 2021-08-18 | 2024-02-06 |
 | [Imagine That](https://open.spotify.com/track/3CSovfXGMPwvtEXtSNO4Bk) | [Soul Company](https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ) | [The Best](https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35) | 4:18 | 2021-08-18 | 2023-07-25 |
 | [Interlude \(feat\. Mad Clown\)](https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 1:24 | 2021-08-18 |  |
 | [Interlude \- 2021 Remaster](https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 0:32 | 2021-08-18 | 2023-03-13 |

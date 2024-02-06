@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 115622,
+  "2024-02-06": 115643,
   "date_first_scraped": "2023-03-20",
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
   "name": "This Is Greeicy",
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 214828,
       "name": "No Te Equivoques",
       "url": "https://open.spotify.com/track/4JXN8t3V1vdl75IczGJcpK"

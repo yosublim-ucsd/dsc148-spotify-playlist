@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Jamal KMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,661 likes - 83 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,663 likes - 83 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 6 | [Chuva \- Speedup](https://open.spotify.com/track/61qMfIyjcMG3BdR5R9I9ag) | [Tivityn](https://open.spotify.com/artist/17eBIeZfCeaETi2IgqQlxE) | [OLHAO14AÊ \(SpeedUp\)](https://open.spotify.com/album/1mBKtxXnRQaNvyjAT8izeY) | 2:44 |
 | 7 | [Só Olha \- Ao Vivo](https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:40 |
 | 8 | [A Braba do Jaca](https://open.spotify.com/track/2TsyvT2ywUC6Icbod4wYdI) | [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [João Santos](https://open.spotify.com/artist/07TxrEHKbCnMBaHPXRPU3g), [Oliver 45s](https://open.spotify.com/artist/0T0TSGNHWxDgNrWr6CVwih), [PajéBeatz](https://open.spotify.com/artist/4kryyH3k8ioSOBgMu6yk2n) | [A Braba do Jaca](https://open.spotify.com/album/408xND7X0stpmz0iQS6iIh) | 2:57 |
-| 9 | [EVA \(Papatracks\#10\)](https://open.spotify.com/track/7jvyEmuz1N8PjECPbryNbX) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [EVA \(Papatracks\#10\)](https://open.spotify.com/album/3t7FwRaT9UzpFOVrw5ryPp) | 2:47 |
+| 9 | [EVA \(Papatracks\#10\)](https://open.spotify.com/track/7jvyEmuz1N8PjECPbryNbX) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [EVA \(Papatracks\#10\)](https://open.spotify.com/album/3t7FwRaT9UzpFOVrw5ryPp) | 2:47 |
 | 10 | [Milhão](https://open.spotify.com/track/55q0pSLg1Gbgw5NUE7QOhs) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Gohann](https://open.spotify.com/artist/7eZNIBBTvCkF2aG5VdvlQc) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 2:26 |
 | 11 | [BROCOLIZ](https://open.spotify.com/track/5P7ASG9SpcvYCjaJI3tANl) | [Jamal KMG](https://open.spotify.com/artist/2DF0255bTz07OvXhrT8gaA), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Brocoliz](https://open.spotify.com/album/5bCxWBSBhWj7JSKephFOFv) | 2:18 |
 | 12 | [Fã](https://open.spotify.com/track/6mmnvCgBr0CooXnauXDhyB) | [Dreeyzy](https://open.spotify.com/artist/33yIwB6RZp7iZalhELSaBS), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [FB PRIME](https://open.spotify.com/artist/0935s3YkDzPCqFBbjkq59o) | [Fã](https://open.spotify.com/album/6LcThFOEzDCz1SygNtz3na) | 3:00 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 82 | [Fora Da Lei](https://open.spotify.com/track/25BYiqy7bqjLGuZammSgo1) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Fora Da Lei](https://open.spotify.com/album/3zSA2HaW5dkplmPfWoX0Zu) | 2:12 |
 | 83 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 |
 
-Snapshot ID: `MCxiZjg2ZjVkZDgzMjBmZWM5NjhkYTU0MjQxNDNjZTExMGZlZjI5MGUx`
+Snapshot ID: `MCxmYzIzNDUzNTZiYmM5ZjIyYmRjM2RiMWY4ZDNkZjhiMzllYThjYmNl`

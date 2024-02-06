@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 3094,
+  "2024-02-06": 3123,
   "date_first_scraped": "2022-12-03",
   "description": "Who order Azul?",
   "name": "Best of Detty December",
@@ -955,10 +955,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf"
+    },
+    {
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "album": {

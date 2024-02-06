@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Bloodshot",
+        "url": "https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Bloodshot",
+      "url": "https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE"
       },

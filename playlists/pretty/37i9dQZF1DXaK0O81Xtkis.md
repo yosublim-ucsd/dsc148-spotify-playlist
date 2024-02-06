@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Oscar and the Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,718 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,696 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 59 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 |
 | 60 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
 
-Snapshot ID: `MCxkMjc4ZTY5YjRmMmUwNGE5YzhjNDQ5Zjc1NTBhMjk2ODBmYzFkMjBj`
+Snapshot ID: `MCxlN2RkZTA5YTliZDBmZGQ3NDY0NDI1NTcxZjRkYzBjYjEzNWIxZjFl`

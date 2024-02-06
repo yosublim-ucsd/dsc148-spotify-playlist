@@ -4,7 +4,7 @@
 
 > Perreo del bueno to ring in the new year!
 
-278 songs - 15 hr 43 min
+279 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Escándalo](https://open.spotify.com/track/1jtlQznvROmiq3b3gulGzE) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Escándalo](https://open.spotify.com/album/3OA4b7KyqgX26a6r7XZWE3) | 2:46 | 2023-12-05 |  |
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 | 2023-12-05 |  |
 | [Eso E](https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Eso E](https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe) | 2:19 | 2023-12-05 |  |
-| [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 | 2023-11-20 |  |
+| [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 | 2023-11-20 | 2024-02-06 |
 | [Fanática Sensual](https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 4:00 | 2023-12-05 |  |
 | [Felina](https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [A La Reconquista](https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv) | 3:36 | 2022-10-26 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-10-26 |  |
@@ -180,6 +180,7 @@
 | [No Me Conoce \- Remix](https://open.spotify.com/track/7rknFhrVDyxzTJkPSf7LoW) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Me Conoce \(Remix\)](https://open.spotify.com/album/2t2aNgqXTXuCh9fqT05g9U) | 5:07 | 2022-10-26 | 2023-01-11 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-12-30 |  |
 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 | 2022-10-26 |  |
+| [Noche de Travesura](https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Flow La Discoteca Special Edition](https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX) | 3:32 | 2023-12-28 |  |
 | [Noche de Travesura](https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk) | 3:27 | 2022-10-26 | 2023-11-04 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-10-26 | 2023-12-06 |
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2022-10-26 |  |

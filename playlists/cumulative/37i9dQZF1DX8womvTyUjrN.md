@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Zoe Gotusso
 
-571 songs - 1 day 4 hr 41 min
+572 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [After](https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4) | [After](https://open.spotify.com/album/7sHETRN0d1Drl92z6jawH2) | 2:59 | 2022-04-15 | 2022-05-19 |
 | [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-07-28 | 2022-10-29 |
 | [agüita con sal](https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb) | [ISADORA](https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C) | [agüita con sal](https://open.spotify.com/album/3zGOqF828QOc0A5KcRpJJo) | 2:36 | 2024-02-02 |  |
-| [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-20 |  |
+| [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 | 2023-10-20 | 2024-02-06 |
 | [Ahora Que No Te Tengo](https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Ahora Que No Te Tengo](https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl) | 2:35 | 2024-01-12 |  |
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-02-17 | 2023-07-08 |
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-03-21 | 2022-04-15 |
@@ -172,6 +172,7 @@
 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 | 2022-07-28 | 2022-10-29 |
 | [Dímelo](https://open.spotify.com/track/0L2FkH5RUaRlkBajIhRpwK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Dímelo](https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB) | 2:42 | 2022-07-08 | 2022-10-29 |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-03-21 | 2022-06-13 |
+| [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 | 2024-02-02 |  |
 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 | 2024-01-19 |  |
 | [El Egoísmo](https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [El Egoísmo](https://open.spotify.com/album/5DgcteHRIdhtDDy6ZJJobx) | 2:50 | 2022-10-07 | 2023-03-25 |
 | [El Imbécil del Año](https://open.spotify.com/track/0X7tBKF0PZNEPmNBT3dVFl) | [Dani Richani](https://open.spotify.com/artist/3k0vIDHDURVZoga1RNrqVL) | [El Imbécil del Año](https://open.spotify.com/album/2rrwKL0LJToDg7RORJ8gIA) | 3:36 | 2022-03-21 | 2022-07-09 |

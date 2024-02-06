@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: RAYE
 
-1,000 songs - 2 day 7 hr 17 min
+1,001 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,8 @@
 | [Open Arms](https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Open Arms](https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh) | 2:32 | 2022-09-16 | 2022-10-08 |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2023-02-03 | 2023-04-09 |
 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 | 2023-04-14 | 2023-09-09 |
-| [Otherside](https://open.spotify.com/track/65ybsaE29ZYqelgjXSc7xd) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock,](https://open.spotify.com/album/2vcW1BucVQMfVGN5LLb8XF) | 3:34 | 2023-09-29 |  |
+| [Otherside](https://open.spotify.com/track/1gEI3oSPZQdmabcY4rlyQk) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock, Knock](https://open.spotify.com/album/7gUgtgNsrdWEwSzZzRntXC) | 3:34 | 2024-02-02 |  |
+| [Otherside](https://open.spotify.com/track/65ybsaE29ZYqelgjXSc7xd) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Knock,](https://open.spotify.com/album/2vcW1BucVQMfVGN5LLb8XF) | 3:34 | 2023-09-29 | 2024-02-06 |
 | [Our Funeral](https://open.spotify.com/track/0JDu3cs7PXRQlOlfEfWXKt) | [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [Our Funeral](https://open.spotify.com/album/72N6tTWm6aLZeF5U7dxJoe) | 2:30 | 2023-05-19 | 2023-06-24 |
 | [Out In The Fields](https://open.spotify.com/track/2NKBG5YGy83o1IL6ztXnc4) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Out In The Fields / Party Oven](https://open.spotify.com/album/6qWjEdbqZcGDQpl0w82Avk) | 4:00 | 2023-08-25 | 2023-09-16 |
 | [Out of Sight](https://open.spotify.com/track/2xBknrtjrQlYJndkbYGDvE) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Out of Sight](https://open.spotify.com/album/3lrT53M5XyaNM1q6vU2i3u) | 2:26 | 2023-09-15 |  |

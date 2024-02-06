@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 78624,
+  "num_followers": 78659,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDUxYWIyMWJjMWQ3YzIzMTE0MzBkZDU3NDQzMWJkMjdiMTE1MDQw",
+  "snapshot_id": "MCw0OGNhMjE3MTZjYjkyYTAyMDQwNWE0YmFlMTk0ODViN2NjMmQ4M2I1",
   "tracks": [
     {
       "added_at": "2023-12-20 18:45:06",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "From Tito With Love",
         "url": "https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ"
       },
@@ -259,6 +279,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Contigo - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -275,42 +311,6 @@
       "duration_ms": 178493,
       "name": "Aunque Me Cueste la Vida",
       "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Contigo - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
+        "name": "Boleros De Siempre",
+        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
         }
       ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
+      "duration_ms": 171432,
+      "name": "Mil Cosas",
+      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -431,22 +447,6 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Boleros De Siempre",
-        "url": "https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        }
-      ],
-      "duration_ms": 171432,
-      "name": "Mil Cosas",
-      "url": "https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "El Rey de las Cantinas",
-        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Corazoncito",
-      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "A\u00f1oranza Del Amor",
         "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178466,
       "name": "A\u00f1oranza Del Amor",
       "url": "https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "El Rey de las Cantinas",
+        "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
+      },
+      "artists": [
+        {
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Inolvidable (Boleros)",
-        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
-      },
-      "artists": [
-        {
-          "name": "Betty Missiego",
-          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Ma\u00f1anas de Carnaval",
-      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Doble Filo",
         "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 314773,
       "name": "Privilegio",
       "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Inolvidable (Boleros)",
+        "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
+      },
+      "artists": [
+        {
+          "name": "Betty Missiego",
+          "url": "https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Ma\u00f1anas de Carnaval",
+      "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "50 A\u00f1os Live",
+        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Y Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "50 A\u00f1os Live",
-        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Y Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+      },
+      "artists": [
+        {
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "Un Bolero un Vals",
         "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
-      },
-      "artists": [
-        {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Brujerias",
-      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Pedrito Otiniano y Sus Exitos",
         "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 171693,
       "name": "Kio",
       "url": "https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Brujerias",
+      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
     },
     {
       "added_at": "2023-12-20 18:45:06",

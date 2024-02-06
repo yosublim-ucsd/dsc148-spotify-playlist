@@ -1,12 +1,12 @@
 {
   "description": "Chasing that runner's high",
-  "num_followers": 498849,
+  "num_followers": 498909,
   "original_name": "Running Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWYwNWFkNDQ3MWY4ZWVkNDUzZWM5Y2ExNzEzNTMyOGRiNWMyYzk0",
+  "snapshot_id": "MCxjNjhlYjQ2NjhkYTZhMWNlYmY0ZTI2MTA4NTU4NDJlNjdmMzMwNjEy",
   "tracks": [
     {
       "added_at": "2024-01-26 05:00:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Reload (Vocal Version / Radio Edit)",
         "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 204150,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -551,22 +551,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "A Town Called Paradise",
-        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -683,6 +667,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "A Town Called Paradise",
+        "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Ferrari (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
       },
@@ -747,22 +767,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
         }
       ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+      "duration_ms": 156818,
+      "name": "greedy - cass\u00f6 remix",
+      "url": "https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -791,26 +811,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        }
-      ],
-      "duration_ms": 156818,
-      "name": "greedy - cass\u00f6 remix",
-      "url": "https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Sunroof (Loud Luxury Remix)",
         "url": "https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q"
       },
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Body Moving (Riordan Remix)",
-        "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Body Moving - Riordan Remix",
-      "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Antibodies",
         "url": "https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 312226,
       "name": "Antibodies - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Body Moving (Riordan Remix)",
+        "url": "https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Body Moving - Riordan Remix",
+      "url": "https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Take Me Home (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Take Me Home (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1387,6 +1387,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Cold Heart (PS1 Remix)",
+        "url": "https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        }
+      ],
+      "duration_ms": 166674,
+      "name": "Cold Heart - PS1 Remix",
+      "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "I'll Be There (Cahill Remix)",
         "url": "https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe"
       },
@@ -1435,30 +1459,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Cold Heart (PS1 Remix)",
-        "url": "https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PS1",
-          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
-        }
-      ],
-      "duration_ms": 166674,
-      "name": "Cold Heart - PS1 Remix",
-      "url": "https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
       },
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 245927,
       "name": "Children",
       "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Save Me Tonight",
-        "url": "https://open.spotify.com/album/0wQCkA93jbaOowF6bHsDfz"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 170079,
-      "name": "Save Me Tonight",
-      "url": "https://open.spotify.com/track/1nufXiTCTTAeJfO9hLHvO8"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/0wQCkA93jbaOowF6bHsDfz"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "duration_ms": 170079,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/1nufXiTCTTAeJfO9hLHvO8"
     },
     {
       "added_at": "2024-01-26 05:00:00",

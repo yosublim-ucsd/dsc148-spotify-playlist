@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,056 songs - 3 day 0 hr 7 min
+1,057 songs - 3 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Home Again](https://open.spotify.com/track/4I204PvTD6jGKTk4kfXQMS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:29 | 2022-04-14 | 2022-04-28 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-12-01 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
-| [Honest Waltz](https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 5:25 | 2022-09-15 |  |
+| [Honest Waltz](https://open.spotify.com/track/2o31PReuGccOuzpqzpTlPa) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Jazz from the Countryside](https://open.spotify.com/album/5n7n15lmhMzqjHyxgZHshr) | 5:25 | 2022-09-15 | 2024-02-06 |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |
 | [Honey, I'm Glad You're Mine](https://open.spotify.com/track/4L6de6eylUUkvtJYVknqR0) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Honey, I'm Glad You're Mine](https://open.spotify.com/album/6hAOj6NbTdS278alY0xTYp) | 2:17 | 2022-12-08 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-10 |  |
@@ -434,6 +434,7 @@
 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-04-14 | 2022-05-03 |
 | [Ill Wind](https://open.spotify.com/track/2UnqYqJgyjElVUmX87rbrW) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Ill Wind](https://open.spotify.com/album/67pWoIBLiaOKLb6OozeStz) | 2:31 | 2023-09-22 |  |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
+| [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-02 |  |
 | [Impressive\-looking](https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Impressive\-looking](https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs) | 3:24 | 2023-08-10 |  |
 | [In a quiet voice](https://open.spotify.com/track/0gEwI6dLfDSdb5uykp86Xx) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [In a quiet voice](https://open.spotify.com/album/3y21l63OCbOjOXR4st1swK) | 2:44 | 2023-04-14 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 | 2022-04-14 | 2022-04-28 |

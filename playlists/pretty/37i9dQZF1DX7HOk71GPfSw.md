@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaivepilled
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,551 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,568 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 63 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 64 | [FUN](https://open.spotify.com/track/5mlVnK8RkGob2oiFPXf0Ky) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [FUN](https://open.spotify.com/album/2ZIsPbcWIz2dhi5YCTvTkv) | 1:49 |
 | 65 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 66 | [Myspace](https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Myspace](https://open.spotify.com/album/4e7FjD0RXSRgRsPYdcc0Sl) | 3:24 |
+| 66 | [Myspace](https://open.spotify.com/track/5cXr56savehemj8ria2cxD) | [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Chupetones](https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw) | 3:24 |
 | 67 | [body bag](https://open.spotify.com/track/7IodwtlPswiT3rJVUQPFcO) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [body bag](https://open.spotify.com/album/2xJsMEX3rBCfqxQ7EfVnED) | 2:22 |
 | 68 | [MAMi ISSUES](https://open.spotify.com/track/6Tz4kklT7SfiCdG3jYBoL2) | [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K), [Jay Cas](https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z) | [MAMi ISSUES](https://open.spotify.com/album/5xfRdxojvdENwUuMUhTpSl) | 2:41 |
 | 69 | [Remind Me](https://open.spotify.com/track/4HPUbi24ZEBCwO9kSQ0Jk3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Remind Me](https://open.spotify.com/album/6gwNZoJSrLZlbg8e5FPFWX) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 |
 | 100 | [Perfumed and Glossy](https://open.spotify.com/track/38gu8ZYmqaTP2fJrae4Nax) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Perfumed and Glossy](https://open.spotify.com/album/6HBZrBAM5Gg2tVDPxpj0Q1) | 2:40 |
 
-Snapshot ID: `MCwyZGRlYWY5NTZhMjdiMDIwYjNlOWFhYmExYzRhMTQwYjhhOWRkNDVk`
+Snapshot ID: `MCwxZWE1MzVkZDEwYmFiNTA2YWI0ZDQ5ZjdjOGVjMDUwNzU4ZDQ3OThi`

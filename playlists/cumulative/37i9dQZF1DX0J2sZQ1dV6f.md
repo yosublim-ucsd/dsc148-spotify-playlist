@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-378 songs - 19 hr 50 min
+379 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 | 2022-11-02 | 2023-02-25 |
 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-07-08 | 2023-05-26 |
 | [Pa' Tras](https://open.spotify.com/track/6rD9ae5rY6TCQpziov6cvl) | [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Pa' Tras](https://open.spotify.com/album/1MGS5I73pziLXLpwjJzWn4) | 2:28 | 2022-03-21 | 2022-04-26 |
-| [Pacas y Pacas](https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Pacas y Pacas](https://open.spotify.com/album/1O7JXwCrIZGbuYAKsIIhav) | 2:20 | 2024-01-19 |  |
+| [Pacas y Pacas](https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [Pacas y Pacas](https://open.spotify.com/album/1O7JXwCrIZGbuYAKsIIhav) | 2:20 | 2024-01-19 | 2024-02-06 |
+| [Pacas y Pacas](https://open.spotify.com/track/1hFg6ilfrckIhcz0IBmp2b) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc) | [Pacas y Pacas](https://open.spotify.com/album/7jL1caHfpQfZdJrNtsnbAm) | 2:20 | 2024-02-02 |  |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-07-08 | 2023-05-26 |
 | [Papi](https://open.spotify.com/track/0BornZJonz0a9N5Aa4VSyN) | [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Papi](https://open.spotify.com/album/3XjNmUiXPhLoq06lHY6m8p) | 3:04 | 2022-07-08 | 2022-07-22 |
 | [PAPI \(feat\. Babywine & Alberto Stylee\)](https://open.spotify.com/track/2wQBzAZdsaqDBbtwBk5MhA) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Jose De Las Heras](https://open.spotify.com/artist/7trKViRlVbKr7Yrh9ygHnS), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Babywine](https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [PAPI \(feat\. Babywine & Alberto Stylee\)](https://open.spotify.com/album/5x4Jjd6EXn4pVW7sISuQjy) | 3:07 | 2022-03-21 | 2022-07-09 |

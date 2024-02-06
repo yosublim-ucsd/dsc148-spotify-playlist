@@ -1,31 +1,15 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 368590,
+  "num_followers": 368535,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmVhM2RjNDRlMjkyY2FkNWU5NTZkZTIwNTZhYWZhOGJhYmY1Y2Fh",
+  "snapshot_id": "MCxiN2EwOTU0OGNmYjcyY2RmNjczNDY0ZGNmNmYxZGZhMmFiYmE5MDk4",
   "tracks": [
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -61,7 +45,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
@@ -77,7 +61,39 @@
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Heart Shaped World",
         "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
@@ -177,39 +177,23 @@
       "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Don't Play That Song",
         "url": "https://open.spotify.com/album/5QL7RNVpZIoIxElgdykaa8"
@@ -225,7 +209,23 @@
       "url": "https://open.spotify.com/track/7jmHyHMEqm9MJWiMAneF05"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Birthplace",
         "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
         "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
         "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
         "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
@@ -533,55 +533,7 @@
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Double Fantasy: Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
@@ -597,7 +549,55 @@
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Double Fantasy: Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
@@ -677,23 +677,7 @@
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Never Not",
-      "url": "https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
@@ -709,7 +693,7 @@
       "url": "https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
@@ -729,23 +713,7 @@
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
@@ -761,7 +729,7 @@
       "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
@@ -777,7 +745,23 @@
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Supply And Demand",
+        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 129626,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
@@ -793,7 +777,7 @@
       "url": "https://open.spotify.com/track/6G6M4fl2I0eqEQnzyTwR8m"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
@@ -813,7 +797,7 @@
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
@@ -833,7 +817,7 @@
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Moondance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
@@ -849,7 +833,7 @@
       "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
@@ -865,7 +849,23 @@
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
@@ -885,23 +885,7 @@
       "url": "https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
@@ -921,7 +905,27 @@
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Writing's On The Wall",
         "url": "https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
@@ -985,7 +989,7 @@
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
@@ -1001,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Aerial Ballet",
         "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
@@ -1017,7 +1021,7 @@
       "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Gamesofluck",
         "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
@@ -1033,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
@@ -1049,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
@@ -1065,7 +1069,7 @@
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
@@ -1081,23 +1085,7 @@
       "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 103560,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/0dzbfio3qTYG9uk40SJNcr"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
@@ -1113,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "I Don't Care (Acoustic)",
         "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
@@ -1129,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
@@ -1145,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
@@ -1173,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Walked Through Hell",
         "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
@@ -1189,7 +1177,7 @@
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
@@ -1209,23 +1197,7 @@
       "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
-      "album": {
-        "name": "Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
-    },
-    {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
@@ -1245,7 +1217,23 @@
       "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954)",
         "url": "https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I"
@@ -1265,7 +1253,7 @@
       "url": "https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
@@ -1281,7 +1269,7 @@
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Man Who",
         "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
@@ -1297,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
@@ -1313,7 +1301,7 @@
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Brenda Lee",
         "url": "https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm"
@@ -1329,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
@@ -1345,7 +1333,7 @@
       "url": "https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
@@ -1361,7 +1349,7 @@
       "url": "https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
@@ -1381,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
@@ -1397,7 +1385,7 @@
       "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "White Ladder",
         "url": "https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe"
@@ -1413,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1cjouR9u8UPbvBc6vIwktF"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
@@ -1429,7 +1417,7 @@
       "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
@@ -1445,7 +1433,7 @@
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
@@ -1461,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
@@ -1477,7 +1465,7 @@
       "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
@@ -1493,7 +1481,67 @@
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
     },
     {
-      "added_at": "2024-01-25 23:01:00",
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 139986,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
+      "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/1B1p6CMiuIqeNt3oYTS0Tj"
+      },
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/3LDkLpuxQlEuEiZmkxpr8S"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin",
+        "url": "https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG"
+      },
+      "artists": [
+        {
+          "name": "Paula Sergio",
+          "url": "https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Garota de Ipanema",
+      "url": "https://open.spotify.com/track/7CzWvXHsAFAJeXAEHNXRdf"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
       "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
@@ -1507,6 +1555,142 @@
       "duration_ms": 329200,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Mas, Que Nada!",
+      "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Cake By The Ocean",
+        "url": "https://open.spotify.com/album/0nbjySxfBgmAR0o8wUNnoI"
+      },
+      "artists": [
+        {
+          "name": "Bossa Nova Covers",
+          "url": "https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy"
+        },
+        {
+          "name": "Mats & My",
+          "url": "https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/5Rr1dkY556PBAKf1c83clx"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Currency Of Man",
+        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305265,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2024-02-05 15:46:10",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 250575,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
     }
   ],
   "unique_name": "Cena con Amigos",

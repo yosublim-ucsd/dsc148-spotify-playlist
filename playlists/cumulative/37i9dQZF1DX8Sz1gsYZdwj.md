@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-184 songs - 8 hr 52 min
+187 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All We Shared](https://open.spotify.com/track/2VIqbLiw40FESThOqVcUtr) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [All We Shared](https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl) | 2:04 | 2023-09-29 |  |
 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 | 2023-11-20 |  |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-06-30 |  |
+| [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 | 2024-02-05 |  |
 | [Archangel's Lullaby](https://open.spotify.com/track/1UeEULIBhrFzy8WhI3FrMF) | [Howard Blake](https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Children's Cello](https://open.spotify.com/album/3n3Pw80jcR51Ymw8CBp7Bu) | 1:39 | 2021-11-09 | 2023-09-30 |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2021-11-09 | 2022-02-01 |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2023-09-29 |  |
@@ -38,6 +39,7 @@
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2023-09-29 |  |
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2023-09-29 |  |
+| [Cloudberry Fields](https://open.spotify.com/track/0WlvEO2qqQKxCw0gj3YdCC) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Cloudberry Fields](https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4) | 2:08 | 2024-02-05 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-09-29 |  |
 | [Currents](https://open.spotify.com/track/5pDfqYDr6sOiYcUqReOqV0) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Currents](https://open.spotify.com/album/6Le87TgUSamNkbE8DLOXx0) | 2:04 | 2023-02-28 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-09-29 |  |
@@ -170,6 +172,7 @@
 | [This Night](https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/73VZPKqqn3KNK3gnmi1kTI) | 3:31 | 2021-11-09 | 2022-07-29 |
 | [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 | 2022-06-21 |  |
 | [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-06-21 | 2022-10-25 |
+| [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 | 2024-02-05 |  |
 | [To Be Wide Asleep](https://open.spotify.com/track/4cqyXHBIXsMmiMBe2yZ2PN) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Be Wide Asleep](https://open.spotify.com/album/7C8vFlhaZecYoKxiTZpD95) | 2:12 | 2021-11-09 | 2022-02-01 |
 | [Together At Last](https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Jobim Ffrench](https://open.spotify.com/artist/2AToteRrIWDjK7akp8XDEG) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:11 | 2021-11-09 |  |
 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2023-02-28 |  |

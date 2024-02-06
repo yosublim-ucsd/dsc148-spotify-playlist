@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,201 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,203 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [nirvana](https://open.spotify.com/track/0qgDLbVDqWaD95BFMcOBut) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 3:16 |
 | 50 | [Zen Mode \(feat\. P\-Lo\)](https://open.spotify.com/track/3PnklmqqCm1caXi093GlVH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 2:37 |
 
-Snapshot ID: `Mjg0NTA4MjYsMDAwMDAwMDBlZTFjZThiOWM4MDZhYzgwNTA3YjM0ZDMyZWJkYzNlZQ==`
+Snapshot ID: `Mjg0NTIyMzEsMDAwMDAwMDAyOTNhMTQyMzY3YjM4YzRmNzcyYWEyNjAwODEzYmMxMQ==`

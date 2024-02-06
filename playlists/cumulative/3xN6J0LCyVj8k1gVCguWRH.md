@@ -2,9 +2,9 @@
 
 ### [ Obama’s Summer Playlist 2024 \| Favorite Songs of 2023](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> Barack Obama&\#x27;s favorite songs of 2023 plus somo of his favorite summer songs\. Includes Summer 22, &amp; 21 editions + bonus tracks.
+> Obama&\#x27;s favorite songs of 2024 plus some of his favorite summer songs\. Includes Summer 23, 22, &amp; 21 editions + bonus tracks.
 
-2,937 songs - 6 day 23 hr 34 min
+2,938 songs - 6 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Boost Your Day](https://open.spotify.com/track/5JYp61ZAJC43DMPWxbcqzy) | [ProFresh](https://open.spotify.com/artist/5m12qXigvAFKGPGaaCuT5U) | [Boost Your Day](https://open.spotify.com/album/7iFqwv1c1omXtGXyO79TXV) | 1:56 | 2019-10-30 | 2019-11-16 |
 | [Bord de piscine](https://open.spotify.com/track/2jK45e9GlKs48hXg0GebPD) | [CHEBO](https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz) | [Bord de piscine](https://open.spotify.com/album/50tgQD85gZYNfnLlhuJuJu) | 2:49 | 2021-10-20 | 2021-11-05 |
 | [Borderline](https://open.spotify.com/track/1pqkDfPenFVhgFAPNUDl9z) | [Unknown Caller](https://open.spotify.com/artist/0gUKK02uECB18NoTtiZngb) | [Borderline](https://open.spotify.com/album/22Sg8gJ7WFWIlCRAnHjmls) | 3:44 | 2022-02-16 | 2022-03-05 |
+| [Bored](https://open.spotify.com/track/0kpj0uEvAueH685J9iwNFl) | [Jen Bee](https://open.spotify.com/artist/39HBPAHRM0EvqCMWEDTLZu) | [Jenbee](https://open.spotify.com/album/7iVS2WUDgr6pJ88FoTFA0E) | 3:45 | 2024-02-05 |  |
 | [Born Tired](https://open.spotify.com/track/29fvXHDuXSUkAojJ2ZhXVw) | [MYRY](https://open.spotify.com/artist/7zGRZCF0KZlDKuy3jU2lGq) | [Born Tired](https://open.spotify.com/album/4Jr8t3hh8KakGurri7Pwil) | 2:55 | 2023-04-21 | 2023-05-13 |
 | [Boujee](https://open.spotify.com/track/30TzMOZcEhoXsiuGYJcsyL) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Boujee](https://open.spotify.com/album/0U5rXP5qSdUaBmsC5QkvAN) | 2:47 | 2021-07-09 | 2021-07-25 |
 | [Bounce](https://open.spotify.com/track/6J86qOETxcHr4amkwIH1n2) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi) | [Bounce](https://open.spotify.com/album/758oxRK41PTA9IKfrMglD3) | 2:40 | 2022-08-26 | 2022-09-11 |

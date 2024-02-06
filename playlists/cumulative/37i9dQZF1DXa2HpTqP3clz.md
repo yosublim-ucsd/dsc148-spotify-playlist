@@ -2,7 +2,7 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Today's Bluegrass and old time favorites\. Cover: Sister Sadie
+> Today's Bluegrass and old time favorites\. Cover: Molly Tuttle & Bronwyn Keith\-Hynes of Molly Tuttle & Golden Highway
 
 521 songs - 1 day 7 hr 9 min
 

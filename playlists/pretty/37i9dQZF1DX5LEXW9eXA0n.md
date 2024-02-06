@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:Jhnovr\(존오버\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,899 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,908 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [With UNIVERSE](https://open.spotify.com/track/1GCYF6dKEpdC7GFn4Kmrd8) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [With UNIVERSE](https://open.spotify.com/album/2m8cxPDIlH371sLuivEWMI) | 2:59 |
 | 100 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 |
 
-Snapshot ID: `MCxhNzg2ZGQ3NDFiZTljMDA0MDNmZWRhNDVmOWE2N2UzYzQ3Y2UzZDdm`
+Snapshot ID: `MCwxOGJiZDBjMTU1N2Y4NTYxNjZmYzBkOWE5NTFjNmNiYjI5NzVkODgz`

@@ -4,13 +4,14 @@
 
 > un poquito de esto, un poquito de lo otro.
 
-74 songs - 4 hr 25 min
+75 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [512v](https://open.spotify.com/track/2oQz32JhGEmemuItfgoz1M) | [Dj Nacho Serra](https://open.spotify.com/artist/37JbKGCIYTyYw01zML801E), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [512v](https://open.spotify.com/album/345CAv2Rfeqo4blCC8Pajh) | 2:24 | 2023-11-29 |  |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2023-11-29 |  |
 | [Am \- House Remix](https://open.spotify.com/track/3xJfvufPUC0geMfQ5gCxzq) | [Guille Preda](https://open.spotify.com/artist/7KXLbxjmLRmsWAal7N4HnJ), [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Clubbin' Vol.1 \(House Remix\)](https://open.spotify.com/album/06zabyw045BqqS9MSfl8oL) | 2:19 | 2023-11-29 |  |
+| [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2024-02-05 |  |
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-11-29 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2023-11-29 |  |
 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 | 2023-11-29 | 2024-01-19 |
@@ -47,7 +48,7 @@
 | [La Jeepeta \(Techengue\)](https://open.spotify.com/track/05yLR6qCaXZPPBjUvV7Ake) | [Delirio Mix](https://open.spotify.com/artist/7fiUtSeEYMX5lZZkKoiX77), [FRVNKK](https://open.spotify.com/artist/73ZUVJpRyRACS9qUSGVpWC) | [La Jeepeta \(Techengue\)](https://open.spotify.com/album/6CohdpmWnvdZX8Hu7jDyxY) | 3:58 | 2023-11-29 |  |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2023-11-29 |  |
 | [Lala \(House\) \- Remix](https://open.spotify.com/track/2EHqKXixNhF2jbeEwMqL43) | [Manu Rg](https://open.spotify.com/artist/4BYjb5lZPyqyEJgSCkxXuH), [Bull Beats](https://open.spotify.com/artist/1mIqiRD1b8fQAMQyLJEawN) | [Lala \(House Remix\)](https://open.spotify.com/album/6gPkBYusZumEycC7vBK9Qz) | 2:20 | 2023-11-29 |  |
-| [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-11-29 |  |
+| [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-11-29 | 2024-02-06 |
 | [Linda \- Remix](https://open.spotify.com/track/46bvFFJUE5DKIZrKFfV8iC) | [Matias Deago](https://open.spotify.com/artist/2BZdRGYmqYAJYPg2juxPG7) | [Latin House \#1 \(Remix\)](https://open.spotify.com/album/66tKw24sjqHF1rZwsSvBF8) | 2:12 | 2023-11-29 |  |
 | [Los del Espacio \- Remix](https://open.spotify.com/track/2iHIfX9lYDG81qhlAWWigt) | [Nico Rosevear](https://open.spotify.com/artist/26MmkX8y0qDkxJOWa9hmPt), [Matideckerdj](https://open.spotify.com/artist/5MitgCjpWz3CWPnjNNuenW) | [Los del Espacio \(Remix\)](https://open.spotify.com/album/2htRGqznMuUCAPXFEodG8v) | 5:37 | 2023-11-29 |  |
 | [Luces](https://open.spotify.com/track/2FBhUA36t0zThJdCrX1Qis) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:52 | 2023-11-29 |  |

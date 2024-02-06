@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 549604,
+  "num_followers": 549673,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTY1NmJjZjQ1NjdkOTBlYTI2YTZjY2Y0ZmFmMTA2MGJiODYyZWY1",
+  "snapshot_id": "MCwwMDJkN2MxMzBjYzc4NWJhMDgzMmJiZTQ4Yjk0MzgzOTc5MGJlZDlh",
   "tracks": [
     {
       "added_at": "2024-02-02 17:03:26",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Lady Love",
-        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "Lady Love",
-      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Beat Of Your Heart",
         "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 209186,
       "name": "Beat Of Your Heart",
       "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "Lady Love",
+      "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Ordinary Love (Folamour Remix)",
-        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "Ordinary Love - Folamour Remix",
-      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Giodisco",
         "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 165720,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1251,22 +1267,6 @@
       "duration_ms": 281780,
       "name": "Vesuvio",
       "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Weekend Love",
         "url": "https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07"
       },
@@ -1387,6 +1367,46 @@
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Best Of My Love",
+        "url": "https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48"
+      },
+      "artists": [
+        {
+          "name": "Revival",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Best Of My Love",
+      "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Best Of My Love",
-        "url": "https://open.spotify.com/album/5MmHGtK6mKVpyVNYVdXf48"
-      },
-      "artists": [
-        {
-          "name": "Revival",
-          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Best Of My Love",
-      "url": "https://open.spotify.com/track/6xUNDUAOBovyRz1MnvMKAU"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Dunston (Bellaire Remix)",
         "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
       },
@@ -1467,30 +1467,6 @@
       "duration_ms": 213243,
       "name": "Dunston (Bellaire Remix)",
       "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1571,6 +1547,30 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
         "name": "To the Stars and Back",
         "url": "https://open.spotify.com/album/5aYIRYfTHseCyXvhGGQHF9"
       },
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 230854,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
-    },
-    {
-      "added_at": "2024-02-02 17:03:26",
-      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1663,18 +1643,22 @@
     {
       "added_at": "2024-02-02 17:03:26",
       "album": {
-        "name": "Hot Summer Love",
-        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
       "artists": [
         {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 254072,
-      "name": "Hot Summer Love",
-      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+      "duration_ms": 230854,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
     },
     {
       "added_at": "2024-02-02 17:03:26",
@@ -1739,6 +1723,22 @@
       "duration_ms": 232389,
       "name": "Post Tenebras Lux",
       "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
+    },
+    {
+      "added_at": "2024-02-02 17:03:26",
+      "album": {
+        "name": "Hot Summer Love",
+        "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 254072,
+      "name": "Hot Summer Love",
+      "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
     },
     {
       "added_at": "2024-02-02 17:03:26",

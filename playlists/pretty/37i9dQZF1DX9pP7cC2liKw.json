@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 233646,
+  "num_followers": 233775,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTY2NzU2M2JmZDM5MzJkZWVkMmZiZjQ2YmQ3N2RiMDg2MWVmYzAw",
+  "snapshot_id": "MCwxZjVhYmQzYjhmYTBiNDI4NmI0ZTM2YmVkYzdhMWQ5ZmVlYWNmZmEz",
   "tracks": [
     {
       "added_at": "2023-09-25 01:20:49",
@@ -223,6 +223,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 268956,
       "name": "Xica Xica",
       "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/4jo8s0TQGVHnmZ2gjErAQ2"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -339,42 +339,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2024-01-11 03:40:03",
-      "album": {
-        "name": "Icebreaker",
-        "url": "https://open.spotify.com/album/61Nc4G7vS17qylnwZn04PM"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 272258,
-      "name": "Icebreaker",
-      "url": "https://open.spotify.com/track/4RGFX9OqIR7XsN2vVs50Ti"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Camino de Flores",
         "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 341500,
       "name": "Mirando El Fuego",
       "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
+    },
+    {
+      "added_at": "2024-01-11 03:40:03",
+      "album": {
+        "name": "Icebreaker",
+        "url": "https://open.spotify.com/album/61Nc4G7vS17qylnwZn04PM"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 272258,
+      "name": "Icebreaker",
+      "url": "https://open.spotify.com/track/4RGFX9OqIR7XsN2vVs50Ti"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -465,28 +465,24 @@
       "url": "https://open.spotify.com/track/2l32G0AUkiekhAjGTBOi5S"
     },
     {
-      "added_at": "2023-07-21 19:49:45",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+        "name": "Claremont 56: 10 Years, Pt. 1",
+        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Para\u00edso",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
         },
         {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
         }
       ],
-      "duration_ms": 260584,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+      "duration_ms": 429913,
+      "name": "Teu Sorriso - Jex Opolis Remix",
+      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
       "added_at": "2024-01-11 03:40:03",
@@ -509,24 +505,28 @@
       "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-07-21 19:49:45",
       "album": {
-        "name": "Claremont 56: 10 Years, Pt. 1",
-        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
       "artists": [
         {
-          "name": "Para\u00edso",
-          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 429913,
-      "name": "Teu Sorriso - Jex Opolis Remix",
-      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+      "duration_ms": 260584,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
+      "added_at": "2023-11-16 17:08:10",
+      "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
+    },
+    {
       "added_at": "2022-09-02 05:59:31",
       "album": {
         "name": "La Matanza",
@@ -771,22 +787,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2023-11-16 17:08:10",
-      "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        }
-      ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",

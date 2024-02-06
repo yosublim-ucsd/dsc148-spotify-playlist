@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Abyusif",
-  "num_followers": 127636,
+  "num_followers": 127707,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmU2M2JmOTE4Mjk3MTdmMmRjOTk3MTRkMWYxNDM5NWI2NmNhN2Vk",
+  "snapshot_id": "MCw2ZjEzNmU1NzFhYWYyZGIwYjFkYzY0YmExNmU2MjMxMGU3YTM1OWQ5",
   "tracks": [
     {
       "added_at": "2024-01-31 04:57:19",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
-        "url": "https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 176679,
-      "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
-      "url": "https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "TA TA TA",
-        "url": "https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP"
+        "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
+        "url": "https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d"
       },
       "artists": [
         {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         }
       ],
-      "duration_ms": 159810,
-      "name": "TA TA TA",
-      "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
+      "duration_ms": 176679,
+      "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
+      "url": "https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -407,6 +391,22 @@
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
+        "name": "TA TA TA",
+        "url": "https://open.spotify.com/album/1FJ28AVA8iFQuwtAQWOwGP"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 159810,
+      "name": "TA TA TA",
+      "url": "https://open.spotify.com/track/0RH75zMCXxmyxqiz8CymsO"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
+        "name": "SBITAR",
+        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
         "name": "6G",
         "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 188040,
       "name": "SOMNIFERE",
       "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
-        "name": "SBITAR",
-        "url": "https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/65SmL7YPV13heKT147Fosp"
     },
     {
       "added_at": "2024-01-31 04:57:19",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-31 04:57:19",
       "album": {
-        "name": "KALBI",
-        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
-      },
-      "artists": [
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "KALBI",
-      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
-    },
-    {
-      "added_at": "2024-01-31 04:57:19",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 484797,
       "name": "Seven Bullets",
       "url": "https://open.spotify.com/track/5dU7mZmnQyaUxHlEQwtWM9"
+    },
+    {
+      "added_at": "2024-01-31 04:57:19",
+      "album": {
+        "name": "KALBI",
+        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "KALBI",
+      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
     },
     {
       "added_at": "2024-01-31 04:57:19",

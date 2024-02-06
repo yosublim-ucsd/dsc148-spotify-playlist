@@ -2,7 +2,7 @@
 
 ### [Front Page Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
 
-> Congrats to all Grammy winners! Cover: Jack Antonoff \(Producer of the Year\)
+> The best in modern indie\. Cover: Jack Antonoff
 
 1,993 songs - 4 day 23 hr 45 min
 

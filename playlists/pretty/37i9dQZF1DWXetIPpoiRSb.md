@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,691 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,690 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Backseat Driver](https://open.spotify.com/track/22nzFhzs8OUwmfXx2SdBwm) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Backseat Driver](https://open.spotify.com/album/6uP6H8cvDYJUzKV1hoi0cT) | 2:55 |
 | 80 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 
-Snapshot ID: `MCxlOGQ4Y2M3ZmIwNzFiNWUxZDMwMjQ5OGViZDgxNmFmY2Q5ZDg0ZmNj`
+Snapshot ID: `MCxkYWY5ZTRiYTFiNjFiNDI5ZWM1NjQwNDg3OTBhNjRlN2NkNzAxNTRj`

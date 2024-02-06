@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Teethe
 
-1,153 songs - 2 day 17 hr 31 min
+1,154 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2022-03-04 | 2022-07-21 |
 | [Call Me Upset](https://open.spotify.com/track/2jGNZGDdHZCVwqMMZLkhvC) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [Call Me Upset](https://open.spotify.com/album/5KRxB2jRKrfyuJH6pQVgLA) | 3:00 | 2022-07-15 | 2022-12-15 |
 | [Can You See Me](https://open.spotify.com/track/5bcuh5urwoAEJ2FfoGextz) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Can You See Me](https://open.spotify.com/album/6xmguBJKNb4Xxn3ODeICu7) | 3:30 | 2022-01-28 | 2022-04-28 |
-| [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 | 2023-08-24 |  |
+| [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 | 2023-08-24 | 2024-02-06 |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-03-26 | 2022-05-19 |
 | [Car Crash](https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [IT IS A PLEASURE TO BE HERE](https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK) | 3:30 | 2022-08-05 | 2022-12-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-03-05 | 2022-07-09 |
@@ -1002,6 +1002,7 @@
 | [The Greatest](https://open.spotify.com/track/3hYfLNWbKnBut3ATcMwK5C) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [The Greatest / Skin A Rat](https://open.spotify.com/album/7J5OaO9WZfptgDJBRBFDrC) | 3:20 | 2021-11-18 | 2022-04-27 |
 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 | 2022-04-29 | 2022-10-01 |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-03-26 | 2022-07-16 |
+| [the lonely girl](https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [the lonely girl](https://open.spotify.com/album/4clOUOCFf89vkXuaTs9Klf) | 3:10 | 2024-02-05 |  |
 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 | 2022-07-29 | 2022-09-29 |
 | [the ocean that ate new york](https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [this place isnt real](https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R) | 2:47 | 2023-09-01 | 2023-10-30 |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-03-26 | 2022-05-19 |

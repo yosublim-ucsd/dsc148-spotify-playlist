@@ -1,12 +1,12 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 372484,
+  "num_followers": 372721,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWVkZDdlZWJhODVkMmYyOTNjNTBhY2U0Zjg2NWJmMjEyZmI1ZDg5",
+  "snapshot_id": "MCxmMmVhZjY4ODM2YzU1MDY2YTgwZTE2N2MxY2EzMDUzZmMyZTE4YzRk",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -215,26 +215,6 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
-        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
-      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
         "name": "Get Low",
         "url": "https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 174500,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+        "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 174917,
+      "name": "MHITR (Semi-Automatic) [feat. Eksman]",
+      "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q"
       },
       "artists": [
         {
-          "name": "Murdbrain",
-          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
-        },
-        {
-          "name": "Junior Charles",
-          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
+          "name": "Ozlig",
+          "url": "https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L"
         }
       ],
-      "duration_ms": 146952,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
+      "duration_ms": 151142,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q"
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE"
       },
       "artists": [
         {
-          "name": "Ozlig",
-          "url": "https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L"
+          "name": "Murdbrain",
+          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
+        },
+        {
+          "name": "Junior Charles",
+          "url": "https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO"
         }
       ],
-      "duration_ms": 151142,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ"
+      "duration_ms": 146952,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Italiano",
+        "url": "https://open.spotify.com/album/0tELMNBziMylG4DlPRCUkR"
+      },
+      "artists": [
+        {
+          "name": "FanEOne",
+          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
+        },
+        {
+          "name": "Little Trouble",
+          "url": "https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS"
+        }
+      ],
+      "duration_ms": 150899,
+      "name": "Italiano",
+      "url": "https://open.spotify.com/track/6F5ZZ11gmn7f2PfQSGONDp"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Blast",
         "url": "https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4"
       },
@@ -791,22 +811,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Italiano",
-        "url": "https://open.spotify.com/album/0tELMNBziMylG4DlPRCUkR"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
       },
       "artists": [
         {
-          "name": "FanEOne",
-          "url": "https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT"
-        },
-        {
-          "name": "Little Trouble",
-          "url": "https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS"
+          "name": "OsMan",
+          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
         }
       ],
-      "duration_ms": 150899,
-      "name": "Italiano",
-      "url": "https://open.spotify.com/track/6F5ZZ11gmn7f2PfQSGONDp"
+      "duration_ms": 136000,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 152001,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz"
-      },
-      "artists": [
-        {
-          "name": "OsMan",
-          "url": "https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH"
     },
     {
       "added_at": "2024-02-02 05:00:00",

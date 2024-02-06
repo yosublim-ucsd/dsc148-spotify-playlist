@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,266 likes - 169 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,268 likes - 169 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 |
+| 1 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
 | 2 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 3 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 |
 | 4 | [Blast Fo Me](https://open.spotify.com/track/6vWnFNr7NKXLtrRM0G5IEC) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Blast Fo Me](https://open.spotify.com/album/3Vp1PO5RWhxy5amODsSNwp) | 2:55 |
-| 5 | [90s \- Butcher Brown Remix](https://open.spotify.com/track/7fyFC72pjitDo4cmL0gX4W) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [90s \(Butcher Brown Remix\)](https://open.spotify.com/album/1F8dwsU59wfhViHu6HYv27) | 4:24 |
-| 6 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 |
+| 5 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 |
+| 6 | [90s \- Butcher Brown Remix](https://open.spotify.com/track/7fyFC72pjitDo4cmL0gX4W) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [90s \(Butcher Brown Remix\)](https://open.spotify.com/album/1F8dwsU59wfhViHu6HYv27) | 4:24 |
 | 7 | [be like that](https://open.spotify.com/track/0m3vkFhDCpZfkh0Si3AEEt) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [no sleep in LA \- deluxe edition](https://open.spotify.com/album/5WDCUqOIXtmhICXT1c9fYl) | 2:29 |
 | 8 | [Basement Party](https://open.spotify.com/track/6KMMZpANIfgx1oDHUy1TnI) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [The Lost Tape](https://open.spotify.com/album/4Q6TO9LyXJRr872RW3jqf5) | 4:04 |
 | 9 | [Re\-Up](https://open.spotify.com/track/7yThFb95n51KWFbwbfb3P0) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Re\-Up](https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH) | 3:19 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 168 | [Drowning in Your Love \- Gold Edit](https://open.spotify.com/track/3HYanTbvNE4gyjnbjgxOoO) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:47 |
 | 169 | [I Can't Sleep \- LPACA Remix](https://open.spotify.com/track/6jjtunGp1ilOEUrPIDjfLh) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Michi](https://open.spotify.com/artist/0Qaj2glLB2ykPA3qxiR8Z6), [LPACA](https://open.spotify.com/artist/0VrVe3wy9bP3D51Lo3AxrN) | [I Can't Sleep \(LPACA Remix\)](https://open.spotify.com/album/0q3eTPz8Kbi8g8pi8MaCdc) | 2:33 |
 
-Snapshot ID: `MCwyODliODZiZThjYzgzZmM3OTIzNmNiM2M5YjdhMGIyYjI1YmFhYTcx`
+Snapshot ID: `MCwyZTgwZTdjNmFkNGI3ZDc0YzAzYmYxYzA4Zjk0NjNlYTc0NjJlNThm`

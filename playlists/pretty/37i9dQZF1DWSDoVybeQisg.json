@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1139874,
+  "num_followers": 1139964,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWNlMDhjNjRhNjJhNTM2MTkyMzk3YzIwZjcyZGMzMmQ2YzVlNWIw",
+  "snapshot_id": "MCxkZWFmZTQ2YTFhMzBkMGZkODBjNTBlYTMzNGNkN2YzMDYzODE0YTEy",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -127,6 +127,38 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -159,38 +191,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "A Space in Time (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "I'd Love to Change the World - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 208466,
       "name": "Lucy In The Sky With Diamonds - Remastered 2009",
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "A Space in Time (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "I'd Love to Change the World - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -383,6 +367,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster",
-        "url": "https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG"
-      },
-      "artists": [
-        {
-          "name": "13th Floor Elevators",
-          "url": "https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38"
-        }
-      ],
-      "duration_ms": 146737,
-      "name": "You're Gonna Miss Me (2008 Remastered Original Mono LP Version)",
-      "url": "https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster",
+        "url": "https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG"
+      },
+      "artists": [
+        {
+          "name": "13th Floor Elevators",
+          "url": "https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38"
+        }
+      ],
+      "duration_ms": 146737,
+      "name": "You're Gonna Miss Me (2008 Remastered Original Mono LP Version)",
+      "url": "https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 86693,
       "name": "The Good Mr. Square",
       "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Younger Than Yesterday",
-        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "My Back Pages",
-      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -647,22 +631,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Clear Spot",
         "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 177506,
       "name": "Her Eyes Are a Blue Million Miles",
       "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Younger Than Yesterday",
+        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "My Back Pages",
+      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Tangerine Dream",
-        "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaleidoscope",
-          "url": "https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy"
-        }
-      ],
-      "duration_ms": 480800,
-      "name": "The Sky Children",
-      "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Incense & Peppermints",
         "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 169800,
       "name": "Incense And Peppermints",
       "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Tangerine Dream",
+        "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaleidoscope",
+          "url": "https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy"
+        }
+      ],
+      "duration_ms": 480800,
+      "name": "The Sky Children",
+      "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Spreading from the Ashes",
         "url": "https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 122666,
       "name": "Flight of the Psychedelic Bumble Bee",
       "url": "https://open.spotify.com/track/27aeWRq1h65omUnS16hciN"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2023-01-18 16:20:47",

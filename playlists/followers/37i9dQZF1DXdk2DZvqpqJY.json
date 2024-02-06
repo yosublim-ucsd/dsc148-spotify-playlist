@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 69629,
+  "2024-02-06": 69696,
   "date_first_scraped": "2022-02-18",
   "description": "Swinging jazz for relaxing and unwinding.",
   "name": "Chill Out Jazz",
@@ -3263,7 +3263,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 224500,
       "name": "It's Raining Outside",
       "url": "https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx"
@@ -4575,7 +4575,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 241219,
       "name": "New York City Dreamin'",
       "url": "https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE"
@@ -5661,6 +5661,24 @@
       "duration_ms": 336773,
       "name": "Satori Ways",
       "url": "https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO"
+    },
+    {
+      "album": {
+        "name": "Short Intermission",
+        "url": "https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Short Intermission",
+      "url": "https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg"
     },
     {
       "album": {
@@ -7283,6 +7301,24 @@
       "duration_ms": 181158,
       "name": "Tickled Pink",
       "url": "https://open.spotify.com/track/71FaCRVZuDQgO4h3qWb7Lk"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "album": {

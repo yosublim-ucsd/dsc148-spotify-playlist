@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Matteo Romano
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,475 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,423 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 |
 | 50 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 |
 
-Snapshot ID: `MCxhNzJmOGI2NmIwYTkwNzAyMmIzNjBiYjEwZGJlOTI3ODRhMTk1MDVl`
+Snapshot ID: `MCxhZjY1MWM2OWVjYzA2MmY3YmEzYzM0NWExMWIwOTIzOGY2YTQ0ZTll`

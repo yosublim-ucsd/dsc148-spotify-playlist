@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-235 songs - 13 hr 59 min
+236 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Accepted](https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5) | [Silky](https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C), [Supine](https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM), [Wist](https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8) | [Accepted](https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO) | 2:00 | 2022-09-29 | 2023-09-09 |
 | [afterdark.](https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [afterdark.](https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I) | 1:33 | 2023-09-08 |  |
 | [against me](https://open.spotify.com/track/7lyEwN7BB2XufCMWMjEaGk) | [abece](https://open.spotify.com/artist/30EAeQTgUhGDScjjT3gHXs) | [against me](https://open.spotify.com/album/2Ouy3w7JR2SuWPomoa5qz7) | 1:34 | 2023-11-29 | 2024-01-22 |
+| [against me](https://open.spotify.com/track/0MUdyQzdbl7rQAXfWj8hZ3) | [Louffy](https://open.spotify.com/artist/13CLRpzYn8vvea8owycaQd) | [against me](https://open.spotify.com/album/5dGHZpTT9FeAg0n7wlorDc) | 1:34 | 2023-11-29 |  |
 | [Agony \- Instrumental](https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm) | 5:01 | 2023-09-08 | 2023-11-13 |
 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2023-09-08 | 2023-09-25 |
 | [Agony \- Instrumental](https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/6WF6Q0Ihfc5ZmbxICIuRnN) | 5:01 | 2023-09-08 | 2023-11-30 |
@@ -130,7 +131,7 @@
 | [Melanine](https://open.spotify.com/track/18rXOovmohAMcFwUPAUAN2) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/3I3PmRvn5iFY8i6zzvEcci) | 2:53 | 2019-12-16 | 2022-07-29 |
 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 | 2019-12-16 | 2024-01-24 |
 | [memories](https://open.spotify.com/track/4VkRQSpG16JxrXaVlNyWdX) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [memories](https://open.spotify.com/album/1W7locJBenHBGz0Z8OzBcq) | 1:26 | 2023-09-08 | 2023-11-30 |
-| [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 | 2023-11-29 |  |
+| [memories apart](https://open.spotify.com/track/76CCS9O2Wnwn6NoRuYCew9) | [knonzzz](https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7) | [memories apart](https://open.spotify.com/album/1rPBw0rwuxBxIw8PrR4Epm) | 1:41 | 2023-11-29 | 2024-02-06 |
 | [Midnight Cruisin'](https://open.spotify.com/track/3L21x578Ip8Adwi5hjzQpK) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/7ya7TNEDhpFxsxx371CKUz) | 2:05 | 2022-09-02 | 2022-11-20 |
 | [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 | 2022-11-22 | 2023-09-09 |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |

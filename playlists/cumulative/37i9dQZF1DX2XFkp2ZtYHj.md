@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-209 songs - 8 hr 51 min
+212 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-10-18 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-10-18 |  |
 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 | 2023-10-18 |  |
+| [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-05 |  |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-10-18 |  |
 | [Longing for You](https://open.spotify.com/track/33CNA3gUX4HkShLA3ILNjs) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Longing for You](https://open.spotify.com/album/2v6a6jspsycdaJvdydLgRE) | 2:18 | 2023-10-18 |  |
 | [Looseleft](https://open.spotify.com/track/36TroPa4PgkiGIKPk3nKsM) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Looseleft](https://open.spotify.com/album/61w2XTrZbHL70AnfX5tzQp) | 2:37 | 2023-10-18 |  |
@@ -193,6 +194,7 @@
 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 | 2023-10-18 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-10-18 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-18 |  |
+| [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-05 |  |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-10-18 |  |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-10-18 |  |
 | [To Bring Rest](https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [To Bring Rest](https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5) | 2:17 | 2023-10-18 |  |
@@ -207,6 +209,7 @@
 | [Vocation](https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Vocation](https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy) | 2:15 | 2023-10-18 |  |
 | [Warm](https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Warm](https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq) | 2:07 | 2023-10-18 |  |
 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-18 |  |
+| [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-02-05 |  |
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-10-18 |  |
 | [Whispering Pines](https://open.spotify.com/track/7Ia1tIQDGAFfZWYJc1vFcN) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [Whispering Pines](https://open.spotify.com/album/6859sgyqyzsrzEhQwoO91Q) | 2:13 | 2023-10-18 |  |
 | [Wieder Zusammen](https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Wieder Zusammen](https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j) | 3:11 | 2023-10-18 |  |

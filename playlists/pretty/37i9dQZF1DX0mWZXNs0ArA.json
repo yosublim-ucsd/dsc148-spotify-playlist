@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1905651,
+  "num_followers": 1906367,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWQzZDBhMTI5M2UwNWNhMDg5NDE0YzU4N2E2YWQyOTNiOGVhZTEy",
+  "snapshot_id": "MCwwODA4Njg4NDVlZWI5MDAwOWU5NzFjZmQxY2M3N2FmYjZlYzA2MDhk",
   "tracks": [
     {
       "added_at": "2024-01-19 14:14:29",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
+        "name": "Duvet",
+        "url": "https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 182792,
+      "name": "Duvet - Sped Up Version",
+      "url": "https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
         "name": "Me Gustas Tu EP",
         "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "Duvet",
-        "url": "https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 182792,
-      "name": "Duvet - Sped Up Version",
-      "url": "https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
         "name": "Kill Bill",
         "url": "https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 137528,
       "name": "Kill Bill - Sped Up Version",
       "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "Stereo Love (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
+      },
+      "artists": [
+        {
+          "name": "Stereo Lovers",
+          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Stereo Love - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -783,22 +799,6 @@
       "duration_ms": 102663,
       "name": "dumb dumb - sped up",
       "url": "https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
-        "name": "Stereo Love (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
-      },
-      "artists": [
-        {
-          "name": "Stereo Lovers",
-          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Stereo Love - Sped Up Version",
-      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -943,30 +943,6 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "XIII SORROWS (ODECORE MIX)",
-        "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
-      },
-      "artists": [
-        {
-          "name": "ODECORE",
-          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "LOOK DON'T TOUCH - Sped Up",
-      "url": "https://open.spotify.com/track/2m9Ho5nRJ1JwHBmSkzRQQq"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
         "name": "Strangers (feat. Kenya Grace) [Sped Up]",
         "url": "https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV"
       },
@@ -1007,18 +983,26 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "Murder In My Mind (Sped Up)",
-        "url": "https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ"
+        "name": "XIII SORROWS (ODECORE MIX)",
+        "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
       },
       "artists": [
         {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
         }
       ],
-      "duration_ms": 115200,
-      "name": "Murder In My Mind - Sped Up",
-      "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
+      "duration_ms": 128000,
+      "name": "LOOK DON'T TOUCH - Sped Up",
+      "url": "https://open.spotify.com/track/2m9Ho5nRJ1JwHBmSkzRQQq"
     },
     {
       "added_at": "2024-01-19 14:14:56",
@@ -1035,6 +1019,38 @@
       "duration_ms": 169541,
       "name": "I Wouldn't Mind - Sped Up",
       "url": "https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "Murder In My Mind (Sped Up)",
+        "url": "https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Murder In My Mind - Sped Up",
+      "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "IT GIRL (Sped up Version)",
+        "url": "https://open.spotify.com/album/6Vo7CAjDxSElpcVrAklmMp"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "IT GIRL - Sped up Version",
+      "url": "https://open.spotify.com/track/3dtzk6pwRzb9OTlInQGEdo"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "IT GIRL (Sped up Version)",
-        "url": "https://open.spotify.com/album/6Vo7CAjDxSElpcVrAklmMp"
-      },
-      "artists": [
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "IT GIRL - Sped up Version",
-      "url": "https://open.spotify.com/track/3dtzk6pwRzb9OTlInQGEdo"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
         "name": "LOVELY BASTARDS (Sped Up)",
         "url": "https://open.spotify.com/album/4z7xwDTQ64UQFqWaNPo9Ax"
       },
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
+        "name": "just wanna rock (Lil Uzi Vert) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 100383,
+      "name": "just wanna rock - Sped Up Version",
+      "url": "https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
         "name": "Mama's Boy (Sped up)",
         "url": "https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU"
       },
@@ -1191,22 +1211,26 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "just wanna rock (Lil Uzi Vert) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji"
+        "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2"
       },
       "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
         {
           "name": "sped up nightcore",
           "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 100383,
-      "name": "just wanna rock - Sped Up Version",
-      "url": "https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh"
+      "duration_ms": 187000,
+      "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
+      "url": "https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -1223,6 +1247,38 @@
       "duration_ms": 137978,
       "name": "D\u017eanum - Sped Up",
       "url": "https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "Wannabe (Sped Up Version)",
+        "url": "https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "duration_ms": 199770,
+      "name": "Wannabe - Sped Up Version",
+      "url": "https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
+        }
+      ],
+      "duration_ms": 176286,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1255,46 +1311,6 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/2qJA56ITockA3bdWlUJEK2"
-      },
-      "artists": [
-        {
-          "name": "Lah Pat",
-          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Rodeo Remix (feat. Flo Milli) [Sped Up Version]",
-      "url": "https://open.spotify.com/track/59802nBw0MFfy5D0KywW2a"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
-        }
-      ],
-      "duration_ms": 176286,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
         "name": "KOLLECTIVE",
         "url": "https://open.spotify.com/album/53i6MDOkEaGjpTrRZeW1ah"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 112532,
       "name": "JERK! - sped up",
       "url": "https://open.spotify.com/track/6nYrPptS647sQdex8eSPyR"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
-        "name": "Wannabe (Sped Up Version)",
-        "url": "https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ"
-      },
-      "artists": [
-        {
-          "name": "why mona",
-          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
-        }
-      ],
-      "duration_ms": 199770,
-      "name": "Wannabe - Sped Up Version",
-      "url": "https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
+        "name": "af1 (sped up)",
+        "url": "https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "duration_ms": 118811,
+      "name": "af1 (sped up)",
+      "url": "https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
         "name": "Maria Maria (feat. The Product G&B) [sped up]",
         "url": "https://open.spotify.com/album/14ZA6Zeh3TCxv4GIcCV6f7"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 236431,
       "name": "Maria Maria (feat. The Product G&B) - sped up",
       "url": "https://open.spotify.com/track/68R32667rUVTo8ldDkOXyR"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
-        "name": "af1 (sped up)",
-        "url": "https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B"
-      },
-      "artists": [
-        {
-          "name": "lilbubblegum",
-          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
-        }
-      ],
-      "duration_ms": 118811,
-      "name": "af1 (sped up)",
-      "url": "https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "In The Stars (Sped Up)",
-        "url": "https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 170505,
-      "name": "In The Stars - Sped Up",
-      "url": "https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm"
-    },
-    {
-      "added_at": "2024-01-19 14:14:29",
-      "album": {
         "name": "It\u2019s Called: Freefall (Rainbow Kitten Surprise) [Sped Up Version]",
         "url": "https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 128589,
       "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
       "url": "https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ"
+    },
+    {
+      "added_at": "2024-01-19 14:14:29",
+      "album": {
+        "name": "In The Stars (Sped Up)",
+        "url": "https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 170505,
+      "name": "In The Stars - Sped Up",
+      "url": "https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm"
     },
     {
       "added_at": "2024-01-19 14:14:29",
@@ -1823,26 +1823,30 @@
     {
       "added_at": "2024-01-19 14:14:29",
       "album": {
-        "name": "One Of Your Girls (Sped Up)",
-        "url": "https://open.spotify.com/album/48cK704EMiYSveyWWCST4j"
+        "name": "Price Tag (Sped Up)",
+        "url": "https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         },
         {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         },
         {
           "name": "Speed Radio",
           "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
         }
       ],
-      "duration_ms": 156220,
-      "name": "One Of Your Girls - Sped Up",
-      "url": "https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5"
+      "duration_ms": 197664,
+      "name": "Price Tag - Sped Up",
+      "url": "https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA"
     }
   ],
   "unique_name": "sped up songs",

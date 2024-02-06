@@ -75,6 +75,36 @@
     },
     {
       "album": {
+        "name": "As We Speak",
+        "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304361,
+      "name": "As We Speak",
+      "url": "https://open.spotify.com/track/0KHP9Nl8VktnIHuOvqlTpf"
+    },
+    {
+      "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
@@ -584,7 +614,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
@@ -1015,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347866,
+      "name": "Mind Ecology (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
+    },
+    {
+      "album": {
         "name": "Mitho Laage (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
       },
@@ -1246,7 +1298,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 348000,
       "name": "Padharo Mhare Des - Folk Fusion",
       "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
@@ -1293,6 +1345,36 @@
     },
     {
       "album": {
+        "name": "As We Speak",
+        "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504051,
+      "name": "Pashto",
+      "url": "https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL"
+    },
+    {
+      "album": {
         "name": "Pasoori",
         "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
       },
@@ -1308,10 +1390,32 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
+    },
+    {
+      "album": {
+        "name": "Natural Elements (with John McLaughlin)",
+        "url": "https://open.spotify.com/album/05RPG1hN35ucYL4BqEBZdn"
+      },
+      "artists": [
+        {
+          "name": "Shakti",
+          "url": "https://open.spotify.com/artist/3CHhVBXSF764Uot9sN2i8L"
+        },
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202533,
+      "name": "Peace Of Mind (with John McLaughlin)",
+      "url": "https://open.spotify.com/track/4SVJkfw1Z69PHunArOJf8F"
     },
     {
       "album": {
@@ -1646,7 +1750,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"

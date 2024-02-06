@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-419 songs - 1 day 1 hr 56 min
+420 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Floating](https://open.spotify.com/track/4KxKu2qHckBUhUWuXPNBNX) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Magic Manfred](https://open.spotify.com/artist/648yx5coGVscob95sgiSF9) | [Floating](https://open.spotify.com/album/0le3GyOXqCCCBOrhboRmhV) | 2:33 | 2022-03-24 | 2022-08-12 |
 | [Flower Rain](https://open.spotify.com/track/0SU43DECmSUO69rHLok0Nv) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Flower Rain](https://open.spotify.com/album/7AGOQzjucZUSYpaojAG0HY) | 3:37 | 2022-02-17 | 2022-08-18 |
 | [Focus Up](https://open.spotify.com/track/484tt1h7RV28dZ9swDWhKp) | [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [Focus Up](https://open.spotify.com/album/1oweSRD0bh09QJRCedoGkg) | 2:41 | 2022-12-09 | 2023-03-21 |
+| [Fool For Your Love](https://open.spotify.com/track/0TZvBsGCrJFg27QAKkScIg) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Fool For Your Love](https://open.spotify.com/album/5CJpGX6qbkzTpZ6PQxfbdj) | 3:50 | 2024-02-02 |  |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2023-03-20 |  |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2023-03-20 |  |
 | [For My Love](https://open.spotify.com/track/0tcjIkVN1nrs0uDluhygi0) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 4:45 | 2022-04-22 | 2022-06-03 |
@@ -421,7 +422,7 @@
 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 | 2023-02-23 | 2023-04-16 |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-20 |  |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |
-| [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-05-04 |  |
+| [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-05-04 | 2024-02-06 |
 | [Youth](https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Youth](https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp) | 5:08 | 2022-02-17 | 2022-06-10 |
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-01-19 |
 | [Zari](https://open.spotify.com/track/7CKoRCXq7YNisjXbmU2ba8) | [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp), [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Nafs at Peace](https://open.spotify.com/album/3mihMKEickUerWqYhi2Vg6) | 5:51 | 2022-02-17 | 2022-02-21 |

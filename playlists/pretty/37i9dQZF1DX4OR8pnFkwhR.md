@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが2024年に躍進を期待する次世代アーティスト「RADAR: Early Noise 2024」10組のアーティストを発表！！ <a href="https://spotify\-earlynoise.jp/">Early Noise Night\#16\(TOKYO\)</a>も3.15に開催決定！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,070 likes - 30 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,071 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 29 | [Discord\-disco](https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Discord\-disco](https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk) | 3:17 |
 | 30 | [僕だけが愛](https://open.spotify.com/track/586HamUq3n9cH9cDXWRzAb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけが愛](https://open.spotify.com/album/3bdleoxF74CDSzQXLwY8MI) | 5:23 |
 
-Snapshot ID: `MCwwNTM4MjliOGIzMWE5Y2ZjNGNkYTVjYTliZjdmNzBmZjQ2YmM5NzUy`
+Snapshot ID: `MCwwYWNjNGI1NWEzYWM4NDRmYzhiZTc2ZTgwNjU0YjI4NzVkMDdkZmI1`

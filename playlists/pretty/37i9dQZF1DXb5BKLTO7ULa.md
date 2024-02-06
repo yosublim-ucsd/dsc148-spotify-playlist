@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: DI\-RECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,777 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,779 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 83 | [Little Bitty \(featuring Rens Ottink\)](https://open.spotify.com/track/3SVF7EqwDroHMeZjNLDfB4) | [Tricklebolt](https://open.spotify.com/artist/1ZAx1trsNb2poWyQOgrw8w), [Rens Ottink](https://open.spotify.com/artist/54FutznFl1x1ysi8a32XON) | [Little Bitty \(featuring Rens Ottink\)](https://open.spotify.com/album/1mow1mMAnuuk1fJcNy92yU) | 2:49 |
 | 84 | [Forest Fruit](https://open.spotify.com/track/2m1vFWhpZPWupCMDAh2bth) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Forest Fruit](https://open.spotify.com/album/4VFUU4mwnvrT0nV5KEfxsW) | 3:02 |
 
-Snapshot ID: `MCxiNTM3NjBmODI3ZjIwYTQxZjM1OTgzZjVmMmY5MjI1ODEyYTY3MTdl`
+Snapshot ID: `MCxjMWZkOTQ5ODE2N2UwNjMzYTMxMjhmNzEyOGMxMDJlODBhNTdlZTE4`

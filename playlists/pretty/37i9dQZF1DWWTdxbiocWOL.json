@@ -1,12 +1,12 @@
 {
   "description": "Thunder is coming.",
-  "num_followers": 423670,
+  "num_followers": 423627,
   "original_name": "Calm Before the Storm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYThiNjVlZWUxZDBmMGRkMWU4YTEyZDY1MWUzMzI4ODhhOTY1ZWEz",
+  "snapshot_id": "MCwzNGZmZDkxMDlhNGFiOWIyMmUxOGFkNzhiMDZiZTQwMmM2ZmNlNDZl",
   "tracks": [
     {
       "added_at": "2023-10-19 17:09:31",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Hymn to the Immortal Wind (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 482121,
       "name": "Job's Lament",
       "url": "https://open.spotify.com/track/6rK7VyAi0XGdhz4LdzXVZj"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
+        "name": "Radio Protector",
+        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
+      },
+      "artists": [
+        {
+          "name": "65daysofstatic",
+          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
+        }
+      ],
+      "duration_ms": 328186,
+      "name": "Radio Protector",
+      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
         "name": "These Small Spaces",
         "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 419333,
       "name": "Her Beating Wings",
       "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
-        "name": "The Fear Is Excruciating, But Therein Lies The Answer",
-        "url": "https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR"
-      },
-      "artists": [
-        {
-          "name": "Red Sparowes",
-          "url": "https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "In Illusions Of Order",
-      "url": "https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
+        "name": "The Fear Is Excruciating, But Therein Lies The Answer",
+        "url": "https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR"
+      },
+      "artists": [
+        {
+          "name": "Red Sparowes",
+          "url": "https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "In Illusions Of Order",
+      "url": "https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/2iNLwx97kVhWiEAdJqALOL"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 473733,
       "name": "Safety in Numbers",
       "url": "https://open.spotify.com/track/5RDhMJXMbRMIdRkvV3w2Df"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
-        "name": "Radio Protector",
-        "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
-      },
-      "artists": [
-        {
-          "name": "65daysofstatic",
-          "url": "https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g"
-        }
-      ],
-      "duration_ms": 328186,
-      "name": "Radio Protector",
-      "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Spine And Sensory (Expanded And Remastered)",
-        "url": "https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6"
-      },
-      "artists": [
-        {
-          "name": "Tristeza",
-          "url": "https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5"
-        }
-      ],
-      "duration_ms": 292453,
-      "name": "Golden Hill",
-      "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "The Earth Fell Away",
         "url": "https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 520172,
       "name": "Hexis",
       "url": "https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Spine And Sensory (Expanded And Remastered)",
+        "url": "https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6"
+      },
+      "artists": [
+        {
+          "name": "Tristeza",
+          "url": "https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5"
+        }
+      ],
+      "duration_ms": 292453,
+      "name": "Golden Hill",
+      "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
     }
   ],
   "unique_name": "Calm Before the Storm",

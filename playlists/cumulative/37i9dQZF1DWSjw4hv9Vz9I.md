@@ -4,7 +4,7 @@
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-122 songs - 7 hr 18 min
+123 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2021-09-10 |  |
 | [Cards](https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 4:14 | 2021-07-13 |  |
 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2021-07-13 |  |
-| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 |  |
+| [Come On Over feat\. Afrodyete](https://open.spotify.com/track/4Q0Qx5khaN6qJZ5AN7durj) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Dusk Till Dawn](https://open.spotify.com/album/34Qst6FA4Af9CogPQN3LSv) | 4:26 | 2021-07-13 | 2024-02-06 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-13 |  |
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2021-07-13 |  |
 | [Do It Again](https://open.spotify.com/track/0JEL0mNhB89bnkvPAuffd4) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:59 | 2021-07-13 |  |
@@ -121,6 +121,7 @@
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2021-07-13 |  |
 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 | 2023-12-13 |  |
 | [Up Top](https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Uncommon Good](https://open.spotify.com/album/29r3Vl3AHVHiYIQB3mwkW7) | 4:37 | 2021-07-13 |  |
+| [Upside](https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Upside](https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1) | 2:50 | 2021-07-13 |  |
 | [When It Was Wrong](https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU) | 3:34 | 2023-07-11 |  |
 | [When It Was Wrong](https://open.spotify.com/track/0dUb6kyjmx1XlkTw37g3tN) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/2uKI3AvjWBOoTJwO0yGrkc) | 4:32 | 2021-07-13 |  |
 | [Who Knows Who](https://open.spotify.com/track/6wZ0dZ5ZAb0Ufl70Ft0fzg) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Fanny Franklin](https://open.spotify.com/artist/6TNT3u6wqCFHq9fB5QjyvD) | [The Killion Floor](https://open.spotify.com/album/79qEi0Q67Pn3BY16kVba20) | 3:36 | 2021-07-13 |  |

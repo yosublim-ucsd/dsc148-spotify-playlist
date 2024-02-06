@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 94649,
+  "2024-02-06": 94697,
   "date_first_scraped": "2022-05-30",
   "description": "Plug your brain into a modular synthesizer analog loop.",
   "name": "MoogTube",
@@ -2071,7 +2071,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 459920,
       "name": "Oxygene, Pt. 1",
       "url": "https://open.spotify.com/track/2K9u91HJTxyb6wGJQRaCWT"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 467040,
       "name": "Oxygene, Pt. 2",
       "url": "https://open.spotify.com/track/1Gt7o5s9iZWkPfRqeJHiru"
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 246746,
       "name": "Oxygene, Pt. 4",
       "url": "https://open.spotify.com/track/2t9r7v0StZZraI1l6wgTgw"
@@ -2165,6 +2165,60 @@
       "duration_ms": 246893,
       "name": "Oxygene, Pt. 4",
       "url": "https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2"
+    },
+    {
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459000,
+      "name": "Oxyg\u00e8ne, Pt. 1",
+      "url": "https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv"
+    },
+    {
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466000,
+      "name": "Oxyg\u00e8ne, Pt. 2",
+      "url": "https://open.spotify.com/track/7vLKG4ww0P8seUUsbgpcz3"
+    },
+    {
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Oxyg\u00e8ne, Pt. 4",
+      "url": "https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf"
     },
     {
       "album": {

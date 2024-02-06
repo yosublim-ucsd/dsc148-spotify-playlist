@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: FRIDAY
 
-350 songs - 20 hr 17 min
+352 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,12 @@
 | [all we got](https://open.spotify.com/track/2PO1NahelfBM15cIqxOMHi) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [all we got](https://open.spotify.com/album/0WZ22z2ZmHhHgGN8qVEXeo) | 2:33 | 2023-02-23 | 2023-03-03 |
 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 | 2023-06-08 | 2023-10-28 |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-21 | 2023-09-16 |
-| [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-10-05 |  |
+| [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-10-05 | 2024-02-06 |
 | [Amsterdam](https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Amsterdam](https://open.spotify.com/album/5J8fTRkYJXCNJNxW7sFaOC) | 3:30 | 2023-08-24 | 2023-11-10 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-11 | 2024-02-03 |
 | [Annie](https://open.spotify.com/track/2BI1yb0fTu6RhGvP1nzHOM) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [Keep On Waiting](https://open.spotify.com/album/0fl59lgIVG87k4Knq9BKyQ) | 3:13 | 2023-03-17 | 2023-08-04 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-02-23 | 2023-03-31 |
+| [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-05 |  |
 | [Are You Done Running](https://open.spotify.com/track/0EFoiBHj3kP9WoVhojklW6) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 3:37 | 2023-11-02 |  |
 | [As It Is Right Now](https://open.spotify.com/track/5Rec1FjFqeRw1oSRFTidMf) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR) | [As It Is Right Now](https://open.spotify.com/album/5sgwzIrkao1f4GzGricPkQ) | 2:52 | 2023-10-27 |  |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-10-05 |  |
@@ -136,7 +137,7 @@
 | [Hideaway](https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Hideaway](https://open.spotify.com/album/0wi0YD4YslP4u8GBvlqWNG) | 4:19 | 2023-08-03 | 2024-01-26 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-11-30 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 | 2023-06-09 |
-| [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 | 2023-09-21 |  |
+| [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 | 2023-09-21 | 2024-02-06 |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-26 | 2023-11-08 |
 | [Hold You](https://open.spotify.com/track/2dZSb6MmOWdzqRLJgZ9TK8) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/73b2pnXNe6g8geL9EjPHkW) | 3:07 | 2023-08-17 | 2023-09-22 |
 | [Hold You](https://open.spotify.com/track/3IBKRmiZRn3HlVTnIkUm3d) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hold You](https://open.spotify.com/album/4JN5t0hCi1Lg1iFX7lLvoz) | 3:07 | 2023-06-22 | 2023-08-18 |
@@ -323,6 +324,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-07-21 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-20 | 2023-10-13 |
 | [Try To Love Again](https://open.spotify.com/track/6dPgYbtjAQumco8bMJBlXX) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Try To Love Again](https://open.spotify.com/album/5BdA4DGeDB7X3qVT6mDZAq) | 4:07 | 2023-10-12 |  |
+| [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-05 |  |
 | [Tussendoor](https://open.spotify.com/track/5ejOlSH4f8M5Tqrisvjpsz) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Tussendoor](https://open.spotify.com/album/1uiD722Lty54S0hMv6DAXS) | 3:05 | 2023-09-21 |  |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-02-23 | 2023-08-18 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-31 | 2024-02-03 |

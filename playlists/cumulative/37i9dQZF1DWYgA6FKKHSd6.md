@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-222 songs - 15 hr 59 min
+223 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Lil Jazzy](https://open.spotify.com/track/4wDH3AAhIbINXy5JkPdMvF) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr) | [Lil Jazzy](https://open.spotify.com/album/70Gt7B2fGrY9KV6zWVzxtc) | 3:52 | 2021-07-12 |  |
 | [Lil' too Late](https://open.spotify.com/track/2MzX6L4aa5YenFesxJDeMA) | [Elan Trotman's Tropicality](https://open.spotify.com/artist/5xv01tqskXWSxbUtR7iC5a) | [Double Take](https://open.spotify.com/album/1fak8Hq61PC9WJ3kXobIis) | 6:27 | 2021-07-12 |  |
 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 | 2021-07-12 |  |
-| [Livin' Large](https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 4:31 | 2021-07-12 |  |
+| [Livin' Large](https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 4:31 | 2021-07-12 | 2024-02-06 |
 | [Livin' The Life](https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43) | [Grady Nichols](https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA) | [Sophistication](https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN) | 3:47 | 2021-07-12 |  |
 | [Lover](https://open.spotify.com/track/64UufGODq0sAKOrjGLPRbn) | [Adrian Crutchfield](https://open.spotify.com/artist/4Ji3SC3eZTPuDsR1MMJeiS) | [Lover](https://open.spotify.com/album/4is0VNDimMxcv6bzdOVeLq) | 4:20 | 2022-08-26 |  |
 | [Lovesong](https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 5:16 | 2021-07-12 |  |
@@ -175,6 +175,7 @@
 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 | 2021-07-12 | 2022-07-25 |
 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 | 2021-07-12 |  |
 | [Sleekness \(feat\. Marcus Anderson\)](https://open.spotify.com/track/4a1hR376exZ81yDV5ur2fa) | [Player A](https://open.spotify.com/artist/5S29QBEiZBpT5GNjeilq9P) | [Our Own Devices](https://open.spotify.com/album/4E3gw8wXJHOoWmhBS38uLO) | 3:58 | 2021-07-12 |  |
+| [Snooze](https://open.spotify.com/track/2wsHCR12q3n3gkXgHmTltz) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Fine Tune](https://open.spotify.com/album/2o5ogZeEG083oYvpFMv2NU) | 3:39 | 2024-02-05 |  |
 | [So Into You](https://open.spotify.com/track/6DCHiBPhfiOm4qg8BrmfmE) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [So Into You](https://open.spotify.com/album/3QJ1n935JMUMT3uxmG2XcU) | 4:19 | 2022-05-20 |  |
 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 | 2021-07-12 |  |
 | [Solux](https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Align](https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv) | 4:04 | 2021-07-12 |  |

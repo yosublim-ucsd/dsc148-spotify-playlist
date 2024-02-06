@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-407 songs - 1 day 6 hr 0 min
+408 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Avocado Dance](https://open.spotify.com/track/00b5DB8NSRMFCyaiGOcwDt) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3) | [Beyond the Things I Know](https://open.spotify.com/album/0MZ5JM7joq6WNzjMRX9kMA) | 5:29 | 2023-07-10 |  |
 | [Away Alive](https://open.spotify.com/track/37YsTDAvMZ2KUxt0ZANhnh) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW) | [Sway](https://open.spotify.com/album/34pwfGczflufVT6lvC3Psb) | 2:54 | 2023-07-10 |  |
 | [Azulejos](https://open.spotify.com/track/4QzIBfFkEgaumDBJBE7djC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:28 | 2023-07-10 |  |
+| [Azzaman](https://open.spotify.com/track/04HDEpLOJcxAFUgpxZsO4O) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/5MCnyM5GBaeED2WXsQDE91) | 3:59 | 2024-01-19 |  |
 | [Azzaman](https://open.spotify.com/track/0ilFgeEIykSNK00krMGbaS) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Temet](https://open.spotify.com/album/1RK0pJy13gdxRchYDEemSq) | 3:59 | 2023-07-10 | 2024-01-13 |
 | [Aïcha \(Wolof\)](https://open.spotify.com/track/47SM72RTQXZpzOiyyraS4m) | [Africando](https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V) | [Baloba!](https://open.spotify.com/album/36mduXduOxss6KOtG7yuqI) | 5:10 | 2023-07-10 |  |
 | [Baby](https://open.spotify.com/track/77YYd464qZ7ivCPDT9Tlgy) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Tecnicolor](https://open.spotify.com/album/3V1DtzwjDoXJb0jEcJdQPC) | 3:37 | 2023-07-10 |  |
@@ -261,7 +262,7 @@
 | [Moussolou](https://open.spotify.com/track/2jkZYhTXDk83BOaRTR8QxH) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/792ZgWQIn49vY1iv970M26) | 5:14 | 2023-07-10 | 2023-11-04 |
 | [Moussolou](https://open.spotify.com/track/5IQtSy70lutizrFGdOH9QJ) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Moussolou](https://open.spotify.com/album/1FXBNl5MIvP4wm7D3MgRDm) | 5:14 | 2023-07-10 |  |
 | [Mr Tembo](https://open.spotify.com/track/5oLOgSExVFBBzYTXVblcwu) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:43 | 2023-07-10 |  |
-| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 |  |
+| [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2023-07-10 | 2024-02-06 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2023-07-10 |  |
 | [Mustt Mustt \- Massive Attack Remix \- Edit](https://open.spotify.com/track/4Bu3LxBpk3Mf80M0kVFdpU) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Massive Attack Remix\)](https://open.spotify.com/album/1JdcPYsnzYzG0uAPq7u1Ie) | 3:52 | 2023-07-10 |  |
 | [Na Kolonia](https://open.spotify.com/track/27vo1mDwmlSwf8n6Kdg2d7) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 5:40 | 2023-07-10 |  |

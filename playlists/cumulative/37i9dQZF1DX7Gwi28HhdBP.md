@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-242 songs - 17 hr 59 min
+243 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Adewak Ebn Karak](https://open.spotify.com/track/72nHkHaTVcM5iEbRVSlWvI) | [Ahmed Ezzat](https://open.spotify.com/artist/3i896v9Q9dwbQA5d9ShgwF), [Naaoum](https://open.spotify.com/artist/3pnV3zaWjl7WpOVmTWLxW9), [Ali Samara](https://open.spotify.com/artist/5Jtavon9JHpZ8unaJu6mUm) | [Adewak Ebn Karak](https://open.spotify.com/album/1xTTnWMbK8ktrWD15l1BYY) | 3:55 | 2021-12-16 | 2023-05-12 |
 | [Ah Ya Hanan](https://open.spotify.com/track/0p990x9z1sVdYhetTP2x4i) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hatzahzah](https://open.spotify.com/album/6UjPk9Jk9GmfAMi0kottOz) | 4:11 | 2023-04-20 | 2023-05-12 |
 | [Ah Ya Hanan](https://open.spotify.com/track/5Kx8kfU7OdfgMAiPwcBT7a) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hatzahzah](https://open.spotify.com/album/1x3DGZIVQ86TG7idTkn8WO) | 4:11 | 2021-12-16 | 2022-07-29 |
-| [Aheb El Mobtasmin](https://open.spotify.com/track/34f1MVGYf0HBC9TjLxRKnW) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Aheb El Mobtasmin](https://open.spotify.com/album/63UScCyYWwnAd7mAj33LsM) | 2:59 | 2021-12-16 |  |
+| [Aheb El Mobtasmin](https://open.spotify.com/track/34f1MVGYf0HBC9TjLxRKnW) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Aheb El Mobtasmin](https://open.spotify.com/album/63UScCyYWwnAd7mAj33LsM) | 2:59 | 2021-12-16 | 2024-02-06 |
 | [Akhbar El Taqs](https://open.spotify.com/track/5WCSGy5KS8EbVAiZCWRKF5) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Akhbar El Taqs](https://open.spotify.com/album/7aKYBduFhKUyAobvNGScmb) | 4:29 | 2021-12-16 | 2022-07-29 |
 | [Akhret El Gedaan Kalam](https://open.spotify.com/track/4LlcNc4fNYskvTaXqYhptm) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Akhret El Gedaan Kalam](https://open.spotify.com/album/3ToJq0fvvMTKy3N6Qfje4j) | 3:50 | 2021-12-16 | 2023-05-12 |
 | [Al Abad We Al Shaytaan](https://open.spotify.com/track/1Eq7pW66JTa0CHcDNG5UUZ) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:25 | 2021-12-16 | 2023-07-12 |
@@ -155,6 +155,7 @@
 | [أنا العريس](https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [أنا العريس](https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf) | 4:14 | 2021-12-16 |  |
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
+| [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 | 2024-02-05 |  |
 | [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-05-12 |
 | [الجدع](https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الجدع](https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ) | 3:19 | 2024-01-11 |  |
 | [الجدع](https://open.spotify.com/track/65iBEzBlfrnq5bomk0H3Yt) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR) | 3:49 | 2021-12-16 | 2022-07-29 |

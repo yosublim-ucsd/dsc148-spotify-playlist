@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 5661,
+  "num_followers": 5664,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTdmNjEzOTJiM2Q5YjliOThlNTYyYWU2OWFjMGRmY2E0YjNiZDA2",
+  "snapshot_id": "MCwxZTc0MjI1YjQ0OTY3ZDcwZDQyMDBiZjQxM2I0YTM5NzgxZWRhZWU1",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Aqu\u00ed Te Espero",
-        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Aqu\u00ed Te Espero",
-      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 204181,
       "name": "Dieznoches",
       "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Te Deseo Muy Felices Fiestas",
-      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "de mi pa ti",
         "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Te Deseo Muy Felices Fiestas",
+      "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
@@ -647,38 +647,6 @@
       "duration_ms": 180000,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -735,6 +703,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "Chilango Blues",
         "url": "https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 72874,
       "name": "La Luna y T\u00fa",
       "url": "https://open.spotify.com/track/4hHvdHXszAHLPrisD96BDq"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
     },
     {
       "added_at": "2023-12-15 19:29:49",

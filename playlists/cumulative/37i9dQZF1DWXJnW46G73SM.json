@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0646\u0627\u0646\u0633\u064a \u0639\u062c\u0631\u0645 \n",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u0627\u0644\u0629\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -6217,6 +6217,24 @@
     },
     {
       "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253634,
+      "name": "Lehqt Nafsy",
+      "url": "https://open.spotify.com/track/45yi4QfgBNiUEs4QfCpiYK"
+    },
+    {
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4"
       },
@@ -10423,6 +10441,24 @@
     },
     {
       "album": {
+        "name": "Ya Naseeni",
+        "url": "https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165798,
+      "name": "Ya Naseeni",
+      "url": "https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD"
+    },
+    {
+      "album": {
         "name": "Ya Rab Tkoon Be Khair",
         "url": "https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV"
       },
@@ -11716,7 +11752,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 181566,
       "name": "\u0627\u0646\u0633\u064a \u064a\u0623\u0633\u0643",
       "url": "https://open.spotify.com/track/67ELl3i4PFwL2Yc53ANsvE"
@@ -13358,7 +13394,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 195403,
       "name": "\u063a\u064a\u0631\u0643 \u062d\u0627\u0648\u0644",
       "url": "https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk"
@@ -13514,6 +13550,24 @@
       "duration_ms": 214000,
       "name": "\u0641\u0643\u0643 - \u0627\u062d\u0644\u0627\u0645 \u0633\u0639\u064a\u062f\u0629",
       "url": "https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN"
+    },
+    {
+      "album": {
+        "name": "\u0641\u064a \u0628\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW"
+      },
+      "artists": [
+        {
+          "name": "Bader AlShuaibi",
+          "url": "https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "\u0641\u064a \u0628\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw"
     },
     {
       "album": {
@@ -14448,7 +14502,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 128160,
       "name": "\u0646\u0635 \u0628\u0646\u0627\u062a \u0628\u0644\u062f\u0643",
       "url": "https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w"

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the music from Hazbin Hotel, now streaming on Prime Video. ",
-  "num_followers": 78531,
+  "num_followers": 90273,
   "original_name": "Hazbin Hotel Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDA3YjE4NDcxNzFkM2JhYzM5ZjY1OWNkM2Q2NzRkYmEyYmMzMzQ0",
+  "snapshot_id": "MCw2MmFmNTJiNjVjM2M5ZTk5MzdkMDZlYWUzMmFkNzM4ZjUyZjQ5MWJk",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -463,6 +463,94 @@
       "duration_ms": 209996,
       "name": "Ready For This",
       "url": "https://open.spotify.com/track/44q2aFehhEpojgA5qEkurR"
+    },
+    {
+      "added_at": "2024-02-05 19:37:56",
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "duration_ms": 60252,
+      "name": "More Than Anything - Reprise",
+      "url": "https://open.spotify.com/track/0Kq2P8gDwYTc2OdiHknX7F"
+    },
+    {
+      "added_at": "2024-02-05 19:37:56",
+      "album": {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Jeremy Jordan",
+          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/2W9W8wwOXJCux8sfyptX2p"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        }
+      ],
+      "duration_ms": 230580,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/6dss2WRbaDVKw4vpZlNxSv"
     }
   ],
   "unique_name": "Hazbin Hotel Official Playlist",

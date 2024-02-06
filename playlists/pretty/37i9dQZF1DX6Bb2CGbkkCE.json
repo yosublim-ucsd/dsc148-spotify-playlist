@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 4706,
+  "num_followers": 4711,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTJiNjA0NzMwMjVkMDk3Yzg0MzA4OWE0OWY3YjJiYTQ4NzcwNmJl",
+  "snapshot_id": "MCw3NzEwN2I3M2Q3N2Y0MDU0YTIxYTI1ZjY3M2MwNTNjYjg5NGY4YTY5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "On Me",
         "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Big Moves",
+        "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Big Moves",
+      "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Big Moves",
-        "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 159477,
-      "name": "Big Moves",
-      "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
     },
     {
       "added_at": "2022-10-01 16:00:00",

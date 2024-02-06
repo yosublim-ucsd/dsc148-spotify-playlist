@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: NewDad",
-  "num_followers": 114492,
+  "num_followers": 114500,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjc2NmM0YjkzNDZhMGU5Y2I2MTU3MDY4NDI5NTU4N2IzNDJhY2Qx",
+  "snapshot_id": "MCxmYWQwYjYwYTk2MDJkMDc3YTc5OGY5NjBlZmUyNjUxZTc5MTBlN2Ew",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "My Lady Of Mercy",
-        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 175410,
-      "name": "My Lady of Mercy",
-      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 268906,
       "name": "Roman Holiday",
       "url": "https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "My Lady Of Mercy",
+        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 175410,
+      "name": "My Lady of Mercy",
+      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Run Run Run",
         "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 131546,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/5sNlEPRZEB1Nl4k1zCr1wT"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 261798,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 322453,
       "name": "Heaven - feat. Damon Albarn",
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -795,6 +795,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "My Big Day",
+        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Turn The World On",
+      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "My Big Day",
-        "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Turn The World On",
-      "url": "https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS"
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "White Ribbons",
-        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 264698,
-      "name": "White Ribbons",
-      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Lunar Eclipse",
-        "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Nearly Daffodils",
         "url": "https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB"
       },
@@ -1099,6 +1067,22 @@
       "duration_ms": 224858,
       "name": "Nearly Daffodils",
       "url": "https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "White Ribbons",
+        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 264698,
+      "name": "White Ribbons",
+      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "The Overload",
+        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "The Overload",
+      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -1151,34 +1151,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
         }
       ],
-      "duration_ms": 199220,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "The Overload",
-        "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "The Overload",
-      "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 160346,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
+      "duration_ms": 199220,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 196800,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
       "added_at": "2024-01-26 00:00:00",

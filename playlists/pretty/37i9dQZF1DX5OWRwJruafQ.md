@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,896 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,910 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 11 | [33](https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [33](https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL) | 2:49 |
 | 12 | [Executioner](https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Executioner](https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ) | 2:57 |
 | 13 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 |
-| 14 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 |
+| 14 | [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 |
 | 15 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 |
 | 16 | [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 |
 | 17 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 100 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw5YjkxNTRjNjg5NmE0ZGYwZTI0MTU4MzEzMjgyMDQyOWFiYjE3ZjAz`
+Snapshot ID: `MCwwODE1NzFlM2JkNjU2ZjUxNTQ3NDI3ZTVhYTI5ZGRhNWZkOWZhMWZi`

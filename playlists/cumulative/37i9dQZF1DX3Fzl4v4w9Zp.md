@@ -2,7 +2,7 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: The Red Clay Strays
+> Keep your finger on the pulse of Americana\. Cover: Jason Isbell and the 400 Unit
 
 598 songs - 1 day 12 hr 58 min
 

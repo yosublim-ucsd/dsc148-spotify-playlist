@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,355,669 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356,624 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Flow Espacial](https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Flow Espacial](https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX) | 2:45 |
 | 50 | [Assault \(Joias no Pulso\)](https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [Assault \(Joias no Pulso\)](https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs) | 4:34 |
 
-Snapshot ID: `MCxhZWY2M2JjMjJlMjQxZWEwOTVhOWMyZWViMzliMjQxNmExYTUzZTg2`
+Snapshot ID: `MCxiMmJlMjBkMzNmMDYxMmFiMzExYjVmYTg0NDc2MDAzZGRlZWIxM2Y0`

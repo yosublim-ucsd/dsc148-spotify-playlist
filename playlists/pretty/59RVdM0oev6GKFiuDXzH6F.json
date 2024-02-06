@@ -1,12 +1,12 @@
 {
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
-  "num_followers": 4166,
+  "num_followers": 4165,
   "original_name": "Tech House & Clubbing 2024",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "MzUwMiw0OGM1YTkzZWY4MDNkYmI3NGM2NmZkZjFmOTQwZjZjMTdlMmQzZTEx",
+  "snapshot_id": "MzUwNSxiMzIzMTM3MmQxNjQ5MTA4MmU3M2VhODlhNjI5MTQzMmY2YjhhMGY4",
   "tracks": [
     {
       "added_at": "2024-01-05 08:01:19",
@@ -343,6 +343,26 @@
       "duration_ms": 121116,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr"
+    },
+    {
+      "added_at": "2024-02-05 15:52:28",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5XRh2PC7CTy5ec2gTrdkN9"
+      },
+      "artists": [
+        {
+          "name": "WhoKnows",
+          "url": "https://open.spotify.com/artist/4VnoKxF1E3ytbkEzGrZR63"
+        },
+        {
+          "name": "Hot n Spicy",
+          "url": "https://open.spotify.com/artist/46nCTKjkE9cpoVg8A3MgL0"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/1XJP2xGm47pxXygmKYwIWM"
     },
     {
       "added_at": "2024-01-12 08:13:01",
@@ -2983,6 +3003,46 @@
       "duration_ms": 211875,
       "name": "Play Hard",
       "url": "https://open.spotify.com/track/7dtO7dHGNide8mfe02874q"
+    },
+    {
+      "added_at": "2024-02-05 14:03:15",
+      "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/5flngZlwDlfT1t4c172wyy"
+      },
+      "artists": [
+        {
+          "name": "Insimon",
+          "url": "https://open.spotify.com/artist/3V6knpZsEfTqtbpwpkgnHB"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/06erqp7HcByGr9YR7yKgoF"
+    },
+    {
+      "added_at": "2024-02-05 14:38:29",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB"
+      },
+      "artists": [
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Helvig",
+          "url": "https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo"
     }
   ],
   "unique_name": "Tech House & Clubbing 2024",

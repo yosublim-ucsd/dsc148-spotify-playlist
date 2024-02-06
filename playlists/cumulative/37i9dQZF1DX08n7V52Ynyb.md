@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-197 songs - 14 hr 44 min
+198 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-07-21 | 2023-01-12 |
 | [But Not For Me](https://open.spotify.com/track/5mhtfZqUn7gzKUKE8oOWNB) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [The Blue Sounds](https://open.spotify.com/artist/0BhOoT9vdEhNihifcTqPMi), [Carl Orrje](https://open.spotify.com/artist/5dXBn9OSUXHhAJ1ChTq7T1), [Jesper Kviberg](https://open.spotify.com/artist/6NMvOwbJ1v5QAvJHRW4xSb) | [But Not For Me](https://open.spotify.com/album/1jLLut07Xb7HcnEHn3XSGt) | 4:18 | 2023-09-15 |  |
 | [By The Time I Get To Phoenix](https://open.spotify.com/track/5gOZnszNJ6dwPxkqsFrQoS) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 4:41 | 2023-09-15 |  |
-| [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 | 2022-05-19 |  |
+| [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 | 2022-05-19 | 2024-02-06 |
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2022-04-13 |  |
 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 | 2022-12-23 |  |
 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 | 2022-04-13 | 2023-02-01 |
@@ -64,6 +64,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 | 2023-08-10 | 2023-08-25 |
 | [Good Morning Heartache](https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti, Vol\. 2](https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8) | 5:08 | 2023-08-31 | 2023-09-16 |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-20 | 2023-01-13 |
+| [Hands Off](https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Hands Off](https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy) | 4:23 | 2024-02-02 |  |
 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 | 2022-04-13 |  |
 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2023-11-09 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2022-04-13 | 2023-10-20 |

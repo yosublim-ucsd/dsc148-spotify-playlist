@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "freckles,",
+        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230615,
+      "name": "freckles,",
+      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
+    },
+    {
+      "album": {
         "name": "Joy of Nothing",
         "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 197239,
       "name": "Still as the Night",
       "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"

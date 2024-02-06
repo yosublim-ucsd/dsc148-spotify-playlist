@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,516 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,498 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Burning in Flames](https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Burning In Flames](https://open.spotify.com/album/5E97jRPfvqIazBexNqZCjI) | 3:08 |
 | 50 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 |
 
-Snapshot ID: `MCxlYzJlMDM5MzBlODgxOWQ1ZDgwODhlOTIyNWIwNDg4OThhZDkzZDYy`
+Snapshot ID: `MCw4NjlhZjNmMzI1Y2M2YTQ3NTc5YWJjMjY4MjRlYzIzZWE1OGZjMzM1`

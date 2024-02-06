@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 335638,
+  "num_followers": 335668,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTg5NThiMWVkODE1ZjRjMjMwNDBlOTQwNTVjZjYwMTJkYjQ1YjU0",
+  "snapshot_id": "MCxjZjVhNDFjNDdjMjRkMjNjNTFlNmZiM2Y3ZTg3ZjQ5OTI5NThjNDE5",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Put Yourself Back Together",
-        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 163999,
-      "name": "I've Given Up on You",
-      "url": "https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Today I Saw The Whole World EP",
         "url": "https://open.spotify.com/album/3jpj1gAA8kbB6HFDByBaJt"
       },
@@ -171,38 +155,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Rain In July",
-        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189415,
-      "name": "A Part Of Me (feat. Laura Whiteside)",
-      "url": "https://open.spotify.com/track/1tQsbO9e25DNPCmZhbCB26"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 222869,
-      "name": "Take Me as You Please",
-      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -215,6 +167,38 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Put Yourself Back Together",
+        "url": "https://open.spotify.com/album/3G8a4ZUKQ5b2dEzXbeZ9LZ"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 163999,
+      "name": "I've Given Up on You",
+      "url": "https://open.spotify.com/track/4MR6PGC6LHMSXbK8iCfpug"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Rain In July",
+        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189415,
+      "name": "A Part Of Me (feat. Laura Whiteside)",
+      "url": "https://open.spotify.com/track/1tQsbO9e25DNPCmZhbCB26"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 222869,
+      "name": "Take Me as You Please",
+      "url": "https://open.spotify.com/track/5JCD9hxovnHVF72WXt7App"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/58oiBtnBtqmiHPJ2KymbpY"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 189899,
       "name": "I Love You, I Love You. It's Disgusting",
       "url": "https://open.spotify.com/track/6cLB090nWRtdMYNNPHO6UM"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "In Bloom: Versions",
-        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 212534,
-      "name": "In Bloom (Acoustic)",
-      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -347,6 +331,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "In Bloom: Versions",
+        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 212534,
+      "name": "In Bloom (Acoustic)",
+      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/5Vv9obdBrXn80tmZqSHPkI"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 278624,
       "name": "End of a Good Thing",
       "url": "https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 184490,
-      "name": "Little Dove",
-      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -479,6 +463,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 184490,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Sunnyland",
         "url": "https://open.spotify.com/album/6VgJZRUsCbR1NTnJWU85G4"
       },
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Tracks",
-      "url": "https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Better Weather",
         "url": "https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku"
+      },
+      "artists": [
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Tracks",
+      "url": "https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Voldemort",
+        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Voldemort (Acoustic)",
+      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Into The Dark (Acoustic)",
         "url": "https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd"
       },
@@ -655,38 +671,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Voldemort",
-        "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Voldemort (Acoustic)",
-      "url": "https://open.spotify.com/track/3Ju9wEP0b9wkNkVKxxGiJS"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Transient (acoustic)",
-        "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
-      },
-      "artists": [
-        {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
-        }
-      ],
-      "duration_ms": 260209,
-      "name": "Transient (acoustic)",
-      "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Fashion Forward (Acoustic)",
         "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 232755,
       "name": "Aquamarine (Acoustic)",
       "url": "https://open.spotify.com/track/0HU0bozP9c79zhdEvJw8ls"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Transient (acoustic)",
+        "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "Transient (acoustic)",
+      "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Punk Goes Acoustic, Vol. 3",
         "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 245361,
       "name": "A Wasted Hymn - Acoustic",
       "url": "https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
       },
       "artists": [
         {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 209801,
-      "name": "Wax Poetic (Acoustic)",
-      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
+      "duration_ms": 199086,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -987,6 +987,22 @@
       "duration_ms": 159553,
       "name": "Tide",
       "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Wax Poetic (Acoustic)",
+      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 199086,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "Smokestack",
-      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Never Happy, Ever After (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 204666,
       "name": "Dial Tones - Acoustic Version",
       "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 156010,
+      "name": "Smokestack",
+      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
     },
     {
       "added_at": "2022-04-04 15:03:53",

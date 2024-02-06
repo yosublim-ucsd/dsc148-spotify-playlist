@@ -1,5 +1,5 @@
 {
-  "2024-02-05": 12007,
+  "2024-02-06": 12013,
   "date_first_scraped": "2022-08-06",
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
   "name": "This Is Big Mama Thornton",
@@ -235,7 +235,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 253080,
       "name": "Big Mama's Bumble Bee",
       "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 305893,
       "name": "Everything Gonna Be Alright",
       "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 172266,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
@@ -745,6 +745,24 @@
       "duration_ms": 251426,
       "name": "Hound Dog / Walkin' the Dog",
       "url": "https://open.spotify.com/track/5Xc5VFCpLZyLLA3stSErZI"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2024-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154413,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/5TGqgKB5rS1midWmUVW3mR"
     },
     {
       "album": {
@@ -897,7 +915,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 105426,
       "name": "I Smell a Rat",
       "url": "https://open.spotify.com/track/0cmaDKffwFzu66an87Yyc5"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 169360,
       "name": "Just Like a Dog",
       "url": "https://open.spotify.com/track/3wVw6PSNqqzaO3kVp00pvA"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 166320,
       "name": "Let Your Tears Fall Baby",
       "url": "https://open.spotify.com/track/1jYWQqeAXOLrEViva1mhyR"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 160853,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 184100,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/5r9QVHvSVZ5Ch9Dj0TVCVS"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-05",
       "duration_ms": 163818,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ"
