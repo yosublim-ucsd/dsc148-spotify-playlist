@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 4165,
+  "2024-02-07": 4168,
   "date_first_scraped": "2023-02-16",
   "description": "Club tracks and dancefloor essentials. The best floor fillers. Change your living room to a nightclub with these tracks!",
   "name": "Tech House & Clubbing 2024",
@@ -3383,6 +3383,28 @@
       "duration_ms": 152812,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7E8IZjrD6QwTf1pS3KJCfG"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5XRh2PC7CTy5ec2gTrdkN9"
+      },
+      "artists": [
+        {
+          "name": "WhoKnows",
+          "url": "https://open.spotify.com/artist/4VnoKxF1E3ytbkEzGrZR63"
+        },
+        {
+          "name": "Hot n Spicy",
+          "url": "https://open.spotify.com/artist/46nCTKjkE9cpoVg8A3MgL0"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/1XJP2xGm47pxXygmKYwIWM"
     },
     {
       "album": {
@@ -6856,6 +6878,24 @@
     },
     {
       "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/5flngZlwDlfT1t4c172wyy"
+      },
+      "artists": [
+        {
+          "name": "Insimon",
+          "url": "https://open.spotify.com/artist/3V6knpZsEfTqtbpwpkgnHB"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/06erqp7HcByGr9YR7yKgoF"
+    },
+    {
+      "album": {
         "name": "No Guest List",
         "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
       },
@@ -8277,6 +8317,32 @@
       "duration_ms": 122678,
       "name": "Relax, Bro",
       "url": "https://open.spotify.com/track/61NyJsjaUxm4sbLMgc39LQ"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB"
+      },
+      "artists": [
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Helvig",
+          "url": "https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo"
     },
     {
       "album": {

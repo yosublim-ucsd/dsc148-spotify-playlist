@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,193 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,208 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 35 | [TIME](https://open.spotify.com/track/1hQZiYDGr6bbLc3ZxsT1CM) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [何度でも新しく生まれる](https://open.spotify.com/album/3IhDlS0GsKJHNCcJA7xocM) | 4:44 |
 | 36 | [Still In Love \- feat\. Navasha Daya](https://open.spotify.com/track/7FB7ZIcZhLX3gsN7q55Z3X) | [Shuya Okino](https://open.spotify.com/artist/1yF5iR2cIChyJUEQZoZ6ma), [Navasha Daya](https://open.spotify.com/artist/2VlzaSFag5euKYyhmke1QZ) | [Still In Love \(feat\. Navasha Daya\)](https://open.spotify.com/album/7zIqXKpg6ya5B4L0XMpDPn) | 8:08 |
 | 37 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 38 | [Steppin' Out \- Costes reedit](https://open.spotify.com/track/4ADnQjIeCmhiJyWIyMIuWI) | [FPM](https://open.spotify.com/artist/1JutKskRO6oaNx1vLwhKM7) | [Hôtel Costes 5](https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj) | 5:17 |
-| 39 | [Will](https://open.spotify.com/track/5altcHTL2RsY4HpUZZKiZ3) | [Kazusa](https://open.spotify.com/artist/2wWiqYc0aBOeBtNu3mfkxN) | [Will](https://open.spotify.com/album/6jZwUaBLAtRjVlyEEs03T9) | 4:40 |
-| 40 | [傘](https://open.spotify.com/track/3tnvtrKp719KqwclPDi0hK) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [オーパスゼロ](https://open.spotify.com/album/3skAGESOBjyEnHZJtqRxRd) | 4:16 |
-| 41 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 |
-| 42 | [メリーゴーランド](https://open.spotify.com/track/72VxnVlmdTNy5gePW3udEA) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [メリーゴーランド](https://open.spotify.com/album/614bxz7OLT117PPV9fssCJ) | 4:07 |
-| 43 | [素晴らしき朝帰り](https://open.spotify.com/track/1xyidjBgEYzApXqyafmxZ1) | [Sonodaband](https://open.spotify.com/artist/6iPpLVkmKkLZvRTe32cyzW) | [疾走\(はしれ はしれ\)](https://open.spotify.com/album/2DNjFjOAhHIyo4NdlTXbri) | 4:04 |
-| 44 | [オーロラ](https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0) | [toggle](https://open.spotify.com/artist/6CGPuICwE9tU5mZyGDtTeB) | [オーロラ / 帰ろう \- Single](https://open.spotify.com/album/3iAMo6dnNoILyyvBjaSeE3) | 5:43 |
-| 45 | [早い話](https://open.spotify.com/track/59VqqJdqGIP1h14I797eO0) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [ANY LUCK TO YOU](https://open.spotify.com/album/24zBUaMhsSWGJs6S3KAwTN) | 3:50 |
-| 46 | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/track/40W0JPTLGBzKKBfYY9fQVZ) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/album/7sKDx5iLMOYIvzc34AOzVO) | 3:20 |
+| 38 | [Will](https://open.spotify.com/track/5altcHTL2RsY4HpUZZKiZ3) | [Kazusa](https://open.spotify.com/artist/2wWiqYc0aBOeBtNu3mfkxN) | [Will](https://open.spotify.com/album/6jZwUaBLAtRjVlyEEs03T9) | 4:40 |
+| 39 | [傘](https://open.spotify.com/track/3tnvtrKp719KqwclPDi0hK) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [オーパスゼロ](https://open.spotify.com/album/3skAGESOBjyEnHZJtqRxRd) | 4:16 |
+| 40 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 |
+| 41 | [メリーゴーランド](https://open.spotify.com/track/72VxnVlmdTNy5gePW3udEA) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [メリーゴーランド](https://open.spotify.com/album/614bxz7OLT117PPV9fssCJ) | 4:07 |
+| 42 | [素晴らしき朝帰り](https://open.spotify.com/track/1xyidjBgEYzApXqyafmxZ1) | [Sonodaband](https://open.spotify.com/artist/6iPpLVkmKkLZvRTe32cyzW) | [疾走\(はしれ はしれ\)](https://open.spotify.com/album/2DNjFjOAhHIyo4NdlTXbri) | 4:04 |
+| 43 | [オーロラ](https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0) | [toggle](https://open.spotify.com/artist/6CGPuICwE9tU5mZyGDtTeB) | [オーロラ / 帰ろう \- Single](https://open.spotify.com/album/3iAMo6dnNoILyyvBjaSeE3) | 5:43 |
+| 44 | [早い話](https://open.spotify.com/track/59VqqJdqGIP1h14I797eO0) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [ANY LUCK TO YOU](https://open.spotify.com/album/24zBUaMhsSWGJs6S3KAwTN) | 3:50 |
+| 45 | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/track/40W0JPTLGBzKKBfYY9fQVZ) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/album/7sKDx5iLMOYIvzc34AOzVO) | 3:20 |
+| 46 | [かすみ草](https://open.spotify.com/track/6RFfqTMpNjpwK8S6gl5sn3) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [かすみ草](https://open.spotify.com/album/2wxCcvQSILpEQOpvel2bWn) | 4:14 |
 | 47 | [I Love You](https://open.spotify.com/track/2UTRBWwr4jbcI6TA51LpyD) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Genius Love](https://open.spotify.com/album/1eRPP8ixCmKTAfz2Rm7JD4) | 4:16 |
-| 48 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
-| 49 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 |
-| 50 | [Sink To Chair](https://open.spotify.com/track/4yOAEXVbEKI5FNGO69sWuj) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Sink To Chair](https://open.spotify.com/album/6s8PbS2n8QHoexJIcFTLHn) | 6:03 |
+| 48 | [ism](https://open.spotify.com/track/7ubAfZ3Nmbcbn8OKRi5PgY) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [ism](https://open.spotify.com/album/0yTDmZIawF3FebL82kHAYK) | 4:02 |
+| 49 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
+| 50 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 |
 
-Snapshot ID: `MCw0N2Q0ZjQzMTNkODMxYmZiMjBiNDljMTQ0YmNhMjQ2MzkwOWY2MDJj`
+Snapshot ID: `MCxkOTQ1ZGMwYzcxNWU4ZTNhNTcyYzBhN2M5ODQxZGE4NDBkNTIzN2Qz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,354 likes - 103 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,375 likes - 103 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 102 | [If You \(Papapa\)](https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [TIAMA l](https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg) | 2:53 |
 | 103 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 
-Snapshot ID: `MCw4ODdmYWI3ZDAwZWFiYjM1YWRkYWZhMjhhNGIzMWQyNzQyMmRlNmIx`
+Snapshot ID: `MCw4MDU5M2YxMWZmYzJkMTY0NGE1MDZlOGJlNmViNjJlMGJjZDIyNzFk`

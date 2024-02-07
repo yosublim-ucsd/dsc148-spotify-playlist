@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 483658,
+  "num_followers": 483724,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjM0YjFkYWRkZGIwYWU3ZmY4MGM5MDBjM2JjMzQxZTVlYmQ2OWNl",
+  "snapshot_id": "MCw3YjJiM2M1ODc0ZmU4NTI4ZDA4YzVkN2Q2MjQ3OGU4YjA4NmNmOGE2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Best of The Maytals",
-        "url": "https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5HuUgDJo1huBlghzPrKRyO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 181434,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4y6JNAtj1M3pEScdp3II5n"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/07vKVYq96EdCHfqQ47aJSo"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/2DWNvyAsE7yZWUDAPQqHw0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Strictly Roots",
-        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 236930,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Push Time",
         "url": "https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 181333,
       "name": "Push Time",
       "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Strictly Roots",
+        "url": "https://open.spotify.com/album/7mWbD91KCO9KGGygDMuBpX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "duration_ms": 236930,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/69DIpPwfHaO4mwHfn0oNTd"
     },
     {
       "added_at": "2022-10-13 23:00:00",

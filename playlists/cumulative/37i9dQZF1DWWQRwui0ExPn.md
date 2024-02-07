@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,539 songs - 10 day 7 hr 53 min
+6,540 songs - 10 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5056,7 +5056,7 @@
 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 | 2022-11-25 | 2023-04-21 |
 | [slow down, breath deep, be the willow](https://open.spotify.com/track/446XTzkmwnMgf0RqbSG0rn) | [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [slow down, breath deep, be the willow](https://open.spotify.com/album/6NWVC4H9MTT8qtWMEtsYT1) | 2:18 | 2020-06-23 | 2021-10-02 |
 | [Slow Drip](https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Slow Drip](https://open.spotify.com/album/4jjzGg5VsaLJUhZlJnIuW4) | 1:56 | 2023-01-20 | 2023-07-06 |
-| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 |  |
+| [Slow Drive](https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Slow Drive](https://open.spotify.com/album/5zJiGlOxaYJQftfvnf2VBl) | 2:12 | 2024-02-02 | 2024-02-07 |
 | [Slow Food](https://open.spotify.com/track/7uYOMj56grRFYmjarMQjVf) | [Tamala Bay](https://open.spotify.com/artist/2lncpX7wgkhvlIkw7ozMRj) | [Slow Food](https://open.spotify.com/album/5kP7OW53jtyMSB1TqcVDJb) | 2:26 | 2024-02-02 |  |
 | [Slow Food](https://open.spotify.com/track/7ksVuoTJ7NLFAMqazYB4j3) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Slow Food](https://open.spotify.com/album/71E9MiHH2VVQQhuXvv7qbX) | 3:06 | 2019-07-12 | 2020-01-04 |
 | [Slow Jazz](https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Slow Jazz](https://open.spotify.com/album/0q1v98Yh9bkyPWdZrLSNWB) | 1:53 | 2022-04-08 | 2022-09-02 |
@@ -5344,6 +5344,7 @@
 | [Storm](https://open.spotify.com/track/6a8tAxw8pTk20gWO0PL5y1) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Storm](https://open.spotify.com/album/3qTP5wWIkyY0stdr0FnSqt) | 2:36 | 2022-11-25 | 2023-04-21 |
 | [Str8 4ward](https://open.spotify.com/track/6DkSN9tl3znXW3NY1JDHh9) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [Str8 4ward](https://open.spotify.com/album/3fNXMBqulASfwzvNYbOd7r) | 1:59 | 2019-10-23 | 2019-11-29 |
 | [Strange Effect](https://open.spotify.com/track/3lKq4yMNV2eZXTb5AgQFY3) | [MagFi](https://open.spotify.com/artist/7cP4a4wJ4c2u9zTEi7g8xs) | [Strange Effect](https://open.spotify.com/album/0Fm4c03BJDddDMoXWS6oxo) | 2:23 | 2022-12-16 | 2024-01-12 |
+| [Strange Things](https://open.spotify.com/track/5WjfS3W042xnw8GRFx4rt7) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Strange Things](https://open.spotify.com/album/728NvFo3AY4TooVXNGRq03) | 2:19 | 2024-02-02 |  |
 | [Stranger Thing](https://open.spotify.com/track/373SKKpg5dL84hqHU3sVUG) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Stranger Thing](https://open.spotify.com/album/7s09uEIBkAZaIa725uRpvm) | 2:39 | 2021-04-10 | 2022-01-14 |
 | [Stranger Winds](https://open.spotify.com/track/59xCqn3z8zfoNmm8JFdoL9) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Drive True](https://open.spotify.com/album/1HnaC1jS7QIFYj31dBagZg) | 1:52 | 2022-10-07 | 2023-11-24 |
 | [Strat Mode 5](https://open.spotify.com/track/4XrZjM1DPZryBRSAMlBHvI) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Strat Mode 5](https://open.spotify.com/album/59GnZTLTRuvBjQ64wqLyPS) | 1:57 | 2022-06-03 | 2022-10-21 |

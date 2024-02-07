@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 83258,
+  "2024-02-07": 83280,
   "date_first_scraped": "2022-08-06",
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
   "name": "Blues Drive",
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 290000,
       "name": "It Hurt So Bad",
       "url": "https://open.spotify.com/track/3RqsX9mUWAhkFeRESUs1e8"
@@ -1873,7 +1873,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 334800,
       "name": "Somehow, Somewhere, Someway",
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"

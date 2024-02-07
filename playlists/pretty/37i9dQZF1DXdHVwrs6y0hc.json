@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 75240,
+  "num_followers": 75296,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTc3ODMzODg5NjUyMjc1OTkwMjBjZmI4NTFkZjcxOTQ4ZTJhZmZh",
+  "snapshot_id": "MCw4YWJjZjRjYTBmNTYwYTQ1MmY0MGE3MjdmYzM5MDBiNTM2NmU2MGVh",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -307,18 +307,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Patrick Street",
-        "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
+        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
+        "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
       },
       "artists": [
         {
-          "name": "Patrick Street",
-          "url": "https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp"
+          "name": "The Dicey Reillys",
+          "url": "https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
-      "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
+      "duration_ms": 197680,
+      "name": "The Craic Was 90 in the Isle of Man",
+      "url": "https://open.spotify.com/track/18YgzC9PYPzCagclA5AlQ8"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -355,18 +355,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
-        "url": "https://open.spotify.com/album/4VcdKePWLXjMgOVq59EJ4u"
+        "name": "Patrick Street",
+        "url": "https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO"
       },
       "artists": [
         {
-          "name": "The Dicey Reillys",
-          "url": "https://open.spotify.com/artist/5lRAgykmSF0P87fBzjsh0h"
+          "name": "Patrick Street",
+          "url": "https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp"
         }
       ],
-      "duration_ms": 197680,
-      "name": "The Craic Was 90 in the Isle of Man",
-      "url": "https://open.spotify.com/track/18YgzC9PYPzCagclA5AlQ8"
+      "duration_ms": 257600,
+      "name": "Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's",
+      "url": "https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -867,30 +867,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Kieran Fahy: Irish Fiddle - Man From the West",
-        "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Philip Masure",
-          "url": "https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F"
-        },
-        {
-          "name": "Patrick Michiels",
-          "url": "https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N"
-        },
-        {
-          "name": "Kieran Fahy",
-          "url": "https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF"
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
         }
       ],
-      "duration_ms": 165893,
-      "name": "The Whole Chicken in the Soup - The Crooked Road",
-      "url": "https://open.spotify.com/track/1XseuQQQgFa3Ge2ReHbnSX"
+      "duration_ms": 168413,
+      "name": "The Mickey Dam",
+      "url": "https://open.spotify.com/track/1fxG0DZhRWopilQu79UMGB"
     }
   ],
   "unique_name": "Irish Tavern",

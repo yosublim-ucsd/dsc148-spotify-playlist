@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:0liXA3xwx6pncxYQA30ahT\">Limoblaze</a>",
-  "num_followers": 77935,
+  "num_followers": 78038,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjNjYTUyZTQxNDI5ODc0YTFiNmNlNDAxMmQ5M2ZiZjc2ZTVkMzNl",
+  "snapshot_id": "MCxmMWU2ZDFhNjA5YmNjNWVlNTdhODNiYTA5ZDM5NmEwZTVkYjZhZWNl",
   "tracks": [
     {
       "added_at": "2024-02-02 05:46:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Freedom Dance",
-        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "This can only be God",
         "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 218644,
       "name": "This can only be God",
       "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Freedom Dance",
+        "url": "https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "PAWA",
         "url": "https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 193596,
       "name": "REASON",
       "url": "https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl"
-      },
-      "artists": [
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Oyije",
-          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
-        },
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        }
-      ],
-      "duration_ms": 122033,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Spirit Move",
         "url": "https://open.spotify.com/album/5lmU2DbwD1b3XgCw2NdVfS"
       },
@@ -1231,6 +1207,30 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 228979,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "miles away",
+        "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "Tevic Loni",
+          "url": "https://open.spotify.com/artist/51DmWtVcGb8W2EF0QOhJqS"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "miles away",
+      "url": "https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1295,30 +1315,6 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "CONFIDENCE (Part 1)",
-        "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
-      },
-      "artists": [
-        {
-          "name": "Kelar Thrillz",
-          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "CONFIDENCE (Part 1)",
-      "url": "https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
         "name": "Afurum Gi Nanya",
         "url": "https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae"
       },
@@ -1339,22 +1335,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "miles away",
-        "url": "https://open.spotify.com/album/4JNcuAGKN20Ei77IvelMEA"
+        "name": "CONFIDENCE (Part 1)",
+        "url": "https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj"
       },
       "artists": [
         {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
         },
         {
-          "name": "Tevic Loni",
-          "url": "https://open.spotify.com/artist/51DmWtVcGb8W2EF0QOhJqS"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
         }
       ],
-      "duration_ms": 160714,
-      "name": "miles away",
-      "url": "https://open.spotify.com/track/6dzITKGh7Rf1J2njERXcmw"
+      "duration_ms": 148800,
+      "name": "CONFIDENCE (Part 1)",
+      "url": "https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Legacy (Remix)",
+        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
+      },
+      "artists": [
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Legacy - Remix",
+      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/6VQFhI9PQFcpzgkcH6bioA"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 165000,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1K18rK11klBImZNILVXOiH"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Legacy (Remix)",
-        "url": "https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M"
-      },
-      "artists": [
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 179513,
-      "name": "Legacy - Remix",
-      "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1579,6 +1579,30 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "The Word",
+        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        }
+      ],
+      "duration_ms": 172208,
+      "name": "The Word",
+      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
       },
@@ -1659,6 +1683,26 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv"
+      },
+      "artists": [
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        },
+        {
+          "name": "Afolake",
+          "url": "https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "upperroom",
         "url": "https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3"
       },
@@ -1675,22 +1719,18 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Jesuferanmi",
-        "url": "https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi"
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
       },
       "artists": [
         {
-          "name": "Henrisoul",
-          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
-        },
-        {
-          "name": "EmmaOMG",
-          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
+          "name": "Hiro Lyon",
+          "url": "https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX"
         }
       ],
-      "duration_ms": 166735,
-      "name": "Jesuferanmi",
-      "url": "https://open.spotify.com/track/2vNFO83pPzGWCUesCnGePr"
+      "duration_ms": 234083,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1715,38 +1755,22 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
-        "name": "Assurance",
-        "url": "https://open.spotify.com/album/28ykxvEn1X7VE1XjDGNXHv"
+        "name": "Jesuferanmi",
+        "url": "https://open.spotify.com/album/6xYsSaliEGAUM6d3bioeNi"
       },
       "artists": [
         {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
         },
         {
-          "name": "Afolake",
-          "url": "https://open.spotify.com/artist/6BQJqR87wQhMbTca9VP8H8"
+          "name": "EmmaOMG",
+          "url": "https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Assurance",
-      "url": "https://open.spotify.com/track/5LJ0LqhxAmRgqU0OtoxJ4X"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/0joYYR4TL8DkCTf1h9TDrV"
-      },
-      "artists": [
-        {
-          "name": "Hiro Lyon",
-          "url": "https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX"
-        }
-      ],
-      "duration_ms": 234083,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/472sq2KIqwom2LvsZ3OXMD"
+      "duration_ms": 166735,
+      "name": "Jesuferanmi",
+      "url": "https://open.spotify.com/track/2vNFO83pPzGWCUesCnGePr"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1767,86 +1791,6 @@
       "duration_ms": 160549,
       "name": "Fire on the Mountain",
       "url": "https://open.spotify.com/track/1u2W22pbY0opK1gcETuFaF"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "The Word",
-        "url": "https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Aigbeh D'gong",
-          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
-        }
-      ],
-      "duration_ms": 172208,
-      "name": "The Word",
-      "url": "https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Omni Do Do Do",
-        "url": "https://open.spotify.com/album/2gZ1DwzuZ8nko2Wp5s0of1"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        }
-      ],
-      "duration_ms": 137678,
-      "name": "Omni Do Do Do",
-      "url": "https://open.spotify.com/track/16nUdK2loffWAo1xIlgGQ3"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Be Like",
-        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
-      },
-      "artists": [
-        {
-          "name": "Eriko NWA",
-          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
-        },
-        {
-          "name": "GIDYON",
-          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Be Like",
-      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcn The Shinobi",
-          "url": "https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -1891,6 +1835,62 @@
     {
       "added_at": "2024-02-02 05:46:04",
       "album": {
+        "name": "Omni Do Do Do",
+        "url": "https://open.spotify.com/album/2gZ1DwzuZ8nko2Wp5s0of1"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "duration_ms": 137678,
+      "name": "Omni Do Do Do",
+      "url": "https://open.spotify.com/track/16nUdK2loffWAo1xIlgGQ3"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcn The Shinobi",
+          "url": "https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Be Like",
+        "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
+      },
+      "artists": [
+        {
+          "name": "Eriko NWA",
+          "url": "https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1"
+        },
+        {
+          "name": "GIDYON",
+          "url": "https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Be Like",
+      "url": "https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
         "name": "This Year Affirmation",
         "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
       },
@@ -1919,6 +1919,30 @@
       "duration_ms": 445424,
       "name": "You Alone Art Worthy",
       "url": "https://open.spotify.com/track/0Lm1DyxP4CCBUp6YLw1vOW"
+    },
+    {
+      "added_at": "2024-02-02 05:46:04",
+      "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/586ECVJrS5DX9rQx7JRKrA"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Gospel hints",
+          "url": "https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc"
+        }
+      ],
+      "duration_ms": 144169,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk"
     },
     {
       "added_at": "2024-02-02 05:46:04",
@@ -2011,26 +2035,6 @@
       "duration_ms": 206117,
       "name": "Holy Ghost (I Want To Know Your Joy)",
       "url": "https://open.spotify.com/track/7q66QnCbmj4qaXtWtLmV9R"
-    },
-    {
-      "added_at": "2024-02-02 05:46:04",
-      "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS"
-      },
-      "artists": [
-        {
-          "name": "Kushim",
-          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 117955,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA"
     }
   ],
   "unique_name": "AfroGospel",

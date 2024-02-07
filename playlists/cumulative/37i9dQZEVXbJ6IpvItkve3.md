@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-889 songs - 2 day 2 hr 1 min
+890 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-07 | 2023-10-13 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-09-23 |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2024-02-06 |  |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-10 | 2023-09-16 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-06-27 | 2021-08-05 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-19 | 2023-10-21 |
@@ -470,7 +471,7 @@
 | [אין מאושר ממני](https://open.spotify.com/track/0XQ39JCh0I9tsKEmwMEH5F) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [מסע](https://open.spotify.com/album/088zTAQ5eV3aBrBgesvNSJ) | 2:52 | 2021-12-29 | 2022-01-23 |
 | [אין מאושר ממני](https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [אין מאושר ממני](https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT) | 2:52 | 2021-12-09 | 2021-12-30 |
 | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW) | 2:32 | 2022-07-25 | 2023-03-26 |
-| [אינטלקטוערסית](https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערסית](https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af) | 2:08 | 2023-06-17 |  |
+| [אינטלקטוערסית](https://open.spotify.com/track/4E5fqKktoOAT3shxlolPBm) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערסית](https://open.spotify.com/album/5i0yY5QdEqzdok088Yp4af) | 2:08 | 2023-06-17 | 2024-02-07 |
 | [אל תגלי](https://open.spotify.com/track/0BPsxP81ujKwoZzcVpOLRZ) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw), [Metro the Savage](https://open.spotify.com/artist/3UN7UwFvKMNNEuqePbkmPJ) | [אל תגלי](https://open.spotify.com/album/2upHjoUUOPZuuXjJFJIqeU) | 3:06 | 2021-07-15 | 2021-09-26 |
 | [אל תדליק אותי סתם](https://open.spotify.com/track/4clp4Z645yz3nxar58iae3) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לכאורה](https://open.spotify.com/album/4nBBtn70xb1a8aED9BAPIf) | 2:46 | 2022-03-08 | 2022-03-10 |
 | [אל תעזבי ידיים](https://open.spotify.com/track/0x9UM4GuxnMJUjyuipowmo) | [Akiva](https://open.spotify.com/artist/308QpS53hDcYGZseJlXtma) | [אל תעזבי ידיים](https://open.spotify.com/album/1d1x0Jsc6Zro6duUzrGrCv) | 3:28 | 2022-11-12 | 2022-11-14 |

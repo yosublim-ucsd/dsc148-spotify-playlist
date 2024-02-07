@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 44286,
+  "2024-02-07": 44355,
   "date_first_scraped": "2022-06-01",
   "description": "All Coke Studio Pakistan tracks in one place. ",
   "name": "This is: Coke Studio Pakistan",
@@ -3781,7 +3781,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 964760,
       "name": "Khabaram Raseeda",
       "url": "https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI"
@@ -7259,6 +7259,24 @@
       "duration_ms": 290826,
       "name": "Sayon",
       "url": "https://open.spotify.com/track/6tHVrEBTao0mt95VY9aXkk"
+    },
+    {
+      "album": {
+        "name": "Sayon (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/4c6suscayOt47zWMoGReUj"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hasan Band",
+          "url": "https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290826,
+      "name": "Sayon - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2pEV8lMvCiXc4Q6UHy5F4K"
     },
     {
       "album": {

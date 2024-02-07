@@ -2,7 +2,7 @@
 
 ### [The Most Beautiful Songs in the World](https://open.spotify.com/playlist/37i9dQZF1DX9Z3vMB2b8im)
 
-> Songs so beautiful, they'll stop you in your tracks
+> Songs so beautiful, they'll stop you in your tracks.
 
 221 songs - 13 hr 14 min
 

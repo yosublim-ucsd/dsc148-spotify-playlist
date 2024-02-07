@@ -2511,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/3aqsOlBHvcuDQvNJNuSWwM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3Jpf1gn9uR4tbL35HT0yPj"
+    },
+    {
+      "album": {
         "name": "Paris Is Burnin'",
         "url": "https://open.spotify.com/album/3NWTdCmKURYI7K5vm8tvKa"
       },

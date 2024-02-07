@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,526 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,533 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 12 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 |
 | 13 | [Hipnose](https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Hipnose](https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6) | 3:29 |
 | 14 | [COLADINHO](https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Liz Kaweria](https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77), [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [COLADINHO](https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj) | 2:32 |
-| 15 | [Oh Não \- Ao Vivo](https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 1:52 |
+| 15 | [Oh Não \- Ao Vivo](https://open.spotify.com/track/4OjfLZXliygHX2OeXKmc9i) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 1:52 |
 | 16 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 |
 | 17 | [Andarilho](https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH) | [Vírus](https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv) | [VxRxS](https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6) | 1:30 |
 | 18 | [Do Mesmo Lado](https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Do Mesmo Lado](https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu) | 2:38 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 39 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
 | 40 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
 | 41 | [Não Me Ligue Mais](https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV) | [Cleiton Oliveira](https://open.spotify.com/artist/4d8by4oOSOmGSeDgcz1BYs), [Jovem Ralph](https://open.spotify.com/artist/3BqCREDFLYfJiX8yZrKtrR) | [Fatossíntese](https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3) | 2:35 |
-| 42 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 |
+| 42 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 43 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
-| 44 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
+| 44 | [O Que Ela Tem?](https://open.spotify.com/track/68csPARkvDN7lXPnqJJFja) | [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl), [BETINHO](https://open.spotify.com/artist/51CZxgpuuYyBfyM99WEnWa), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [O Que Ela Tem?](https://open.spotify.com/album/2VzqF8GFXe6zF6xho5ZBJ7) | 2:13 |
 | 45 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
 | 46 | [Nos Teus Olhos](https://open.spotify.com/track/5vrV3s1PC4lUDWj6YOv3K3) | [EHLY](https://open.spotify.com/artist/4kClroraaHmlZglNiNa1O0) | [Nos Teus Olhos](https://open.spotify.com/album/2u5GJtcazWSanPzzxXvLU7) | 3:11 |
 | 47 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [Enquanto o tempo passa](https://open.spotify.com/track/7DtF6vbzhFwlxI4eDWsB06) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Enquanto o tempo passa](https://open.spotify.com/album/3Z25lZgzdpM0Zd1LE3g6u0) | 2:11 |
 | 50 | [Veneno](https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Veneno](https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5) | 2:46 |
 
-Snapshot ID: `MCw0OWQ2N2FlNzYwNjgyNTQ5NmIyNjVhNDUyZjg4YWQwYjc3ZTYzMTU4`
+Snapshot ID: `MCxkYTZjODIzN2VlYTJjZjgwYTg2M2VmMWIwZWFhY2Q0YjRiZWE0ZGU0`

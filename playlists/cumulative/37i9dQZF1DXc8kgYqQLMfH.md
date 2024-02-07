@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,123 songs - 1 day 18 hr 33 min
+1,124 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 |  |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2024-01-24 |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 |  |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -984,7 +985,7 @@
 | [The Bus Driver](https://open.spotify.com/track/202IHrJ3WGlLnhcBn7MnJn) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [The Bus Driver](https://open.spotify.com/album/2mxNnMGuSW9flakR4AyVcC) | 2:25 | 2023-04-20 | 2023-11-18 |
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-08 |  |
 | [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 | 2023-09-08 |  |
-| [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 |  |
+| [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 | 2024-02-07 |
 | [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 | 2024-01-05 |  |
 | [The Kaleidoscope](https://open.spotify.com/track/22X60sGBAqAMVqxIwZnMko) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Kaleidoscope](https://open.spotify.com/album/6osPfOt5X9epMYvEgtyby6) | 1:59 | 2023-05-19 | 2023-11-18 |
 | [The Last Caress](https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK) | [Nahucast](https://open.spotify.com/artist/5PKH3iR7YxQUrVDeNsAu3S), [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [The Last Caress](https://open.spotify.com/album/04TQTvvd6i65iPy9oJck56) | 2:35 | 2022-07-08 | 2023-10-06 |

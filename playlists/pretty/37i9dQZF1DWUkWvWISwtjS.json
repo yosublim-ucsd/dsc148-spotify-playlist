@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 451932,
+  "num_followers": 451898,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2JjMWRjZTlmYTMxZGZkM2NmMThjODVlNjRhMjJlMWI1MmY0MjJj",
+  "snapshot_id": "MCxlYzI2YmRmZGYyYzFlY2Q4MTEwZWQ0N2FkZmU0ODExNmUwYTA1MWI1",
   "tracks": [
     {
       "added_at": "2023-10-13 11:44:55",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Na Praia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
+      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 165360,
       "name": "Anti Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Na Praia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2859TN8HzzAsM8qNgaw60e"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "A Rosa E O Beija-Flor - Na Praia / Ao Vivo",
-      "url": "https://open.spotify.com/track/4XrAf0Z1J2NunZXl4BMjlA"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Contram\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Amor Da Sua Cama",
         "url": "https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Contram\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Amor de Carnaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "1 Dois 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 183986,
       "name": "A Mala \u00c9 Falsa - Ao Vivo",
       "url": "https://open.spotify.com/track/3dyN3yQuMi2UWKRfRY0ISt"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Amor de Carnaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 170506,
       "name": "Coladinha Em Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/3JagAY5Y8YzEJDXNPcR5gZ"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "O Embaixador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "Sujeito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 208916,
       "name": "Impressionando Os Anjos - Ao Vivo",
       "url": "https://open.spotify.com/track/6tUH34SV3m9mrs4mTyo5AM"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "O Embaixador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 178208,
+      "name": "Sujeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1011,22 +1011,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Bruto Memo",
-        "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
+        "name": "Aqui Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
       },
       "artists": [
         {
-          "name": "Bruno & Barretto",
-          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         },
         {
-          "name": "Marco Brasil Filho",
-          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 184064,
-      "name": "Bruto Memo",
-      "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
+      "duration_ms": 168080,
+      "name": "Libera Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Aqui Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
+        "name": "Bruto Memo",
+        "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
         },
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Marco Brasil Filho",
+          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Libera Ela - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
+      "duration_ms": 184064,
+      "name": "Bruto Memo",
+      "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Coisa De Louco EP",
-        "url": "https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "N\u00e3o Deixo N\u00e3o",
-      "url": "https://open.spotify.com/track/74i0ocFuhVOLp3f5kNKjeT"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 140442,
       "name": "Trincadinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Coisa De Louco EP",
+        "url": "https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "N\u00e3o Deixo N\u00e3o",
+      "url": "https://open.spotify.com/track/74i0ocFuhVOLp3f5kNKjeT"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Quem \u00c9 Que Chora por Mim?",
-        "url": "https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo",
-          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Quem \u00c9 Que Chora por Mim?",
-      "url": "https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 175786,
       "name": "Prefiro Nem Perguntar - Ao Vivo",
       "url": "https://open.spotify.com/track/35ivh85cPKwgo3pZQGXa0e"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Quem \u00c9 Que Chora por Mim?",
+        "url": "https://open.spotify.com/album/1ouVcfM2cZO9rz3xcm5OxJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo",
+          "url": "https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Quem \u00c9 Que Chora por Mim?",
+      "url": "https://open.spotify.com/track/4TlOLjhHZjoVGF0qbQc996"
     },
     {
       "added_at": "2023-10-13 11:44:55",

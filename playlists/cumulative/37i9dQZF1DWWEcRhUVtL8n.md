@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Del Water Gap & Holly Humberstone
 
-1,750 songs - 3 day 20 hr 16 min
+1,751 songs - 3 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1217,7 +1217,8 @@
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/1RqtpxOWoK6EewdDHOxUMT) | [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/album/3sb6tWwcrolPMPusXdVOAI) | 3:16 | 2021-05-04 | 2021-05-27 |
 | [Pink Champagne](https://open.spotify.com/track/5UTqjzpLvxlzxAUZBoe6mq) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 2:48 | 2022-11-04 | 2022-11-12 |
 | [Pink Pony Club](https://open.spotify.com/track/4xeGlEItAGRsWFykY7ixjW) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/2gUphuvuwo8JFCNxqOHKRa) | 4:18 | 2021-01-15 | 2022-04-13 |
-| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 |  |
+| [Pink Skies](https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:21 | 2024-01-12 |  |
+| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 | 2024-02-07 |
 | [Pins and Needles](https://open.spotify.com/track/28HdRSoNb5kscXfiHA1kyQ) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Pins and Needles](https://open.spotify.com/album/0VSrJPxNnkdu2XytJ04Jmr) | 2:54 | 2024-01-12 | 2024-02-03 |
 | [Place Like This](https://open.spotify.com/track/2tTY9mdhOnqW46iRV0Rq8J) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Place Like This](https://open.spotify.com/album/6Tf6xhGbdj49bCGptdMzu0) | 3:39 | 2021-02-25 | 2021-05-27 |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-24 | 2021-05-27 |

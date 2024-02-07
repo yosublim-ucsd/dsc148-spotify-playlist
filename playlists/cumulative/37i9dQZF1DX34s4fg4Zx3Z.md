@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-1,493 songs - 3 day 15 hr 24 min
+1,494 songs - 3 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1204,7 +1204,8 @@
 | [Trò Chơi Trời Cho](https://open.spotify.com/track/654WdDbJiP0lZ7S2CuSlVT) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7), [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS) | [Trò Chơi Trời Cho](https://open.spotify.com/album/2Ga7fENdK4cn9uXGwf0Ojb) | 3:00 | 2023-08-04 | 2023-08-25 |
 | [Trót Dại](https://open.spotify.com/track/5kobgOmuXOttS5wRIRKPzc) | [việt quất](https://open.spotify.com/artist/10zHjyUcMfFBuN5JKNGbzl), [Tien Do](https://open.spotify.com/artist/5XP93B9kYslrSXgmtzGURG), [vinh từ đức](https://open.spotify.com/artist/3621kCuquCzEMUOwdkM5xF), [Dtpie](https://open.spotify.com/artist/2rPxFrYbICzbPdj7ldvzCK), [shiba](https://open.spotify.com/artist/7bEsr9GgffyLoldNHfrABY), [Michael Hoang](https://open.spotify.com/artist/0LoLumWJwhRowOyLQ2o3CR) | [Trót Dại](https://open.spotify.com/album/0fsq667XfuWoDbeGD1FrWz) | 4:46 | 2023-12-22 |  |
 | [Trôi](https://open.spotify.com/track/0OqocZV6w5i2c9DKqdS6FI) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS), [gilo](https://open.spotify.com/artist/4VJwLYnopLnq0JGHCSg0iO) | [Trôi](https://open.spotify.com/album/2XapjnzjA2Q72y27bXazwM) | 3:12 | 2023-09-28 | 2023-10-24 |
-| [Trước Hiên Nhà](https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/2X9yZYndhyE6wK4jKjrMUr) | 4:09 | 2023-01-12 |  |
+| [Trước Hiên Nhà](https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/2X9yZYndhyE6wK4jKjrMUr) | 4:09 | 2023-01-12 | 2024-02-07 |
+| [Trước Hiên Nhà](https://open.spotify.com/track/7cbXysgGp09gHKKdUdnedW) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/0AqMln9QULVgM9oPIotT7W) | 4:09 | 2024-02-01 |  |
 | [Trước Khi](https://open.spotify.com/track/2fFTvJH28EfiaUo5vj0hus) | [Góp Thong Thả](https://open.spotify.com/artist/0v6LTpwApO06qquGXbDtk4) | [Trước Khi](https://open.spotify.com/album/5ZFidFLh6IBkccg1bJMs5R) | 3:45 | 2023-08-10 | 2023-08-25 |
 | [Trả Anh Về Tự Do](https://open.spotify.com/track/0p1f69bzSn0irrlTkBFoJA) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG) | [Trả Anh Về Tự Do](https://open.spotify.com/album/5Qk3iTEFNczz77BKM1OOvH) | 5:10 | 2023-02-16 | 2023-03-18 |
 | [Trả lại tôi mùa đông](https://open.spotify.com/track/0mxK9iLhEaia10yJA996F6) | [dNam](https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k) | [Trả lại tôi mùa đông](https://open.spotify.com/album/45p7M0NfUYyeP16gVYXPz8) | 2:33 | 2023-07-20 | 2023-08-11 |

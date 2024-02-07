@@ -1,7 +1,7 @@
 {
-  "2024-02-06": 457779,
+  "2024-02-07": 458180,
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u7406\u60f3\u6df7\u86cb (Bestards)",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u738b\u5fc3\u51cc (Cyndi Wang)",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli"
@@ -61,6 +61,28 @@
       "duration_ms": 174580,
       "name": "I Hate Myself Sometimes",
       "url": "https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt"
+    },
+    {
+      "album": {
+        "name": "I Hate Myself Sometimes (Acoustic)",
+        "url": "https://open.spotify.com/album/46y9GASK4oQjflLhbqR4tF"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "I Hate Myself Sometimes - Acoustic",
+      "url": "https://open.spotify.com/track/5ak1ITfDTU73Lz4NCDQUvn"
     },
     {
       "album": {
@@ -137,7 +159,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 158932,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7sCmR1u8HhlVJw6jZm928w"
@@ -321,7 +343,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 276000,
       "name": "\u50cf\u505a\u4e00\u5834\u5922",
       "url": "https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE"
@@ -346,6 +368,24 @@
     },
     {
       "album": {
+        "name": "\u5206\u5408",
+        "url": "https://open.spotify.com/album/7kCG6P2OCX53a0Ideqm0Eq"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u5206\u5408",
+      "url": "https://open.spotify.com/track/0pa3uU6yzXL4onmiIBVi6t"
+    },
+    {
+      "album": {
         "name": "\u552f\u4e00",
         "url": "https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC"
       },
@@ -361,6 +401,24 @@
       "duration_ms": 253735,
       "name": "\u552f\u4e00",
       "url": "https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C"
+    },
+    {
+      "album": {
+        "name": "T.I.M.E.",
+        "url": "https://open.spotify.com/album/425fsE4f3cdMheqvOFM9g4"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253735,
+      "name": "\u552f\u4e00",
+      "url": "https://open.spotify.com/track/6tbKdk8iLAES9u6Bukve9H"
     },
     {
       "album": {
@@ -415,10 +473,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 208656,
       "name": "\u5728\u592a\u967d\u843d\u4e0b\u4e4b\u524d\u6211\u5011\u79c1\u5954\u5427",
       "url": "https://open.spotify.com/track/4NjMnvjb2GDxGsv09LRwpf"
+    },
+    {
+      "album": {
+        "name": "\u5728\u98ce\u5439\u6765\u7684\u65b9\u5411\u7b49\u7740\u4f60",
+        "url": "https://open.spotify.com/album/3VD6BoceCOUCVI3cWedk3x"
+      },
+      "artists": [
+        {
+          "name": "\u82cf\u661f\u5a55",
+          "url": "https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205597,
+      "name": "\u5728\u98ce\u5439\u6765\u7684\u65b9\u5411\u7b49\u7740\u4f60",
+      "url": "https://open.spotify.com/track/5D0nvVgKIsC36ycLtdNZqu"
+    },
+    {
+      "album": {
+        "name": "\u590f\u591c\u7159\u706b (Winter Version)",
+        "url": "https://open.spotify.com/album/2W0C6o4GeMTLG130OtCsjh"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264310,
+      "name": "\u590f\u591c\u7159\u706b - Winter Version",
+      "url": "https://open.spotify.com/track/4bYYHLmyriYvCbod1kUU47"
     },
     {
       "album": {
@@ -433,7 +527,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 205833,
       "name": "\u5929\u4e0b",
       "url": "https://open.spotify.com/track/7vlCdxLVwaV6wBPFwcFXXK"
@@ -523,7 +617,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 250312,
       "name": "\u5e86\u5e78",
       "url": "https://open.spotify.com/track/01r5TQwimuXRdkobWJgGHQ"
@@ -678,6 +772,28 @@
     },
     {
       "album": {
+        "name": "\u6211\u5011\u5230\u5e95\u7b97\u4ec0\u9ebc",
+        "url": "https://open.spotify.com/album/1JHY6RkRRiAUcDcyhzL4Zv"
+      },
+      "artists": [
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        },
+        {
+          "name": "\u5f90\u6690\u7fd4",
+          "url": "https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228445,
+      "name": "\u6211\u5011\u5230\u5e95\u7b97\u4ec0\u9ebc",
+      "url": "https://open.spotify.com/track/0EpjQIMmMU3vkajeX1svwa"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u8df3\u4fdd\u885b\u6230",
         "url": "https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK"
       },
@@ -765,6 +881,24 @@
       "duration_ms": 120000,
       "name": "\u6253\u96fb\u8a71\u8aaa",
       "url": "https://open.spotify.com/track/6GWbCPnetcEnUMOozd2UBy"
+    },
+    {
+      "album": {
+        "name": "\u638f\u7a7a - \u96fb\u5f71\u3010\u9084\u9322\u3011\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/1SIC3ZBC3bEoczHcF5I4u3"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "\u638f\u7a7a - \u96fb\u5f71\u3010\u9084\u9322\u3011\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/26ZZigu8lx5avViXSgh5EV"
     },
     {
       "album": {
@@ -869,7 +1003,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 191276,
       "name": "\u6c92\u6709\u6211\u7684\u90a3\u500b\u5b87\u5b99",
       "url": "https://open.spotify.com/track/6UnzW55tMsnOEn7nLftP5r"
@@ -905,7 +1039,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 243726,
       "name": "\u771f\u5fc3\u8a71",
       "url": "https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw"
@@ -941,7 +1075,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 226499,
       "name": "\u77e5\u5df1\u4eba\u8bbe",
       "url": "https://open.spotify.com/track/7Kz8OBJN3crRduid3VmbxX"
@@ -985,6 +1119,24 @@
       "duration_ms": 182727,
       "name": "\u8056\u8a95\u661f",
       "url": "https://open.spotify.com/track/0QZ5ixTvCuUbqfRN7x5jK4"
+    },
+    {
+      "album": {
+        "name": "\u822a\u5411\u8fdc\u65b9",
+        "url": "https://open.spotify.com/album/4bh2GmphdkQB1t26PCDCR1"
+      },
+      "artists": [
+        {
+          "name": "\u68a6\u7136",
+          "url": "https://open.spotify.com/artist/6taSlFSqCqAEUHOliFyHt7"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208951,
+      "name": "\u822a\u5411\u8fdc\u65b9",
+      "url": "https://open.spotify.com/track/5HYGHpeSJ4PDC6FGNyooMh"
     },
     {
       "album": {
@@ -1119,6 +1271,24 @@
       "duration_ms": 165989,
       "name": "\u96ea Distance",
       "url": "https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC"
+    },
+    {
+      "album": {
+        "name": "\u982d\u865f\u73a9\u5bb6 NO.1 Player",
+        "url": "https://open.spotify.com/album/67T5izoNdy3nUrjIuWwW4y"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u54f2\u701a",
+          "url": "https://open.spotify.com/artist/1DMI6oQrrt8rVMVN83jXA7"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222529,
+      "name": "\u982d\u865f\u73a9\u5bb6 NO.1 Player",
+      "url": "https://open.spotify.com/track/4ISiIOqo6mlHwmitZLaTmn"
     },
     {
       "album": {

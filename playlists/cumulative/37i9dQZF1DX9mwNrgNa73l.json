@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Le Ja",
+        "url": "https://open.spotify.com/album/1q9Mlk5agjG1UJaCHXuIi6"
+      },
+      "artists": [
+        {
+          "name": "Fariha Pervez",
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260204,
+      "name": "Le Ja",
+      "url": "https://open.spotify.com/track/5LLcS2wLaDx53fQHICh1Xr"
+    },
+    {
+      "album": {
         "name": "Greatest Hits of Coke Studio India, Vol. 1",
         "url": "https://open.spotify.com/album/6NBDzr46UrfXsZ1SdvzIJB"
       },

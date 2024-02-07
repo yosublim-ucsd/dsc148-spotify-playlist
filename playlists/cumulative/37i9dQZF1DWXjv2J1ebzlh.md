@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,199 songs - 6 day 4 hr 5 min
+2,200 songs - 6 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Alghoroub / الغروب](https://open.spotify.com/track/76bqaJIeqfoIQn3d6d6OS4) | [Abdou El Omari](https://open.spotify.com/artist/5iZSqKOvQaypi3Jk55JHkv) | [Nuits De Printemps / ليالي الربيع](https://open.spotify.com/album/7cQeUNf0YeoeF057XjkQOo) | 5:09 | 2022-06-09 | 2022-07-29 |
 | [Alghoroub / الغروب](https://open.spotify.com/track/2BV6HyzBTeyX9daJzWUw6l) | [Abdou El Omari / عبده العماري](https://open.spotify.com/artist/3qG5aItJclLYXDne7MFj5u) | [Nuits De Printemps / ليالي الربيع](https://open.spotify.com/album/7FquwDh5VwQ3m1tAs1bVps) | 5:09 | 2022-07-27 | 2023-04-30 |
 | [Alghoroub / الغروب](https://open.spotify.com/track/6I5X1eEQIFhyoFc4qx5qey) | [Abdou El Omari / عبده العماري](https://open.spotify.com/artist/3qG5aItJclLYXDne7MFj5u) | [Nuits De Printemps / ليالي الربيع](https://open.spotify.com/album/02vmgs5ogIb2tUAyAignFD) | 5:09 | 2023-03-17 |  |
-| [Ali Baba](https://open.spotify.com/track/3cGSUdtU5AOC25YD2r0YX7) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [His Story](https://open.spotify.com/album/36AROWz532zVNYNp6Uj1MT) | 2:38 | 2023-10-06 |  |
+| [Ali Baba](https://open.spotify.com/track/50KuIVVziGxgon2vP16ioK) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [John Holt Selects Reggae](https://open.spotify.com/album/4jx6qpP9ltRBTRBK7pkhdu) | 2:37 | 2023-11-29 |  |
+| [Ali Baba](https://open.spotify.com/track/3cGSUdtU5AOC25YD2r0YX7) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [His Story](https://open.spotify.com/album/36AROWz532zVNYNp6Uj1MT) | 2:38 | 2023-10-06 | 2024-02-07 |
 | [Ali Baba](https://open.spotify.com/track/6WF6PDqP61rFsUgD00NCcI) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/1l67YjSveSFg50ajxWcsHX) | 2:40 | 2022-07-12 | 2023-11-04 |
 | [Ali Baba](https://open.spotify.com/track/4lUqjfYRhR0u6CQneKvcQE) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 4:15 | 2022-07-12 |  |
 | [Aloha Oe](https://open.spotify.com/track/5UBjN1ZYrpbwM9qPirac8e) | [Eddie Kamae](https://open.spotify.com/artist/0YwDXRxZeigiUM0FhtcoEf) | [Heart of the Ukulele](https://open.spotify.com/album/294OzntNXqRCKjxG9csDMg) | 2:53 | 2022-07-12 |  |

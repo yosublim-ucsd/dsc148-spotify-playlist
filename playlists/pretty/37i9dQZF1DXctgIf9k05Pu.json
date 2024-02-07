@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 250244,
+  "num_followers": 250283,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWFkMWQ4NzUwMjc2NzI2Y2I5MjQ1OTFmNmFhNDNlZWJlNjk2ZDFi",
+  "snapshot_id": "MCwxOWIwYmM4MDk2NDBkZTUzNjAyYWIxNGZiODJkMzY4MDUyYTE0MThm",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "In Tongues",
-        "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 126312,
-      "name": "worldstar money (interlude)",
-      "url": "https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "In Tongues",
+        "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 126312,
+      "name": "worldstar money (interlude)",
+      "url": "https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Aesthetic Girl",
         "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 143844,
       "name": "To the Girl With Red Converse",
       "url": "https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/0eng8FkzAYHcUoZ4YLMXpO"
-      },
-      "artists": [
-        {
-          "name": "Home",
-          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/3xzGdiAHys1YBL8touis1S"
     }
   ],
   "unique_name": "Aesthetic Lofi",

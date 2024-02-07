@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 225069,
+  "num_followers": 225117,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDgzNjA4OWE4NzY0MmFmNWRkMGQzM2ZhMGU2ZmQyZmNlZTk0ODc5",
+  "snapshot_id": "MCxhYzFiYzU3NTQ0NWE0ZTY0N2RlMjdlMmQwMTAwY2E0Nzk3ZDJlZGYw",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -107,22 +107,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 332506,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -207,22 +207,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 258866,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318773,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Watermark (2009 Remaster)",
         "url": "https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 261786,
       "name": "Exile - 2009 Remaster",
       "url": "https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318773,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -839,6 +839,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Boadicea",
+      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Music for the Masses (2006 Remaster)",
         "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 201866,
       "name": "Lady Marian (2003 - Remaster)",
       "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Boadicea",
-      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Love Over Gold",
-        "url": "https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 406866,
-      "name": "Private Investigations",
-      "url": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Hats",
         "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 304280,
       "name": "Over the Hillside",
       "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Love Over Gold",
+        "url": "https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 406866,
+      "name": "Private Investigations",
+      "url": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
     },
     {
       "added_at": "2018-12-12 11:36:39",

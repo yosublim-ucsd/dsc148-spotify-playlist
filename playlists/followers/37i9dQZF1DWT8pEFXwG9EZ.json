@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 152264,
+  "2024-02-07": 152334,
   "date_first_scraped": "2024-01-30",
   "description": "Jazz soundtracks and Jazz songs from the movies.",
   "name": "Jazz Soundtracks",
@@ -595,6 +595,24 @@
       "duration_ms": 155840,
       "name": "From Russia with Love - Single Version",
       "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
+    },
+    {
+      "album": {
+        "name": "The Motown Anthology",
+        "url": "https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2024-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142266,
+      "name": "Good Morning Heartache - From \"Lady Sings The Blues\" Soundtrack",
+      "url": "https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P"
     },
     {
       "album": {
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 192200,
       "name": "We Have all The Time in the World",
       "url": "https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV"

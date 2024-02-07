@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,104 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,121 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 103 | [Otto Croy](https://open.spotify.com/track/2t9zpAfTNMZbUrDvYos1us) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/77OHZo2Dvd4fPVvflGlZKI) | 3:49 |
 | 104 | [Keep On Smilin \- MNTRA Remix](https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8) | [MNTRA](https://open.spotify.com/artist/5F3sVzbqKv9DqQjt6gAXlM), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Keep On Smilin \(MNTRA Remix\)](https://open.spotify.com/album/5s9JzjKa3r30HRYvhQCwFF) | 4:26 |
 | 105 | [Swing Delusion](https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Wild & Groovy](https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej) | 3:32 |
-| 106 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/2Gq5sGynUL3gmg8MFaa2Ql) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj) | 3:35 |
+| 106 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS) | 3:35 |
 | 107 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 |
 | 108 | [Rum & Coke](https://open.spotify.com/track/72c1SNHSVF0nC6ajCDQN3B) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Rum & Coke](https://open.spotify.com/album/7o1x33fQlvcSDmlxhbr78P) | 2:37 |
 | 109 | [Gluttony \- MC Vaud Villian Remix](https://open.spotify.com/track/1nddm6gXvUH9Sj6WdxQRGF) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Yvette Pylant](https://open.spotify.com/artist/1KA3XlnRF1f2EnTA50rf27), [MC Vaud Villian](https://open.spotify.com/artist/6nPrIblvX5f5VUTLk6FCzk) | [Gluttony \(Vaud Villain Remix\)](https://open.spotify.com/album/5bX16imMJdCFpOk4pqffVs) | 3:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 150 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCwyMjEwNTljNzA1ZWY3NGM1NjQyOGY3MzFlYjFiYmM0MWQ4MjJkMzBi`
+Snapshot ID: `MCxjM2ViNzBhZjg5NWQ0ODdkNGM0YzU4NTNlNDA4ZTY5NzQxZTQwZWUw`

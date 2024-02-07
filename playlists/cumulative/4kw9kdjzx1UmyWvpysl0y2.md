@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-651 songs - 1 day 13 hr 43 min
+652 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [just wanna luv](https://open.spotify.com/track/5Dvd2vfqvPg0RCXQ9DpKee) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [just wanna luv](https://open.spotify.com/album/2SwH358tYGHvJH7Z6DhWHv) | 4:17 | 2022-03-25 | 2022-06-08 |
 | [Justify](https://open.spotify.com/track/61MeDNHGrA6WlaufVFebKC) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Justify](https://open.spotify.com/album/5NVU2QOuSudlGQhAZvlXKP) | 4:11 | 2023-09-27 | 2024-01-12 |
 | [k\-means clustering](https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [k\-means clustering](https://open.spotify.com/album/1neFologMhWAEkYg5BA5M4) | 3:37 | 2023-06-05 | 2023-09-01 |
+| [k\-means clustering \- Tor Remix](https://open.spotify.com/track/5nTiUbO1yTk5AbJ9McXD0M) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [k\-means clustering \(Tor Remix\)](https://open.spotify.com/album/4Zoy8jTVWTrEiZiGEf3HRX) | 3:33 | 2024-02-06 |  |
 | [Karibu](https://open.spotify.com/track/5h2qGN5jMJXp68VzQuMqql) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Karibu](https://open.spotify.com/album/4oKkFqArAgFKTrXbs9IGJk) | 3:56 | 2022-10-05 | 2022-12-06 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-05-27 | 2022-08-09 |
 | [Kia Ora \- AK Remix](https://open.spotify.com/track/3sNb3eemyt3h15r1BjqA4B) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Kia Ora \(AK Remix\)](https://open.spotify.com/album/3rVMOyQFmAh39v3S8mPhL8) | 3:15 | 2023-12-05 |  |
@@ -444,7 +445,7 @@
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 |  |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |
 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 | 2023-02-07 | 2023-04-25 |
-| [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 |  |
+| [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 | 2024-02-07 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 |  |
 | [Prophecy](https://open.spotify.com/track/1YwyNIHtNHaIuvz8ngtx8q) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:08 | 2022-11-19 | 2022-11-22 |
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
@@ -584,7 +585,7 @@
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 | 2022-09-29 |
 | [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 | 2023-03-28 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
-| [Time Trials](https://open.spotify.com/track/0OET4vG8kgGgjFM6rpedFl) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Time Trials](https://open.spotify.com/album/0fVniwoyjKJ0mdkNS0HkxQ) | 3:09 | 2023-10-24 |  |
+| [Time Trials](https://open.spotify.com/track/0OET4vG8kgGgjFM6rpedFl) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Time Trials](https://open.spotify.com/album/0fVniwoyjKJ0mdkNS0HkxQ) | 3:09 | 2023-10-24 | 2024-02-07 |
 | [To Another World](https://open.spotify.com/track/70f5P5Fim10r1PxlJu15dw) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [To Another World](https://open.spotify.com/album/4ymZf7MngtqVCgpiaHwu8P) | 4:11 | 2022-11-15 | 2023-02-10 |
 | [To The Dark](https://open.spotify.com/track/5FpaIEFF0VXcfpghQthsEm) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [To The Dark](https://open.spotify.com/album/3XH9SMzK18UalZCwWADhcH) | 3:51 | 2023-09-12 | 2024-01-11 |
 | [To The Moon](https://open.spotify.com/track/1UzOLSdRhvZzdpPBjRgrnp) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr) | [To The Moon](https://open.spotify.com/album/0HGxdsvgj7TWcZyPXkytC3) | 2:53 | 2023-08-14 | 2023-12-14 |

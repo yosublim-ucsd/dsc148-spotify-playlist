@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 2471038,
+  "2024-02-07": 2471147,
   "date_first_scraped": "2021-12-21",
   "description": "Just chill, and potentially disassociate, in 2023. ",
   "name": "Chill Vibes",
@@ -2127,6 +2127,28 @@
       "duration_ms": 221102,
       "name": "Crocodile",
       "url": "https://open.spotify.com/track/5D4RqYeLGebipeelVqUpWA"
+    },
+    {
+      "album": {
+        "name": "Crushed Velvet",
+        "url": "https://open.spotify.com/album/72JHD6nEDoTlOvgkpYoLSq"
+      },
+      "artists": [
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Crushed Velvet",
+      "url": "https://open.spotify.com/track/55cSt1DAB1fm4YMsD54rN3"
     },
     {
       "album": {
@@ -8839,7 +8861,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 210490,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"

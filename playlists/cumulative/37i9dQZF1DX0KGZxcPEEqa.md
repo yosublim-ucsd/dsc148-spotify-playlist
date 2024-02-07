@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-751 songs - 1 day 20 hr 55 min
+752 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Plot Twist](https://open.spotify.com/track/6LM8MeuL0otvdufEVtaxCP) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Plot Twist](https://open.spotify.com/album/5BPGgAOGNXjXskU4DVbjl4) | 3:25 | 2021-08-10 | 2022-07-29 |
 | [Plot Twist](https://open.spotify.com/track/7yNSKfs3tjnh44of1FIF5k) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Kill My Vibe \- EP](https://open.spotify.com/album/0oNBsmqlY0PBPGhJiRwUQY) | 3:25 | 2022-05-11 |  |
 | [Poison](https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison](https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8) | 3:22 | 2021-08-10 | 2024-02-04 |
+| [Poison](https://open.spotify.com/track/3HiUuA5N4rYVmNZGuEs5kt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Cold Weather Hits](https://open.spotify.com/album/0pW4L832yj5kECOCvvMGvy) | 3:23 | 2022-11-29 |  |
 | [Powerful](https://open.spotify.com/track/0qRuwUb6jIbu5USpesDPAq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/6A2XRCoUdJLI8PdAoq1tWc) | 3:26 | 2022-05-11 | 2022-11-13 |
 | [Powerful](https://open.spotify.com/track/3eUhfanL9kEmpIPeGBl1yW) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 3:26 | 2022-05-11 | 2023-11-05 |
 | [Powerful \(feat\. Ellie Goulding & Tarrus Riley\)](https://open.spotify.com/track/3Q6T5Xwf39j9HTQwUZERMT) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission](https://open.spotify.com/album/2rqjmynngV4AmGoL1ZEuwM) | 3:26 | 2022-11-29 |  |
@@ -723,7 +724,7 @@
 | [What Do I Know?](https://open.spotify.com/track/2pJZ1v8HezrAoZ0Fhzby92) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:57 | 2021-08-10 |  |
 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 | 2021-08-10 |  |
 | [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/3gP7XgnHQjvGDLnDm7dcY1) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Listen Again](https://open.spotify.com/album/1wVr1C3NaDGx5LB6mVwifr) | 3:27 | 2022-05-11 | 2022-11-13 |
-| [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 | 2022-05-11 |  |
+| [What I Did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:27 | 2022-05-11 | 2024-02-07 |
 | [What I did for Love \(feat\. Emeli Sandé\)](https://open.spotify.com/track/7vc0PDVfZeJQwzzQS8qPRR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Listen](https://open.spotify.com/album/6pvdwUlSb6QQH72PZLFRZH) | 3:27 | 2021-08-10 | 2022-07-29 |
 | [What If I Never Get Over You](https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:26 | 2021-08-10 |  |
 | [What the Hell](https://open.spotify.com/track/5zTzDqrEmseqL2G8ElgBu7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby](https://open.spotify.com/album/3SUtKkjatUCubbgOC8OP4o) | 3:40 | 2021-08-10 | 2022-05-12 |

@@ -10369,6 +10369,28 @@
     },
     {
       "album": {
+        "name": "\uc9112 (\ubaa8\ub450\uc758 \uc6b0\uc8fc\ub97c Respect)",
+        "url": "https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31"
+      },
+      "artists": [
+        {
+          "name": "Kim Chang-Wan",
+          "url": "https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH"
+        },
+        {
+          "name": "Changbin (Stray Kids)",
+          "url": "https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "\uc9112 (\ubaa8\ub450\uc758 \uc6b0\uc8fc\ub97c Respect)",
+      "url": "https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt"
+    },
+    {
+      "album": {
         "name": "\ud328\ub7ec\uae00\ub77c\uc774\ub529 Paragliding",
         "url": "https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3"
       },
@@ -10398,7 +10420,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 242287,
       "name": "\ud558\ub8e8\uc0b4\uc774 Mayfly",
       "url": "https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo"

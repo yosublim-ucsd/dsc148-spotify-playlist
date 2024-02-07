@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 189899,
+  "2024-02-07": 189899,
   "date_first_scraped": "2022-07-19",
   "description": "Pi\u00e9rdete en el misterio del bosque y sus poderes sanadores.",
   "name": "Terapia de Bosque",
@@ -3377,7 +3377,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 200000,
       "name": "Nature's Cradle",
       "url": "https://open.spotify.com/track/1iORN9lDsUet8tzaEK5AuQ"
@@ -4325,6 +4325,24 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2SxhgBSJw4BULcHrCmFWw7"
+    },
+    {
+      "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Sound of Air",
+      "url": "https://open.spotify.com/track/0t2MexiRw1bps6t9llqmFv"
     },
     {
       "album": {

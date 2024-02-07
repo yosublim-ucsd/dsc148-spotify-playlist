@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
 
-284 songs - 13 hr 12 min
+285 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [HORSE DANCE \(feat\. Yung Snapp, DrefGold, Side Baby\)](https://open.spotify.com/track/3S4tSMSUWE3EA5jKy5Vwwh) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [NO REGULAR MUSIC](https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2) | 3:03 | 2023-11-09 | 2024-01-26 |
 | [I Miss You](https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [I Miss You](https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK) | 2:57 | 2022-07-28 | 2023-11-10 |
 | [I Miss You](https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [I Miss You](https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R) | 2:58 | 2022-05-10 | 2022-07-29 |
+| [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-07 |  |
 | [IAU \(feat\. Noyz Narcos\)](https://open.spotify.com/track/5kPRBzfbzjY2aHRWoo4scu) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:17 | 2024-01-11 | 2024-01-23 |
 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 | 2023-04-06 |  |
 | [IL MIO VINO \(feat\. Speranza\)](https://open.spotify.com/track/4Ok2Kw1zqfD5N5h7IToYtl) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [PIAZZA NOIA](https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa) | 3:28 | 2023-02-09 | 2023-03-10 |
@@ -141,7 +142,7 @@
 | [MARIANELLA](https://open.spotify.com/track/6BylpMONqUzxVVC3mzx1Am) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [MARIANELLA](https://open.spotify.com/album/0F2CZADWos1brXQTY7ExeS) | 3:05 | 2023-12-14 |  |
 | [MAY DAY](https://open.spotify.com/track/6t6x5aKlmeTXTQ0OlYr9lg) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [MAY DAY](https://open.spotify.com/album/6ltDgsMJDZ9NU90XOc6TpP) | 2:46 | 2023-11-30 | 2023-12-15 |
 | [ME STAJE APPENNENN' AMÒ](https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO](https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr) | 5:06 | 2022-05-10 | 2023-10-27 |
-| [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 | 2023-04-20 |  |
+| [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 | 2023-04-20 | 2024-02-07 |
 | [ME VULEV FA RUOSS](https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:53 | 2023-03-23 |  |
 | [MEMORIA](https://open.spotify.com/track/5aQbOtxyucj4doA2vX1i2C) | [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [MEMORIA](https://open.spotify.com/album/0KHVqQMyO8Y3WImzGiucWj) | 2:57 | 2023-03-30 | 2023-04-21 |
 | [Mi Regalo Mas Bonito \(con Peppe Soks & O'Tsunami\) \- Remix](https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [ARMS](https://open.spotify.com/artist/3IXlXWmJSpytr7musHXIzI) | [Mi Regalo Mas Bonito \(con Peppe Soks & O'Tsunami\) \[Remix\]](https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh) | 2:21 | 2022-09-01 | 2022-11-30 |

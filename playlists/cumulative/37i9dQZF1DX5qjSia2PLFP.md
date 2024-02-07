@@ -2,7 +2,7 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\. Cover: <a href="spotify:album:4DkigH1XDNwEBW3WHcdoEK">Monaleo</a>
+> New music breaking waves\. Cover: <a href="spotify:artist:2sflbTtCirog5VxD6jPAfb">Monaleo</a>
 
 660 songs - 1 day 7 hr 32 min
 

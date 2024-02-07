@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Puppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,538 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,544 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 43 | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/track/75RLGVAhsCyv957yxcBk8G) | [Luxuyen](https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4), [Lam](https://open.spotify.com/artist/373W4erBSRBkb9Tk4SxZmn), [Chí](https://open.spotify.com/artist/3HOSB0samNqhF5rHkCvFoe) | [Năm Mới Nhưng Nỗi Buồn Cũ](https://open.spotify.com/album/0R0jpLNHXRJPa79EzapdJq) | 2:48 |
 | 44 | [có thể không](https://open.spotify.com/track/2u3OhkXik6ttV4wQoNWjup) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [có thể không](https://open.spotify.com/album/2F4FZU5TxUThjV1mmdM76e) | 3:20 |
 | 45 | [mood](https://open.spotify.com/track/3NdMQTvQQeSj8RLeIUOUNr) | [Summer Vee](https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI) | [mood](https://open.spotify.com/album/4DkDvd7HGDyquRcu6woVFv) | 3:21 |
-| 46 | [Trước Hiên Nhà](https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/2X9yZYndhyE6wK4jKjrMUr) | 4:09 |
+| 46 | [Trước Hiên Nhà](https://open.spotify.com/track/7cbXysgGp09gHKKdUdnedW) | [NamKun](https://open.spotify.com/artist/4j8ovS4KtDcGGvVq0dd51G) | [Trước Hiên Nhà](https://open.spotify.com/album/0AqMln9QULVgM9oPIotT7W) | 4:09 |
 | 47 | [Của em mà không phải của em](https://open.spotify.com/track/0mcllzLn6unF1NcU8Da5XF) | [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu) | [Của em mà không phải của em](https://open.spotify.com/album/5eGK5ugbBBsIc6DRd9vn7Q) | 3:21 |
 | 48 | [Nhà Là](https://open.spotify.com/track/5AvRGexnnUw4pKc0yvWyuJ) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Nhà Là](https://open.spotify.com/album/0ec0y0iEHDqeEsKNMXLNug) | 5:08 |
 | 49 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [mind](https://open.spotify.com/track/2NmkzIXT5YfMh0zXhy2D3g) | [giabao](https://open.spotify.com/artist/3cowtwoHuAizkSqqTFyWus) | [mind](https://open.spotify.com/album/2A7TqNuIMtBbpfvlWzgttJ) | 3:17 |
 | 100 | [vẫn còn buồn](https://open.spotify.com/track/47LPfHZuLX0QUH2GCfiNv0) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [vẫn còn buồn](https://open.spotify.com/album/3SxS4SedPnhiPcJSPwriiJ) | 3:14 |
 
-Snapshot ID: `MCwwNWIxNzBkNGZmMzBjMGNjM2Y2NGUyMzVjZmVmMzQxMTY3ZjA5NDRi`
+Snapshot ID: `MCw2NTI3ZGRmMTlkMGExYmI3OTkyZjg2MDRkODMzZTA0MGI1OTZjMDc0`

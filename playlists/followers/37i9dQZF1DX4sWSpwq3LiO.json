@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 7232269,
+  "2024-02-07": 7233330,
   "date_first_scraped": "2019-05-26",
   "description": "Peaceful piano to help you slow down, breathe, and relax. ",
   "name": "Peaceful Piano",
@@ -3285,6 +3285,24 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Prine",
+          "url": "https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142582,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY"
     },
     {
       "album": {

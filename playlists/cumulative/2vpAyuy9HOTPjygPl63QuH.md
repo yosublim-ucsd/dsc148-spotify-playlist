@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,668 songs - 3 day 23 hr 6 min
+1,669 songs - 3 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Flame](https://open.spotify.com/track/7pZ0GyilVy6tUriFrSfPmD) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 6:59 | 2023-01-28 | 2023-02-11 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-17 | 2022-09-24 |
 | [Fly Hi](https://open.spotify.com/track/03pGiMHYeebRjG5Q4i3mxX) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [My People](https://open.spotify.com/album/5wJM0CZGiNn5Ru1XhgAqRD) | 3:10 | 2023-04-28 | 2023-05-06 |
+| [Fly With Me](https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p) | [Habitatt](https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF) | [Fly With Me](https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87) | 3:46 | 2024-02-06 |  |
 | [FLYAAA](https://open.spotify.com/track/2fRisEvJKJurSVxUg1Lw0z) | [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Litterbox 12](https://open.spotify.com/album/6XSqMd6HwTAreAKbHMKan2) | 4:34 | 2022-06-03 | 2022-06-11 |
 | [Focus](https://open.spotify.com/track/3Qn7vRZLV23lPtVrFhnWqT) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Focus](https://open.spotify.com/album/31aYwpLC5SPqCiqvHQcrPS) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 | 2022-06-24 | 2022-07-02 |

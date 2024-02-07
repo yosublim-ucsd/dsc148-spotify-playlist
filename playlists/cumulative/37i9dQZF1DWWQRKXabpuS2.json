@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Einy Aalehom",
+        "url": "https://open.spotify.com/album/4wZKwtTMAzCOpU0e9hesAO"
+      },
+      "artists": [
+        {
+          "name": "Lamia Jamel",
+          "url": "https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210410,
+      "name": "Einy Aalehom",
+      "url": "https://open.spotify.com/track/2hi4t9aTdbdnV3bmTqPnuo"
+    },
+    {
+      "album": {
         "name": "El Gheyab",
         "url": "https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 260424,
       "name": "Habeetah",
       "url": "https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 225014,
       "name": "Hatha Al Kalam",
       "url": "https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U"
@@ -4810,6 +4828,24 @@
       "duration_ms": 255668,
       "name": "\u062d\u0646\u064a\u062a",
       "url": "https://open.spotify.com/track/4SbeEnZSqDyHZrOruHLMjh"
+    },
+    {
+      "album": {
+        "name": "\u062f\u0631\u0639\u064a\u0629 \u0627\u0644\u0639\u0632",
+        "url": "https://open.spotify.com/album/0QmEQZpP3QEwr6fJOeMGc8"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al Fares",
+          "url": "https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190511,
+      "name": "\u062f\u0631\u0639\u064a\u0629 \u0627\u0644\u0639\u0632",
+      "url": "https://open.spotify.com/track/5zVEy651bxerXBDB6Y93Vk"
     },
     {
       "album": {

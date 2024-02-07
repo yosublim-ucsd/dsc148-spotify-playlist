@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Don Toliver, YFN Lucci and more\. Cover: That Mexican OT & DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,686 likes - 51 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,783 likes - 51 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [Type Shit](https://open.spotify.com/track/2cH2HLpADBI59PJlSxGKNy) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Type Shit](https://open.spotify.com/album/3h0p70b802WYT4ddD6j949) | 3:26 |
 | 16 | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/track/49jjnR1W3KVX3SHHM1GHOR) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Wet](https://open.spotify.com/artist/71EPXRgyizFZBe54AlzCSn) | [Right Now \(feat\. Bossman Dlow & Lil Wet\)](https://open.spotify.com/album/154BzHnwn19x9GlItFYoqU) | 3:24 |
 | 17 | [Frank Miller \(Kill Again\)](https://open.spotify.com/track/7HZl2VrEC0wODesG5W5q0o) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Frank Miller \(Kill Again\) / I'm So Glad](https://open.spotify.com/album/39hIwDeKCBkErqbUJ7Q5pJ) | 2:11 |
-| 18 | [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 |
+| 18 | [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 |
 | 19 | [Latex Gloves \- Big Ghost Ltd\. Version](https://open.spotify.com/track/2PKwXqRijvKUMm7Mx6dsCt) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Big Ghost Ltd](https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Latex Gloves \(Big Ghost Ltd\. Version\)](https://open.spotify.com/album/3X5gEop3MiKenYGRyCxTn3) | 3:06 |
 | 20 | [Heavy](https://open.spotify.com/track/5Am10wqmtGxzfIyhNLtrEO) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Supreme Dump Legend : Soul Cook Saga](https://open.spotify.com/album/0t7UJHgi2m3SzgUvY0iBgJ) | 3:09 |
 | 21 | [FOOLERY](https://open.spotify.com/track/0ekFXEgioxeP6nVx1qd64p) | [OnPointLikeOP](https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [FOOLERY](https://open.spotify.com/album/5e1bBTVdrMi7TCSmBlsU6S) | 3:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [1st Of The Month](https://open.spotify.com/track/4bRJEAQgyFfRDvv8QAVWsx) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [1st Of The Month](https://open.spotify.com/album/3jWOfoZhLrSChZbwd3Gk8I) | 2:10 |
 | 51 | [Foundation](https://open.spotify.com/track/4tSOSkAuzN1ITh2M2l1Z7Z) | [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [Foundation](https://open.spotify.com/album/3kAaQtrPZY7KpO6Y9hywOP) | 2:31 |
 
-Snapshot ID: `MCwzY2IwOGE0ZWU2ZjAzODNkOGMzM2E4OGUzYmMwOTM2Y2JkMjljYTcw`
+Snapshot ID: `MCw0MjVlNDU1MjQ3M2M2YzBlMDUyMWFkY2E5YzQ0ZmZjYjc2YjQzZTQ2`

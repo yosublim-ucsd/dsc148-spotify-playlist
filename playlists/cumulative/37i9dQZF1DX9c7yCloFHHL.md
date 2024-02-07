@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,093 songs - 3 day 14 hr 50 min
+1,094 songs - 3 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Lara's Heart](https://open.spotify.com/track/163GmaZ069Ev9lr9KS7J45) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [8720923169722](https://open.spotify.com/album/4jWqGt20WgUKgnSaw2nFpg) | 2:24 | 2023-03-24 | 2023-04-14 |
 | [last breath](https://open.spotify.com/track/6E2h4qMO2CSXlWxE43bd9Q) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [last breath](https://open.spotify.com/album/40vbcBwHxhYWUw2vKQEmAG) | 1:41 | 2023-03-03 | 2023-04-14 |
 | [Last Night The Moon Came](https://open.spotify.com/track/7EVB8TpxzTh6llHIcPANAi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 11:15 | 2022-10-14 | 2022-10-29 |
+| [Lava Lamp](https://open.spotify.com/track/3ffWscaWRr8JuruFZwMe11) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Velocity \(Music from the Film\)](https://open.spotify.com/album/0YeQBgnX0wFRWNWoXPjmNR) | 2:18 | 2023-12-01 |  |
 | [Le début du jour \- Remasterisé](https://open.spotify.com/track/6M9GI8wPBplLPzebIYlFu3) | [Mathieu Bourret](https://open.spotify.com/artist/3YCCFatKoi1gKPulMVJdAC) | [Le Climatologue](https://open.spotify.com/album/6toQHVREfd0lsAP0v8q9KO) | 3:02 | 2021-12-24 | 2022-03-09 |
 | [Le Temps Passe](https://open.spotify.com/track/7swF9G3yaUQHLROnSoXDld) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Le Temps Passe](https://open.spotify.com/album/7oqj2ht2RIMsikDE6zWfky) | 3:41 | 2021-12-24 | 2023-01-21 |
 | [Leeches In The Mud](https://open.spotify.com/track/3QP6hVJrBAaHpYd88sRfg3) | [Early Fern](https://open.spotify.com/artist/3teaIUAxaPtoX5s6seiZhE) | [Leeches In The Mud](https://open.spotify.com/album/4D9MQsm9mw5Ysts19R4QS4) | 3:10 | 2023-03-11 | 2023-04-14 |
@@ -817,7 +818,7 @@
 | [She's Your Gift](https://open.spotify.com/track/0cQXl3evlMYaDiy26tiiTZ) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Gold Dust](https://open.spotify.com/album/7q07UdbjEjUxD7FflG3kDj) | 2:10 | 2021-12-24 | 2022-03-11 |
 | [Shifting Winds](https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Shifting Winds](https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3) | 4:12 | 2023-01-16 | 2023-03-04 |
 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 | 2022-01-14 | 2022-03-11 |
-| [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-12-24 |  |
+| [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-12-24 | 2024-02-07 |
 | [Silence Befalls Tragedy](https://open.spotify.com/track/7p8Jr2FgEtcPpqGzT0xSMk) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Wider Than the Sky](https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv) | 4:17 | 2022-11-12 | 2022-11-25 |
 | [Silence Is The Seed](https://open.spotify.com/track/6XPoesztuPzFMxVM4db9RL) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Silence Is The Seed](https://open.spotify.com/album/4eV3UnwUHzOqMvRDDRlUvx) | 4:14 | 2022-12-31 | 2023-03-04 |
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-06-17 | 2023-04-12 |

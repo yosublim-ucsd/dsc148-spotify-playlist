@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1gRalH1mWrP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1gRalH1mWrP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1gRalH1mWrP)
 
-### [Summer Hits 2023](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP)
+### [Summer Hits 2024](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP)
 
 > All the hits you'll need to make your summer sizzle.
 

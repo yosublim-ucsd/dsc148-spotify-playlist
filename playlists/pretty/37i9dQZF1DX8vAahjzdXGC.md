@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,796 likes - 98 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,835 likes - 98 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 20 | [It's not beautiful and it doesn't hurt](https://open.spotify.com/track/0tS9IeWNCqTjpuYd2iQtSt) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [It's not beautiful and it doesn't hurt](https://open.spotify.com/album/7J9nivc5dxSK2oLT3e4mR7) | 2:44 |
 | 21 | [Pola Buruk](https://open.spotify.com/track/1S00tHLkrWYJorF2yal0FK) | [Noon Radar](https://open.spotify.com/artist/0NmY15BDCXUaL7UbetZ8D0) | [Pola Buruk](https://open.spotify.com/album/3ZkqBBE818KpeonGFHGbcv) | 3:48 |
 | 22 | [The Party Is Over](https://open.spotify.com/track/1I8AoUkCTK9AlBHenmuhKQ) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn) | [The Party Is Over](https://open.spotify.com/album/1bKJpO4eHHwtvrEx0Rw5TT) | 3:18 |
-| 23 | [Call Me Pt Ii](https://open.spotify.com/track/3r4jjLtCC8b29nUsUj8AYU) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Call Me Pt Ii](https://open.spotify.com/album/5DhqD1fP5IHni0AIZHVfcR) | 2:21 |
+| 23 | [Call Me Pt II](https://open.spotify.com/track/3r4jjLtCC8b29nUsUj8AYU) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Call Me Pt II](https://open.spotify.com/album/5DhqD1fP5IHni0AIZHVfcR) | 2:21 |
 | 24 | [I Choose U](https://open.spotify.com/track/4LCsmgexfiFAqgNK40FN8N) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [I Choose U](https://open.spotify.com/album/4iXugqQS3ke03i6GnFKTaI) | 3:27 |
 | 25 | [LA SOL MI](https://open.spotify.com/track/6h1laUrcyGZAwSj2k1KTRY) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LA SOL MI](https://open.spotify.com/album/04TnvhobYIlwA9SOIFMyGY) | 2:52 |
 | 26 | [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 97 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 |
 | 98 | [YHH \(It's You\)](https://open.spotify.com/track/2H9mlWjyOR2lK57LjvOwBy) | [Jira](https://open.spotify.com/artist/1nEMvNilshRdPzyDhFiZ7R) | [Faraway, So Close](https://open.spotify.com/album/1LGO5nhhTYJu7RrhApTU7m) | 3:45 |
 
-Snapshot ID: `MCw0Y2FkYTUzMmZkMzY0NTE4N2E3YzAxZDE4NzNmYjkwN2I3NTRjYjYz`
+Snapshot ID: `MCwxOGIxYjUzZTgyMjFjZWYzZDY3MzBiMDhlZDExOWFhZDA2NTRhZDFm`

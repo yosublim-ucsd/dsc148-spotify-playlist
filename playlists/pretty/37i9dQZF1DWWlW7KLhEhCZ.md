@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: The Boy, LH CHUCRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,596 likes - 79 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,603 likes - 79 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 78 | [Balenciaga](https://open.spotify.com/track/3nADjwQ7p8IvbtwLnvR2Ji) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Balenciaga](https://open.spotify.com/album/0sK7IUb8wCygqAXdtt0vyf) | 3:17 |
 | 79 | [Toca Na Corrente](https://open.spotify.com/track/3HT7gQgtndBm0GKQdAIGIq) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Bem Vindo Natal Mixtape 2](https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr) | 2:09 |
 
-Snapshot ID: `MCw4ODg2MmRiNDhjMTQxYjg1ZjNjYjlmNzRlM2QyZDY0Mjk1MjQ0OTgx`
+Snapshot ID: `MCw0ZmFiNmFiMzU0NTY4ZmIyNTAwODBlMDUxNjUyMTI2MDQ4ZWM5NDgw`

@@ -4,7 +4,7 @@
 
 > Melodies of the movement.
 
-104 songs - 8 hr 33 min
+105 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 | 2024-02-01 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2024-02-01 |  |
 | [Last Speech](https://open.spotify.com/track/3PWTko96IQ2lNlUpzufFRT) | [Malcolm X](https://open.spotify.com/artist/2IsulP0BplLNJn8BGsvUQo) | [Speeches By Malcom X \- The Ultimate Collection](https://open.spotify.com/album/0K7r0Jn2cl3evFj6MFAK2c) | 14:03 | 2021-04-16 | 2024-02-02 |
+| [Lift Every Voice And Sing](https://open.spotify.com/track/5xdVBOOlxEwXTkF0ukJKIJ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Lift Every Voice And Sing](https://open.spotify.com/album/1Ih0atc2GTeWu1bSEgvRwD) | 3:47 | 2024-02-06 |  |
 | [Lift Every Voice and Sing](https://open.spotify.com/track/6utcrEbz9W9cFoha3ouoc2) | [The Boys Choir Of Harlem](https://open.spotify.com/artist/7Cp14KBRtDwGucKNPUyT11) | [We Shall Overcome](https://open.spotify.com/album/7cklzk697oyuNTu9QJadxB) | 5:30 | 2021-04-16 |  |
 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 | 2024-02-01 |  |
 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2024-02-01 |  |
@@ -99,7 +100,7 @@
 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 | 2024-02-01 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 | 2024-02-01 |  |
 | [We Are One \(feat\. A More Perfect Union\)](https://open.spotify.com/track/2DrtkKqEMnMsskLzl2QeoR) | [Barack Obama](https://open.spotify.com/artist/4FySKEW0F2fAmS8Jc5ClRv) | [Hope, Change and History \(Barack Obama's Greatest Speeches including Inaugural Oath and Address\)](https://open.spotify.com/album/4iwrI3d40QAX8ufR6ltAHO) | 4:38 | 2021-04-16 | 2024-02-02 |
-| [We Shall Overcome](https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 2:47 | 2021-04-16 |  |
+| [We Shall Overcome](https://open.spotify.com/track/5pTwWOOMfTOU2FOw89U5ua) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Sings the Best\-Loved Hymns of Dr\. Martin Luther King, Jr.](https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE) | 2:47 | 2021-04-16 | 2024-02-07 |
 | [We the People Who Are Darker Than Blue](https://open.spotify.com/track/6dSdoRdRIJ7fUvxDRq9Ln1) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 6:05 | 2024-02-01 |  |
 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 | 2021-04-16 | 2022-07-29 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2021-04-16 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 59317,
+  "2024-02-07": 59339,
   "date_first_scraped": "2020-10-20",
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
   "name": "The Good Cup",
@@ -585,6 +585,24 @@
       "duration_ms": 151169,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5"
+    },
+    {
+      "album": {
+        "name": "Echoes of Wonder",
+        "url": "https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151169,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
     },
     {
       "album": {
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 120558,
       "name": "How To Love",
       "url": "https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB"

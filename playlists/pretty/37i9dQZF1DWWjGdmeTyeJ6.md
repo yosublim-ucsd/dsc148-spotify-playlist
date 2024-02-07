@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Good Neighbors\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,195 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,283 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 98 | [Lose Her](https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Lose Her](https://open.spotify.com/album/316orttce8f1LBwKgJCOou) | 2:50 |
 | 99 | [Party](https://open.spotify.com/track/7igi6HbHaMAne8Hd67EP6E) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [Party](https://open.spotify.com/album/2njN9U1kX2FzQ3CjsbcIWe) | 2:58 |
 
-Snapshot ID: `MCw0MmZiNTY4NGMzMjgyZjhiYjI5NWI0N2Y3NGJmYzNjN2FlNzAxNTBh`
+Snapshot ID: `MCwwYmUzNTNmOWM3YjI0NWQ2ZTQ2OWE4NzIwMDAzOTViM2YwMDA0ODVi`

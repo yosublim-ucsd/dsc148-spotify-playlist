@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Dilsinho com Ana Castela, LUDMILLA com Mari Fernandez, Teto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,902 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,334 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 74 | [Quando For Amor](https://open.spotify.com/track/6PsCWmX6LF9LoXJkUpqyAM) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quando For Amor](https://open.spotify.com/album/0Q9JIvxHTagHY3HTHKpYf5) | 3:47 |
 | 75 | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/track/6lVxenf5o3TB78HuqoEQqa) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw), [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg), [Moacyr Luz](https://open.spotify.com/artist/5VdzirhEjTkESMJw5sfbJN) | [Odisseia \(Mar Do Norte\)](https://open.spotify.com/album/29IZBbR8KDO3JVOzE1Q03V) | 4:51 |
 
-Snapshot ID: `MCwyOGIzYmQ5Zjk0YzY0M2QxMTg1MWU2MTAyOGU0Yjg3ODQzZGFkZjBj`
+Snapshot ID: `MCxmMWYyZTY3Yjk5N2Y0NTE5ZjU1MWNhZWI4ZDM4YzhmZjIyMTJiODYy`

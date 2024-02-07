@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 780638,
+  "num_followers": 780621,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTI2MGFjZDE3ODYwZDQ4M2YzNTZkNDhiMzcxNThmZWI5NzA4NmJm",
+  "snapshot_id": "MCw5ZDM3ODdkNWE5OWIwZTAxMmE0OWJkZjJmN2MwNDliYmZhMTZhZWU5",
   "tracks": [
     {
       "added_at": "2024-01-10 06:49:34",
@@ -691,18 +691,22 @@
     {
       "added_at": "2024-01-10 06:49:34",
       "album": {
-        "name": "Ang Pag-ibig",
-        "url": "https://open.spotify.com/album/7lheyrZDUh2R6N2mBWXnqP"
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 287647,
-      "name": "Ang Pag-ibig",
-      "url": "https://open.spotify.com/track/639Wg7NFfgbwjSwDphqgvz"
+      "duration_ms": 191250,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
     }
   ],
   "unique_name": "Kilig Pa More",

@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 16385,
+  "2024-02-07": 16392,
   "date_first_scraped": "2022-12-17",
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
   "name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
@@ -351,7 +351,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 225906,
       "name": "Black Party",
       "url": "https://open.spotify.com/track/2z8sDqZ4U8LiLBLKkioq3k"
@@ -861,6 +861,44 @@
     {
       "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
+        "url": "https://open.spotify.com/album/318xjMvAgD59itf7KdmU75"
+      },
+      "artists": [
+        {
+          "name": "Chrono-Lexica",
+          "url": "https://open.spotify.com/artist/4x2n5qAODttEDV0ELMu3aa"
+        },
+        {
+          "name": "Yuriko Nanao (CV: Miku Ito)",
+          "url": "https://open.spotify.com/artist/6QaH6xMAiRcPLwngGK4aI8"
+        },
+        {
+          "name": "Subaru Nagayoshi (CV: Yuka Saito)",
+          "url": "https://open.spotify.com/artist/645K4HPAeLAtVCS7gHz0mI"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "Anna Mochizuki (CV: Shiina Natsukawa)",
+          "url": "https://open.spotify.com/artist/0IIzjqgrvj8DTpvvOKLQmQ"
+        },
+        {
+          "name": "Mizuki Makabe (CV: Rika Abe)",
+          "url": "https://open.spotify.com/artist/7ziIYbwnpeaMZzmmAiEMKs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324240,
+      "name": "dans l'obscurit\u00e9",
+      "url": "https://open.spotify.com/track/4rw4xJg2FLVismJ0GeH2x9"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
         "url": "https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3"
       },
       "artists": [
@@ -1326,6 +1364,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/2U4QBUVP5SmZse1ISxIgvg"
+      },
+      "artists": [
+        {
+          "name": "D/Zeal",
+          "url": "https://open.spotify.com/artist/30y9FKIFIUBR7PyR61uDqy"
+        },
+        {
+          "name": "Julia (CV: Aimi)",
+          "url": "https://open.spotify.com/artist/1CLvL2z5LbARBiaOY5fVeH"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300413,
+      "name": "Farewell Bird",
+      "url": "https://open.spotify.com/track/2h1hVp3TQqmHUTvhMKUJoP"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 05 ARCANA",
         "url": "https://open.spotify.com/album/3EjcAzr51D8z280x94Ybji"
       },
@@ -1496,6 +1560,40 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER THE@TER CHALLENGE 01",
+        "url": "https://open.spotify.com/album/0Sg4IeBiyAlASbnUlm8p0h"
+      },
+      "artists": [
+        {
+          "name": "Serika Hakozaki (CV: Momo Asakura)",
+          "url": "https://open.spotify.com/artist/6NMIepIEDmpEftdZ4GkYrE"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Matsuri Tokugawa (CV: Ayaka Suwa)",
+          "url": "https://open.spotify.com/artist/3oi4yaQskHaDkubVyDPX7O"
+        },
+        {
+          "name": "Hibiki Ganaha (CV: Manami Numakura)",
+          "url": "https://open.spotify.com/artist/2BoTUCgw9GuJy5OAwCsfmn"
+        },
+        {
+          "name": "Subaru Nagayoshi (CV: Yuka Saito)",
+          "url": "https://open.spotify.com/artist/645K4HPAeLAtVCS7gHz0mI"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265106,
+      "name": "Girl meets Wonder",
+      "url": "https://open.spotify.com/track/6btPcm4DMu13UWYgi3lBUm"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
         "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
       },
@@ -1567,6 +1665,36 @@
       "duration_ms": 262266,
       "name": "GR\uff20TITUDE - MILLION LIVE! Version",
       "url": "https://open.spotify.com/track/13ZkMneUu4rXa4QAoP0FXF"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! Saint Million Jogakuen",
+        "url": "https://open.spotify.com/album/2s4sPuMbSoqhH9sPClDk9k"
+      },
+      "artists": [
+        {
+          "name": "Tsumugi Shiraishi (CV: Saki Minami)",
+          "url": "https://open.spotify.com/artist/3XapQeYIT9vl10CnAAZGxD"
+        },
+        {
+          "name": "Minako Satake (CV: Eri Ozeki)",
+          "url": "https://open.spotify.com/artist/3NBn8nSFdjI2uxEh2NmPyT"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Megumi Tokoro (CV: Yukiyo Fujii)",
+          "url": "https://open.spotify.com/artist/5xRVfZ3FGcLVFE2lMlTmxS"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Hanabira Memories",
+      "url": "https://open.spotify.com/track/0a3nBc8q5HPtBcJIT7gysV"
     },
     {
       "album": {
@@ -1663,7 +1791,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 287293,
       "name": "Hitomi no Naka no Sirius",
       "url": "https://open.spotify.com/track/541WRpXN4IBFpduWvHNfhQ"
@@ -1999,7 +2127,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 231133,
       "name": "Manatsu no Dia",
       "url": "https://open.spotify.com/track/4AM1SklPReruWR9A7uNmhd"
@@ -2189,7 +2317,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 248066,
       "name": "Orange Episode",
       "url": "https://open.spotify.com/track/3LPaOzjpfKqEOx11YJvHRm"

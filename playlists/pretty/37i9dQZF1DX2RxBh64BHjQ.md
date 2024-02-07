@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:508weSx4HBumrGggFmc7br">Hunxho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,769,797 likes - 99 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769,701 likes - 99 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 3 | [Your Friends](https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Your Friends](https://open.spotify.com/album/14LBhlalfWuVwSoLMEW8I1) | 2:19 |
 | 4 | [Ain’t Enough](https://open.spotify.com/track/0RUBz3zwSfq8VBaqlZFyRn) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Live From The 6](https://open.spotify.com/album/4qJpDKd2nHI9tlR7EhQA8F) | 2:29 |
 | 5 | [Plate](https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Plate](https://open.spotify.com/album/7e2yh6X5IjQCTsIbgIq05r) | 3:23 |
-| 6 | [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 |
+| 6 | [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 |
 | 7 | [Enough is Enough](https://open.spotify.com/track/1l4XzY5dVn0H6HWlen79Jx) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Enough is Enough](https://open.spotify.com/album/1VnSiCCvVjguupjj9jT4ah) | 1:39 |
 | 8 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
 | 9 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 2:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Fighting My Demons](https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:30 |
 | 99 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 
-Snapshot ID: `MCxhNmFlZjJlYjJmZWNmOWQ5MmJjYjZmMjhiODJkNmUzODI2NzdlZTgz`
+Snapshot ID: `MCxmZmIzYzllY2I3ZDFkYmQwM2Y1M2NjNzM1MTcwZDdiZTg3ZDhjNDQ4`

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Valence",
-  "num_followers": 39585,
+  "num_followers": 39593,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NThjM2ZlNGQ1MzU3ODYwOTVhNzI3MjA0NzZhM2YyNjAxMzJmYTBk",
+  "snapshot_id": "MCwyN2RlM2FmNWQzNDE3Yzk4ZTFiNjc0Njc4YWY5NGU4MDZiODE0MDRi",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "3 MAI 2025",
+        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "3 MAI 2025",
+      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Il y a",
         "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
@@ -387,6 +403,22 @@
       "duration_ms": 205365,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Love de toi",
+      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -411,54 +443,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Love de toi",
-      "url": "https://open.spotify.com/track/6gxqFnRudA7OAgmwwonkcP"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "3 MAI 2025",
-        "url": "https://open.spotify.com/album/0d8htTTZxOtwNGLB3wg3KG"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "3 MAI 2025",
-      "url": "https://open.spotify.com/track/4DgjfqlglUMebNAekQ0uQT"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Rashel",
-        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Rashel",
-      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -499,22 +499,22 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Saison 2",
-        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+        "name": "Rashel",
+        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         },
         {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 141893,
-      "name": "Ferrero (feat. Gambi)",
-      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
+      "duration_ms": 176160,
+      "name": "Rashel",
+      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "Saison 2",
+        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "Ferrero (feat. Gambi)",
+      "url": "https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "Kawasaki",
         "url": "https://open.spotify.com/album/6hSS1sEUm8gPtZVfmvlXBc"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 234093,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1RlWEcC7lMl18n2gsgPUzE"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 165353,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "2006 (Opps qui court)",
-        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
+        "name": "Yebisa Bango / Bijou",
+        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         }
       ],
-      "duration_ms": 178346,
-      "name": "2006 - Opps qui court",
-      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
+      "duration_ms": 149932,
+      "name": "Yebisa Bango",
+      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Yebisa Bango / Bijou",
-        "url": "https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6"
+        "name": "2006 (Opps qui court)",
+        "url": "https://open.spotify.com/album/5ncE4u6zAIl1O7a4x3zy2Q"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 149932,
-      "name": "Yebisa Bango",
-      "url": "https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO"
+      "duration_ms": 178346,
+      "name": "2006 - Opps qui court",
+      "url": "https://open.spotify.com/track/5cJHbMiyHr3oj9M8ZqIxho"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -759,6 +759,26 @@
       "duration_ms": 149133,
       "name": "CALMANT",
       "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+      },
+      "artists": [
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "La Cour des Miracles",
+      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -815,26 +835,6 @@
       "duration_ms": 183981,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
-      },
-      "artists": [
-        {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
-          "name": "Nekfeu",
-          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "La Cour des Miracles",
-      "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
     },
     {
       "added_at": "2024-02-02 05:00:00",

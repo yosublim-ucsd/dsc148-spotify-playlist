@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,187 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,205 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Sunset](https://open.spotify.com/track/2nwGKQXEtkTwXAD6MlVzbf) | [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A), [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS) | [Time Machine](https://open.spotify.com/album/15OXrNhV3wKPrsPKoEgi89) | 3:34 |
 | 80 | [chamomile](https://open.spotify.com/track/30RQQRih5uPGeiLN9PXZ5Y) | [yourmythos](https://open.spotify.com/artist/7sKi5L9PF9v0VfRcvPUMEn) | [chamomile](https://open.spotify.com/album/1BN4HWW81lC8zkJkL6RPaO) | 4:15 |
 
-Snapshot ID: `MCxmMWYzYTEzMDYwMjg3YzQ2MTQzYzQ5MmE1NjRmNDNkNDMxYWQyOGY2`
+Snapshot ID: `MCw2NjM1ZmQxODU2ZmQyYTViZmQ2M2M3ZjQ5NDVkZDdiNGMyZWNlN2Vh`

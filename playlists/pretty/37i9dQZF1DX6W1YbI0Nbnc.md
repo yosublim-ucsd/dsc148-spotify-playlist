@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Anita Mui 梅艷芳\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Anna hisbbuR\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,442 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,446 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [壞女孩](https://open.spotify.com/track/6sQZ47i12S0dYD5afBO8qg) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [壞女孩](https://open.spotify.com/album/6cWKFtjwqo1VkbIhyQzaRw) | 4:49 |
-| 2 | [夢伴](https://open.spotify.com/track/5HGzKB3X49ijxxjmPPIODT) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [壞女孩](https://open.spotify.com/album/6cWKFtjwqo1VkbIhyQzaRw) | 3:15 |
-| 3 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 |
-| 4 | [need/give me](https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [need/give me](https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG) | 3:21 |
-| 5 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 |
-| 6 | [代你白頭](https://open.spotify.com/track/5uUX5BaMtNwlI2PTHmQOXF) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [代你白頭](https://open.spotify.com/album/46gHMQKqUktl7maDQU52gS) | 4:02 |
-| 7 | [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 |
-| 8 | [可惜你是個人](https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [可惜你是個人](https://open.spotify.com/album/0XKJPvviHX8UQa5NyVZZBR) | 4:27 |
-| 9 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 |
-| 10 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
-| 11 | [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 |
-| 12 | [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 |
-| 13 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 |
-| 14 | [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 |
-| 15 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 |
-| 16 | [每當幻變時](https://open.spotify.com/track/5r3QKTDOWP5SsLdjqjyxeX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 3:33 |
-| 17 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 |
-| 18 | [風眼](https://open.spotify.com/track/3GI7zpUAj0cccSnzIgihR6) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [風眼](https://open.spotify.com/album/0qu729S3OKKYkC9srPLTSE) | 3:15 |
-| 19 | [史詩式完結](https://open.spotify.com/track/4PZ8v9on8C5V2L98xzgT8x) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [The Odyssey of Freya](https://open.spotify.com/album/12w8t90ZpgzOk9vz65NfNq) | 3:39 |
-| 20 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 |
-| 21 | [歧義種子](https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [歧義種子](https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa) | 3:34 |
-| 22 | [Strawberry Icecream](https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Strawberry Icecream](https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD) | 3:21 |
-| 23 | [貓之報恩](https://open.spotify.com/track/2lpWeRLGEIX0wpuNoByT0F) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [貓之報恩](https://open.spotify.com/album/5hLfEWdwVpcnDCD1D8JBQq) | 3:46 |
-| 24 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 |
-| 25 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 |
-| 26 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 |
+| 1 | [Apart, so](https://open.spotify.com/track/0EKiPxxGjeI384TjISd9ph) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:28 |
+| 2 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 |
+| 3 | [壞女孩](https://open.spotify.com/track/6sQZ47i12S0dYD5afBO8qg) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [壞女孩](https://open.spotify.com/album/6cWKFtjwqo1VkbIhyQzaRw) | 4:49 |
+| 4 | [夢伴](https://open.spotify.com/track/5HGzKB3X49ijxxjmPPIODT) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [壞女孩](https://open.spotify.com/album/6cWKFtjwqo1VkbIhyQzaRw) | 3:15 |
+| 5 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 |
+| 6 | [need/give me](https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [need/give me](https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG) | 3:21 |
+| 7 | [威廉](https://open.spotify.com/track/22roiMc12gcS8ftFLNzk0K) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [威廉](https://open.spotify.com/album/0uKpiHlej0yXKenTfDvr7t) | 5:05 |
+| 8 | [代你白頭](https://open.spotify.com/track/5uUX5BaMtNwlI2PTHmQOXF) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [代你白頭](https://open.spotify.com/album/46gHMQKqUktl7maDQU52gS) | 4:02 |
+| 9 | [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 |
+| 10 | [可惜你是個人](https://open.spotify.com/track/4Bfgdsd4wlypz9B12zuNay) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [可惜你是個人](https://open.spotify.com/album/0XKJPvviHX8UQa5NyVZZBR) | 4:27 |
+| 11 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 |
+| 12 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
+| 13 | [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 |
+| 14 | [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 |
+| 15 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 |
+| 16 | [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 |
+| 17 | [君莫問](https://open.spotify.com/track/0aTRqpyXgGs3yfnlRR4IBF) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [君莫問](https://open.spotify.com/album/5jCsCSxXDojiRu92WdoXFG) | 3:07 |
+| 18 | [每當幻變時](https://open.spotify.com/track/5r3QKTDOWP5SsLdjqjyxeX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 3:33 |
+| 19 | [我的親人](https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [我的親人](https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a) | 4:42 |
+| 20 | [風眼](https://open.spotify.com/track/3GI7zpUAj0cccSnzIgihR6) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [風眼](https://open.spotify.com/album/0qu729S3OKKYkC9srPLTSE) | 3:15 |
+| 21 | [史詩式完結](https://open.spotify.com/track/4PZ8v9on8C5V2L98xzgT8x) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [The Odyssey of Freya](https://open.spotify.com/album/12w8t90ZpgzOk9vz65NfNq) | 3:39 |
+| 22 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 |
+| 23 | [歧義種子](https://open.spotify.com/track/6v6LW9PslX7RiXoaBfAduq) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [歧義種子](https://open.spotify.com/album/7ulGonGDgcrJnmmnyPDwSa) | 3:34 |
+| 24 | [Strawberry Icecream](https://open.spotify.com/track/3QWDgjquhPquGK71NlBmi8) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Strawberry Icecream](https://open.spotify.com/album/68JIJ0CuNyGkH9na7Y3OiD) | 3:21 |
+| 25 | [貓之報恩](https://open.spotify.com/track/2lpWeRLGEIX0wpuNoByT0F) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [貓之報恩](https://open.spotify.com/album/5hLfEWdwVpcnDCD1D8JBQq) | 3:46 |
+| 26 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 |
 | 27 | [· · 一](https://open.spotify.com/track/5TPsJ7t6JPtEkrpF8Ywq2W) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [· · 一](https://open.spotify.com/album/60Gux8lIYWssy6HpIJ0a2s) | 4:36 |
 | 28 | [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 |
 | 29 | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [狠愛狠愛你 \(電影《飯戲攻心》主題曲\)](https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 |
 | 50 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 |
 
-Snapshot ID: `MCxiZDA5M2M4ZjA4ODg1ZDVlZDQwYjVkY2YwYWRjYjU4NDM3NGFmZDU2`
+Snapshot ID: `MCw3MDMyNzQxOGY3OTMyN2M4YmU2ZDJjNmU2YjFmOWIzZWNmZjA1YjE3`

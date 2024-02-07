@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Kendji",
+        "url": "https://open.spotify.com/album/7lAn2A7bS3wx3XtrsqXU68"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "Andalouse",
+      "url": "https://open.spotify.com/track/7l9bZwKHMT7wMaxpE6yVpi"
+    },
+    {
+      "album": {
         "name": "Cyclorama",
         "url": "https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -100,7 +118,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
@@ -601,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Panique Celtique",
+        "url": "https://open.spotify.com/album/1i7e6Cu4N6zhbhvJ4lNw6G"
+      },
+      "artists": [
+        {
+          "name": "Manau",
+          "url": "https://open.spotify.com/artist/6k68jYvlUy3CXOwhG1NDBL"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287240,
+      "name": "La tribu de Dana",
+      "url": "https://open.spotify.com/track/64gCM9yZv2jpNflclKUnXu"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/7aa71fyBd1G9q4BPQlibUu"
       },
@@ -1089,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Il suffit d'y croire (Version deluxe)",
+        "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222080,
+      "name": "Ta marini\u00e8re",
+      "url": "https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb"
+    },
+    {
+      "album": {
         "name": "Tahiti",
         "url": "https://open.spotify.com/album/7uHPaVhNz2ECnqC0SmpXPo"
       },
@@ -1118,7 +1172,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 170424,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/0y9GkH3ISgqAU6XmUVok7Q"

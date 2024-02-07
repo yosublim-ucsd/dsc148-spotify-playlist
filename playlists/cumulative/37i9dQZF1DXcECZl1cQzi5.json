@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "432 Hz Rahu (Ocean Waves)",
+        "url": "https://open.spotify.com/album/2nPV7DFNF7zmTvKhG9dRvj"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marcello",
+          "url": "https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "432 Hz Rahu (Ocean Waves)",
+      "url": "https://open.spotify.com/track/21Kay5ZRTabqcBn8bopV4r"
+    },
+    {
+      "album": {
+        "name": "432 Hz Tsiatso",
+        "url": "https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q"
+      },
+      "artists": [
+        {
+          "name": "Asha Ward",
+          "url": "https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "432 Hz Tsiatso",
+      "url": "https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU"
+    },
+    {
+      "album": {
         "name": "528 Hz Ocean Rest",
         "url": "https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 163291,
       "name": "Breezing",
       "url": "https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J"
@@ -437,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Embedded Waves",
+        "url": "https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Embedded Waves",
+      "url": "https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR"
+    },
+    {
+      "album": {
         "name": "Endless 432 Hz",
         "url": "https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM"
       },
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Feel(ing)",
+        "url": "https://open.spotify.com/album/7jUD1Sxsl7k7ysBKKR1i1N"
+      },
+      "artists": [
+        {
+          "name": "Quiet Notes",
+          "url": "https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203791,
+      "name": "Feel(ing)",
+      "url": "https://open.spotify.com/track/47bHgaH5iRUjU0HQhtb6tQ"
+    },
+    {
+      "album": {
         "name": "Fishermans Village",
         "url": "https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni"
       },
@@ -470,6 +542,24 @@
       "duration_ms": 157303,
       "name": "Fishermans Village",
       "url": "https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM"
+    },
+    {
+      "album": {
+        "name": "Foreign Land",
+        "url": "https://open.spotify.com/album/4AxKVGRba3nKOqr16uORwl"
+      },
+      "artists": [
+        {
+          "name": "Bonum Somno",
+          "url": "https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Foreign Land",
+      "url": "https://open.spotify.com/track/2dYvErG4zo7PfQ86YyruEr"
     },
     {
       "album": {
@@ -506,6 +596,24 @@
       "duration_ms": 160333,
       "name": "From Within",
       "url": "https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr"
+    },
+    {
+      "album": {
+        "name": "Fundament Waves",
+        "url": "https://open.spotify.com/album/2fYjCgYotNkBvn6ypvTDlr"
+      },
+      "artists": [
+        {
+          "name": "Rhuma",
+          "url": "https://open.spotify.com/artist/2sKBIgEdMkCfd6Fl682Gcf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Fundament Waves",
+      "url": "https://open.spotify.com/track/2mdzn5dsUDIKNQ1TK67Bpf"
     },
     {
       "album": {
@@ -578,6 +686,24 @@
       "duration_ms": 178285,
       "name": "Hidden Beach",
       "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
+    },
+    {
+      "album": {
+        "name": "Highest Peaks",
+        "url": "https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F"
+      },
+      "artists": [
+        {
+          "name": "Starry Girl",
+          "url": "https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Highest Peaks",
+      "url": "https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh"
     },
     {
       "album": {
@@ -707,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Obscure Ocean",
+        "url": "https://open.spotify.com/album/3d2kKnsb4KIGKDjWlOuXVo"
+      },
+      "artists": [
+        {
+          "name": "Ultrawideolence",
+          "url": "https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148035,
+      "name": "Obscure Ocean",
+      "url": "https://open.spotify.com/track/6O59ijRb9pv9CedleQJW6L"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
@@ -722,6 +866,24 @@
       "duration_ms": 156762,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY"
+    },
+    {
+      "album": {
+        "name": "Ocean Dreaming",
+        "url": "https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8"
+      },
+      "artists": [
+        {
+          "name": "Semaphore",
+          "url": "https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "Ocean Dreaming",
+      "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
     },
     {
       "album": {
@@ -758,7 +920,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 182727,
       "name": "Oceanfront",
       "url": "https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi"
@@ -963,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Rebuild",
+        "url": "https://open.spotify.com/album/38zNoXSDR3Isa9xG2li7vY"
+      },
+      "artists": [
+        {
+          "name": "Toni Fairbanks",
+          "url": "https://open.spotify.com/artist/11M2X5cWg29k0Xg2eHLJHy"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268363,
+      "name": "Rebuild",
+      "url": "https://open.spotify.com/track/6xYoQ0EtHqtvhgm8zlxHUa"
+    },
+    {
+      "album": {
         "name": "Restore",
         "url": "https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0"
       },
@@ -1082,7 +1262,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 231102,
       "name": "Silent Retreat (Ocean View)",
       "url": "https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf"
@@ -1212,6 +1392,24 @@
       "duration_ms": 184251,
       "name": "Soulful Serenity",
       "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
+    },
+    {
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/1qXQEBp7ijNutSZbtn7wX5"
+      },
+      "artists": [
+        {
+          "name": "Yogovic",
+          "url": "https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/2j0oi4nrrRbvG42UrS3014"
     },
     {
       "album": {
@@ -1352,7 +1550,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 137810,
       "name": "Tr\u00e4umend (Sound Bath)",
       "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"

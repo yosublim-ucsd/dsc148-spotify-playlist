@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6074,
+  "num_followers": 6075,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDVkYjU0OTJiNWJlY2Y3NTRlOWFiYjQ5OWYyMTE1MDgwZGI0NGY4",
+  "snapshot_id": "MCxiZjc5MmUxYzExYjI3YjdjZWU5MjY1Y2Y4MmI4NTRiNDZhZTA2MGRm",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "Night thinking 'bout you",
-        "url": "https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam"
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
       },
       "artists": [
         {
-          "name": "CITI",
-          "url": "https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE"
+          "name": "Blue Mangtto",
+          "url": "https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp"
+        },
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Night thinking 'bout you",
-      "url": "https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs"
+      "duration_ms": 181680,
+      "name": "OH NONONO",
+      "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

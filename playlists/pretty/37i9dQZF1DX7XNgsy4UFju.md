@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,518 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,522 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [RUNNIN'](https://open.spotify.com/track/28Wbfb0Q80jaks0CEDxsuZ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [RUNNIN'](https://open.spotify.com/album/29sYxtDUuuEED675lb60io) | 3:26 |
 | 100 | [Chang’e](https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [The Silver Cord](https://open.spotify.com/album/7iY6PA1ftgY8OKOzc2vBdo) | 3:46 |
 
-Snapshot ID: `MCxkMjcwOGI2MGEyMDkzODU2YjQ0NmQ5YTRlMGZhYmI4NzgyMDI1ZmY5`
+Snapshot ID: `MCw3ZDE0ZTQyZWNjZTIxNzcwMGYxOWU1YjAzZDgwMzM5YWE0NzZlYjIx`

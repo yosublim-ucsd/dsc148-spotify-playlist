@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,987 likes - 84 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,005 likes - 84 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 45 | [Treat Me Nice](https://open.spotify.com/track/6PjTKlBclT9fmXBJSnl2l4) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:11 |
 | 46 | [Don't](https://open.spotify.com/track/22koI34FpNt6irOht3N8nJ) | [Zoë Kravitz](https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 2:48 |
 | 47 | [How's The World Treating You](https://open.spotify.com/track/06KWxPWcaOBaKGIPhjPLLq) | [Daniel Agee](https://open.spotify.com/artist/5AMZg5wS6tLlKWux7UzkND) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 2:49 |
-| 48 | [September Song](https://open.spotify.com/track/2EuqgpA1cTC95AQUgCcZHk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/6QvHf4M3JDX90qtX3XclDb) | 3:24 |
+| 48 | [September Song \- Bonus Track](https://open.spotify.com/track/2EuqgpA1cTC95AQUgCcZHk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Bonus Track Version\)](https://open.spotify.com/album/6QvHf4M3JDX90qtX3XclDb) | 3:24 |
 | 49 | [You Can't Always Get What You Want](https://open.spotify.com/track/3dpKu2UFGXm9VUXdMDKsEr) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Big Little Lies \(Music From The HBO Limited Series\)](https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw) | 4:12 |
 | 50 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
 | 51 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 83 | [King Kong](https://open.spotify.com/track/0fguPfhM5cgGHeTGuJyyB5) | [Babe Ruth](https://open.spotify.com/artist/0U04xAocTetRnA7v3TYQ2i) | [Colors of Psychedelia](https://open.spotify.com/album/0wri6eeuRpiJAHJk4BItgC) | 6:46 |
 | 84 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 
-Snapshot ID: `MCw4ZjA2MjI0MWYwZDJiOTRmNjk0YWNkYzkzZDEwZDgzMDQ1NWYzYWU1`
+Snapshot ID: `MCw2NTgzYWU5MzI0ODExZDYxODAwOTVlZjkyM2RkOTNlOGFhOTYwMzli`

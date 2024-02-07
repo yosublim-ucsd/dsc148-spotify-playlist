@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 262186,
       "name": "Boots",
       "url": "https://open.spotify.com/track/1BRZiTic3RjfNpLzlXT5sq"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 356973,
       "name": "Lady - 2020",
       "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 169468,
       "name": "Pinfu",
       "url": "https://open.spotify.com/track/0ZpJ6BoyuskaBVl7Hx4nnP"
@@ -3937,6 +3937,32 @@
     },
     {
       "album": {
+        "name": "the pyre",
+        "url": "https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f"
+      },
+      "artists": [
+        {
+          "name": "Piezoluminescence",
+          "url": "https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df"
+        },
+        {
+          "name": "Tamuraryo",
+          "url": "https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR"
+        },
+        {
+          "name": "mippopotamus",
+          "url": "https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "the pyre",
+      "url": "https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ"
+    },
+    {
+      "album": {
         "name": "Highlights from Simple is best",
         "url": "https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF"
       },
@@ -4570,6 +4596,24 @@
       "duration_ms": 240532,
       "name": "\u3044\u3064\u3057\u304b",
       "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u96c4\u5927",
+          "url": "https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240853,
+      "name": "\u3044\u3064\u3082\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L"
     },
     {
       "album": {
@@ -5862,7 +5906,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 251826,
       "name": "\u540d\u524d\u306e\u306a\u3044\u8857",
       "url": "https://open.spotify.com/track/6eJetNdi0WMj1BAoqIsX7t"
@@ -6242,6 +6286,24 @@
       "duration_ms": 298292,
       "name": "\u5fae\u71b1 (\u79cb)",
       "url": "https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF"
+    },
+    {
+      "album": {
+        "name": "\u5fc3\u305f\u3061",
+        "url": "https://open.spotify.com/album/2mUD1l0mya9uoAK3cUURUq"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279200,
+      "name": "\u5fc3\u305f\u3061",
+      "url": "https://open.spotify.com/track/0sZLz7L4gffnuuaB1yvVbl"
     },
     {
       "album": {
@@ -7790,6 +7852,24 @@
       "duration_ms": 220236,
       "name": "\u982c\u6756",
       "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306b\u63fa\u308c\u308b",
+        "url": "https://open.spotify.com/album/3Af7NGZBcGJ3z1tuEqHW5o"
+      },
+      "artists": [
+        {
+          "name": "Waff",
+          "url": "https://open.spotify.com/artist/6s2gIwS2zID7kICIZVh1hj"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216874,
+      "name": "\u98a8\u306b\u63fa\u308c\u308b",
+      "url": "https://open.spotify.com/track/5BEtKrIULMAlg4dVcJQyzw"
     },
     {
       "album": {

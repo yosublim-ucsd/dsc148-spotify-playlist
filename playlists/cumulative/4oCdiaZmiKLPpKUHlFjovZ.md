@@ -4,11 +4,11 @@
 
 > Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock.
 
-66 songs - 2 hr 51 min
+66 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:31 | 2024-01-19 |  |
+| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 | 2024-01-19 |  |
 | [$1M](https://open.spotify.com/track/6EZevl0aJzkUmW0MUQKC1p) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [$1M](https://open.spotify.com/album/1BpLjNHS6EqNkrIaJ3otYr) | 1:50 | 2023-10-13 | 2024-01-20 |
 | [10 Percent](https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [10 Percent](https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg) | 3:19 | 2023-06-05 |  |
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2023-05-05 |  |

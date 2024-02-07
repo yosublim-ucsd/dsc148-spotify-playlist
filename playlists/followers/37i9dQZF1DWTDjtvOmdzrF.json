@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 562462,
+  "2024-02-07": 562497,
   "date_first_scraped": "2022-12-15",
   "description": "Racikan akustik dalam secangkir kopi. ",
   "name": "Kopikustik",
@@ -57,6 +57,24 @@
       "duration_ms": 131000,
       "name": "Apa Mungkin - Demo Version",
       "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
+    },
+    {
+      "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/2jZflSCJ8hq8bp7bBzioOx"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "April",
+      "url": "https://open.spotify.com/track/7acA8bnDcifMEolySXKOz8"
     },
     {
       "album": {
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 241294,
       "name": "Rasa Cinta Ini",
       "url": "https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe"

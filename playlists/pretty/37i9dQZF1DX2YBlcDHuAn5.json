@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6859,
+  "num_followers": 6866,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzY3ZDNmMjZkY2FkMzRlMTk1YjllMWU0YWRmZDdkMjkzNDI3MzE3",
+  "snapshot_id": "MCw3NTQ3Mzk4YWY0NTRmZjZiYzZmZGZjZWIxMGJlM2Y2NTY3NzI4YjRl",
   "tracks": [
     {
       "added_at": "2024-02-01 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
-      },
-      "artists": [
-        {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
-    },
-    {
-      "added_at": "2024-02-01 23:00:00",
-      "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2024-02-01 23:00:00",
       "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim"
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
       },
       "artists": [
         {
-          "name": "Mattanja Joy Bradley",
-          "url": "https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush"
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
         }
       ],
-      "duration_ms": 249616,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS"
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
+    },
+    {
+      "added_at": "2024-02-01 23:00:00",
+      "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     }
   ],
   "unique_name": "Route Americana",

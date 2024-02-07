@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 4118,
+  "2024-02-07": 4118,
   "date_first_scraped": "2023-03-05",
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
   "name": "This Is Kierra Sheard",
@@ -635,7 +635,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 75557,
       "name": "Intro (I Am Free) - Live",
       "url": "https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 68 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 703 likes - 68 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 67 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 |
 | 68 | [Fur Coat Blues \(Live\)](https://open.spotify.com/track/0bgx8MHo22ea3yrmRqHBTi) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Live from Largo at the Coronet Theatre](https://open.spotify.com/album/12o0UlVSlCIYE1l2LvL2SW) | 4:01 |
 
-Snapshot ID: `MCxjNTU1OTVjOWYzMDJmZmQ0YTQ0NWEyNzZmMGM5NzY2NmRiYTliMjVm`
+Snapshot ID: `MCwwMTRiMWY5NzY5MDgzZTVjYjMxMTY3ZGJjZjlhZjgxMmI5ODA5NGJl`

@@ -4,12 +4,12 @@
 
 > The rap soundtrack to the internet\. Cover: Barretta
 
-945 songs - 1 day 14 hr 32 min
+945 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3Be6tP8oTqFVOMhEJg4wlO) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Ct3Nikd1tNSufQrnKqwev) | 2:53 | 2021-11-05 | 2022-02-18 |
-| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:31 | 2024-01-16 |  |
+| [\#CERTIFIED \(feat\. DJ Ess\) \- DJ Ess Mix](https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DJ Ess](https://open.spotify.com/artist/7odc1yu6mbQ91fsh0KK5SJ) | [\#CERTIFIED \(DJ Ess Mix\) \[feat\. DJ Ess\]](https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ) | 2:02 | 2024-01-16 |  |
 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 | 2022-07-05 | 2022-12-17 |
 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 | 2023-06-16 | 2023-09-23 |
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2021-10-01 | 2022-07-09 |
@@ -232,7 +232,7 @@
 | [Demons](https://open.spotify.com/track/2j0KrN359zKbaL2NIcoEmA) | [Llainwire](https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA) | [Demons](https://open.spotify.com/album/7cwaBUDG4UFCE1bLZbHjj7) | 1:47 | 2023-05-19 | 2023-06-17 |
 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-30 | 2023-07-22 |
 | [Diamonds Cry](https://open.spotify.com/track/3lq7nObJRC3GXoPDe8zZIW) | [Tevomxntana](https://open.spotify.com/artist/4R1Ph1IPb4wG0XWzzOcvQa) | [Diamonds Cry](https://open.spotify.com/album/7EW3I0378mL1kzW8x9ddp2) | 2:01 | 2023-10-20 |  |
-| [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 | 2024-02-02 |  |
+| [Diamondz n Roses](https://open.spotify.com/track/2s7pqJkHxJg9RNPxjtf46K) | [Jay Hound](https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm), [SweepersENT](https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l) | [Diamondz n Roses](https://open.spotify.com/album/7vcvxwMBYbiCHiLwVCPj7k) | 1:39 | 2024-02-02 |  |
 | [Diamondz n Roses \(Back It Up!\)](https://open.spotify.com/track/1kJSda5yj2yM7NLXItqgZD) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Back It Up! \(Diamondz n Roses\)](https://open.spotify.com/album/5LIRiZrStdRIY3xGL4qQUL) | 1:33 | 2023-12-06 | 2024-02-04 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-10-08 |
 | [Different Goals](https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Different Goals](https://open.spotify.com/album/0fWDgzqcJIOy5bcsBgyCIt) | 2:29 | 2023-08-25 | 2023-10-21 |

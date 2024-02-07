@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,260 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,268 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Ha Muerto](https://open.spotify.com/track/7DpJkIO5oiEWX0FL27nFO0) | [Susobrino](https://open.spotify.com/artist/77XvwNYFwIc71Q8314oPyu), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Ha Muerto](https://open.spotify.com/album/6V8eCmfHjt9FitfsT63bnb) | 2:33 |
 | 100 | [Otro Día](https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:41 |
 
-Snapshot ID: `MCw4MGQzZDU0ZWM3NzU3MGExMGY1MDE3ZjMyNzYzZWU4NjY5YTEwMTY0`
+Snapshot ID: `MCw0MGM3MzRkZjcxZjczOTljMWFiZmEyNmY2YjhhY2FlMmQwNWE0YTBi`

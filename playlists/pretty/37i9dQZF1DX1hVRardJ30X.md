@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,661 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,647 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [MIRA MIRA](https://open.spotify.com/track/7aHKWUc6ypMlOkO1CKfEhu) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [MIRA MIRA](https://open.spotify.com/album/6GikrpCfIqPSYrgargXjxb) | 2:13 |
 | 51 | [ok](https://open.spotify.com/track/1YijuEtVxi9mcL4fFoaaxK) | [Uglyaguacate](https://open.spotify.com/artist/35ORtbfXqWIrZ0qbegPdi7) | [ok](https://open.spotify.com/album/2CNyiyK29sKxcRH04LJujv) | 2:44 |
 
-Snapshot ID: `MCxjNTQ2MDhiZDZjYzI1NDBiZGFjODIxYWQ5ZTIyYWI4YTU3NzA2NDVj`
+Snapshot ID: `MCwzMmY2M2Y4ODljZTBhYTY4OTNkZmFlN2VjOGU1ZDViZDY5M2RjYzJi`

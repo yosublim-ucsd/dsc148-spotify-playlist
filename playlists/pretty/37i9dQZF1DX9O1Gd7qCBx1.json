@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 215858,
+  "num_followers": 215847,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGVkZDUwNjU5OWUxODg1Y2MzYjc4ZjVlM2U0ODAwNGVlZDM2NDhh",
+  "snapshot_id": "MCxmYTI1YmQxZWM4YjUwMmJkNWZjNzZiOGY5ZDcyM2UxNjIyZTk4ZTMy",
   "tracks": [
     {
       "added_at": "2023-11-08 15:57:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "El Diablito Loco",
-        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
-      },
-      "artists": [
-        {
-          "name": "Leda Moreno",
-          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "El Diablito Loco",
-      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 264533,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "El Diablito Loco",
+        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
+      },
+      "artists": [
+        {
+          "name": "Leda Moreno",
+          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "El Diablito Loco",
+      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Canciones de D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 193213,
       "name": "Calaverita de Az\u00facar",
       "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Ch\u00e9ni (Miedo)",
-        "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
-      },
-      "artists": [
-        {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Ch\u00e9ni (Miedo)",
-      "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Ch\u00e9ni (Miedo)",
+        "url": "https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Ch\u00e9ni (Miedo)",
+      "url": "https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Las Flores del Camposanto",
-      "url": "https://open.spotify.com/track/4C4AqUBRrnibCDPUkOJkNv"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 226640,
       "name": "Sus Ojos Se Cerraron",
       "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Las Flores del Camposanto",
+      "url": "https://open.spotify.com/track/4C4AqUBRrnibCDPUkOJkNv"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Trist\u00edsimo Pante\u00f3n",
-      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Rosa Mexicano",
         "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 164080,
       "name": "Monton de Tierra",
       "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Trist\u00edsimo Pante\u00f3n",
+      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "A Mi Me Mato\u0301 La Vida",
-      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 209706,
       "name": "Dimensi\u00f3n Astral",
       "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "A Mi Me Mato\u0301 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
     },
     {
       "added_at": "2023-11-08 15:57:38",

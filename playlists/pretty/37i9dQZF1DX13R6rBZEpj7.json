@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 202723,
+  "num_followers": 202806,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNhNmRhZGVmOTEzMjA3MzEzNTI5ZGYwOGNkMGUwNTA2ZTM2ODgz",
+  "snapshot_id": "MCw1NjhhN2Y2MjQ0MTcxNjhlM2M4MzMwZjIyMzEzNGVjOGYwOTE5MzUy",
   "tracks": [
     {
       "added_at": "2024-01-26 00:00:00",
@@ -523,22 +523,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Friday Nights (efan Remix)",
-        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
       },
       "artists": [
         {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         }
       ],
-      "duration_ms": 206571,
-      "name": "Friday Nights (efan Remix)",
-      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Live And Direct",
-        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+        "name": "Friday Nights (efan Remix)",
+        "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
       },
       "artists": [
         {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
         }
       ],
-      "duration_ms": 171642,
-      "name": "Live And Direct",
-      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
+      "duration_ms": 206571,
+      "name": "Friday Nights (efan Remix)",
+      "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Ikebana - EP",
-        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 213743,
       "name": "Let Go (with Aleya Mae)",
       "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Ikebana - EP",
+        "url": "https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
+        "name": "Easy for them",
+        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Easy for them",
-        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
       "artists": [
         {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Easy for them",
-      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1087,18 +1103,22 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1119,26 +1139,6 @@
       "duration_ms": 221024,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
     },
     {
       "added_at": "2024-01-26 00:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-01-26 00:00:00",
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
-    },
-    {
-      "added_at": "2024-01-26 00:00:00",
-      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/5JX891euRdXxQuUNl5f1oW"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 249448,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/60GofMxxkrLuEIOS9JluGG"
+    },
+    {
+      "added_at": "2024-01-26 00:00:00",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2024-01-26 00:00:00",

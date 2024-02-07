@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 34758,
+  "2024-02-07": 34806,
   "date_first_scraped": "2022-05-30",
   "description": "A perfect mix for your Mehendi ceremony.",
   "name": "Mehendi",
@@ -527,7 +527,7 @@
     {
       "album": {
         "name": "Love Like That",
-        "url": "https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC"
+        "url": "https://open.spotify.com/album/1c17nYlcSkBZlaag1LTZ5J"
       },
       "artists": [
         {
@@ -538,6 +538,24 @@
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207765,
+      "name": "It Is What It Is (Madhaniya)",
+      "url": "https://open.spotify.com/track/0Og7tupRo5ozcO6RCXTz7E"
+    },
+    {
+      "album": {
+        "name": "Love Like That",
+        "url": "https://open.spotify.com/album/3Y4Bd81VEusw5Hhrp42huC"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-02-06",
       "duration_ms": 207765,
       "name": "It Is What It Is (Madhaniya)",
       "url": "https://open.spotify.com/track/1c6GS8OK74Xkl6vlg7Rj6r"

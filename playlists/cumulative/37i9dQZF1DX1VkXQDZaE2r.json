@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Zoo folle (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/54AO4l9TAqEH2ogpcUKdDi"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Sorgini",
+          "url": "https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX"
+        }
+      ],
+      "date_added": "2020-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409400,
+      "name": "Ambroseli",
+      "url": "https://open.spotify.com/track/0qoncpjquF5UILqO4aZtdR"
+    },
+    {
+      "album": {
         "name": "The B-Music of Jean Rollin 1968-1975",
         "url": "https://open.spotify.com/album/0Cvuf8byWjIisbPzunLwAX"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 103426,
       "name": "Blue Doll Baroque",
       "url": "https://open.spotify.com/track/4rKq4truS2MWOVmDL4sFe7"
@@ -146,7 +164,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 295729,
       "name": "Discossession",
       "url": "https://open.spotify.com/track/54MdRC5m9E5UiMnomyD0Z6"
@@ -362,7 +380,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 113708,
       "name": "L'incubo e il serpente",
       "url": "https://open.spotify.com/track/2JY0omp5QLrVHEnSp0zXS6"

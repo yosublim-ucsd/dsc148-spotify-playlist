@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,272 likes - 51 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,290 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 6 | [Só Quero Viajar](https://open.spotify.com/track/1isFUjTray08USSUwd5pTh) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Só Quero Viajar](https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb) | 3:33 |
 | 7 | [Poesia Acústica \- Paris](https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Poesia Acústica \- Paris](https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS) | 7:00 |
 | 8 | [Eu Não Valho Nada](https://open.spotify.com/track/1Ko3CMKQkQJs51ubIM61k9) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Eu Não Valho Nada](https://open.spotify.com/album/511Et9PDDBj9qlrYttpUgx) | 3:17 |
-| 9 | [Sexta\-Feira](https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sexta\-Feira](https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj) | 3:59 |
-| 10 | [Lamentável, Pt\. III](https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Pior Disco do Ano](https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli) | 3:30 |
+| 9 | [Lamentável, Pt\. III](https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Pior Disco do Ano](https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli) | 3:30 |
+| 10 | [Sexta\-Feira](https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sexta\-Feira](https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj) | 3:59 |
 | 11 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |
 | 12 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 |
 | 13 | [Jurei/Odin](https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Colírio da Cólera](https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt) | 3:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 50 | [Lambada](https://open.spotify.com/track/0mVt6wggA6Y9XuGpCVfVzE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:47 |
 | 51 | [A Cura Tá no Coração](https://open.spotify.com/track/35ZFS434PZDDofT9AXK62y) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Cura Tá no Coração](https://open.spotify.com/album/2kbAHf5ae9v2LWfWup43QH) | 3:48 |
 
-Snapshot ID: `Mjg0NTIyMzEsMDAwMDAwMDAxZjY1MzQ3ODhlNTRlMjU5ZDc0NjA0YjdhMTMyMmM0NQ==`
+Snapshot ID: `Mjg0NTM2OTAsMDAwMDAwMDA5YzlkMWRiMTZlY2JjZjk5OWM3Mjc4ZDY1NzkxMGEyYg==`

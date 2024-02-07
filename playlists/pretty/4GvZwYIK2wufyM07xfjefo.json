@@ -1,13 +1,105 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 105,
+  "num_followers": 107,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "Njc5LDk4YzdjNzEzOTkzYjYxZTA4OWU0MWQzYjMwODIzMzA3N2Q2MmUwMmY=",
+  "snapshot_id": "Njg5LDhiZjJmMDJlMWE2OTE5NTI3YTBlMzc5Y2VmNzlmYjBkY2E3ZTAyYmM=",
   "tracks": [
+    {
+      "added_at": "2024-02-06 06:38:09",
+      "album": {
+        "name": "\u30ad\u30ea\u30f3\u306b\u65e5\u304c\u3055\u305b\u3070",
+        "url": "https://open.spotify.com/album/4Pko07T6O3odVCwZs9XjdM"
+      },
+      "artists": [
+        {
+          "name": "\u6fc1\u8336",
+          "url": "https://open.spotify.com/artist/05RFYZpwkHOneqyPC74C3M"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 210669,
+      "name": "\u30ad\u30ea\u30f3\u306b\u65e5\u304c\u3055\u305b\u3070",
+      "url": "https://open.spotify.com/track/1uqJFe0nn8gPLwCzW5lTyT"
+    },
+    {
+      "added_at": "2024-02-06 06:38:47",
+      "album": {
+        "name": "Koromogae",
+        "url": "https://open.spotify.com/album/0jKwaGOp0XyeyK5hwbCWQo"
+      },
+      "artists": [
+        {
+          "name": "Amamori P",
+          "url": "https://open.spotify.com/artist/1tlY9pasYap8HnzVQrCe1B"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 247999,
+      "name": "June (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1x2ZJvMxrsO8XATYXvt5ka"
+    },
+    {
+      "added_at": "2024-02-06 06:39:19",
+      "album": {
+        "name": "\u672a\u78ba\u8a8d\u98db\u884c\u76e4\u3000UFD",
+        "url": "https://open.spotify.com/album/3kqS3h0Leo1BbuR3DoQR5U"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 172625,
+      "name": "\u5b87\u5b99\u306e\u8e0a\u308a (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Xb5DjVqrFW3B0o2NkmxH7"
+    },
+    {
+      "added_at": "2024-02-06 06:40:33",
+      "album": {
+        "name": "\u8272\u5f69\u306e\u8857",
+        "url": "https://open.spotify.com/album/28jKKfvYvgX8ejS6AtLQPy"
+      },
+      "artists": [
+        {
+          "name": "\u30c0\u30a6\u8336\u3002",
+          "url": "https://open.spotify.com/artist/1hW7HmNAAYE9SLUBUjoLS1"
+        }
+      ],
+      "duration_ms": 330750,
+      "name": "\u8272\u5f69\u306e\u8857 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1i2KRYbtrWiblUuBOUP4kR"
+    },
+    {
+      "added_at": "2024-02-06 06:45:47",
+      "album": {
+        "name": "\u3053\u306e\u307e\u307e",
+        "url": "https://open.spotify.com/album/0nTc1LcVKmzeUTqIddy5Hw"
+      },
+      "artists": [
+        {
+          "name": "MinaruP",
+          "url": "https://open.spotify.com/artist/2mOMxxfTgo6WNUP5bJVdqI"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "\u3053\u306e\u307e\u307e",
+      "url": "https://open.spotify.com/track/55SZYGNQCwlaIFWf5NRUYx"
+    },
     {
       "added_at": "2024-01-16 07:17:28",
       "album": {
@@ -631,98 +723,6 @@
       "duration_ms": 295685,
       "name": "\u30ed\u30fc\u30ea\u30fc\u30ba\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/4lPQQYllMiTkKOoptoFVXc"
-    },
-    {
-      "added_at": "2023-11-07 03:24:04",
-      "album": {
-        "name": "\u6731\u67d3\u306e\u77b3",
-        "url": "https://open.spotify.com/album/3yCXcSp9OGRXRjIntRvaNa"
-      },
-      "artists": [
-        {
-          "name": "HATANAKAYOUKOU",
-          "url": "https://open.spotify.com/artist/5aJ3GK9vJhZid2VoVz4GiM"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 213962,
-      "name": "Shallow Dreams (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/5ld5jFWNW1CFZv95KdXP8u"
-    },
-    {
-      "added_at": "2023-11-07 03:24:42",
-      "album": {
-        "name": "Progress",
-        "url": "https://open.spotify.com/album/6Gco7wl5V7YnVCTKemaFWV"
-      },
-      "artists": [
-        {
-          "name": "sleepy",
-          "url": "https://open.spotify.com/artist/5ggK8b8G3DRIEVGSjRzuNV"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "\u30d1\u30e9\u30ec\u30eb",
-      "url": "https://open.spotify.com/track/0zhQ3AV7btwyByzfpklJoT"
-    },
-    {
-      "added_at": "2023-11-07 03:30:46",
-      "album": {
-        "name": "ROVE-Remaster-",
-        "url": "https://open.spotify.com/album/50exdrbp8eQmXTRJuSk4Ra"
-      },
-      "artists": [
-        {
-          "name": "Noboru",
-          "url": "https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 167096,
-      "name": "\u3082\u3057\u9022\u3048\u305f\u3089\u4f1d\u3048\u305f\u3044\u3093\u3060",
-      "url": "https://open.spotify.com/track/1bbZoidYEA6a5HfcVyWLzw"
-    },
-    {
-      "added_at": "2023-11-07 03:31:20",
-      "album": {
-        "name": "W.B.",
-        "url": "https://open.spotify.com/album/7k4GEPDho6hhHdnkS5Rqiz"
-      },
-      "artists": [
-        {
-          "name": "KulfiQ",
-          "url": "https://open.spotify.com/artist/0SEaoamxCexsrip7WU4gbQ"
-        }
-      ],
-      "duration_ms": 288824,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/21fRJQJJJraWK2IY5TMFLz"
-    },
-    {
-      "added_at": "2023-11-07 03:31:39",
-      "album": {
-        "name": "\u30a2\u30ad\u30a2\u30ab\u30cd",
-        "url": "https://open.spotify.com/album/5oaDmKBG5opTf2q7qfw76m"
-      },
-      "artists": [
-        {
-          "name": "andromeca",
-          "url": "https://open.spotify.com/artist/6PfvFeNacIWYtPWknsmchm"
-        }
-      ],
-      "duration_ms": 270544,
-      "name": "\u30a4\u30ed\u30cf\u30e2\u30df\u30b8",
-      "url": "https://open.spotify.com/track/4ucFS7AjNRpyDFtxfGWUSk"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

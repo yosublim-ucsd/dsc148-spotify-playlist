@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: ZAC
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,905 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,909 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TUCUPI](https://open.spotify.com/track/6ZIAW5k9yTJZUvL7mbAJKq) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [TUCUPI](https://open.spotify.com/album/5soWmdPeZdNOxuTLZ1Q2Mo) | 6:16 |
+| 1 | [TUCUPI TRIP](https://open.spotify.com/track/6ZIAW5k9yTJZUvL7mbAJKq) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [TUCUPI TRIP](https://open.spotify.com/album/5soWmdPeZdNOxuTLZ1Q2Mo) | 6:16 |
 | 2 | [Bambararam](https://open.spotify.com/track/0jYnLbpoQeu15iYjd7wEB4) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH) | [Bambararam](https://open.spotify.com/album/0jfIyLFkR6BkwRKpG3FsAO) | 2:20 |
 | 3 | [Trust Yourself \- RAMAH Remix](https://open.spotify.com/track/7fRkT3nEZ9dcdReEDiP8lC) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [RAMAH](https://open.spotify.com/artist/1Mk6KWgnA9JzOnS1TgSwJi) | [Trust Yourself \(RAMAH Remix\)](https://open.spotify.com/album/2fjKSDSWwUoVKJtzMaitUH) | 4:13 |
 | 4 | [In My Heart](https://open.spotify.com/track/1sZ9SebUhh9tj6etWtR3vn) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [NAŠH](https://open.spotify.com/artist/6bSc3kfGac1F9pKhAUfePg), [Tallez](https://open.spotify.com/artist/2GV086sizQwsDGJHPqRXA8) | [In My Heart](https://open.spotify.com/album/2WqaboOyaRgnqTpzLTXmQZ) | 3:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 79 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 | 80 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 
-Snapshot ID: `MCw5NGE4YjA3ZTc0ZDYxYzJlMzZlMWRhNmM2Mjg2ZjAwODhlNDQ5Y2M0`
+Snapshot ID: `MCw0NjkwM2Y2YmZlZWM1OGQ3OGEwZWUyMGU0NDE2Nzc2NDdiMzVlYzVm`

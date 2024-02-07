@@ -4,7 +4,7 @@
 
 > 
 
-1,134 songs - 2 day 15 hr 33 min
+1,135 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [Game Over](https://open.spotify.com/track/0pcIExB9WDMsgRopRZQshN) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Game Over](https://open.spotify.com/album/1XtkukXNhbUhVve9Ue9KVg) | 2:11 | 2023-11-20 |  |
 | [Game Over](https://open.spotify.com/track/1N62PRlZcr5PoISOnSdLeL) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 2:28 | 2022-11-07 |  |
 | [Gang Shit](https://open.spotify.com/track/6GKiVx0LfPEWIuQ8a9jAMt) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Gang Shit](https://open.spotify.com/album/5QtJqXVnKEf2zYcgu7NYDV) | 2:37 | 2023-11-26 |  |
+| [Gas Pedal](https://open.spotify.com/track/6KQeQ48fGW7KwHJzQDKr08) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Chromaxx](https://open.spotify.com/artist/1jx8LgkLFjkIIDpyoIo2DA) | [Gas Pedal](https://open.spotify.com/album/2AmYeQfTduEWM1WQWNJQpA) | 3:30 | 2024-02-06 |  |
 | [Gehenna 2023](https://open.spotify.com/track/6Adouw63jHRhS0ONIqQLj2) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Gehenna 2023](https://open.spotify.com/album/4iuFdsTmvHwtfKtVykNHOK) | 3:00 | 2022-09-30 |  |
 | [Generavers](https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Generavers](https://open.spotify.com/album/0MoBA9jfilDabb6JZ9DqaF) | 2:49 | 2022-09-06 |  |
 | [Get Lit](https://open.spotify.com/track/4exm23QeLL8nLD5uKONqHU) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Get Lit](https://open.spotify.com/album/0OiadUJ6p5lztdBuprIaTS) | 2:56 | 2023-09-02 |  |

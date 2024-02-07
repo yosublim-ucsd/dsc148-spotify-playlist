@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: BIGONE\(빅원\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-563 songs - 1 day 10 hr 36 min
+564 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,8 +568,9 @@
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-07-22 | 2023-04-06 |
 | [잠에취해 Be drunk with sleep](https://open.spotify.com/track/22OJac3FekTtngEkmR4rCU) | [이브 EVE](https://open.spotify.com/artist/4ZC1J8g5z3x2M8MWimkZlH) | [잠에취해 Be drunk with sleep](https://open.spotify.com/album/45qYuV8MgIoVtV1GNM38T8) | 3:47 | 2022-05-03 | 2022-05-08 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-05-11 | 2022-07-15 |
+| [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 | 2024-02-06 |  |
 | [패러글라이딩 Paragliding](https://open.spotify.com/track/57XdCKf3Pv6n8qUuYe8W6p) | [Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [패러글라이딩 Paragliding](https://open.spotify.com/album/6YFoJLOuWOrdPqpeOehcX3) | 4:01 | 2023-11-10 | 2023-12-01 |
-| [하루살이 Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [하루살이 Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 | 2023-12-26 |  |
+| [하루살이 Mayfly](https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [하루살이 Mayfly](https://open.spotify.com/album/4Zk04mU6yWGluTvNw4VCPt) | 4:02 | 2023-12-26 | 2024-02-07 |
 | [호우주의보 It's Raining](https://open.spotify.com/track/1xFJjh9QEVlWuOqfcp6V8K) | [Radio Paradise](https://open.spotify.com/artist/7ClbINnpciDolca5cIxchE) | [호우주의보 It's Raining](https://open.spotify.com/album/1y3x7RNNB13iLDl7CV1WAQ) | 3:53 | 2022-05-24 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

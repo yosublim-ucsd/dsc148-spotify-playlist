@@ -1,12 +1,12 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 31778,
+  "num_followers": 31782,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2NlNmVhYmM3ZmFjZTliNTU4Y2E2MmUwZWQ3ODE5YjcyOWJjOTM1",
+  "snapshot_id": "MCw3ZjBjNWQxNGU4YTRiNjlkNTdlYzBjNmYxNWU2ZWVjMGI5YjVkZmQ1",
   "tracks": [
     {
       "added_at": "2021-07-06 14:22:02",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Watch the World Die",
-        "url": "https://open.spotify.com/album/3ZAttcYlut56IVsUDSuo7O"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 234984,
-      "name": "Watch the World Die",
-      "url": "https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Hold My Beer, Vol. 2",
         "url": "https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 193931,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Watch the World Die",
+        "url": "https://open.spotify.com/album/3ZAttcYlut56IVsUDSuo7O"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 234984,
+      "name": "Watch the World Die",
+      "url": "https://open.spotify.com/track/0e9EIKj5FCQ1FEHdCHJh8M"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -895,18 +895,18 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Asunder",
-        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
       },
       "artists": [
         {
-          "name": "Ward Davis",
-          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Time to Move On",
-      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
+      "duration_ms": 242005,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "The Well",
         "url": "https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 177093,
       "name": "The Well",
       "url": "https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "Asunder",
+        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
+      },
+      "artists": [
+        {
+          "name": "Ward Davis",
+          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Time to Move On",
+      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
     },
     {
       "added_at": "2021-07-06 14:22:02",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-07-06 14:22:02",
       "album": {
-        "name": "The Balladeer",
-        "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Good Fight",
-      "url": "https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2"
-    },
-    {
-      "added_at": "2021-07-06 14:22:02",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1eXKj3JRnhZB0OQ7fDRvgn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 200386,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz"
+    },
+    {
+      "added_at": "2021-07-06 14:22:02",
+      "album": {
+        "name": "The Balladeer",
+        "url": "https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Good Fight",
+      "url": "https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2"
     },
     {
       "added_at": "2021-07-06 14:22:02",

@@ -7693,6 +7693,24 @@
     },
     {
       "album": {
+        "name": "Welcome to Sillycone Valley",
+        "url": "https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv"
+      },
+      "artists": [
+        {
+          "name": "Lene Alexandra",
+          "url": "https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "Sillycone Valley",
+      "url": "https://open.spotify.com/track/23R59LUKKvATvII3orFxCS"
+    },
+    {
+      "album": {
         "name": "Haram",
         "url": "https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k"
       },

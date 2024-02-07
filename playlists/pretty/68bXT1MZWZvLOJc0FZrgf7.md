@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits \| 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Forester
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 104,881 likes - 140 songs - 7 hr 8 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 104,862 likes - 140 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

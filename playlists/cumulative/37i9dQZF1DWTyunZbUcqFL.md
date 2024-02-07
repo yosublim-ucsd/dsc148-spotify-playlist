@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-53 songs - 4 hr 0 min
+55 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [I Love You](https://open.spotify.com/track/2UTRBWwr4jbcI6TA51LpyD) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Genius Love](https://open.spotify.com/album/1eRPP8ixCmKTAfz2Rm7JD4) | 4:16 | 2023-11-21 |  |
 | [IMPERIAL SMOKE TOWN](https://open.spotify.com/track/0awBHWlzmycfbukAxGecCK) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Utabiko](https://open.spotify.com/album/0x6HvB5xIWnYAQ3RknNBab) | 7:17 | 2023-11-21 |  |
 | [In Case of Emergency](https://open.spotify.com/track/3xtlXC1n2GCZR40JJK6Yi1) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj) | [A letter from allnighters](https://open.spotify.com/album/0QbIu0TSMlGnE5iBABtSeP) | 4:41 | 2023-11-21 |  |
+| [ism](https://open.spotify.com/track/7ubAfZ3Nmbcbn8OKRi5PgY) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [ism](https://open.spotify.com/album/0yTDmZIawF3FebL82kHAYK) | 4:02 | 2024-02-06 |  |
 | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/track/40W0JPTLGBzKKBfYY9fQVZ) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/album/7sKDx5iLMOYIvzc34AOzVO) | 3:20 | 2023-11-21 |  |
 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 | 2023-11-21 |  |
 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2024-01-16 |  |
@@ -27,12 +28,12 @@
 | [odoraba dance](https://open.spotify.com/track/25PcIfK0930uCEtJUFKlS0) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [odoraba dance](https://open.spotify.com/album/6ehNFkpq1i9Daa54FmMmhH) | 3:19 | 2024-01-16 |  |
 | [RIVER](https://open.spotify.com/track/6vHD8xxVud6WwOUA09s0g8) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 4:23 | 2024-01-16 |  |
 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 | 2023-11-21 |  |
-| [Sink To Chair](https://open.spotify.com/track/4yOAEXVbEKI5FNGO69sWuj) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Sink To Chair](https://open.spotify.com/album/6s8PbS2n8QHoexJIcFTLHn) | 6:03 | 2023-11-21 |  |
+| [Sink To Chair](https://open.spotify.com/track/4yOAEXVbEKI5FNGO69sWuj) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Sink To Chair](https://open.spotify.com/album/6s8PbS2n8QHoexJIcFTLHn) | 6:03 | 2023-11-21 | 2024-02-07 |
 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 | 2023-11-21 |  |
 | [Sparks](https://open.spotify.com/track/2Ns2QbUbEm6jZFx0zUzTZA) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:22 | 2024-01-16 |  |
 | [Spartacus Love Theme](https://open.spotify.com/track/7LHVptflODDE4u26YUwlla) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Brothers & Sisters](https://open.spotify.com/album/3V4mDjILPa5B2zDDzgDn5t) | 7:02 | 2023-11-21 |  |
 | [Spiritual State \(feat\. Uyama Hiroto\)](https://open.spotify.com/track/0jkaVZIYepDPnB140eR1Uc) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 6:31 | 2023-11-21 |  |
-| [Steppin' Out \- Costes reedit](https://open.spotify.com/track/4ADnQjIeCmhiJyWIyMIuWI) | [FPM](https://open.spotify.com/artist/1JutKskRO6oaNx1vLwhKM7) | [Hôtel Costes 5](https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj) | 5:17 | 2023-11-21 |  |
+| [Steppin' Out \- Costes reedit](https://open.spotify.com/track/4ADnQjIeCmhiJyWIyMIuWI) | [FPM](https://open.spotify.com/artist/1JutKskRO6oaNx1vLwhKM7) | [Hôtel Costes 5](https://open.spotify.com/album/56z0PjqvQmcukL8hj826Xj) | 5:17 | 2023-11-21 | 2024-02-07 |
 | [still have us MIDORI](https://open.spotify.com/track/2LOvCykYnLq90xaK02H2C2) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [Quarternote 2nd \- THE BEST OF ODANI MISAKO 1996\-2003 \-DIGITAL EDITION](https://open.spotify.com/album/2PlXlcCWNPv60W9TqMYnC9) | 4:12 | 2023-11-21 |  |
 | [Still In Love \- feat\. Navasha Daya](https://open.spotify.com/track/7FB7ZIcZhLX3gsN7q55Z3X) | [Shuya Okino](https://open.spotify.com/artist/1yF5iR2cIChyJUEQZoZ6ma), [Navasha Daya](https://open.spotify.com/artist/2VlzaSFag5euKYyhmke1QZ) | [Still In Love \(feat\. Navasha Daya\)](https://open.spotify.com/album/7zIqXKpg6ya5B4L0XMpDPn) | 8:08 | 2023-11-21 |  |
 | [Sunset Song](https://open.spotify.com/track/50qbI8K3pKGAQcWYRVgGJB) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i) | [Asterism](https://open.spotify.com/album/1ZDhcZhZ1lskaJ5WmPIuht) | 5:39 | 2023-11-21 |  |
@@ -43,6 +44,7 @@
 | [Who](https://open.spotify.com/track/5yzQiMQD2Fei3CiXb849MX) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [CATCH](https://open.spotify.com/album/5TtAe1l8OIoCikcgrWhLxV) | 4:49 | 2024-01-16 |  |
 | [Will](https://open.spotify.com/track/5altcHTL2RsY4HpUZZKiZ3) | [Kazusa](https://open.spotify.com/artist/2wWiqYc0aBOeBtNu3mfkxN) | [Will](https://open.spotify.com/album/6jZwUaBLAtRjVlyEEs03T9) | 4:40 | 2023-11-21 |  |
 | [Yin And Yang](https://open.spotify.com/track/3xiQhLKL1MbH7uAZph543m) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/0Fjw0gKbYspFhPTtMVUJe4) | 3:11 | 2023-11-21 |  |
+| [かすみ草](https://open.spotify.com/track/6RFfqTMpNjpwK8S6gl5sn3) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [かすみ草](https://open.spotify.com/album/2wxCcvQSILpEQOpvel2bWn) | 4:14 | 2024-02-06 |  |
 | [きっとね!](https://open.spotify.com/track/1aleydUWuiBfdhxe8CMyV1) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [AINOU](https://open.spotify.com/album/2HC4JdZb7ZqFto0xX4OkMv) | 4:06 | 2024-01-16 |  |
 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 | 2023-11-21 |  |
 | [アイミル](https://open.spotify.com/track/3ovTFZCNLiE263FYsx0YWn) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:48 | 2023-11-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,221 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,403 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 21 | [BACK TO THE END](https://open.spotify.com/track/34K5s6kytpsbr05p8cjH2G) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [BED OF NAILS](https://open.spotify.com/album/4jYiX0UunvZfm85RlUSfSx) | 3:33 |
 | 22 | [Jungle Knives](https://open.spotify.com/track/4t3ML3emlWtCZTcZZhqnTJ) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Inner Battles](https://open.spotify.com/album/01rmdERSKLcJXZETuELVWa) | 2:32 |
 | 23 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 |
-| 24 | [Lonely Day](https://open.spotify.com/track/7MJV7OeeWPxJVevJYkoMga) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg) | [Lonely Day](https://open.spotify.com/album/74KqvnQEzo8t1dXGs8g15A) | 2:57 |
+| 24 | [Lonely Day](https://open.spotify.com/track/7MJV7OeeWPxJVevJYkoMga) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [Lonely Day](https://open.spotify.com/album/74KqvnQEzo8t1dXGs8g15A) | 2:57 |
 | 25 | [Armageddon](https://open.spotify.com/track/5Zfg7MlqW5HHxDaHcMGVQ2) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Armageddon](https://open.spotify.com/album/3jeGtbSVaP9oD72JnmuLaP) | 3:16 |
 | 26 | [Feel Better Soon](https://open.spotify.com/track/0nPCwl9t7Nea1udz2J8ZiO) | [Alex Vile](https://open.spotify.com/artist/4i3YqXXd0dRAYMNcWH0na7) | [Feel Better Soon](https://open.spotify.com/album/3Fsb84laAb1jMYy1JFE6Bo) | 3:15 |
 | 27 | [Alpha Beta Sigma](https://open.spotify.com/track/5XVK6Qn09ECprvV7EFBrvb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Alpha Beta Sigma](https://open.spotify.com/album/3yCzLLEDZHiLzRIIj8qUA5) | 3:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 |
 | 40 | [Healing](https://open.spotify.com/track/2FTECyHv2eDT7LGxXCtDvn) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Healing](https://open.spotify.com/album/0HGYZoDXRFyztQMuZV1I68) | 4:16 |
 
-Snapshot ID: `MCw5MmZmZmMyOTBlNDIyYTMwODliOGVkNzljNzc0YWRkYWI3ZDNhMWJh`
+Snapshot ID: `MCxjMjBiYWVmMTgyYzk0YjhlNGIyNWE3NWM3YTViMjkyM2Q0MTRkODg4`

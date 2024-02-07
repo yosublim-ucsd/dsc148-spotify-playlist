@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Irenegarry en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,004 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,009 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 |
 | 50 | [Epulafquen](https://open.spotify.com/track/1fYHlisBBAzYHk9U35pmXA) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Epulafquen](https://open.spotify.com/album/0QBtDhPqM4fK3Hbvgzyrgc) | 2:46 |
 
-Snapshot ID: `MCxkYjUyOTViNGZhNGYzMDk5MmJkZTZkYzY0MWUyZDZkNWUyNmZjNTEx`
+Snapshot ID: `MCxkYzNhMTIzYzQzZGI2NjU2YmFmYzA4NzM3MGMzNWExNDA1ZTc1OWVm`

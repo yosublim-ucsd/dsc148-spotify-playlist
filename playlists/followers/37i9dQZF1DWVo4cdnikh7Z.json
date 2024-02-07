@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 658556,
+  "2024-02-07": 658617,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : Lal Salaam",
   "name": "Latest Tamil",
@@ -6974,6 +6974,28 @@
     },
     {
       "album": {
+        "name": "HeartBeat Paattu (From \"HeartBeat\")",
+        "url": "https://open.spotify.com/album/0Rj0xPEsrD3DM3bno4KmI5"
+      },
+      "artists": [
+        {
+          "name": "Madley Blues",
+          "url": "https://open.spotify.com/artist/4eDJl1hQIas8ywRYS1C55F"
+        },
+        {
+          "name": "Harish Venkat",
+          "url": "https://open.spotify.com/artist/5m8LjXS3VaOGVm1dT9yvhP"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47987,
+      "name": "HeartBeat Paattu (From \"HeartBeat\")",
+      "url": "https://open.spotify.com/track/4U1Hs93onzmoREGlaTAUXO"
+    },
+    {
+      "album": {
         "name": "Hey Fakira (From \"Vikrant Rona\")",
         "url": "https://open.spotify.com/album/43ndO4gxILQa1frilGM4YM"
       },
@@ -12275,7 +12297,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 219039,
       "name": "Maiyal",
       "url": "https://open.spotify.com/track/6NCqMwHoL0aUpyPDMoau3y"
@@ -14689,7 +14711,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 180223,
       "name": "Naracha Mudi (From \"Dhruva Natchathiram\")",
       "url": "https://open.spotify.com/track/5qDMGa2JB49NANJJvc4ICU"
@@ -20500,6 +20522,32 @@
     },
     {
       "album": {
+        "name": "So Many",
+        "url": "https://open.spotify.com/album/0FjdMsFJDqwWTzkgvJomyL"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Niru",
+          "url": "https://open.spotify.com/artist/0BjejEaM3b2xykFrlPfHoR"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231222,
+      "name": "So Many",
+      "url": "https://open.spotify.com/track/2adXTJuXRh48l1QoVMjaTB"
+    },
+    {
+      "album": {
         "name": "Sol (From \"Ponniyin Selvan Part-1\") [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/0qS6o9gBwo4LFe8wvjTYGG"
       },
@@ -21245,7 +21293,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 168506,
       "name": "Thaalam",
       "url": "https://open.spotify.com/track/7dIyC8fFRmYYevMQrUCYAP"
@@ -24178,6 +24226,28 @@
     },
     {
       "album": {
+        "name": "Lover (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4QxOwQbVVQUNxZP4qFoy3U"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Uyir Vaasame",
+      "url": "https://open.spotify.com/track/7lLa95VqxpMCHsTGIdZY8C"
+    },
+    {
+      "album": {
         "name": "Rudhran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1FgqlH8kFT2s9UV7UHGvUe"
       },
@@ -24787,7 +24857,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 226912,
       "name": "Vaanavillai",
       "url": "https://open.spotify.com/track/0iJsaBiRhHoIELZdr7jfx6"

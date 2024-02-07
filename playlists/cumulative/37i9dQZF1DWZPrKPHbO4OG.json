@@ -724,10 +724,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 295140,
       "name": "Mast Challay Amcha",
       "url": "https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8"
+    },
+    {
+      "album": {
+        "name": "Mast Challay Amcha",
+        "url": "https://open.spotify.com/album/2CZhaKFRt3KOHTrMxJSwcH"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295140,
+      "name": "Mast Challay Amcha",
+      "url": "https://open.spotify.com/track/6TsADZx0yJpStzCrA4JmH6"
     },
     {
       "album": {

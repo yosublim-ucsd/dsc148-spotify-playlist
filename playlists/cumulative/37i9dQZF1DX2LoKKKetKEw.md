@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:0liXA3xwx6pncxYQA30ahT">Limoblaze</a>
 
-252 songs - 13 hr 10 min
+253 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Burdens](https://open.spotify.com/track/5L7VyqfdKSId3nk4hSxLCX) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Burdens](https://open.spotify.com/album/1GSJCgl4b2b45s26Q8gvGi) | 2:45 | 2023-10-24 | 2024-01-27 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 |  |
 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 | 2022-07-30 | 2024-01-13 |
-| [CLOSER](https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [CLOSER](https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS) | 1:57 | 2024-01-26 |  |
+| [CLOSER](https://open.spotify.com/track/66yWX0RNpotmPhTSCSblHA) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [CLOSER](https://open.spotify.com/album/5LsLjLjgFNNmBaROnZFhjS) | 1:57 | 2024-01-26 | 2024-02-07 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-05-19 | 2024-01-27 |
 | [Come Alive](https://open.spotify.com/track/6A8RrYAg9aG0BLTcrBt3k5) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Shemoneh](https://open.spotify.com/album/0JEaUz6MRrYtki9Quyv2m0) | 9:09 | 2024-01-26 | 2024-02-03 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 | 2024-01-27 |
@@ -215,6 +215,7 @@
 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 | 2022-07-30 | 2024-01-13 |
 | [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 | 2023-05-19 |  |
 | [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 | 2023-10-24 |  |
+| [Sweet Love](https://open.spotify.com/track/3WEQLxBq5hrEu7elq9xwSk) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Sweet Love](https://open.spotify.com/album/586ECVJrS5DX9rQx7JRKrA) | 2:24 | 2024-02-02 |  |
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-05-19 |  |
 | [Take Me Home](https://open.spotify.com/track/2tNFcj500dviGARgafUT6d) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Take Me Home](https://open.spotify.com/album/6vSih1BvJIucern09KQfs1) | 2:42 | 2022-12-16 | 2023-02-19 |
 | [Take Over](https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Take Over](https://open.spotify.com/album/3QAkjdF8B6oFoPJT0izjGT) | 2:25 | 2023-05-19 |  |

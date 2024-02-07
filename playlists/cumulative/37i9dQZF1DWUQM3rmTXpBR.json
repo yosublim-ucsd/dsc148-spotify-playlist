@@ -1941,6 +1941,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Nerga3 Le Awel Yom",
+      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
+    },
+    {
+      "album": {
         "name": "Nettat",
         "url": "https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B"
       },

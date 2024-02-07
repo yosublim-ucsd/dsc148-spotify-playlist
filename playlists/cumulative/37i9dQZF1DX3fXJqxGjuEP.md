@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-494 songs - 1 day 5 hr 39 min
+495 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Alegria](https://open.spotify.com/track/68vo7DLYLUUM4xttl095CT) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/1SPkZWTgBsxIrbtlEbvXLa) | 4:03 | 2021-10-20 | 2022-07-23 |
 | [Algo bello](https://open.spotify.com/track/6hdXPEX8JBXTYBaUM4hro7) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux) | [Rumbitas](https://open.spotify.com/album/05PJEJRQUw5WKXCIqChj7S) | 3:04 | 2021-10-20 | 2022-07-25 |
 | [Algo tiene que estar mal](https://open.spotify.com/track/27YjMWjTzP09QVrkMIfFgX) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Algo tiene que estar mal](https://open.spotify.com/album/7rnNcAe5fUOj9JbneWRbaa) | 4:19 | 2021-10-20 | 2023-04-13 |
+| [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-02-18 |  |
 | [All Night Long \- \(Feat\. Winter\)](https://open.spotify.com/track/3SLNuRB8CPWqROnNSrMyIX) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/1AvMKhiMKsVD8zLJ9kWBQg) | [All Night Long](https://open.spotify.com/album/1BRO6M2xb5cW63PfoIRbzS) | 4:20 | 2022-02-18 | 2022-04-18 |
 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 | 2022-04-20 | 2022-07-28 |
 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 | 2022-03-30 | 2022-06-08 |
@@ -203,7 +204,7 @@
 | [Fu Manchú](https://open.spotify.com/track/24IaEbKousVV3Rip3o5BQk) | [Achilifunk Sound System](https://open.spotify.com/artist/4yizsieShlGiLVWStpSt5t), [The Oldians](https://open.spotify.com/artist/4B6xk9HVjlWYmJRJoBhTAx) | [Fu Manchú](https://open.spotify.com/album/7wFkUkAQzKKUn0ZArwa0Qb) | 3:00 | 2022-09-30 | 2022-10-28 |
 | [Fue para Más](https://open.spotify.com/track/0rF7gxB7pEN5fRS0qR7Drj) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Fue para Más](https://open.spotify.com/album/2T0ZKbb8PxFCRil3rWK4vj) | 3:32 | 2022-04-01 | 2022-07-20 |
 | [Fuego De Colores](https://open.spotify.com/track/1cRf7IzjhtVbTrfOl53aAS) | [MPeach](https://open.spotify.com/artist/6c19R5IDtOeICXsve9caUQ), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Fuego De Colores](https://open.spotify.com/album/414uMOHOXvsmlaCnpUoX74) | 3:36 | 2021-10-20 | 2022-07-17 |
-| [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-20 |  |
+| [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 | 2021-10-20 | 2024-02-07 |
 | [Gaviota](https://open.spotify.com/track/1odGOA1Zo7QD20tcrEIpZv) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Mû Mbana](https://open.spotify.com/artist/1r3pn7WPpSY3wZPDSDarZu) | [Gaviota](https://open.spotify.com/album/0wsfiFY8XVjZoSe1p2mJ0e) | 3:13 | 2021-10-20 | 2022-05-21 |
 | [Ghost Dance](https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/7Jem6NliPn5sp6LVkMDlHq) | 3:38 | 2021-10-20 | 2022-04-13 |
 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 | 2021-10-20 |  |

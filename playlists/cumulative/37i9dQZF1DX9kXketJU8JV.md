@@ -4,11 +4,11 @@
 
 > 受験本番へ。努力のすべては、出し切れる。
 
-55 songs - 3 hr 36 min
+56 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [AHHHH!](https://open.spotify.com/track/6Tc6yV4hCMSOlBFQJEw9EQ) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:28 | 2023-12-10 |  |
+| [AHHHH!](https://open.spotify.com/track/6Tc6yV4hCMSOlBFQJEw9EQ) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:28 | 2023-12-10 | 2024-02-07 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-12-10 |  |
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-12-10 |  |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-12-10 |  |
@@ -47,6 +47,7 @@
 | [できっこないを　やらなくちゃ](https://open.spotify.com/track/5abRbX9SH8nHYml4RKCE1W) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [できっこないを　やらなくちゃ](https://open.spotify.com/album/1J1Bi1SJ5w5UzRBDD1F2ic) | 3:39 | 2023-12-10 |  |
 | [のびしろ](https://open.spotify.com/track/4inayqSdDjRuQMIXFn1M29) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [のびしろ](https://open.spotify.com/album/4Qyzx6cYuwuRjHBoEBPPBh) | 3:56 | 2024-01-16 |  |
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-12-10 |  |
+| [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 | 2024-02-06 |  |
 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2023-12-10 |  |
 | [サクラ咲ケ](https://open.spotify.com/track/5k6DwtL38uTMioBwIxX0Lx) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [サクラ咲ケ](https://open.spotify.com/album/5RSZR2FrUE5roCgGdAHMRy) | 4:22 | 2023-12-10 |  |
 | [サザンカ](https://open.spotify.com/track/2myzCVDwfwvDzEEmGwMNBN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [サザンカ](https://open.spotify.com/album/4vHtFyYDJEN6RP9cfm63nI) | 4:30 | 2023-12-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra</a> y <a href="spotify:artist:7uvf9bsJVUHUyiSK0aU42M">Jarrion High</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,881 likes - 95 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,925 likes - 95 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 94 | [Es Su Amor \- Versión Acústica](https://open.spotify.com/track/5i4VS39aUJIB9Mn4B282GV) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe) | [Es Su Amor \(Versión Acústica\)](https://open.spotify.com/album/1rN2iAQwCtbZOgUkrcauWL) | 3:35 |
 | 95 | [En Tu Luz](https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Enrique Bremer](https://open.spotify.com/artist/7qsRGFbPpZ353KE58HrLnP), [Anabel Zubillaga](https://open.spotify.com/artist/4RxaKrP7A7sA8ueEtJQst7) | [En Tu Luz](https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q) | 5:43 |
 
-Snapshot ID: `MCxkMTlmZTI0YWMwMWI0YWRlYjZkNGFlZjA1MGUxYzQ5YmExOThmNTgw`
+Snapshot ID: `MCxlMTNhY2Q1NjI2MmFlYjc1YWY4MWRlYjgxYzZiZjRhM2YyOGE5Zjg4`

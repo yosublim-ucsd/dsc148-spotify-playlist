@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Boutross</a> and <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=7rQMXJ0eSw2EU8Wr5nSsXw"> Jovie Jovv</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,693 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,701 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Doing It Major](https://open.spotify.com/track/02gLLzsm3zUbungGVvfM2l) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/3Gno0czuLunqcqV4RDFIif) | 3:11 |
 | 60 | [TIME ITATELL](https://open.spotify.com/track/2mXWteorFyNu2D94ae38nL) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [TIME ITATELL](https://open.spotify.com/album/1MuTtWsvJBRpfZ92rpzwOr) | 2:48 |
 
-Snapshot ID: `MCwzODBmZmQ5OWI4ZWExYzQ4N2YyMzJmZTdkZWU4NDg3NjJhNjUwOTVl`
+Snapshot ID: `MCwzOGM3NzYxMGJlNWVlZGY5ZjNlODVlOTY2OWNmYWI5OGJmMzJlNmFm`

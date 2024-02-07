@@ -467,6 +467,32 @@
     },
     {
       "album": {
+        "name": "Breath of Air",
+        "url": "https://open.spotify.com/album/3k4sOlIP8IYvG3FxgX1wLT"
+      },
+      "artists": [
+        {
+          "name": "Sailing Before The Wind",
+          "url": "https://open.spotify.com/artist/2vqxAyqkpAngDDrjjNawov"
+        },
+        {
+          "name": "Matt Sosa",
+          "url": "https://open.spotify.com/artist/2W5WiwytW6Pq24pIEGjWg3"
+        },
+        {
+          "name": "Across The White Water Tower",
+          "url": "https://open.spotify.com/artist/69INHlGPwKDzfamLIgICDK"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254165,
+      "name": "Breath of Air",
+      "url": "https://open.spotify.com/track/6mnVy50A74hVxzGOiReg7k"
+    },
+    {
+      "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
       },
@@ -724,7 +750,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -1034,6 +1060,28 @@
       "duration_ms": 145200,
       "name": "FXXKFXXKFXXK",
       "url": "https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0"
+    },
+    {
+      "album": {
+        "name": "DIGITAL PARANOIA 2052",
+        "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        },
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165124,
+      "name": "girls lie.",
+      "url": "https://open.spotify.com/track/5AlpGLlLw51j1HvauS8KJt"
     },
     {
       "album": {
@@ -2230,7 +2278,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 221120,
       "name": "Oiran Drill Spin",
       "url": "https://open.spotify.com/track/0i96NUfw2ntJWoga92xhLT"
@@ -3511,6 +3559,28 @@
     },
     {
       "album": {
+        "name": "TRAINWRECK (feat. vinny from Falling Asleep)",
+        "url": "https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp"
+      },
+      "artists": [
+        {
+          "name": "Tomoya on the Big Moon",
+          "url": "https://open.spotify.com/artist/3irvo30qLgiAyKyHGBAFBS"
+        },
+        {
+          "name": "vinny from Falling Asleep",
+          "url": "https://open.spotify.com/artist/2qpkeVa1yPozQVjsQyiIv0"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "TRAINWRECK",
+      "url": "https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh"
+    },
+    {
+      "album": {
         "name": "True Self",
         "url": "https://open.spotify.com/album/1uiHPKRGpdwSeBjqcBo9Ng"
       },
@@ -4106,7 +4176,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"

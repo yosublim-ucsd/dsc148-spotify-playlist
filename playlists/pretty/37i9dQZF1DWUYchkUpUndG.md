@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=qxRJpIq7RZmtIpjg50\-xqA>Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,204 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,254 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 51 | [Shammah](https://open.spotify.com/track/2Izy2ruM1bnHsEMqPhehyz) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Shammah](https://open.spotify.com/album/3cTaxjvACJEPB5ZPQr6ZKl) | 3:47 |
 | 52 | [Chimo](https://open.spotify.com/track/497jmanXaapGUhNT4UBlof) | [Peter Ifeanyi](https://open.spotify.com/artist/3CPXdR36B6K5gpdLCuil8g), [Emmanuel Ibe](https://open.spotify.com/artist/4H0Dk1bk8bzBA0eeYqT1A5) | [Chimo](https://open.spotify.com/album/30bZWk0zs4jO23zWI0UGmH) | 5:18 |
 | 53 | [Epariwo](https://open.spotify.com/track/2T1bn5LUR3LwytcgVt1EjR) | [Jolass Court](https://open.spotify.com/artist/2GJYFuaFJvAbZsOLkF0Vp8) | [Epariwo](https://open.spotify.com/album/2TxTXbt9tFiM9HNlPCFupY) | 3:05 |
-| 54 | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/track/6E9H5ekCBGQo3W7oXbO20r) | [Daniel Richman](https://open.spotify.com/artist/6oPLxPqad8v615LWzeK5Vg) | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/album/1AwvBCgbPBEwjFKnNmjo81) | 5:49 |
+| 54 | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/track/6E9H5ekCBGQo3W7oXbO20r) | [Daniel Richman](https://open.spotify.com/artist/6oPLxPqad8v615LWzeK5Vg) | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/album/1AwvBCgbPBEwjFKnNmjo81) | 6:16 |
 | 55 | [Worthy Of It All](https://open.spotify.com/track/4cG0RjLr4d7MNzBAhjoKDp) | [Vicky Seal](https://open.spotify.com/artist/110BmlnpfNn99YtSwBS56P) | [Worthy Of It All](https://open.spotify.com/album/7pEqMdXmMoZcL6IGLMjL8F) | 4:40 |
 | 56 | [Taking Over](https://open.spotify.com/track/6M89N1qynVHTCSDImNbetN) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Taking Over](https://open.spotify.com/album/77UzaQfJWTVCyG4K4vm6dX) | 2:08 |
 | 57 | [I Love You Jesus\. 2](https://open.spotify.com/track/0x7Fy1obL547WdDe0YCkXw) | [Tanasoa Pastore](https://open.spotify.com/artist/22pneTFdoJAEXGNUaG96Yk) | [I Love You Jesus\. 2](https://open.spotify.com/album/6TziTBH13RGWatglQCAlb1) | 3:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 98 | [SON RISE \(Soldier\)](https://open.spotify.com/track/0C02e42RiZPw7JEfMeBF1w) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT), [Christ's Solja](https://open.spotify.com/artist/3h5opp4A7fAbFN4Cwjx9SY), [Alex Gvng Gvng](https://open.spotify.com/artist/6LQtttDyFRDL5lbBnrqH1F), [Mr Wen](https://open.spotify.com/artist/3r4bTmnxktH3QHSj1MLyIX), [Nakalah Safi](https://open.spotify.com/artist/58UHCq5r2BlCx9eh2BQ9uQ) | [SON RISE \(Soldier\)](https://open.spotify.com/album/7tXgqXpOjDTuxFB41fEWch) | 4:50 |
 | 99 | [The Kingdom](https://open.spotify.com/track/4yzDjnib4cjptMVd8RcRun) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Kingdom](https://open.spotify.com/album/2xMxduGsaY47At52XEeczU) | 1:47 |
 
-Snapshot ID: `MCwyZjk3Y2UxM2MyOGEyZmYwNzdhZWJlNjFkZWFiOWQ2NzEyN2MxMmRj`
+Snapshot ID: `MCxkNzkwNDQ2YzhiZTgzNWRiNGM0OGYzNjFkYzBlYTYyYjE5MDAyZDky`

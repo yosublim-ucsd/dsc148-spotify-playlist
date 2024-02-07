@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 533380,
+  "2024-02-07": 533696,
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 2000s.",
   "name": "Soft 00s",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 303333,
       "name": "A Woman's Worth",
       "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 277505,
       "name": "Advertising Space",
       "url": "https://open.spotify.com/track/3EY1sjf2Xq86pQN0L4hEnU"

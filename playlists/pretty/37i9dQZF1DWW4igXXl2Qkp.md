@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: tg.blk
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,889 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,915 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Trimmer](https://open.spotify.com/track/3T4OrIZRLpeL4krav8XM8z) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/4eQc50f3xZYKoO2QXZwZvK) | 2:30 |
 | 50 | [all the time](https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD) | [Bayymack](https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [all the time](https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ) | 1:51 |
 
-Snapshot ID: `MCw1MzI4MjdiMzEwNzE3ZTU4MDk5MThlZDNmZmRiMWE1MmQxYmRmYTBi`
+Snapshot ID: `MCxiZTQ5NDY1NjE3OWZiZmYwYWYxNjczOTdmYjUxN2EwOTUzNTNiZDZl`

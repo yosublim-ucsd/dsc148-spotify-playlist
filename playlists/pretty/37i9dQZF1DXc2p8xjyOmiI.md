@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 Chino Pacas & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,566 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,875 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 74 | [Moon Rock](https://open.spotify.com/track/3mec1EppPnu1u3P9AUyQdo) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Moon Rock](https://open.spotify.com/album/2PMTwBUlqQCC34ZYhbxTLR) | 2:45 |
 | 75 | [En Menos de Un Minuto](https://open.spotify.com/track/0laoKkCyhp5HW3wGejhPV5) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:57 |
 
-Snapshot ID: `MCw1MDE5ZTZjMGYyODdjZDI0MzM1Y2JjMWNkZTFmZWZmNGMxZTg1OTBj`
+Snapshot ID: `MCxkNDI5YTE0OTM4NWY2ZDQzZWU3MGM0MmI2MDUzZGY1MTA4YzhhZDJi`

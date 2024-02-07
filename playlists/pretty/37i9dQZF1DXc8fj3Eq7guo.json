@@ -1,12 +1,12 @@
 {
   "description": "Where you at? We outside!",
-  "num_followers": 2664,
+  "num_followers": 2676,
   "original_name": "Drop Pin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU1OTA4MDU0ODhmZjkyYzQ1NzI0NWI3MGJhNWQzNjU4MTBmM2Ji",
+  "snapshot_id": "MCwxMjA0ZDUwNmNhYWQ0NDhlMjk4ODU2MTMzNWE4ZjQ5ZDZkODlhMDM5",
   "tracks": [
     {
       "added_at": "2024-01-19 15:44:27",
@@ -442,6 +442,10 @@
         {
           "name": "John Wizards",
           "url": "https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK"
+        },
+        {
+          "name": "Nzaramba Jean Thierry (ras magic)",
+          "url": "https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt"
         }
       ],
       "duration_ms": 178586,

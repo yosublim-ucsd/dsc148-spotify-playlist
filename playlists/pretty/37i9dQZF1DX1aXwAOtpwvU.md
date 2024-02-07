@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,456 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,459 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 13 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
 | 14 | [Bez](https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Bez](https://open.spotify.com/album/37ThOEHqHwrI6oNLaZujtH) | 3:23 |
 | 15 | [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 |
-| 16 | [GDZIE JEST TEN DOM?](https://open.spotify.com/track/3sFGKLwDkIx1FsmUGkminy) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [GDZIE JEST TEN DOM?](https://open.spotify.com/album/5HvfodCnUMi6b4ldgkxkVL) | 1:47 |
+| 16 | [GDZIE JEST TEN DOM?](https://open.spotify.com/track/3sFGKLwDkIx1FsmUGkminy) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GDZIE JEST TEN DOM?](https://open.spotify.com/album/5HvfodCnUMi6b4ldgkxkVL) | 1:47 |
 | 17 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 |
 | 18 | [Obca](https://open.spotify.com/track/1mM3zG72lDhGcCE8CG9XT7) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Obca](https://open.spotify.com/album/2OlRkoAlAt76nhOhn30rIK) | 2:42 |
 | 19 | [Samoloty](https://open.spotify.com/track/3FhExzeUwtnVdUFl8PWlcQ) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [DUCHY.DISCO](https://open.spotify.com/album/3QXSI4Wnz6CngNCqUq9UDS) | 4:17 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 28 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 |
 | 29 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 |
 | 30 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 |
-| 31 | [MAMA MI MÓWIŁA](https://open.spotify.com/track/3CsgwSk7PEFHfT7noqWPhb) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [MAMA MI MÓWIŁA](https://open.spotify.com/album/1ISKoGgtP6kGnDReCubHRh) | 2:53 |
+| 31 | [MAMA MI MÓWIŁA](https://open.spotify.com/track/3CsgwSk7PEFHfT7noqWPhb) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [MAMA MI MÓWIŁA](https://open.spotify.com/album/1ISKoGgtP6kGnDReCubHRh) | 2:53 |
 | 32 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 | 33 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 |
 | 34 | [Płonę, płonę](https://open.spotify.com/track/6K6suYfzQyoJBQ6Btrldj4) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [DUCHY.DISCO](https://open.spotify.com/album/3QXSI4Wnz6CngNCqUq9UDS) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw5MDY5N2VlMjA5ZjYzY2UzMTIwYzc0ZTQ3ZmQwYjdmZmNhYzBkODZh`
+Snapshot ID: `MCwyYTQ2ZjNjODUyMTlkYzI4YzM1OWVlYmM1MDkzNTFlNTJiOTFjMmFl`

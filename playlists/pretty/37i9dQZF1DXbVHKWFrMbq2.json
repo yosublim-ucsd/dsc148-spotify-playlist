@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 15351,
+  "num_followers": 15363,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQzOWI2ZWM3MzU0NTgyMjZmOTM0ZmFkZDQ0MGE1NTQ0MjNlNjBm",
+  "snapshot_id": "MCwxYTQ2YjZhNGY1OGIzMzg3M2Y2ODMxZGE1ZjEyYjU5MzdhNzE4NTBk",
   "tracks": [
     {
       "added_at": "2024-01-25 20:39:18",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-01-25 20:39:18",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 122202,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
-    },
-    {
-      "added_at": "2024-01-25 20:39:18",
-      "album": {
         "name": "complikado",
         "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 178076,
       "name": "complikado",
       "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
+    },
+    {
+      "added_at": "2024-01-25 20:39:18",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 122202,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA"
     },
     {
       "added_at": "2024-01-25 20:39:18",

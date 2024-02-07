@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191227,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC"
+    },
+    {
+      "album": {
         "name": "One Sided",
         "url": "https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 230615,
       "name": "freckles,",
       "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"

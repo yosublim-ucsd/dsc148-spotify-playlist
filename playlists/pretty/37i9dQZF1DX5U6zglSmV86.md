@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,943 likes - 98 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,958 likes - 98 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 3 | [Mi Raza](https://open.spotify.com/track/7HnMj5DQBkrrJyl7kUq5ZB) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Mi Raza](https://open.spotify.com/album/2sNIhivx1vmYiDk5tvlpxN) | 3:22 |
 | 4 | [Camino Firme](https://open.spotify.com/track/5Rhv15mmbFlFIu3b4LPAHa) | [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Camino Firme](https://open.spotify.com/album/3s8KDsVChQg4ScUGBvADPY) | 2:22 |
 | 5 | [Humo](https://open.spotify.com/track/2eCPG1bdKAqSYj1LL6upfN) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e) | [Humo](https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM) | 3:36 |
-| 6 | [No la Cuajan](https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ) | [Carlos Blanco](https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod), [Deivy Js](https://open.spotify.com/artist/5xJTchfXd18DmIKirBNjUy), [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [No la Cuajan](https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5) | 3:44 |
+| 6 | [No la Cuajan](https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ) | [Carlos Blanco](https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod), [Deivy Js](https://open.spotify.com/artist/5xJTchfXd18DmIKirBNjUy), [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [No la Cuajan](https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5) | 3:12 |
 | 7 | [certeros](https://open.spotify.com/track/05XNGfkw7iWDYukQbiR4fc) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [certeros](https://open.spotify.com/album/4M9iw709hphgt8LJVDzNTr) | 3:35 |
 | 8 | [Una Ruedita](https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 2:57 |
 | 9 | [El Choko 2 \(Kamikazes\)](https://open.spotify.com/track/2GMxBVwn8z6MgsKzzwkliR) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U) | [El Choko 2 \(Kamikazes\)](https://open.spotify.com/album/3lD1Hc826qkuA215eN6MkS) | 4:44 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 97 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 |
 | 98 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 |
 
-Snapshot ID: `MCw5NWNjNGYwMDZlMzAzYjNmOTUxM2QwMGIxZTM1M2RlZjQzZmZjZmNj`
+Snapshot ID: `MCxhNWEzZTYwNzhhNDg5MGU5YTZiNTVkZDE0OGQ0NDI1MDZiZDRmNmYw`

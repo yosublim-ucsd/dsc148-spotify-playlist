@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-509 songs - 19 hr 29 min
+510 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Good As You](https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB) | [Olle NB](https://open.spotify.com/artist/5HpbRGf62WXEBZbbMBCx80) | [Phases](https://open.spotify.com/album/01BpB45Lmbt3hZzurYa3It) | 1:39 | 2024-01-05 |  |
 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 | 2024-01-05 |  |
 | [Got It](https://open.spotify.com/track/2Z94cduAGpcMsSDy1QUv4l) | [Keyser](https://open.spotify.com/artist/52XeGIGAMhVqec1ev8t3Qc) | [Got It](https://open.spotify.com/album/5hBgxAYtyev9MdBcpS8sAZ) | 2:05 | 2024-01-05 |  |
-| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2024-01-05 | 2024-01-28 |
+| [gramophone groove](https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [gramophone groove](https://open.spotify.com/album/7IGbYhHDbq2orgTHMdjJ1a) | 2:12 | 2024-01-05 |  |
 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 | 2024-01-05 |  |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2024-01-05 |  |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2024-01-05 |  |
@@ -201,7 +201,7 @@
 | [hand\-me\-downs](https://open.spotify.com/track/17Aaol4GtEYHtZRn8RRWoL) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [hand\-me\-downs](https://open.spotify.com/album/747U0u3wSQCtEsK9BIRxzD) | 2:04 | 2024-01-05 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2024-01-05 |  |
 | [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2024-01-05 |  |
-| [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2024-01-05 |  |
+| [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2024-01-05 | 2024-02-07 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2024-01-05 |  |
 | [Hello](https://open.spotify.com/track/55kBQKbWwzMmEafQYjvhQe) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Hello](https://open.spotify.com/album/6NtOlKsDjrApcJtdH4T6jn) | 1:51 | 2024-01-05 |  |
 | [hide and seek](https://open.spotify.com/track/4qLmzt8gY917amivZZw1IO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Childhood](https://open.spotify.com/album/5pJdmQhsZdqUNMPs2uzTxh) | 1:56 | 2024-01-05 |  |
@@ -478,6 +478,7 @@
 | [transient beach](https://open.spotify.com/track/30eLFH6K8Dro6bUQ6hGvrl) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [transient beach](https://open.spotify.com/album/1TVeo9z2FlgRQ0XuKXZpju) | 2:27 | 2024-01-05 |  |
 | [Trip walkin](https://open.spotify.com/track/2hm1fDCEshDF9cR02ruyWq) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Trip walkin](https://open.spotify.com/album/2c72iSKyHIYZBN5JH8OQZ9) | 2:17 | 2024-01-05 |  |
 | [Tronntora](https://open.spotify.com/track/2f26EtMrZFMuFLx8RrFeaL) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Tronntora](https://open.spotify.com/album/38e12KrFKnDpLXp6x5rrCN) | 2:06 | 2024-01-05 |  |
+| [troppo cotti](https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [troppo cotti](https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz) | 1:52 | 2024-02-01 |  |
 | [True Crimes](https://open.spotify.com/track/1Xom95weqXElNvdHoAxuSi) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [True Crimes](https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds) | 2:11 | 2024-01-05 |  |
 | [Tryna Ball](https://open.spotify.com/track/4K5RujJ9IOPKEfTBDvunHS) | [French Connection](https://open.spotify.com/artist/0mCMWvvi5gXel5a0ZZ172H) | [Grind For Years](https://open.spotify.com/album/5AiP0EETQ0GhQNJdEQbwHi) | 1:36 | 2024-01-05 |  |
 | [Tune Out](https://open.spotify.com/track/4ZsI2orhFDadedp84ZXOIl) | [logan finneas](https://open.spotify.com/artist/0lHDsHD5CqzIcgnW7icG6p) | [Tune Out](https://open.spotify.com/album/5d99rDqVXjp3NsBIcGNyFS) | 2:13 | 2024-01-05 |  |
@@ -490,7 +491,7 @@
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2024-01-05 |  |
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2024-01-05 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2024-01-05 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2024-01-18 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2024-01-18 | 2024-02-07 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2024-01-05 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2024-01-05 |  |
 | [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2024-01-05 |  |

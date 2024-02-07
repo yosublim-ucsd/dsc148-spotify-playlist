@@ -3294,7 +3294,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 155121,
       "name": "hatten",
       "url": "https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32"
@@ -8505,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "troppo cotti",
+        "url": "https://open.spotify.com/album/22SgJONA07woG9X6c7jWwz"
+      },
+      "artists": [
+        {
+          "name": "Ryu Riders",
+          "url": "https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112142,
+      "name": "troppo cotti",
+      "url": "https://open.spotify.com/track/0kGXVhsOfsRaLd7pInaHWL"
+    },
+    {
+      "album": {
         "name": "True Crimes",
         "url": "https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds"
       },
@@ -8736,7 +8754,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"

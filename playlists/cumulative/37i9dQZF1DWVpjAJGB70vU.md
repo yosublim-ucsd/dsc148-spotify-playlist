@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> Country that made Country Cool! Cover: Shania Twain
+> The country that made country cool\. Cover: Remembering Toby Keith
 
 192 songs - 11 hr 10 min
 

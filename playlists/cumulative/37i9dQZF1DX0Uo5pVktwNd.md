@@ -2,7 +2,7 @@
 
 ### [Indipop Nostalgia](https://open.spotify.com/playlist/37i9dQZF1DX0Uo5pVktwNd)
 
-> Throwback to the golden age of Indian pop\. Cover \- Daler Mehndi
+> Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
 96 songs - 7 hr 58 min
 

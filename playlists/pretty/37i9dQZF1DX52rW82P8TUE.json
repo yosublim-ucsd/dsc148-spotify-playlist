@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 64769,
+  "num_followers": 64792,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzE1MDA3OThlNWRiY2Q3Yjg4YzRlY2Q0MmY5YTMwZTZjZjIwNTVj",
+  "snapshot_id": "MCxjM2FhZGRiZWZjMjA5MTdjMzczM2E4NTQ5ZjIwMDMyYzAwOWZmY2Yz",
   "tracks": [
     {
       "added_at": "2024-01-05 13:33:14",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-01-05 13:33:14",
       "album": {
+        "name": "Destino ao C\u00e9u",
+        "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 226628,
+      "name": "Destino ao C\u00e9u",
+      "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
+    },
+    {
+      "added_at": "2024-01-05 13:33:14",
+      "album": {
         "name": "Medley Crian\u00e7as Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 338635,
       "name": "Medley Crian\u00e7as DT Toin Toin - Ao Vivo",
       "url": "https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1"
-    },
-    {
-      "added_at": "2024-01-05 13:33:14",
-      "album": {
-        "name": "Destino ao C\u00e9u",
-        "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 226628,
-      "name": "Destino ao C\u00e9u",
-      "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
     },
     {
       "added_at": "2024-01-05 13:33:14",

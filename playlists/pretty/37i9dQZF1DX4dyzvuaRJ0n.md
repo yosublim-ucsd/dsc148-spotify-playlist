@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: The Blessed Madonna & Clementine Douglas
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,894,162 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,894,222 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Me Me Me](https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Me Me Me EP](https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y) | 5:38 |
 | 75 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 |
 
-Snapshot ID: `MCw0NWU3YmU3ODcxNGI3NTQyYWMyYTYwNGFiNDc3YjgwNDkzNzVjOGY1`
+Snapshot ID: `MCw0YzRjZjA0M2ZiNDM1NTQ3YzZiYzRkYzlhOGUyODVhOWUyOGIwMzQ0`

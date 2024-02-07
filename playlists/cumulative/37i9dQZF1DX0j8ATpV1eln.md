@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-155 songs - 10 hr 6 min
+156 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 | 2022-07-26 |  |
 | [アンサー](https://open.spotify.com/track/5m1zdht1btC8rezRu2qQ1T) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/2Cl3zwN0Bfzgzw1662zIXa) | 6:26 | 2022-04-26 | 2022-07-29 |
 | [インパーフェクト](https://open.spotify.com/track/5mqvPARzMkKIO06ZBvq0wu) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [インパーフェクト](https://open.spotify.com/album/458ubOzK10el0DaV1Ud7Qp) | 3:47 | 2022-04-26 | 2022-07-29 |
+| [エレクトリックパレード](https://open.spotify.com/track/19yBABt2127wYg1bZYJSko) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ユニバース](https://open.spotify.com/album/1ymib1eTYnGj0meS6iQrNr) | 3:13 | 2024-02-06 |  |
 | [エンターテイナー](https://open.spotify.com/track/4ZGrWIbaPWP64VLUhYMmSO) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [エンターテイナー](https://open.spotify.com/album/6XMrBkrdKu7DaBuDQpm3bi) | 4:09 | 2022-04-26 | 2022-07-29 |
 | [オトモダチフィルム \- LIVE](https://open.spotify.com/track/2mDicvEvRUrjPnXsCX5T1t) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [オトモダチフィルム\(LIVE\)](https://open.spotify.com/album/2x5IUxXHtck6qHWxAZfV0Z) | 3:33 | 2022-04-26 | 2022-07-29 |
 | [キンカンのうた2020](https://open.spotify.com/track/0qUUWlwJBOWj6XexBS55Vg) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [キンカンのうた2020](https://open.spotify.com/album/3QhKS21nEhH2kSG0BUe1Yz) | 3:28 | 2022-04-26 | 2022-07-29 |

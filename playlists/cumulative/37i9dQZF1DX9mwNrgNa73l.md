@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-166 songs - 18 hr 57 min
+167 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 | 2022-06-21 | 2024-01-06 |
 | [Laal Meri Pat](https://open.spotify.com/track/0aszgmTzbSUKNsN5R2V72z) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S), [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/5TXDqeJKuJ3dlvbypD9Hu1) | 8:20 | 2022-06-21 | 2022-10-25 |
 | [Laghzish E Mastana](https://open.spotify.com/track/3Kuv5p4j3TLkdKB7mUsVjQ) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Laghzish E Mastana](https://open.spotify.com/album/0YfA7xNSyqscjCLg1c97uL) | 5:27 | 2023-08-31 | 2024-01-06 |
+| [Le Ja](https://open.spotify.com/track/5LLcS2wLaDx53fQHICh1Xr) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Le Ja](https://open.spotify.com/album/1q9Mlk5agjG1UJaCHXuIi6) | 4:20 | 2024-02-06 |  |
 | [Madari](https://open.spotify.com/track/7BGWfKugCG5QCXilymYBOy) | [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Greatest Hits of Coke Studio India, Vol\. 1](https://open.spotify.com/album/6NBDzr46UrfXsZ1SdvzIJB) | 7:43 | 2022-06-21 | 2022-10-25 |
 | [Madni Di Gal Kariye](https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Madni Di Gal Kariye](https://open.spotify.com/album/5H33FAIYkmTqVLoyllN73B) | 5:54 | 2023-10-20 | 2024-01-06 |
 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 | 2022-06-21 |  |

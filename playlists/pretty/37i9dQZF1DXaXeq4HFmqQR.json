@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen.",
-  "num_followers": 13342,
+  "num_followers": 13345,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTRkY2YxY2FhMWYyNjcyZDM5Y2Q5N2YwNTYwZmEwYzE1NzdiMGE5",
+  "snapshot_id": "MCw4YTUyZDhkYmI1ZGVlZjA3ZGU2MTRiOGM4MTliOTJmNGY1NzE5ZTMy",
   "tracks": [
     {
       "added_at": "2024-01-10 17:55:32",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Nos lo hemos dicho todo",
-        "url": "https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
       },
       "artists": [
         {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
         }
       ],
-      "duration_ms": 253271,
-      "name": "Nos lo hemos dicho todo",
-      "url": "https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1"
+      "duration_ms": 195000,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
+        "name": "Nos lo hemos dicho todo",
+        "url": "https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3"
       },
       "artists": [
         {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
+      "duration_ms": 253271,
+      "name": "Nos lo hemos dicho todo",
+      "url": "https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "YA NO SOY TU BABY",
-        "url": "https://open.spotify.com/album/3nkkxVQVdD6LrC0pxPhJY3"
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
         }
       ],
-      "duration_ms": 172353,
-      "name": "YA NO SOY TU BABY",
-      "url": "https://open.spotify.com/track/3AIZ7XY0YxZHJ2Ao6d0YSg"
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -575,34 +575,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "YA NO SOY TU BABY",
+        "url": "https://open.spotify.com/album/3nkkxVQVdD6LrC0pxPhJY3"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         }
       ],
-      "duration_ms": 174709,
-      "name": "LENTO",
-      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+      "duration_ms": 172353,
+      "name": "YA NO SOY TU BABY",
+      "url": "https://open.spotify.com/track/3AIZ7XY0YxZHJ2Ao6d0YSg"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 174709,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/6FKGwho8LYdyFa26NMiIkl"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Brujer\u00edas de Cantina",
-        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
+        "name": "Carambita",
+        "url": "https://open.spotify.com/album/0ZoMyUZZDohtpbNgImIFiO"
       },
       "artists": [
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
         }
       ],
-      "duration_ms": 178003,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz"
+      "duration_ms": 180000,
+      "name": "Carambita",
+      "url": "https://open.spotify.com/track/5PGj2N7XF82ZHJzXq94by7"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "La Chica de Rojo",
-        "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
+        "name": "Brujer\u00edas de Cantina",
+        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
       },
       "artists": [
         {
-          "name": "Monserrat Bustamante",
-          "url": "https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx"
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Yo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
+      "duration_ms": 178003,
+      "name": "HEAVY",
+      "url": "https://open.spotify.com/track/3bEetphA24F4tNyBW1p4Bz"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -703,18 +703,34 @@
     {
       "added_at": "2024-01-10 17:55:32",
       "album": {
-        "name": "Carambita",
-        "url": "https://open.spotify.com/album/0ZoMyUZZDohtpbNgImIFiO"
+        "name": "Ice",
+        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
       },
       "artists": [
         {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Carambita",
-      "url": "https://open.spotify.com/track/5PGj2N7XF82ZHJzXq94by7"
+      "duration_ms": 255897,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
+    },
+    {
+      "added_at": "2024-01-10 17:55:32",
+      "album": {
+        "name": "La Chica de Rojo",
+        "url": "https://open.spotify.com/album/1APLL3BxSZiYpMQ4v15Ao1"
+      },
+      "artists": [
+        {
+          "name": "Monserrat Bustamante",
+          "url": "https://open.spotify.com/artist/1whqJsYsiIvbWi0Kz0kHLx"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Yo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/4sarzJnQZIJJ2n0me3jKdK"
     },
     {
       "added_at": "2024-01-10 17:55:32",
@@ -747,22 +763,6 @@
       "duration_ms": 203506,
       "name": "Al Fin Te Encontre",
       "url": "https://open.spotify.com/track/7odQniwuBwQRemt2fr15Oy"
-    },
-    {
-      "added_at": "2024-01-10 17:55:32",
-      "album": {
-        "name": "Ice",
-        "url": "https://open.spotify.com/album/2Eji6BbhvSy9gcjjfaHEVR"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 255897,
-      "name": "Ice",
-      "url": "https://open.spotify.com/track/1jUKmgWQflhSh0zNGkkioo"
     },
     {
       "added_at": "2024-01-10 17:55:32",

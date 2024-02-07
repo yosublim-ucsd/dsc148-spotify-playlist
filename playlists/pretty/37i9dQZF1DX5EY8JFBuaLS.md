@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 
 > Trap y electrónica instrumental para enfoque.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,077 likes - 159 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,080 likes - 159 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 | 140 | [Final Call](https://open.spotify.com/track/1gyxf3SMn2fTGb1NjAkjCi) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 |
 | 141 | [Hunky](https://open.spotify.com/track/1WG1j4x1MbGDp0Qp8dYmjs) | [Sileon](https://open.spotify.com/artist/0wmKKwWn8zNrBnRpOkvcSH) | [Zone](https://open.spotify.com/album/2XiYnl7gqdERJbJcMR8bl9) | 1:57 |
 | 142 | [Rocking](https://open.spotify.com/track/1urrDjvI97mHfIYmmksQVr) | [Platinum Beats](https://open.spotify.com/artist/1Pui7ZJReSJjN9VbuBtiqj) | [Heavens](https://open.spotify.com/album/6JNkrXH2tS3V4SSAjpypUu) | 2:29 |
-| 143 | [Hear Me Now](https://open.spotify.com/track/2qR151oMpTUaU17KzuElzV) | [Ryan Jacq](https://open.spotify.com/artist/2Czfaic8uaTvBsLqYcqrSG), [deveraux archive](https://open.spotify.com/artist/1NbZW2xMniic5MC79Ycwf7) | [Wrong Time](https://open.spotify.com/album/0E0x7ZRlbrs1ks9blZloUh) | 2:16 |
+| 143 | [Hear Me Now](https://open.spotify.com/track/42Le6tvNm5uoO2XLutwPeG) | [Ahmet Sarlak](https://open.spotify.com/artist/2zrnDU6HAQ6gRiTY3EKFKh) | [Wrong Time](https://open.spotify.com/album/5YWKhzrtxDX5MdxnTf9Kmo) | 2:16 |
 | 144 | [The Boondock Saints](https://open.spotify.com/track/3aRkGA4TqbRDsvRliaDujv) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM) | [Adept](https://open.spotify.com/album/0B4l8M9g78Lo9PBPJ7rSja) | 2:25 |
 | 145 | [Rocket Silence](https://open.spotify.com/track/39qECFLgd6t6QeduzffeSW) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Rocket Silence](https://open.spotify.com/album/3L7vFgb7Ihr1I7lbxJ6q0r) | 2:25 |
 | 146 | [Peaceful End](https://open.spotify.com/track/2BsiCSZgCSNJbghOyUrJ5F) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 2:12 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 | 158 | [Powerwalk](https://open.spotify.com/track/2ph6ScN92MMhfJQfRrU1nJ) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Wheel of Life](https://open.spotify.com/album/2SwyzaK73I5ynws5UNyfyg) | 2:56 |
 | 159 | [I Just Wanna Love Ya \(Instrumental Version\)](https://open.spotify.com/track/3MF7bAavjBi6EeUFxRDYN3) | [Sugar Blizz](https://open.spotify.com/artist/0n3Km7H53a4LT9DZo1N1Jo) | [I Just Wanna Love Ya](https://open.spotify.com/album/5yWRMHWIlbKnYm8hcJsVcb) | 3:12 |
 
-Snapshot ID: `MCw1ZmE3OTBiOTRhM2NhZjI1YmNkYzNlZjAwZTBjYTg2ZTEyN2M3MDVh`
+Snapshot ID: `MCw3YTA5Zjg3Y2Q3YTIyZTEyMGU4OTRiYzY4NzhiNjVlOGYzNjM5NTVj`

@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-219 songs - 11 hr 41 min
+220 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Stereo Love](https://open.spotify.com/track/0ga8JXA9KcOcxYaHTam8YU) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Gold 88](https://open.spotify.com/artist/72NGBfqlYIr2o92HJh76bD) | [Stereo Love](https://open.spotify.com/album/0mb52J4K2WIgBn0WYGBghm) | 3:21 | 2023-08-22 |  |
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2023-09-01 |  |
 | [Stop Time](https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Stop Time](https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4) | 3:13 | 2023-07-28 |  |
+| [Sun & Moon](https://open.spotify.com/track/1z4VDapoHOL41k8bjo6rnk) | [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Sun & Moon](https://open.spotify.com/album/2PxAkJmFTzrTdPikkEbBiB) | 3:41 | 2024-02-06 |  |
 | [Supa Sharp](https://open.spotify.com/track/12nQDslUWJxVi6yGjYbL2s) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Supa Sharp](https://open.spotify.com/album/4tISSlcJrLV3jQl4HCRTli) | 3:20 | 2023-01-19 |  |
 | [Take a Shot](https://open.spotify.com/track/7F4WJ2X4wHEKiIARTtXlxQ) | [Kovil](https://open.spotify.com/artist/5SeZxToneRE1AZR0EDyJde) | [Take a Shot](https://open.spotify.com/album/1OCHtqZXPxZ6kYL6739FCb) | 2:28 | 2023-09-22 |  |
 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 | 2022-11-18 |  |

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Tisoki and Godlands
 
-356 songs - 19 hr 17 min
+357 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Get Up \[VIP\]](https://open.spotify.com/track/6uEJz3hTPQZBbpTwi9I9Bs) | [XAVAGE](https://open.spotify.com/artist/0tqQHxodKRUNA18vrWamLh), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Get Up \[VIP\]](https://open.spotify.com/album/3yGu9SlTfIKFrnB0rS9etp) | 2:51 | 2024-01-05 | 2024-02-03 |
 | [Ghosts](https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Ghosts](https://open.spotify.com/album/4XvlYdkbqmxJj9VpalcyIW) | 2:01 | 2021-11-19 | 2022-02-02 |
 | [GITP](https://open.spotify.com/track/3N6pwAMhcYjyaN2Jd4UTpe) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [GITP](https://open.spotify.com/album/09p0AA8UmQWGViT4MegOjA) | 3:54 | 2023-12-08 |  |
-| [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 |  |
+| [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 | 2024-02-07 |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
 | [GOATED](https://open.spotify.com/track/2tPiJ3Rp20TsiG0nrvEyEp) | [Rickyxsan](https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ), [Mike Jones](https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0) | [GOATED](https://open.spotify.com/album/7vhMu8cSg5nx9CQgXQTdjG) | 3:00 | 2024-01-12 |  |
 | [GOD \(MUSIC\)](https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2) | [HOMETOWN HEROES](https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4) | 4:30 | 2022-09-09 | 2023-06-24 |
@@ -321,6 +321,7 @@
 | [Thief \- Flux Pavilion Remix](https://open.spotify.com/track/6btkdvumrTmcFzy3oFpZqS) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Thief \(Flux Pavilion Remix\)](https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ) | 4:31 | 2022-02-01 |  |
 | [TIDES](https://open.spotify.com/track/6h0o08bDtg1DpSkMTfwaEP) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [TIDES](https://open.spotify.com/album/1FVxlg8xl2ir77wIG2hjVf) | 1:45 | 2021-11-19 | 2022-02-02 |
 | [Tik Tok](https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx) | [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Tik Tok](https://open.spotify.com/album/07rbrKhpXSilbigKmsfn0J) | 2:44 | 2023-11-10 |  |
+| [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 | 2024-02-02 |  |
 | [Too Far Gone](https://open.spotify.com/track/6UK3DJjALEcDdqehJvkjP4) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Paths](https://open.spotify.com/album/4FL3BPEqVAxOEtvjDgLlc9) | 2:52 | 2023-10-27 | 2024-01-27 |
 | [Top Tier](https://open.spotify.com/track/16soCDQar48LYvuRe2VOLA) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Top Tier](https://open.spotify.com/album/6QriBf1gM8TlAojBQ6041Q) | 2:22 | 2024-01-12 | 2024-02-03 |
 | [Totality](https://open.spotify.com/track/67U414F214QaCHyVl2oRA8) | [ill.gates](https://open.spotify.com/artist/4a32m0kHbxZm3V7jHpW60g) | [Totality](https://open.spotify.com/album/1nvaawcpLujTUWXZRWKwdu) | 4:18 | 2021-11-19 | 2022-02-02 |

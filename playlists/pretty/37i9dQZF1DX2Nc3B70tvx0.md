@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Jack Antonoff
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,125,149 likes - 103 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,050 likes - 103 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 102 | [Fried Rice](https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Fried Rice](https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj) | 3:27 |
 | 103 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 
-Snapshot ID: `MCxmZmFmOGE1ZTk0ZGRlNWU5NjE2N2U3YjJkZWUzYmFlZDExYWFmNDgx`
+Snapshot ID: `MCw1ZDhkNTI4OWQ3YWUxMjEyZDk2N2VjYzdmZjdkZTVlOWU0MDM3YjM1`

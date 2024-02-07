@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 4657,
+  "2024-02-07": 4678,
   "date_first_scraped": "2023-10-18",
   "description": "<a href=\"https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l_E1EUSFQy6mw967zlio3Q\"> Disclosure</a>'s favourite tracks. Updated regularly. Curated by Disclosure. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Disclosure's track ID's",
@@ -187,6 +187,42 @@
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE"
+    },
+    {
+      "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "album": {
+        "name": "4evergreen 012",
+        "url": "https://open.spotify.com/album/49WqpVPWU2el3bFcfp3b0e"
+      },
+      "artists": [
+        {
+          "name": "Francesco Zani",
+          "url": "https://open.spotify.com/artist/09ziRWlASMknJoKUvioLvp"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355000,
+      "name": "For Gil And New York",
+      "url": "https://open.spotify.com/track/20tzjkV2aBsETvF6oenUas"
     },
     {
       "album": {
@@ -495,7 +531,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 229411,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/3BqOGhCJD4qRD6xQjBeT0l"
@@ -647,6 +683,24 @@
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346030,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2"
     },
     {
       "album": {
@@ -1044,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Straight from the Underground",
+        "url": "https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8ne D\u00f8g",
+          "url": "https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258292,
+      "name": "Straight from the Underground",
+      "url": "https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm"
+    },
+    {
+      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7Gs1tiTXsvcplzn15xDkKF"
       },
@@ -1080,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Thinking Of U",
+        "url": "https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl"
+      },
+      "artists": [
+        {
+          "name": "Attic Beats",
+          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Thinking Of U",
+      "url": "https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY"
+    },
+    {
+      "album": {
         "name": "To be honest (SG Lewis Remix)",
         "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
       },
@@ -1099,6 +1189,24 @@
       "duration_ms": 238901,
       "name": "To be honest - SG Lewis Remix",
       "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
+    },
+    {
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161440,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l"
     },
     {
       "album": {
@@ -1175,6 +1283,32 @@
       "duration_ms": 290373,
       "name": "Xtina",
       "url": "https://open.spotify.com/track/3z7IkJWkJuRGeKUOs8ildv"
+    },
+    {
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
       "album": {

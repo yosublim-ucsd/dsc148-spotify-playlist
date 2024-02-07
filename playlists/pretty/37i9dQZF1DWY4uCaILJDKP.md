@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,309 likes - 112 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,310 likes - 112 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TAKOYAKI in my heart](https://open.spotify.com/track/1wr3UGHoVeONKB1ZD0uKvO) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [JUKE BOX](https://open.spotify.com/album/45WScaFWvuSyWSPBq0c9cK) | 4:57 |
-| 2 | [三十路少年](https://open.spotify.com/track/38FnWo9TPHrxfQTbZtpwhR) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [関ジャニズム](https://open.spotify.com/album/3NVq3zztxre3J8IXmfmScQ) | 4:52 |
+| 1 | [TAKOYAKI in my heart](https://open.spotify.com/track/1wr3UGHoVeONKB1ZD0uKvO) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [JUKE BOX](https://open.spotify.com/album/45WScaFWvuSyWSPBq0c9cK) | 4:57 |
+| 2 | [三十路少年](https://open.spotify.com/track/38FnWo9TPHrxfQTbZtpwhR) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [関ジャニズム](https://open.spotify.com/album/3NVq3zztxre3J8IXmfmScQ) | 4:52 |
 | 3 | [Oshikura Manju](https://open.spotify.com/track/4SnWLOSgeNDy6ezQ5E8Msi) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [Oshikura Manju](https://open.spotify.com/album/7qcG7I5047rIYsaYW7b9Zw) | 3:53 |
 | 4 | [NICE！RICE！SMILE！](https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [NICE！RICE！SMILE！](https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx) | 3:25 |
 | 5 | [HOLIDAY in OHAPA!!](https://open.spotify.com/track/46w2GqGJ9dXOoZM7RLAAHQ) | [おは朝バンド](https://open.spotify.com/artist/5wLfo9S8j40aNshxoojY23) | [HOLIDAY in OHAPA!!](https://open.spotify.com/album/1khr284a8asSOAQqs3sqpp) | 3:50 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 111 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 112 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCw0OTcwZDk0OWFiYjkwMDQyOGYwN2M4MzY3YmEzYWMyNmIwY2VmYTZm`
+Snapshot ID: `MCwwMDZhNjYzMzMwOWZmZjhlYTg3Y2JlOWRkN2Y2ZmUwZjkwMGM3NDli`

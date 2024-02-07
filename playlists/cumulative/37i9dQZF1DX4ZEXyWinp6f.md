@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-334 songs - 1 day 5 hr 52 min
+335 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 | 2021-02-25 | 2022-09-17 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2022-07-29 |
 | [Dietrofront](https://open.spotify.com/track/3wiXVSR84GM7qZnorfK7md) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Dietrofront](https://open.spotify.com/album/5VyZvAfaPCj6MVASqP7FnD) | 6:17 | 2020-11-21 | 2022-07-29 |
-| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 |  |
+| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 | 2024-02-07 |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Dream//Expanse](https://open.spotify.com/track/1eZkqX08AurtH7oDQIZjda) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1) | 6:20 | 2020-12-03 | 2022-07-29 |
 | [Duet 2](https://open.spotify.com/track/6V98lrVuD5LClmIyoDT0jV) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 5:02 | 2021-07-26 | 2022-07-29 |
@@ -230,6 +230,7 @@
 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 | 2020-07-07\* | 2024-02-01 |
 | [Oxygene, Pt\. 2](https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:46 | 2020-07-07\* | 2024-02-02 |
 | [Oxygene, Pt\. 2](https://open.spotify.com/track/1Gt7o5s9iZWkPfRqeJHiru) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygene Trilogy](https://open.spotify.com/album/469JDZgyHrDdZT25FeLKgT) | 7:47 | 2021-10-20 | 2024-02-05 |
+| [Oxygène, Pt\. 2](https://open.spotify.com/track/7vLKG4ww0P8seUUsbgpcz3) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L) | 7:46 | 2021-10-20 |  |
 | [Peccato d'orgoglio](https://open.spotify.com/track/09JR07UwuJtphsxvXJFzsI) | [Alphataurus](https://open.spotify.com/artist/6mFPT1M2JWpuoSGSCQCpHX) | [Alphataurus](https://open.spotify.com/album/0Wh01o7ulww79Oq2eSZ6PX) | 12:21 | 2020-07-07\* | 2021-05-28 |
 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 | 2020-07-07\* |  |
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2020-07-07\* | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 52636,
+  "num_followers": 52648,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi",
+  "snapshot_id": "MCwzMmM5ZmYxN2NkYjY2NTM4ODQ1MmNiZGQzYjJiZmY0M2Q0ZWNlZDBk",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "La Incondicional",
         "url": "https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 180794,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-10-06 06:00:00",

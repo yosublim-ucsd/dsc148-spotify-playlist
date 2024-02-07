@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:6CQGrt3AJ2gx5oMSR0mwbl">1K Phew</a>
 
-905 songs - 1 day 20 hr 53 min
+906 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-06-25 | 2023-12-16 |
 | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Brand New Man \(feat\. Scootie Wop\)](https://open.spotify.com/album/4WDiLeasKyJikzR5r6wO4k) | 3:10 | 2021-12-11 | 2022-02-02 |
 | [Breakthrough](https://open.spotify.com/track/3krQNq70JOehjfLUcNYrIb) | [Dia Viola](https://open.spotify.com/artist/21tjJAnF9xKj2ddhpgJOqQ), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Breakthrough](https://open.spotify.com/album/53RpQQPEgDoo6Z1yL61eAS) | 3:33 | 2021-12-11 | 2022-02-05 |
-| [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 | 2023-12-15 |  |
+| [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 | 2023-12-15 | 2024-02-07 |
 | [Broken](https://open.spotify.com/track/5amww1Uz58ySe8JB67tgiU) | [Joseph Goulding](https://open.spotify.com/artist/0F6SbLHtWRtX6nmmyTuXp0), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [tristxn!](https://open.spotify.com/artist/0YdkgjofQiH1Hdsyi9lsm8) | [Broken](https://open.spotify.com/album/5TpxwY3a4V0rUwYiZWchBC) | 2:48 | 2022-05-28 | 2022-09-12 |
 | [Bulletproof](https://open.spotify.com/track/4Z6HsCbyWpWHsYKrzITKjw) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Da Rich 1](https://open.spotify.com/artist/1RHjRSfsWAk60qgCYQmok5) | [Bulletproof](https://open.spotify.com/album/3TUFHeZH61pFqwi0M2T2WZ) | 2:25 | 2021-12-11 | 2022-04-25 |
 | [burn for u](https://open.spotify.com/track/08irXCG7gXLeufqcZtT7mh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [burn for u](https://open.spotify.com/album/3G42vqO6lmiKRTiBVVnx1g) | 2:05 | 2022-04-29 | 2022-08-07 |
@@ -276,6 +276,7 @@
 | [FRMRZ Anthem](https://open.spotify.com/track/6V0VIxiYKFvkmWvwt2YLI6) | [GodFrame](https://open.spotify.com/artist/3DSYatqmDa517bLY1yXtu5) | [FRMRZ Anthem](https://open.spotify.com/album/77RjmpCp5JTh8w5MuNZMUB) | 3:34 | 2021-12-11 | 2022-01-22 |
 | [FRONT ROW](https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [FRONT ROW](https://open.spotify.com/album/2OJbLHFcmhmEYLKXm5BByp) | 3:15 | 2021-12-11 | 2022-05-29 |
 | [Fruits of My Labor](https://open.spotify.com/track/209gShZ4rJWhT3l9jZ1cM2) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Fruits of My Labor](https://open.spotify.com/album/5KcS1MD9Z0m9z2dmaGuL0b) | 3:14 | 2023-01-27 | 2023-08-26 |
+| [Full Metal](https://open.spotify.com/track/1sM1V8sfSKIt1vg5JBm8WY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kay Sade](https://open.spotify.com/artist/4PkhCFbcHgGFYHEspjPkq3) | [Full Metal](https://open.spotify.com/album/0sa6oqWexI0P9S2Y26R1wp) | 3:20 | 2024-01-19 |  |
 | [Ghetto Gospel](https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ghetto Gospel](https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd) | 2:38 | 2023-12-15 |  |
 | [Ghost](https://open.spotify.com/track/4XhUObUqIGEl0ktONaZ9Oo) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [Ghost](https://open.spotify.com/album/5rOP9eB4N1rFSGVCuYl8cr) | 3:15 | 2021-12-11 | 2022-02-05 |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 | 2023-12-16 |

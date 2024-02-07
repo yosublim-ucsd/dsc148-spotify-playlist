@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 806208,
+  "num_followers": 806365,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2Y3NTI3YzZiNTg3NzJlZjQwMDFiZDFlY2IyMjA3YTViZWRjMTcz",
+  "snapshot_id": "MCwwNjcwZGQ0Y2FiMzExYzg4ZjM3N2JiNGRjZjFmMGU1YWExNTVkY2I4",
   "tracks": [
     {
       "added_at": "2023-11-20 17:42:26",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 266277,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4PJ7UxGTWvLLbNBn75fcx6"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/5VJe8OKFcPBBjNEAPUeDuJ"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "In Darkened Rooms",
-        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
-      },
-      "artists": [
-        {
-          "name": "Sam Airey",
-          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
-        }
-      ],
-      "duration_ms": 322680,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Cathedrals - EP",
         "url": "https://open.spotify.com/album/5pMbkSjNGEcKjnRwbF8kwv"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 223759,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/49gE0a0YPRMXRp43QhnHH8"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Marked for Death",
-        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Marked for Death",
-      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 210613,
       "name": "Dream State...",
       "url": "https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Marked for Death",
+        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
+      },
+      "artists": [
+        {
+          "name": "Emma Ruth Rundle",
+          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Marked for Death",
+      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 311025,
-      "name": "Stakes",
-      "url": "https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls"
-    },
-    {
-      "added_at": "2023-11-20 17:42:26",
-      "album": {
         "name": "Gamble for a Rose",
         "url": "https://open.spotify.com/album/7ovzIYq8ot5vOlyiOOeLzA"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-11-20 17:42:26",
       "album": {
-        "name": "Fever To The Form",
-        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/1qqUyfL75uIRPAzziRaLFe"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 252080,
-      "name": "House Of Saint Give Me",
-      "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
+      "duration_ms": 311025,
+      "name": "Stakes",
+      "url": "https://open.spotify.com/track/5hxrx9IwZcGpuPS9yYiwls"
     },
     {
       "added_at": "2023-11-20 17:42:26",
@@ -1591,6 +1575,22 @@
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
+    },
+    {
+      "added_at": "2023-11-20 17:42:26",
+      "album": {
+        "name": "Fever To The Form",
+        "url": "https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252080,
+      "name": "House Of Saint Give Me",
+      "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
     },
     {
       "added_at": "2023-11-20 17:42:26",

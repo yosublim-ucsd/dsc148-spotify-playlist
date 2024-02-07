@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 145946,
+  "num_followers": 146001,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjc4NDQ5YWRlYTkxNjYzZGMwMDY3Yzg2NjQwNWI0NjYzY2ZjYzQ1",
+  "snapshot_id": "MCxjMTcwOTgzYzA3OGI3MDEyNWExZGNhYWNmMjU0MmY3YjM4OWRjMjYy",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Meta y Dinero",
+        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "Meta y Dinero",
+      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "M\u00e9jico M\u00e1xico",
         "url": "https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 275933,
       "name": "Mirando a las muchachas",
       "url": "https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Mtv Unplugged",
-        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Meta y Dinero",
-        "url": "https://open.spotify.com/album/5FRhhyIaXmEPloYSFUaYfs"
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
       "artists": [
         {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 133894,
-      "name": "Meta y Dinero",
-      "url": "https://open.spotify.com/track/7ujlY5tMc64ZA5Igz2FaYi"
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00faper Tigre",
-        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
-      },
-      "artists": [
-        {
-          "name": "S\u00faper Tigre",
-          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
-        }
-      ],
-      "duration_ms": 206673,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/27scONugjs898tPlDCKo3p"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hombre",
-        "url": "https://open.spotify.com/album/2ymgXDddbq17fstiJMOqQC"
+        "name": "S\u00faper Tigre",
+        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
       },
       "artists": [
         {
-          "name": "Los L\u00e1tigos",
-          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+          "name": "S\u00faper Tigre",
+          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
         }
       ],
-      "duration_ms": 263005,
-      "name": "Luces Sensacional",
-      "url": "https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM"
+      "duration_ms": 206673,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1635,6 +1619,22 @@
       "duration_ms": 172500,
       "name": "Lo Que Puedes Dar",
       "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Hombre",
+        "url": "https://open.spotify.com/album/2ymgXDddbq17fstiJMOqQC"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "duration_ms": 263005,
+      "name": "Luces Sensacional",
+      "url": "https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

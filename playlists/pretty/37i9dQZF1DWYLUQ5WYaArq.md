@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Let's get together and feel all right with these reggae classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,719 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,689 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 50 | [Lost Mi Love](https://open.spotify.com/track/5dvG16Ma80h9FZ1sQq5Sb1) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Mister Yellowman](https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt) | 5:10 |
 
-Snapshot ID: `MCxkYjE5YTk1NzJmOTMyYjlhZTQxNTg1ZmNlNWExM2Y3NmIzNmU2N2I0`
+Snapshot ID: `MCw1MTZmZmJmYWNlMzQzMDA2ZTkxOWUxNzBlOGNkMTE2NTkxM2FmZWY2`

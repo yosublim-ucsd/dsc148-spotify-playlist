@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Lyanno, Anubiis & Hades66
 
-335 songs - 19 hr 15 min
+336 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [C100EN](https://open.spotify.com/track/5XnCXhCrTlj90KVaugYMkI) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [C100EN](https://open.spotify.com/album/1xeViFk5ypfynAdOcfqkFP) | 3:05 | 2022-05-03 | 2023-02-11 |
 | [C4 x 73](https://open.spotify.com/track/40j4VmZ1eOCAPyWq4UXYmK) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [C4 x 73](https://open.spotify.com/album/78Xx2eT7AsNkxq4qoOXhrW) | 2:44 | 2022-11-25 | 2023-02-11 |
 | [Calentón](https://open.spotify.com/track/1IVUBHo1L9YNK2VH8Lmndb) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Foreign Teck](https://open.spotify.com/artist/5HviKGcHfUcbesgUw0PLzX) | [Calentón](https://open.spotify.com/album/6M6USkTvFofNR1Opfp7ukq) | 2:08 | 2022-06-28 | 2023-07-01 |
-| [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 | 2022-12-15 |  |
+| [CC](https://open.spotify.com/track/5GX0pPQ3ci4DyzItOpaJo7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [CC](https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3) | 3:11 | 2022-12-15 | 2024-02-07 |
 | [CC \- Remix](https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [CC \(Remix\)](https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH) | 4:02 | 2023-09-29 |  |
 | [Chanell Con Chanel](https://open.spotify.com/track/7FYXboOgrxcQri3pRgK5nJ) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Chanell Con Chanel](https://open.spotify.com/album/0ZoyktJJTxOA8Ho3pUTStT) | 2:27 | 2022-05-03 | 2022-06-29 |
 | [Cheke](https://open.spotify.com/track/3mPbF5PObAaieo4FtoTi2Z) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [El Nuevo Testamento](https://open.spotify.com/album/5qDaJwOkMjgIfHLKXkcdon) | 3:13 | 2022-06-28 | 2023-05-27 |
@@ -260,6 +260,7 @@
 | [Pauta & Flow](https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 3:15 | 2023-01-19 | 2023-11-11 |
 | [Peso a Peso](https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:37 | 2023-03-17 | 2023-07-29 |
 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 | 2022-03-18 | 2022-05-04 |
+| [Pitcher](https://open.spotify.com/track/11RzXOEKhGh7rpDtGLYEN3) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [Pitcher](https://open.spotify.com/album/2k98cU83ZXIFQpAikP1xyU) | 2:38 | 2024-01-26 |  |
 | [Polvo Eterno](https://open.spotify.com/track/2hZvzzq3MbsFi4fRieBxs6) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Polvo Eterno](https://open.spotify.com/album/73WztuvJtVotpv0B8aBrAa) | 3:07 | 2022-06-28 | 2023-02-11 |
 | [Problem Childs](https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7) | [Fresy Franklin](https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Problem Childs](https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D) | 3:58 | 2023-03-03 | 2023-09-26 |
 | [QSY](https://open.spotify.com/track/2HOjq5fN9BN9nWwm0LHT1G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 3:39 | 2022-05-03 |  |

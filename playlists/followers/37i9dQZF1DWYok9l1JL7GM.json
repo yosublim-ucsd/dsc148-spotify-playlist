@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 515163,
+  "2024-02-07": 515197,
   "date_first_scraped": "2021-12-28",
   "description": "The south got something to say. Cover: Yo Gotti",
   "name": "I Love My Down South Classics",
@@ -2457,7 +2457,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 213760,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
@@ -2875,6 +2875,24 @@
       "duration_ms": 355066,
       "name": "Wanna Be A Baller",
       "url": "https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo"
+    },
+    {
+      "album": {
+        "name": "We The Best",
+        "url": "https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263280,
+      "name": "We Takin' Over",
+      "url": "https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81"
     },
     {
       "album": {

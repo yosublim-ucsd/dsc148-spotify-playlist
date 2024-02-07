@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Teethe
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,845 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,838 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 92 | [Truck](https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Truck](https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu) | 3:53 |
 | 93 | [fool for you](https://open.spotify.com/track/4uhx82pIQtY9S3xmHKbztZ) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/2RrAue7Ur84t4Qe6MAJwsP) | 3:19 |
 | 94 | [iwantthis2last!](https://open.spotify.com/track/5zD6Zpb1JSMeYP9qRXyEVV) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [light is gone 2](https://open.spotify.com/album/1QBJjgXDWuaTdfQhGzz7PA) | 3:14 |
-| 95 | [Tin Man](https://open.spotify.com/track/1BYmpDprZGuCfuZolqwuk9) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Tin Man](https://open.spotify.com/album/2zcAU1ZzOSw5c7islwbVZP) | 2:11 |
+| 95 | [Tin Man](https://open.spotify.com/track/5W6KtuTeceMUqu7zW4JNdi) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:11 |
 | 96 | [Scene for an Exit](https://open.spotify.com/track/3nVW6mJbZQgCwrAYUTUHm2) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Scene for an Exit](https://open.spotify.com/album/78yVjuxGNVvAqdFcLvn4GF) | 2:39 |
 | 97 | [Sink In](https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Hello Mary](https://open.spotify.com/album/0Dhff2G19pJvrdOSPLgp4f) | 3:55 |
 | 98 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 99 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 |
 | 100 | [You don't even know who I am](https://open.spotify.com/track/6ClqRD9uFMj4VD8GuSr7mG) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [You don't even know who I am](https://open.spotify.com/album/119JYB6WfmQedqfjFBwgnl) | 4:04 |
 
-Snapshot ID: `MCxlNTVlOTVhM2Y1MGFjZTQ1NzZjYmY3NThhZjE2MmMxZWYzZWJmMmY1`
+Snapshot ID: `MCw2ZjQ5OGRmYmE1NDMzZjE5ZDUyM2FiMDY0MGM0NzA2MDc0NmYzMTYx`

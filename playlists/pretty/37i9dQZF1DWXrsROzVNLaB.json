@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 10840,
+  "num_followers": 10839,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmFlMWQ3ODMxOGM2NjQ5NmMyNDliYjRkMTU4Y2Y0ZGNhZTE0NmVm",
+  "snapshot_id": "MCxlYzA5N2FmZmQyM2ZhM2IzOWNkMWQwZTVlOGUwZmRlNTViODM3ODEx",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Women Of Faith Presents Gateway Worship A Collection",
+        "url": "https://open.spotify.com/album/02Dzh1mJtEVEQqCcRtMslq"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 329640,
+      "name": "O The Blood",
+      "url": "https://open.spotify.com/track/3O6kRLNGZlN1I02JAx1ifU"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Hallelujah Amen (feat. Jon Guerra)",
         "url": "https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 252320,
       "name": "That's Why They Call It Grace",
       "url": "https://open.spotify.com/track/1DW3R9YwHN54kirYuxbwQ5"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Ashes (feat. Chris McClarney)",
-        "url": "https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        },
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 279903,
-      "name": "Ashes (feat. Chris McClarney)",
-      "url": "https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG"
     }
   ],
   "unique_name": "Holy Week: Easter",

@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 79156,
+  "2024-02-07": 79211,
   "date_first_scraped": "2022-03-01",
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
   "name": "Indie Spirit",
@@ -4807,7 +4807,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 258980,
       "name": "Let A Little Light In",
       "url": "https://open.spotify.com/track/3DhcmWsJuGRRIsVKgGSnZR"
@@ -9341,6 +9341,28 @@
       "duration_ms": 151168,
       "name": "whisper",
       "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+    },
+    {
+      "album": {
+        "name": "who am i?",
+        "url": "https://open.spotify.com/album/4EGPWSYyl05FB6JqMromvO"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        },
+        {
+          "name": "DJ DENZ The Rooster",
+          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149068,
+      "name": "who am i?",
+      "url": "https://open.spotify.com/track/0DbrwHCzHUpOk5PbgYv9ui"
     },
     {
       "album": {

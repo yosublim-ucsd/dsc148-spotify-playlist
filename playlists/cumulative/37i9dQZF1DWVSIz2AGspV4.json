@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Asdaq Qalb",
+        "url": "https://open.spotify.com/album/5kHuEateB3o8neLtr4Fn3r"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Alghanim",
+          "url": "https://open.spotify.com/artist/30qulT9lz1jtHktcIhbVId"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288494,
+      "name": "Asdaq Qalb",
+      "url": "https://open.spotify.com/track/1PY0cVBIeuB9y6Fr1eleYj"
+    },
+    {
+      "album": {
         "name": "Asheq Majnoon",
         "url": "https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc"
       },
@@ -1156,6 +1174,24 @@
       "duration_ms": 153333,
       "name": "Bas Anti 7Elwah",
       "url": "https://open.spotify.com/track/2VJDUOnPYZpSV2Yyin0sww"
+    },
+    {
+      "album": {
+        "name": "Bas Hobak",
+        "url": "https://open.spotify.com/album/6edrNF0WigIK3MY3PCsfe3"
+      },
+      "artists": [
+        {
+          "name": "Sattar Saad",
+          "url": "https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253203,
+      "name": "Bas Hobak",
+      "url": "https://open.spotify.com/track/1tfDBTvz8CoQe4l0qj95cI"
     },
     {
       "album": {
@@ -2724,7 +2760,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 247578,
       "name": "khayef Akhsarah",
       "url": "https://open.spotify.com/track/2d89YOM8eeLB7D0lR8XQ5y"
@@ -3718,7 +3754,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 181777,
       "name": "Rakaz Beya",
       "url": "https://open.spotify.com/track/7xFOwWuDpjBv5tsCiptmvS"
@@ -3740,7 +3776,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 199097,
       "name": "Sabea Zaal",
       "url": "https://open.spotify.com/track/1eUSNfLLJfy6YGGmS2S2Bn"
@@ -4787,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0648\u0641 \u0645\u0646\u064a",
+        "url": "https://open.spotify.com/album/1uvDIZebrIyfB6SjIpPaJQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Arnoos",
+          "url": "https://open.spotify.com/artist/1ICLYRvDbaXOGR17fhTQKq"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "\u0627\u0648\u0641 \u0645\u0646\u064a",
+      "url": "https://open.spotify.com/track/1sPmS1sTtsIkq8G3mwbnmO"
+    },
+    {
+      "album": {
         "name": "\u0628\u0634\u0631 \u062c\u0630\u0627\u0628",
         "url": "https://open.spotify.com/album/7bJUnmJQsDKjOEICBZXzBy"
       },
@@ -4972,6 +5026,24 @@
       "duration_ms": 177333,
       "name": "\u0645\u0648 \u062d\u0631\u0627\u0645",
       "url": "https://open.spotify.com/track/65j4yTnvmKkcNCvRmXfqjA"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0642\u0637\u0629 \u0636\u0639\u0641\u064a",
+        "url": "https://open.spotify.com/album/3yK0AyiXZLkLhLJrhxeD4k"
+      },
+      "artists": [
+        {
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234005,
+      "name": "\u0646\u0642\u0637\u0629 \u0636\u0639\u0641\u064a",
+      "url": "https://open.spotify.com/track/5g4cD3l594h6Yt0SKHgkru"
     },
     {
       "album": {

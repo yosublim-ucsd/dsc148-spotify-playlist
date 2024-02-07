@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-195 songs - 9 hr 4 min
+196 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 | 2022-09-02 |  |
 | [Nico And The Niners](https://open.spotify.com/track/4EbvHHWqLq8y1iM7U7loo6) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/0u0uEGYDqo1bXl9jtXTibA) | 2:48 | 2022-06-03 | 2022-07-16 |
 | [Nico And The Niners \- Slowed](https://open.spotify.com/track/4UZHUNh2RDSvisZyLBQUHd) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/3Srj2MLhrDDpibB3gwZmmb) | 3:24 | 2022-07-28 | 2022-09-03 |
-| [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 | 2023-01-05 |  |
+| [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 | 2023-01-05 | 2024-02-07 |
 | [Numb](https://open.spotify.com/track/6yNvTSNpvHfIVDjlLNnVqF) | [VERVGE](https://open.spotify.com/artist/57MA3sAmDw91t1XqH6rJRk), [MGL](https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak) | [Numb](https://open.spotify.com/album/09V8HbdOk5BjmRlgY3e5a9) | 2:32 | 2022-06-10 | 2022-09-24 |
 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-05-12 |  |
 | [Oley Oley](https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Oley Oley](https://open.spotify.com/album/6rYvSUUkK6wRpgfih4kOEc) | 3:19 | 2022-05-12 | 2022-06-17 |
@@ -158,6 +158,7 @@
 | [Requiem](https://open.spotify.com/track/3NA5PFmaV30v3LUyjMtiu9) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [KANVISE](https://open.spotify.com/artist/1c8bw1hMtl5RO92FZsxX1U) | [Requiem](https://open.spotify.com/album/1wH2VrTo4MV47hrIyonlJb) | 2:29 | 2022-04-07 | 2022-06-11 |
 | [Rockstar](https://open.spotify.com/track/2EvkuKd9qC5qk8Qxm6SzPY) | [Cedrix](https://open.spotify.com/artist/0XY9QKkTnONBkjszYTfsZl), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [Emrah Turken](https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe) | [Rockstar](https://open.spotify.com/album/01XL0vCDJdAKURjMu97yGt) | 2:48 | 2022-06-03 | 2022-07-09 |
 | [RVBLE & DVST](https://open.spotify.com/track/2CiCGSQjwQS9dweknIs91G) | [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Robert Cristian](https://open.spotify.com/artist/26ebqYqothrkkGHWEvJy4D) | [RVBLE & DVST](https://open.spotify.com/album/4nbbj2cKmY2aCY9IuvSEJG) | 2:38 | 2022-05-06 | 2022-10-21 |
+| [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 | 2024-02-02 |  |
 | [S.T.A.L.K.E.R](https://open.spotify.com/track/0v1inx6DMkaMiQwZQw9vRo) | [Tommy Soprano](https://open.spotify.com/artist/1bohBNryuQpzSEtG9cytN1), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [S.T.A.L.K.E.R](https://open.spotify.com/album/1jywvyn8CMDY6qNJME9BIf) | 2:45 | 2022-11-17 | 2022-12-17 |
 | [SAMURAI](https://open.spotify.com/track/0o04dCBHGlZwi816oogv6U) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/74FCnSJTNgzJYv9vIShlHy) | 2:49 | 2023-02-28 |  |
 | [SAMURAI](https://open.spotify.com/track/3yUDo3vkOE5XI0W5k6A1vI) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT) | [SAMURAI](https://open.spotify.com/album/01u5x15oJm1a8uKVN3pP7T) | 2:49 | 2022-11-11 | 2023-08-18 |

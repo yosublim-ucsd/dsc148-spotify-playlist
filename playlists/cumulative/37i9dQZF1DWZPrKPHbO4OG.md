@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-58 songs - 4 hr 0 min
+59 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 | 2023-07-04 |  |
 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 | 2023-07-04 |  |
 | [Malhar](https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Virat](https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra) | 4:09 | 2023-07-04 |  |
-| [Mast Challay Amcha](https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Mast Challay Amcha](https://open.spotify.com/album/5koavjbloIXwCFa69roYfm) | 4:55 | 2023-07-04 |  |
+| [Mast Challay Amcha](https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Mast Challay Amcha](https://open.spotify.com/album/5koavjbloIXwCFa69roYfm) | 4:55 | 2023-07-04 | 2024-02-07 |
+| [Mast Challay Amcha](https://open.spotify.com/track/6TsADZx0yJpStzCrA4JmH6) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Mast Challay Amcha](https://open.spotify.com/album/2CZhaKFRt3KOHTrMxJSwcH) | 4:55 | 2024-02-05 |  |
 | [Mauli Mauli](https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lai Bhari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX) | 5:05 | 2023-07-04 |  |
 | [Meri Madhubala](https://open.spotify.com/track/2dIWPmnbgVn6lmpK809l4H) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/1HBEFg3sdFGetJHDcFXoqh) | 3:58 | 2023-07-04 | 2024-02-06 |
 | [Meri Madhubala](https://open.spotify.com/track/6ZehWlAhs6w8fBIFZ22NHA) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Meri Madhubala](https://open.spotify.com/album/6VGc7aaod8hbxZUTvoWSir) | 3:58 | 2024-02-05 |  |

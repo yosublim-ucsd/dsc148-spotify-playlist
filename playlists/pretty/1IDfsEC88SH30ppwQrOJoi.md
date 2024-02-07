@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,603 likes - 219 songs - 11 hr 41 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,599 likes - 220 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,5 +227,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 217 | [Throw Your Hands](https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Throw Your Hands](https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw) | 3:11 |
 | 218 | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \- John Summit Remix](https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Moving All Around \(Jumpin'\) \(feat\. Kim English\) \[John Summit Remix\]](https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU) | 3:26 |
 | 219 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
+| 220 | [Sun & Moon](https://open.spotify.com/track/1z4VDapoHOL41k8bjo6rnk) | [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Sun & Moon](https://open.spotify.com/album/2PxAkJmFTzrTdPikkEbBiB) | 3:41 |
 
-Snapshot ID: `MjA4OCxkYTQxMzJlZGFlM2FlZWFhMzA1MmE4MjhiMDM2ODI4MTk2MTBiNDc5`
+Snapshot ID: `MjA4OSw0MjIyNTlmODlhZTc0NzNiNzE3ODgzMjE0ZGFlNjE4M2MwYjgzZjdh`

@@ -1,13 +1,37 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Lvbel C5",
-  "num_followers": 1327818,
+  "num_followers": 1328145,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRlY2RjNTRkYzdhNTU0MTI0OTkzMGRlNmE2ODE4ODlkYzgyOGM1",
+  "snapshot_id": "MCw2MzNkNTlkNjBlZDViYzAxMmM0MmI2YzNlOGQ3N2NmYzc5YWQ1ODk2",
   "tracks": [
+    {
+      "added_at": "2024-02-05 09:10:25",
+      "album": {
+        "name": "Kapak Olsun",
+        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
+      },
+      "artists": [
+        {
+          "name": "Defkhan",
+          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
+        },
+        {
+          "name": "NELLIE",
+          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
+        }
+      ],
+      "duration_ms": 147136,
+      "name": "Kapak Olsun",
+      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
+    },
     {
       "added_at": "2024-02-05 09:10:25",
       "album": {
@@ -43,30 +67,6 @@
     {
       "added_at": "2024-02-05 09:10:25",
       "album": {
-        "name": "Kapak Olsun",
-        "url": "https://open.spotify.com/album/7j9rfRyTb6tHY4CWgE8S2B"
-      },
-      "artists": [
-        {
-          "name": "Defkhan",
-          "url": "https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS"
-        },
-        {
-          "name": "NELLIE",
-          "url": "https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6"
-        }
-      ],
-      "duration_ms": 147136,
-      "name": "Kapak Olsun",
-      "url": "https://open.spotify.com/track/4yThcjBXiBsiP8QxFraRG1"
-    },
-    {
-      "added_at": "2024-02-05 09:10:25",
-      "album": {
         "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
         "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
       },
@@ -79,6 +79,22 @@
       "duration_ms": 133755,
       "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
+    },
+    {
+      "added_at": "2024-02-05 09:10:25",
+      "album": {
+        "name": "Salla Salla",
+        "url": "https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 146964,
+      "name": "Salla Salla",
+      "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"
     },
     {
       "added_at": "2024-02-05 09:10:25",
@@ -119,22 +135,6 @@
       "duration_ms": 172427,
       "name": "SIMARIK",
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
-    },
-    {
-      "added_at": "2024-02-05 09:10:25",
-      "album": {
-        "name": "Para Harams\u0131z",
-        "url": "https://open.spotify.com/album/3Oi6fbcYOQzF5XKO0ezSBX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Para Harams\u0131z",
-      "url": "https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN"
     },
     {
       "added_at": "2024-02-05 09:10:25",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-02-05 09:10:25",
       "album": {
-        "name": "Salla Salla",
-        "url": "https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 146964,
-      "name": "Salla Salla",
-      "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"
-    },
-    {
-      "added_at": "2024-02-05 09:10:25",
-      "album": {
         "name": "MINI TERORISTA",
         "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 134400,
       "name": "MINI TERORISTA",
       "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
+    },
+    {
+      "added_at": "2024-02-05 09:10:25",
+      "album": {
+        "name": "Para Harams\u0131z",
+        "url": "https://open.spotify.com/album/3Oi6fbcYOQzF5XKO0ezSBX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Para Harams\u0131z",
+      "url": "https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN"
     },
     {
       "added_at": "2024-02-05 09:10:25",

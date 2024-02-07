@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=O\-\_f\-EQ6SSCbRJgQvk6egQ">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,007 likes - 63 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,059 likes - 63 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 22 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 23 | [Bambelela \(Nyamezela\) \(feat\. TBO, Moscow on Keys & Rams Da Violinist\)](https://open.spotify.com/track/5O5cLMHdf16c3MlesHao9O) | [Macfowlen](https://open.spotify.com/artist/0VzQPysbd15N9UxtIYxPtG), [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [Moscow On Keys](https://open.spotify.com/artist/0hsIRbbVUOJyyT7HundtA9), [Rams De Violinist](https://open.spotify.com/artist/7uzgiCjIFuOK3rSc6HICLc) | [Bambelela \(Nyamezela\) \[feat\. TBO, Moscow on Keys & Rams Da Violinist\]](https://open.spotify.com/album/2mYvFTnBGNolRtTOG7Ezkw) | 7:00 |
 | 24 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 |
-| 25 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien\-aime Baraza](https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 |
+| 25 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 |
 | 26 | [Hey Hey \- Da Capo & Kitty Amor Remix](https://open.spotify.com/track/6vQAEYaF1CTSPMlhZsyWCe) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Hey Hey \(Da Capo & Kitty Amor Remix\)](https://open.spotify.com/album/321dq5Ag24Jcz5e2AXHd9O) | 3:42 |
 | 27 | [Know Me](https://open.spotify.com/track/7vkRrTEyZZ71DAPk6ItG2M) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Roho](https://open.spotify.com/artist/2Rej3KxSUUiNplmlnfNdUd) | [Know Me](https://open.spotify.com/album/0rSAPCKrf4mzerV2m3mJAK) | 2:40 |
 | 28 | [Tumbi](https://open.spotify.com/track/4BeDb8ZEawOvJ3sYdoKgPu) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Tumbi](https://open.spotify.com/album/0FdPmXzKxRGsuKqt2o1Fx4) | 2:46 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [Shona Khona \(feat\. TNK MusiQ, W4DE\)](https://open.spotify.com/track/4FjZ1wKbE03AXSVXkuHi16) | [Philharmonic](https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [W4DE](https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi) | [Big Fish](https://open.spotify.com/album/7H9iFcb6bPXc97IXojjZz5) | 5:51 |
 | 63 | [Tsotsi](https://open.spotify.com/track/0pkGttjbYWle2tn5RldOIt) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Tsotsi](https://open.spotify.com/album/6wXHDIz1HJ3uKy4jxzUOCe) | 3:05 |
 
-Snapshot ID: `MCwyNDNiMTQ4ODEwNzI4Y2QxMjQ2YTk1ZGZlMTFjMzc4MDg4MDkxNTRi`
+Snapshot ID: `MCw4OWZjNmQ2YzU3MmUzYmQ1OWU5MmZjNjgxZTczZjU5YWY0NWFmYzhj`

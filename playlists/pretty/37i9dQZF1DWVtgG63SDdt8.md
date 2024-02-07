@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:1q6xQXmuTccwh7gBR7ToUN">Common Hymnal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,128 likes - 95 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,174 likes - 95 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 94 | [Maybe The Miracle](https://open.spotify.com/track/3qejYy8TQRliyPGkJ7VoWb) | [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Maybe The Miracle](https://open.spotify.com/album/56eBR2KZileFy5Y6pPzozQ) | 4:12 |
 | 95 | [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 |
 
-Snapshot ID: `MCwwZTJlZDRhNjk2YjdjNWRiZmJjMjFiZDkwZTAxYmIyZWMyYjFhODBl`
+Snapshot ID: `MCxmZjE3ZGM2MDgwY2M5NGM2NjE2MTQ2YWQ1ZWI5ZmQ0YWE3ZWY5YWY2`

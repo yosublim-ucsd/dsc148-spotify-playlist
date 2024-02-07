@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 214279,
+  "2024-02-07": 214289,
   "date_first_scraped": "2021-12-21",
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
   "name": "Sax and the City",
@@ -2123,7 +2123,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 271533,
       "name": "Livin' Large",
       "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
@@ -3189,6 +3189,24 @@
       "duration_ms": 238853,
       "name": "Sleekness (feat. Marcus Anderson)",
       "url": "https://open.spotify.com/track/4a1hR376exZ81yDV5ur2fa"
+    },
+    {
+      "album": {
+        "name": "Fine Tune",
+        "url": "https://open.spotify.com/album/2o5ogZeEG083oYvpFMv2NU"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/2wsHCR12q3n3gkXgHmTltz"
     },
     {
       "album": {

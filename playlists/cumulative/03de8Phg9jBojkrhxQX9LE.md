@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-469 songs - 1 day 2 hr 34 min
+470 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Out For Blood](https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Out For Blood](https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp) | 5:16 | 2023-12-22 | 2024-01-27 |
 | [Overdue](https://open.spotify.com/track/62SBiytFuQupwWrxkXZb3S) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp), [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [FIRE EMOJI](https://open.spotify.com/album/0Dot1osUopcYVe6vSf96jX) | 3:05 | 2023-11-03 | 2023-12-02 |
 | [Panic Attack](https://open.spotify.com/track/6JbOql3mVJ8SXA7Ecsj0Eo) | [VNDETTA](https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5) | [Panic Attack](https://open.spotify.com/album/1N5crxyPsGpusYfywloPT6) | 2:26 | 2024-02-02 |  |
+| [Paper Moon \- SUAHN Remix](https://open.spotify.com/track/0eHHo7DpSz6U5KPTUw7fv2) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa), [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX) | [Paper Moon \(SUAHN Remix\)](https://open.spotify.com/album/2xPd0sXttZNMQzvouOh78r) | 3:43 | 2024-02-06 |  |
 | [Paradise](https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Paradise](https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN) | 2:39 | 2023-12-08 | 2024-01-13 |
 | [Past Life \- Koven Remix](https://open.spotify.com/track/0qd3s3CSis3SKKxBrsAP1p) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Past Life \(Koven Remix\)](https://open.spotify.com/album/1a04f6asIrwei8aDzc0krl) | 2:30 | 2023-11-24 | 2024-01-06 |
 | [Peace](https://open.spotify.com/track/0vgQje4JJIRbWq2PfqBIPc) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Peace](https://open.spotify.com/album/3kD3FiaQemVTZvzsqPNnvb) | 3:54 | 2023-12-01 | 2024-01-06 |

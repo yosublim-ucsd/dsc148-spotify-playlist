@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,636 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,648 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 86 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
 | 87 | [De que manera te olvido](https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 2:56 |
 | 88 | [Con Tus Besos](https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Con Tus Besos](https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E) | 2:38 |
-| 89 | [Duele](https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Duele](https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP) | 4:09 |
-| 90 | [La Incondicional](https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [La Incondicional](https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE) | 3:00 |
+| 89 | [La Incondicional](https://open.spotify.com/track/3kPxCBbjKUubZRo9fSCtJg) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [La Incondicional](https://open.spotify.com/album/0jFyqIlb60Syz3EWhszmEE) | 3:00 |
+| 90 | [Duele](https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Duele](https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP) | 4:09 |
 | 91 | [Prometiste](https://open.spotify.com/track/2oKl1hb8wbIqs2a38mWy7g) | [Nito Carval](https://open.spotify.com/artist/1UO58vaW6Nrk9Db2Llr912) | [Prometiste](https://open.spotify.com/album/4qCrSxdCIWD2gJZ8PauY8S) | 3:56 |
 | 92 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
 | 93 | [Alma Enamorada](https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Alma Enamorada](https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [Solo Vine A Despedirme](https://open.spotify.com/track/6JKesuqLu8ZTtRgxNTzbdu) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [Solo Vine A Despedirme](https://open.spotify.com/album/3Nk0RzuCU6NnEfWnDVDTtm) | 3:21 |
 | 100 | [Volver, Volver](https://open.spotify.com/track/3f8BsxS5vySEQzocBF2CMQ) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 
-Snapshot ID: `MCxkYmIyZjAxZWZkOGIxZmNlZGU3Y2M4YTUxMTgyZGY1MGQ5MjQyNjJi`
+Snapshot ID: `MCwzMmM5ZmYxN2NkYjY2NTM4ODQ1MmNiZGQzYjJiZmY0M2Q0ZWNlZDBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Bilal Wahib & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,834 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,847 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Tijden Zijn Veranderd](https://open.spotify.com/track/2o1b3t2LgB5fqbX0JcDYWJ) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Tijden Zijn Veranderd](https://open.spotify.com/album/6UtTkjedZMq7cl0TxZHXdU) | 3:02 |
 | 40 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 
-Snapshot ID: `MCxjZjc4ZWIyNzQ5MDFmZDdkN2NmMWFkM2VhOWNlZjE0ZTk1NDdiOTJi`
+Snapshot ID: `MCwwMzNhMGY3ZDVkYmQyMzVhYjJlODU2NGRjOTRlNDg3OGRmZTViY2I2`

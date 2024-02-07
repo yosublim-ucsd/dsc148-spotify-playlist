@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-917 songs - 1 day 23 hr 18 min
+919 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Gotham](https://open.spotify.com/track/7ce57gIvxc353OwZyapw5e) | [Nino Uptown](https://open.spotify.com/artist/1zzNqXwB3gRY3Ucm8dQnr8) | [Gotham](https://open.spotify.com/album/7xS8vowwGB3zOk4ps3XTs5) | 2:35 | 2023-12-01 | 2024-01-26 |
 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2023-11-10 | 2024-02-02 |
 | [Green Light \(feat\. Unknown T\)](https://open.spotify.com/track/4KBNIbgkHGmOtJG1U2vL7S) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Risk It All](https://open.spotify.com/album/7gibSSIiQtHeqSW8hbaBKx) | 3:20 | 2022-07-07 | 2022-08-05 |
+| [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-06 |  |
 | [Grieve](https://open.spotify.com/track/3NUQ0U5FrSq9dvMr7obxLB) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Passionate & Paranoid](https://open.spotify.com/album/0sctzkRs96Stcw8vlX8Xju) | 3:05 | 2022-02-25 | 2022-03-11 |
 | [Groupie \(feat\. Krept & Konan\)](https://open.spotify.com/track/5txWoKXy7fwNmcF7XCqE4V) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Groupie \(feat\. Krept & Konan\)](https://open.spotify.com/album/7f8yrrLvb3AaNfn7Tk0FOm) | 3:09 | 2023-03-10 | 2023-06-23 |
 | [Guillotine](https://open.spotify.com/track/3IrcvqIf3ZiBhf3xdsctRX) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Guillotine](https://open.spotify.com/album/2qEqDJ20yMk7cY2PkYYgRH) | 3:43 | 2023-09-16 | 2023-09-19 |
@@ -594,6 +595,7 @@
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-27 | 2023-09-15 |
 | [On Top \(feat\. Fivio Foreign\)](https://open.spotify.com/track/71G3ce3FWwJOlpZRksXmfX) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:47 | 2022-03-08 | 2022-03-09 |
 | [once upon a time](https://open.spotify.com/track/3NBCkND8iLWihiyOvwsVap) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [once upon a time](https://open.spotify.com/album/7j1UMhnjqn3Uwh0Gpck5jT) | 2:45 | 2024-01-26 |  |
+| [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2024-02-06 |  |
 | [One Direction](https://open.spotify.com/track/75B9CAbXJgMmwrT6aFTgpv) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [One Direction](https://open.spotify.com/album/3gH3b4tb9DXXDo3oQoUQjh) | 2:04 | 2023-07-27 | 2023-08-18 |
 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 | 2022-10-06 | 2023-01-20 |
 | [One Man](https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [One Man](https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy) | 2:30 | 2023-07-06 | 2023-08-04 |
@@ -706,7 +708,7 @@
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-09 | 2022-10-13 |
 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 | 2022-03-08 | 2022-03-09 |
 | [Round 2](https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Round 2](https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab) | 2:20 | 2023-04-14 | 2023-05-19 |
-| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 |  |
+| [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 | 2024-02-07 |
 | [Ruin \- Soa Mattrix Remix](https://open.spotify.com/track/34HeKDXjkxhqvBxmiMuY0K) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Soa Mattrix](https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 5:23 | 2024-02-02 |  |
 | [Run It Up](https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay) | 2:48 | 2023-06-16 | 2023-07-07 |
 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 | 2023-01-20 | 2023-06-23 |

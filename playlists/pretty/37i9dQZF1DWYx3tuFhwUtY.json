@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 140105,
+  "num_followers": 140100,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM5MDM3OWUyMTE2YWI1MmQ1MjkwMTUyYjIxNTA1ODg4MzFmZDBj",
+  "snapshot_id": "MCwwNGY0OWQ2MjM2ZDc0ODI0YjQ4ZTc4M2ZkZDk3MjFiYzFiMTU5YzUz",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Jeannie Becomes A Mom",
+      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
+        "name": "As Long As You Are",
+        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 261153,
-      "name": "Jeannie Becomes A Mom",
-      "url": "https://open.spotify.com/track/5iEOCpoeZDAGae1IycuPxh"
+      "duration_ms": 205249,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -579,22 +595,6 @@
       "duration_ms": 133666,
       "name": "Revival",
       "url": "https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
-        "name": "As Long As You Are",
-        "url": "https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 205249,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199124,
-      "name": "Ag\u00fcitaecoco",
-      "url": "https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199124,
+      "name": "Ag\u00fcitaecoco",
+      "url": "https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 187487,
       "name": "Salt",
       "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
     },
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Walkman",
-        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
-      },
-      "artists": [
-        {
-          "name": "Bad Bad Hats",
-          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Detroit Basketball",
-      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "K.G.",
         "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 273854,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Walkman",
+        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Detroit Basketball",
+      "url": "https://open.spotify.com/track/4rIRYYplwlYNXwX8qqaWdY"
     },
     {
       "added_at": "2023-10-23 19:19:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Oklin, Prod\. 2t
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,958 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,955 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 10 | [Tecnologia Nova](https://open.spotify.com/track/1NDmdoZa9Jv4squxaCpA8d) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Tecnologia Nova](https://open.spotify.com/album/2swJdgvFv1bwcKHL1FebLF) | 2:49 |
 | 11 | [Nas Ruas de BH](https://open.spotify.com/track/0YmsS7zUMslIsIg9NxHrGu) | [Brun4o](https://open.spotify.com/artist/0r3oI0U6iGVol695l8A1gk), [Mc Vini](https://open.spotify.com/artist/7vKISOGdZa32KcWjGnEJoj), [ZukaNoBeat](https://open.spotify.com/artist/27Mss8I206zigyeQjXdQxn), [DannyZoo](https://open.spotify.com/artist/3YDnPoHopVbRrjWPq0Kc6l) | [Nas Ruas de BH](https://open.spotify.com/album/0fZI0UZ8i2R5S4hxYa5Hm9) | 3:41 |
 | 12 | [A Bruta, a Braba, a Forte](https://open.spotify.com/track/0j531pQwzTDW0z72QJ7Zod) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [A Bruta, a Braba, a Forte](https://open.spotify.com/album/64hkZLym75f49YAmQvke70) | 2:44 |
-| 13 | [Sem Indícios](https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF) | [Redd AllFavela](https://open.spotify.com/artist/7dBIQV6aOgRUGFzvC3gTkt), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [RiverST](https://open.spotify.com/artist/5Qa5X4DyStWx7TS3wWkun8), [@maiarealplug](https://open.spotify.com/artist/7hqQlEwI15CFbayxHc42L3), [AllFavela](https://open.spotify.com/artist/4DqW9Yj3JdScO6gSUlVyqS) | [Sem Indícios](https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT) | 2:28 |
+| 13 | [Sem Indícios](https://open.spotify.com/track/7gTXqvvcKYz4Gqmn358AjF) | [Redd AllFavela](https://open.spotify.com/artist/7dBIQV6aOgRUGFzvC3gTkt), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [RiverST](https://open.spotify.com/artist/5Qa5X4DyStWx7TS3wWkun8), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [AllFavela](https://open.spotify.com/artist/4DqW9Yj3JdScO6gSUlVyqS) | [Sem Indícios](https://open.spotify.com/album/2qdVlvKiOxwsMKwBxxokoT) | 2:28 |
 | 14 | [Zidane](https://open.spotify.com/track/4OLhUBpqcNtNeHKknQrJ5t) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Zidane](https://open.spotify.com/album/7FdZZcSFSgIOB26v2WOARb) | 2:28 |
 | 15 | [Namorada Nova](https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [Namorada Nova](https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX) | 3:46 |
 | 16 | [algo me diz](https://open.spotify.com/track/7wxw2QHHLozLBrJlX01FBK) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [ZIG ZAG](https://open.spotify.com/track/26aP5eXvDcnxdtpHCVl0Jh) | [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg) | [PERSONA Vol\. 2](https://open.spotify.com/album/3B2MpuHunAGSZ8FwpYK5lx) | 2:32 |
 | 75 | [Pelo Prêmio \- Remix](https://open.spotify.com/track/4M6YxopOmUreT4AL5GoGAL) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [OG Duke](https://open.spotify.com/artist/3cV6HDJYsR1qKYmJJezmXH) | [Pelo Prêmio \(Remix\)](https://open.spotify.com/album/5l4SkyCYfqFjbjiKcatHQp) | 1:37 |
 
-Snapshot ID: `MCxlYzE2N2EyNTA4N2I0NWY5ZGQ5MDZhNjdkYmJmYTQ1M2UyMDMyZmE2`
+Snapshot ID: `MCxiN2MyOWJmZjQzYjE1NjgyZjMyMmE0MzJkMzBkZmJmNjA0YWQ3MTE1`

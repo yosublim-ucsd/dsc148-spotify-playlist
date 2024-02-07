@@ -1,12 +1,12 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3123,
+  "num_followers": 3138,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAxNTEzZWM1NmIxMzU4YWU5NmQ2OWU4ZWRhMTYyMDJmNDQwZmEw",
+  "snapshot_id": "MCxmZWM2NGQxZDI3ODAwNmNlMmZhOWE3NTUxZDMzYTFhMzlmMDA3Mzk2",
   "tracks": [
     {
       "added_at": "2023-12-08 08:55:17",
@@ -255,6 +255,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Sensima",
+        "url": "https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 187794,
+      "name": "Sensima",
+      "url": "https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Sgudi Snyc",
         "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Sensima",
-        "url": "https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Sensima",
-      "url": "https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -638,15 +638,11 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 221100,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU"
+      "duration_ms": 225404,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1019,26 +1015,18 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Jama",
-        "url": "https://open.spotify.com/album/080VXLloTgqny7EUtmZ05Z"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
       },
       "artists": [
         {
-          "name": "DJ Mic Smith",
-          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Shaker",
-          "url": "https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 234311,
-      "name": "Jama",
-      "url": "https://open.spotify.com/track/59qTPQbGwetpMucsi03W97"
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1063,22 +1051,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
@@ -1091,6 +1063,30 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Jama",
+        "url": "https://open.spotify.com/album/080VXLloTgqny7EUtmZ05Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo"
+        }
+      ],
+      "duration_ms": 234311,
+      "name": "Jama",
+      "url": "https://open.spotify.com/track/59qTPQbGwetpMucsi03W97"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1210,11 +1206,15 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 225404,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ"
+      "duration_ms": 221100,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU"
     }
   ],
   "unique_name": "Best of Detty December",

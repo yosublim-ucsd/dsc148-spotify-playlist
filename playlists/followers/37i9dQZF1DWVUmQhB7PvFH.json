@@ -1,7 +1,7 @@
 {
-  "2024-02-06": 208922,
+  "2024-02-07": 208980,
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: S.H.E",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u9676\u5586 (David Tao)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 262693,
       "name": "AM PM",
       "url": "https://open.spotify.com/track/0jIJJ92zUAQiezZZ8onsWv"
+    },
+    {
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/2WDRt81cWsWofU4kaMXXhW"
+      },
+      "artists": [
+        {
+          "name": "JS",
+          "url": "https://open.spotify.com/artist/1TOyuUHtQJLEmkDQTJL42I"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279173,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/6GRq1lecs1l9cpncD2Tn3J"
     },
     {
       "album": {
@@ -89,7 +107,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 269000,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z"
@@ -143,7 +161,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 297200,
       "name": "\u4e03\u91cc\u9999",
       "url": "https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 273920,
       "name": "\u4f60\u4e0d\u5728",
       "url": "https://open.spotify.com/track/2sky5wSdKFF7nuoA8kB5dx"
@@ -460,6 +478,46 @@
     },
     {
       "album": {
+        "name": "\u6211\u7b49\u4f60",
+        "url": "https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B"
+      },
+      "artists": [
+        {
+          "name": "Rene Liu",
+          "url": "https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341400,
+      "name": "\u5f8c\u4f86",
+      "url": "https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY"
+    },
+    {
+      "album": {
+        "name": "Wu Ha",
+        "url": "https://open.spotify.com/album/4iTeGtAOrglcpzYxhmO9Le"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        },
+        {
+          "name": "Angela Chang",
+          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "\u5feb\u6a02\u5d07\u62dc",
+      "url": "https://open.spotify.com/track/1Z7y14vSg1Vv772geRfiAN"
+    },
+    {
+      "album": {
         "name": "\u5973\u751f\u5bbf\u820d",
         "url": "https://open.spotify.com/album/0MDu8tWIgFWgriPq5NrLoE"
       },
@@ -514,6 +572,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+    },
+    {
+      "album": {
         "name": "We'll Go On The Stage",
         "url": "https://open.spotify.com/album/6Uva8DoBma2mqrvu5bTvpq"
       },
@@ -561,7 +637,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 276395,
       "name": "\u6210\u5168",
       "url": "https://open.spotify.com/track/34GSbu5gyOvcRYb8H06hZC"
@@ -651,7 +727,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 256706,
       "name": "\u65c5\u884c\u7684\u610f\u7fa9",
       "url": "https://open.spotify.com/track/0kcYzEvagMWsp9wL6RxW90"
@@ -669,7 +745,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -781,7 +857,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 276600,
       "name": "\u6d41\u661f\u96e8",
       "url": "https://open.spotify.com/track/1hPNdCII2b8NOEIqwbbsdG"
@@ -842,6 +918,28 @@
     },
     {
       "album": {
+        "name": "11\u6708\u7684\u856d\u90a6",
+        "url": "https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        },
+        {
+          "name": "Lara Liang",
+          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "\u73ca\u745a\u6d77",
+      "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
+    },
+    {
+      "album": {
         "name": "\u7537\u4eba\u6b4c (\u5168\u80dc\u94c2\u91d1\u7248)",
         "url": "https://open.spotify.com/album/2hNr56jZeSx1gGzjAeoxzC"
       },
@@ -889,10 +987,46 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 307706,
       "name": "\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/7GFjqrjTJOD7irQ9rRpJ47"
+    },
+    {
+      "album": {
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286733,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "album": {
+        "name": "\u611b\u4f60",
+        "url": "https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233213,
+      "name": "\u7b2c\u4e00\u6b21\u611b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/0aS2KtZUK3AHnaDvJSMsIw"
     },
     {
       "album": {
@@ -1037,7 +1171,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 313186,
       "name": "\u8eab\u9a0e\u767d\u99ac",
       "url": "https://open.spotify.com/track/5ocA068mvMpA2GFPYQo670"
@@ -1063,6 +1197,24 @@
       "duration_ms": 260000,
       "name": "\u9032\u884c\u5f0f",
       "url": "https://open.spotify.com/track/7ynuV9Ktrjr0RrsVCPAnbz"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u865f\u5275\u4f5c\u5c08\u8f2f \u79d8\u5bc6",
+        "url": "https://open.spotify.com/album/66Pb9s1z4AWkUOqI8JkNDY"
+      },
+      "artists": [
+        {
+          "name": "Shadya Lan",
+          "url": "https://open.spotify.com/artist/7DlOy5eGnazhGg7iDvCCCX"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289773,
+      "name": "\u90a3\u5929",
+      "url": "https://open.spotify.com/track/5277WfcaQwOwnc26XuzoOu"
     },
     {
       "album": {
@@ -1117,6 +1269,24 @@
       "duration_ms": 344200,
       "name": "\u9ec3\u660f",
       "url": "https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU"
+    },
+    {
+      "album": {
+        "name": "\u6770\u502b",
+        "url": "https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283133,
+      "name": "\u9ed1\u8272\u5e7d\u9ed8",
+      "url": "https://open.spotify.com/track/2VEqGDT1sCjL3pE18PNlPL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVUmQhB7PvFH"

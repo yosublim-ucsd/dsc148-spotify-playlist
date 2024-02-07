@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,248 likes - 105 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,253 likes - 105 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [星心](https://open.spotify.com/track/72BGbbjZSyxvKfvld8d4Mz) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [星心](https://open.spotify.com/album/3ZjksCFzY8Iftw1uHfIlPp) | 4:34 |
 | 105 | [So Why \(中文版\) \(feat\. 邓典\)](https://open.spotify.com/track/7xAY7f2HrZwyHe7530JPed) | [Nene鄭乃馨](https://open.spotify.com/artist/6xSImf4WfS9VAr2jpd9BAo), [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [So Why \(中文版\) \(feat\. 邓典\)](https://open.spotify.com/album/3vNcKAwnv4xl4qZPXiftxo) | 3:12 |
 
-Snapshot ID: `MCw3YWY4ZTI1N2U0NGYzM2Y0N2I0NmM0ZTFmZTM4YTNhOGJmMTllY2Iw`
+Snapshot ID: `MCxiMWM2OWJiM2FlNGEzYWRhZWJkNjcxN2NiNGE2NTAzODgyYzk5NzQz`

@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290796,
+      "name": "Esheq El Rooh",
+      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
+    },
+    {
+      "album": {
         "name": "Elyanna 2",
         "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 212293,
       "name": "Khodni Eleik",
       "url": "https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s"
@@ -1685,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Nerga3 Le Awel Yom",
+      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
+    },
+    {
+      "album": {
         "name": "Omer Aasal",
         "url": "https://open.spotify.com/album/4KByAcRNbV77pOgnlC9Hd6"
       },
@@ -2104,7 +2144,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 241368,
       "name": "Ya Rohy",
       "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"

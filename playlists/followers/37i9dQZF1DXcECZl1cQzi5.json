@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 14573,
+  "2024-02-07": 14693,
   "date_first_scraped": "2023-10-24",
   "description": "Ocean sounds and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
   "name": "Island of Serenity",
@@ -492,6 +492,24 @@
     },
     {
       "album": {
+        "name": "From Within",
+        "url": "https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK"
+      },
+      "artists": [
+        {
+          "name": "Infinity Equals",
+          "url": "https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160333,
+      "name": "From Within",
+      "url": "https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr"
+    },
+    {
+      "album": {
         "name": "Hacienda",
         "url": "https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP"
       },
@@ -741,7 +759,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 182727,
       "name": "Oceanfront",
       "url": "https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi"

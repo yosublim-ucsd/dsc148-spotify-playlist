@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 126984,
+  "2024-02-07": 126992,
   "date_first_scraped": "2022-12-04",
   "description": "Concentrate con el aire de la cordillera de los Andes.",
   "name": "Entre los Andes",
@@ -599,6 +599,24 @@
       "duration_ms": 212172,
       "name": "Hasta Donde Mande el Cuerpo",
       "url": "https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6"
+    },
+    {
+      "album": {
+        "name": "Hasta Donde Mande el Cuerpo",
+        "url": "https://open.spotify.com/album/55hScfNCMvg283Cde5iVpF"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212172,
+      "name": "Hasta Donde Mande el Cuerpo",
+      "url": "https://open.spotify.com/track/6ma9Cak9JkUiA4uSHnfEm7"
     },
     {
       "album": {
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 216372,
       "name": "Sunch'u T'ikitay - Remastered",
       "url": "https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu"

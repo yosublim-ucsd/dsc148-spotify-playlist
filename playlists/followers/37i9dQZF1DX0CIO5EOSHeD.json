@@ -1,7 +1,7 @@
 {
-  "2024-02-06": 469644,
+  "2024-02-07": 469937,
   "date_first_scraped": "2020-10-27",
-  "description": "Slacker jams. Cover: feeble little horse",
+  "description": "Slacker jams. Cover: Bnny",
   "name": "Lofi Indie",
   "tracks": [
     {
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 182250,
       "name": "buzzkill bummer",
       "url": "https://open.spotify.com/track/1wMBG8bzSjlupviNxOxsyX"
@@ -1387,6 +1387,24 @@
       "duration_ms": 277142,
       "name": "concussion",
       "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "album": {
@@ -2333,6 +2351,24 @@
       "duration_ms": 215580,
       "name": "Good For You",
       "url": "https://open.spotify.com/track/3LuvpnAcuxPn2dV00C9Rxt"
+    },
+    {
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu"
+      },
+      "artists": [
+        {
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt"
     },
     {
       "album": {
@@ -3949,7 +3985,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 230377,
       "name": "Melatonin 130",
       "url": "https://open.spotify.com/track/5Iy5ERWGB2lLscr6SiZHT6"
@@ -4257,7 +4293,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
@@ -4347,7 +4383,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 202626,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
@@ -5358,6 +5394,24 @@
     },
     {
       "album": {
+        "name": "Second Guessing",
+        "url": "https://open.spotify.com/album/5YeZxTkGWw35NftIOWu0gP"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194558,
+      "name": "Second Guessing",
+      "url": "https://open.spotify.com/track/2yttIliVUGCilaRFJ3mNb7"
+    },
+    {
+      "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd"
       },
@@ -5517,6 +5571,24 @@
       "duration_ms": 248674,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV"
+    },
+    {
+      "album": {
+        "name": "so be it in my dreams",
+        "url": "https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L"
+      },
+      "artists": [
+        {
+          "name": "dad sports",
+          "url": "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "so be it in my dreams",
+      "url": "https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF"
     },
     {
       "album": {

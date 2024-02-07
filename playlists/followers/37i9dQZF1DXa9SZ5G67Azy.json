@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 19035,
+  "2024-02-07": 19274,
   "date_first_scraped": "2023-12-22",
   "description": "un poquito de esto, un poquito de lo otro.",
   "name": "Techengue",
@@ -69,6 +69,28 @@
       "duration_ms": 139354,
       "name": "Am - House Remix",
       "url": "https://open.spotify.com/track/3xJfvufPUC0geMfQ5gCxzq"
+    },
+    {
+      "album": {
+        "name": "Ando High",
+        "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165875,
+      "name": "Ando High",
+      "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
     },
     {
       "album": {
@@ -847,7 +869,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 153827,
       "name": "LAS BABYS",
       "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"

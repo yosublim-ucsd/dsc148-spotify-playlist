@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Yussef Dayes",
-  "num_followers": 915080,
+  "num_followers": 915216,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmViM2JmMmZjOWJkNDA4YTI0MmJhNGEwMjhmNWMyMzZiZTk0ODBm",
+  "snapshot_id": "MCwxM2JkYjMyOGFjYjkxYjlhNmYxNTUxN2U0YmZjMTcwNjQyZTNlZDE0",
   "tracks": [
     {
       "added_at": "2024-01-26 05:01:00",
@@ -103,6 +103,22 @@
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
+    },
+    {
+      "added_at": "2024-02-06 14:35:13",
+      "album": {
+        "name": "The Winds of Change",
+        "url": "https://open.spotify.com/album/1tMOFe4tMSR2aNJxTHkRNv"
+      },
+      "artists": [
+        {
+          "name": "Billy Childs",
+          "url": "https://open.spotify.com/artist/2DalOaFXdbHCB4cyMJhQtR"
+        }
+      ],
+      "duration_ms": 632920,
+      "name": "The Winds of Change",
+      "url": "https://open.spotify.com/track/3xMVR4fiIXwNDNOW31mwIr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1895,30 +1911,6 @@
       "duration_ms": 607922,
       "name": "Darkness, Darkness",
       "url": "https://open.spotify.com/track/2ih7916Ch16x9n75yhc3Ok"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Eye Never Knew [Feat. Pink Siifu, Keyon Harrold]",
-        "url": "https://open.spotify.com/album/4511OYwmrYTxyIWeN06Pql"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 210344,
-      "name": "Eye Never Knew [Feat. Pink Siifu, Keyon Harrold]",
-      "url": "https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5"
     },
     {
       "added_at": "2023-09-08 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moullinex, GPU Panic
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,361 likes - 80 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,430 likes - 80 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Never \- Gerd Janson Edit](https://open.spotify.com/track/6cTiCTAvBJ7vvWDDMMBrHT) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Never \(Gerd Janson Edit\)](https://open.spotify.com/album/02RyEVm1k3IyuJc69OCwpQ) | 4:17 |
 | 80 | [12 Inch Acid](https://open.spotify.com/track/3EbGMIaPLGsxVOOUBQ4un4) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [12 Inch Acid](https://open.spotify.com/album/7FrJCtlyEDlKFvOuL7oGKK) | 6:33 |
 
-Snapshot ID: `MCw0NjBjOWE5YTlmN2QwZjk1ODAzOGViMjRmYjU3ODc3YmMxMzYzYTNk`
+Snapshot ID: `MCw2YWI0ZjAxZWE4NGNmNzMxNWQ1YzA5ZmZhZjJkNzljNGE5MTA3MjM2`

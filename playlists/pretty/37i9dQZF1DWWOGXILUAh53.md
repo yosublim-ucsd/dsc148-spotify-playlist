@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Bella Poarch & 6arleyhuman
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,784 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,820 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [One Of Your Girls \- Felix Jaehn Remix](https://open.spotify.com/track/2g9QPGMEe9WTAMtvotuD1e) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [One Of Your Girls \(Felix Jaehn Remix\)](https://open.spotify.com/album/2osZd5UmUxgyeQYN5Dr9bb) | 3:03 |
 | 50 | [Don't Call Me Up](https://open.spotify.com/track/2fCTMmtNWFPR49sXkzwB4g) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Don't Call Me Up](https://open.spotify.com/album/7x51vYN8rt6vrpIwwQWcU2) | 2:23 |
 
-Snapshot ID: `MCxlYTg4M2NjYzdmODk5N2RmNDVkZTk5YmEyZjRmMzI3NWQxZjMzOTdk`
+Snapshot ID: `MCxhYTk5OTUzM2E5OTdkMjA2YTIxYzA3NjRmNWZmYWE3MjU3OTcxNWYy`

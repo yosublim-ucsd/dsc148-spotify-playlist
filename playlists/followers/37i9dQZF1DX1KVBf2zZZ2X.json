@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 27436,
+  "2024-02-07": 27615,
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
   "name": "Soft Nature Music",
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 206000,
       "name": "Bogha Sound Bath",
       "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"
@@ -543,6 +543,24 @@
       "duration_ms": 187250,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8"
+    },
+    {
+      "album": {
+        "name": "Cosmic Major",
+        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Cosmic Major",
+      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
     },
     {
       "album": {

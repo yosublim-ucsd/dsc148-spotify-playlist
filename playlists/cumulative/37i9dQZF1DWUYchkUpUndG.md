@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=qxRJpIq7RZmtIpjg50\-xqA>Onos</a>
 
-1,832 songs - 5 day 16 hr 16 min
+1,832 songs - 5 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,7 @@
 | [Fight the good fight](https://open.spotify.com/track/4q7UwDOUYRj6pxetTylwKD) | [Uno Ogarekpe](https://open.spotify.com/artist/1q7xabkhQTlDPqXXrYD7mE) | [Fight the good fight](https://open.spotify.com/album/6rW3xISAf9WY7Q0C1KqUT3) | 2:42 | 2023-07-28 | 2023-08-04 |
 | [Fighting for me](https://open.spotify.com/track/525mBgyWmOUgeJLl6ZcOFl) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Elizabeth Tendai](https://open.spotify.com/artist/29RbIWF60KrBy2eP4fNZo9), [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW) | [Fighting for me](https://open.spotify.com/album/4HZNjFrlwtOnT4S9AvGkOU) | 3:42 | 2023-10-06 | 2023-10-20 |
 | [Fill Me](https://open.spotify.com/track/2ewvKMxHNOBZyY7D2h6kC0) | [Tim Sawyerr](https://open.spotify.com/artist/3PMyfT5UBdvvxOqbsyn7xH), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Fill Me](https://open.spotify.com/album/0qFqhMJ1N0ryMxWz6AELtU) | 6:31 | 2023-11-10 | 2023-11-24 |
-| [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/track/6E9H5ekCBGQo3W7oXbO20r) | [Daniel Richman](https://open.spotify.com/artist/6oPLxPqad8v615LWzeK5Vg) | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/album/1AwvBCgbPBEwjFKnNmjo81) | 5:49 | 2024-02-02 |  |
+| [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/track/6E9H5ekCBGQo3W7oXbO20r) | [Daniel Richman](https://open.spotify.com/artist/6oPLxPqad8v615LWzeK5Vg) | [Fill Me up \(A Thousand Cubits More\)](https://open.spotify.com/album/1AwvBCgbPBEwjFKnNmjo81) | 6:16 | 2024-02-02 |  |
 | [Finally](https://open.spotify.com/track/7kTUNuFGGjLg4diI6mF9UF) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Finally](https://open.spotify.com/album/7tTI3bRn4pE6RGxy7oprSP) | 3:57 | 2023-07-14 | 2023-07-21 |
 | [Finally \(Live\)](https://open.spotify.com/track/39SyORkiYlV1yKKH6XR9xd) | [Wilson Yoko](https://open.spotify.com/artist/4nwO0LwvgkBgHevtv9kRpe) | [Finally \(Live\)](https://open.spotify.com/album/43jnyvEp1DI2lP7Y8WMJNp) | 9:21 | 2023-11-17 | 2023-12-01 |
 | [Find a way](https://open.spotify.com/track/2J0ejQOEfSRZAOEzNCKYEE) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Find a way](https://open.spotify.com/album/3fXu9oy8s33zQiQRTwvxFB) | 2:29 | 2024-02-02 |  |

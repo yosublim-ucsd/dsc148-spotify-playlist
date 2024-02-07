@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,754 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,758 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 61 | [Otra Vez](https://open.spotify.com/track/3iVuCCtTBOVHwiyzb4USXk) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Ruben Chi](https://open.spotify.com/artist/1Zu6vTdmWNYpvrP2FhNqwD) | [Otra Vez](https://open.spotify.com/album/2P8sjccIUOqDsfpeuKTORp) | 2:36 |
 | 62 | [La Verdad del Pobre](https://open.spotify.com/track/5A6krTKbn9GJJLZ21keUh4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pureza](https://open.spotify.com/album/4obatkmABoD3jq8zoBbM6C) | 2:27 |
 | 63 | [Negras Intenciones](https://open.spotify.com/track/7pWK9idSNGg6qUvnwUvBc8) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [La Costa Nostra](https://open.spotify.com/album/5j9SyZb3KSc3iqHJa3AM1S) | 2:29 |
-| 64 | [Tequiero](https://open.spotify.com/track/4SeXUVfZwY001lS93d6Gqz) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tequiero](https://open.spotify.com/album/5yTVLuOiRvb7tXTkpbUjXR) | 3:20 |
+| 64 | [Tequiero](https://open.spotify.com/track/0zcgpXvaSjavpFKEf97nRp) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Lo Que Muere No Acaba](https://open.spotify.com/album/40sfob00JVFRpj9Br8GXqZ) | 3:20 |
 | 65 | [Buenos Días Vietnam](https://open.spotify.com/track/2ieyIDwlghKt45bqH19sOg) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4) | [Indiana Jones](https://open.spotify.com/album/0Zzv3eEsc54Szwm8CrZjd6) | 3:58 |
 | 66 | [Decimos Plomo](https://open.spotify.com/track/6I9R9EhM5Wfp3U7N0ois6h) | [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Decimos Plomo](https://open.spotify.com/album/45FqhXVFOmmz3OHokdrCiw) | 4:24 |
 | 67 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `MCxjNWJhNjg2OTZjY2Y3NmYyNjkwNGVhZTAyYmI3MTljNDUxMDA1Mjdm`
+Snapshot ID: `MCxhYmM0MDU2N2JhN2NmNjU0MzFkOTM2ZjJkNjVmNjM5NzEyYzRlZmNh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Annural Khalid",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 226365,
       "name": "Cham Cham",
       "url": "https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw"
@@ -2219,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Kahan Jaoon",
+        "url": "https://open.spotify.com/album/1VaGZUVhW2kd1sdnfn6ZIh"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329214,
+      "name": "Kahan Jaoon",
+      "url": "https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G"
+    },
+    {
+      "album": {
         "name": "Kahani Suno 2.0",
         "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
       },
@@ -2942,6 +2960,32 @@
       "duration_ms": 154733,
       "name": "Miracle feat. Nimra Gilani",
       "url": "https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir"
+    },
+    {
+      "album": {
+        "name": "mouqa",
+        "url": "https://open.spotify.com/album/744Dw76R031Qy100gOTnMe"
+      },
+      "artists": [
+        {
+          "name": "Zoha Zuberi",
+          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
+        },
+        {
+          "name": "Maria Unera",
+          "url": "https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW"
+        },
+        {
+          "name": "Zahra Paracha",
+          "url": "https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248314,
+      "name": "mouqa",
+      "url": "https://open.spotify.com/track/5uy6jIeJcCAlkl4QwRFnGI"
     },
     {
       "album": {
@@ -4030,6 +4074,32 @@
       "duration_ms": 165243,
       "name": "Shor",
       "url": "https://open.spotify.com/track/5bNH6hZp6OkWHDT74c2Pcx"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7Gqhzo0GJ4QhGq6tBspAgQ"
+      },
+      "artists": [
+        {
+          "name": "Mooroo",
+          "url": "https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Shor",
+      "url": "https://open.spotify.com/track/5u6yeBNC3Tsh5GTAMBlcUD"
     },
     {
       "album": {

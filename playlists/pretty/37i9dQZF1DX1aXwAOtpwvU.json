@@ -1,12 +1,12 @@
 {
   "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5ic8bWWvZHWf0dDBi9ThNk\">bambi</a>",
-  "num_followers": 17456,
+  "num_followers": 17459,
   "original_name": "RADAR Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDY5N2VlMjA5ZjYzY2UzMTIwYzc0ZTQ3ZmQwYjdmZmNhYzBkODZh",
+  "snapshot_id": "MCwyYTQ2ZjNjODUyMTlkYzI4YzM1OWVlYmM1MDkzNTFlNTJiOTFjMmFl",
   "tracks": [
     {
       "added_at": "2024-02-02 15:59:04",
@@ -282,6 +282,10 @@
         {
           "name": "Marie",
           "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
         }
       ],
       "duration_ms": 107657,
@@ -546,6 +550,10 @@
         {
           "name": "Marie",
           "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
         }
       ],
       "duration_ms": 173946,

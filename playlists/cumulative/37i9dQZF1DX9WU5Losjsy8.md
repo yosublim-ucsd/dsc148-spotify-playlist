@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-114 songs - 5 hr 45 min
+115 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 | 2023-11-21 |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
 | [Mannschaftsfahrt](https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Malin Brown](https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA) | [Mannschaftsfahrt](https://open.spotify.com/album/55VymWungTBtByJ89fhnJD) | 2:48 | 2023-07-14 | 2024-01-16 |
-| [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 |  |
+| [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 | 2024-02-07 |
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2023-07-14 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-14 |  |
 | [Monsta](https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Schöne Neue Welt](https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1) | 3:16 | 2023-07-14 |  |
@@ -117,6 +117,7 @@
 | [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 | 2023-08-31 | 2023-10-21 |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 | 2023-11-04 |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 |  |
+| [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr) | 2:48 | 2024-01-26 |  |
 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 | 2023-12-19 | 2024-01-22 |
 | [Wieder Alles Im Griff \- Single Mix '99](https://open.spotify.com/track/0xJCFn6sMc3jgPmraCK0l6) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Der Deutsche Disco Fox Hit Mix 2005](https://open.spotify.com/album/2FVWxWLDl074hApITwtO9k) | 3:37 | 2023-12-19 | 2024-02-02 |
 | [Wir eskalieren](https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Wir eskalieren](https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA) | 3:36 | 2023-07-14 |  |

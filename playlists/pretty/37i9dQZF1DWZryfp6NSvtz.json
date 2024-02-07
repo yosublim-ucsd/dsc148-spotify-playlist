@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: Nothing But Thieves",
-  "num_followers": 449221,
+  "num_followers": 449403,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmZmZmMyOTBlNDIyYTMwODliOGVkNzljNzc0YWRkYWI3ZDNhMWJh",
+  "snapshot_id": "MCxjMjBiYWVmMTgyYzk0YjhlNGIyNWE3NWM3YTViMjkyM2Q0MTRkODg4",
   "tracks": [
     {
       "added_at": "2024-02-02 05:00:00",
@@ -386,6 +386,10 @@
         {
           "name": "deer death",
           "url": "https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg"
+        },
+        {
+          "name": "Nextime",
+          "url": "https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj"
         }
       ],
       "duration_ms": 177572,

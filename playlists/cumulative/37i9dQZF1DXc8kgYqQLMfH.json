@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Channel 4",
+        "url": "https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2"
+      },
+      "artists": [
+        {
+          "name": "Gibbon Baby",
+          "url": "https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Channel 4",
+      "url": "https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna"
+    },
+    {
+      "album": {
         "name": "channel vibe",
         "url": "https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V"
       },
@@ -18660,7 +18678,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 138000,
       "name": "The Field",
       "url": "https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv"

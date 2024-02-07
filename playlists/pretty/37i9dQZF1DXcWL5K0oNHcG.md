@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Salin\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,577 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,590 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 |
 | 50 | [TRIP](https://open.spotify.com/track/3pM64kvoySAPp9m6MyyuNa) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [TRIP](https://open.spotify.com/album/4lSWHrokA8Dns4QENfvKdm) | 3:26 |
 
-Snapshot ID: `MCxlM2JhYzE0YWViYjc2OTY4YjA2YTdiNDE4ZTQ2ZmYwYzZkMmYwMTg5`
+Snapshot ID: `MCxiNDgwOTQ0YzVmMzcyNzg5NTUwYTEzNjVlYmE4NDYxNmQ2MmQ5Mzhh`

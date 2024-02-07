@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Don Toliver, The Last Dinner Party, 24kGoldn, USHER, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,153,339 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,153,505 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [MAMI CHAKALOSA](https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [MAMI CHAKALOSA](https://open.spotify.com/album/7qNA059vQm84DreXknnuHr) | 2:16 |
 | 100 | [You Did It Too](https://open.spotify.com/track/0rurBqyN7b9tKSp78YYc4v) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Did It Too](https://open.spotify.com/album/3LU2HeXJYSdxfFcPXVLA6U) | 3:04 |
 
-Snapshot ID: `MCxmNDQ1ZGI4NjdhZGFmYWE1NzE3NzllZDQ1YjVmMTVkNmYxNzJkYWMx`
+Snapshot ID: `MCxjMjQ1MzgzYWU5NzkwZmE4ZGI2ZTAzMTlmMDA0OTA5ZGM0N2U3ZWQ4`

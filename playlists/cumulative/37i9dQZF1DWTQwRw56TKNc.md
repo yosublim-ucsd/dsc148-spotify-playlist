@@ -2,7 +2,7 @@
 
 ### [Mellow Classics](https://open.spotify.com/playlist/37i9dQZF1DWTQwRw56TKNc)
 
-> Relax with these timeless tunes\. Cover: Yusuf / Cat Stevens
+> Relax with these timeless tunes\. Cover: Tracy Chapman
 
 159 songs - 9 hr 49 min
 

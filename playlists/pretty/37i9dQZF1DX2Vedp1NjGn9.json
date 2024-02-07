@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 111394,
+  "num_followers": 111454,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjllYjg0YTAxZjUwMGU5YTA2YjQ1MmI3YmZlZjM4OWE1ZTg1MzQ2",
+  "snapshot_id": "MCw4NzE3MDQ0OGJhMDY1NTQ5YzExNDBmNzkwMDY4OWM2MWU0ZTdkMDgw",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Amor Fati",
-      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 333466,
       "name": "What The Water Gave Me",
       "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/6FtCAAEZUEutbmNfFHzeK0"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "You Are All I See",
-        "url": "https://open.spotify.com/album/3ognTnle2G22rlIv9iU9JR"
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
       "artists": [
         {
-          "name": "Active Child",
-          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 321453,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/7kyubWDfd6Lv6ItXgENaM4"
+      "duration_ms": 127640,
+      "name": "The Cascades",
+      "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1595,22 +1611,6 @@
       "duration_ms": 342163,
       "name": "Space Is Only Noise If You Can See",
       "url": "https://open.spotify.com/track/5zdXRoKLZ54VBdbdn7yhz4"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 127640,
-      "name": "The Cascades",
-      "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
     },
     {
       "added_at": "2021-09-02 08:15:11",

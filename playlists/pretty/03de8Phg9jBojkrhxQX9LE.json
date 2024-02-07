@@ -6,7 +6,7 @@
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "MjIwOCw1NTQ0Nzk5ZTkxYzg0OWMyYjYxMWUxNzE0OTg0OTk0MWFmODEzYjFm",
+  "snapshot_id": "MjIwOSxkZWIzMWFlYWM5MTRjMmRmMmYwMzE3YWUwZDQ4ZDViZTAzOWFjNDNh",
   "tracks": [
     {
       "added_at": "2024-02-02 19:50:39",
@@ -615,6 +615,34 @@
       "duration_ms": 225238,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/3OCCqFGaWZwE4ASwX5jlLm"
+    },
+    {
+      "added_at": "2024-02-06 18:24:03",
+      "album": {
+        "name": "Paper Moon (SUAHN Remix)",
+        "url": "https://open.spotify.com/album/2xPd0sXttZNMQzvouOh78r"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        },
+        {
+          "name": "ARE WE DREAMING",
+          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
+        },
+        {
+          "name": "SUAHN",
+          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Paper Moon - SUAHN Remix",
+      "url": "https://open.spotify.com/track/0eHHo7DpSz6U5KPTUw7fv2"
     },
     {
       "added_at": "2024-01-26 20:45:11",

@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 431568,
+  "2024-02-07": 431556,
   "date_first_scraped": "2020-10-13",
   "description": "glaivepilled",
   "name": "hyperpop",
@@ -23321,10 +23321,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT"
+    },
+    {
+      "album": {
+        "name": "Chupetones",
+        "url": "https://open.spotify.com/album/7qOzDSLLeR5imM68K69hTw"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/5cXr56savehemj8ria2cxD"
     },
     {
       "album": {

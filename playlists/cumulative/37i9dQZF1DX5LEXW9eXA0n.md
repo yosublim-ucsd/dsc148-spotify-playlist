@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Jhnovr\(존오버\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kim Na Young, Shin Yong Jae\(김나영, 신용재\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,146 songs - 3 day 2 hr 12 min
+1,147 songs - 3 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [The 8th Spring](https://open.spotify.com/track/4EIKAOhDOZ1Go8JfsDkxws) | [HONG EUI JIN](https://open.spotify.com/artist/2pNw0mbkjLw3sqYDF2ltlW) | [The 8th Spring](https://open.spotify.com/album/5zJ8nbQg3P0ZLIfyKNJ8sK) | 3:50 | 2022-03-09 | 2022-04-12 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-06 | 2023-03-28 |
 | [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 | 2023-03-08 | 2023-06-23 |
+| [The Day](https://open.spotify.com/track/6U5SzwJNAWMvkoUUh75nPo) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [The Day](https://open.spotify.com/album/6hTXj8n7yPljIydE0eIWUv) | 4:31 | 2024-02-06 |  |
 | [The Day After You](https://open.spotify.com/track/7sGfyf64mOvIhRAMe0DXTh) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [The Day After You](https://open.spotify.com/album/6Z1VgMQNiMAOhCfLKcK6iR) | 3:15 | 2023-10-20 | 2023-11-16 |
 | [The day I loved you](https://open.spotify.com/track/6nj36TQtFifSg77vb9jAgP) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [The day I loved you](https://open.spotify.com/album/4aaxwBGN8GDlwEaxC44qzF) | 4:10 | 2021-12-23 | 2022-01-18 |
 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 0:29 | 2022-01-14 | 2022-07-02 |

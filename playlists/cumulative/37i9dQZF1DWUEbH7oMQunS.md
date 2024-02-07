@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-151 songs - 10 hr 29 min
+152 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [The Lion And The Lamb \- Instrumental](https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 4:02 | 2018-02-14 |  |
 | [The Promise](https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [The Promise](https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF) | 5:52 | 2023-07-28 |  |
 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 | 2023-07-28 |  |
-| [There is a King \- Live Rehearsal Demo](https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [There is a King \(Live Rehearsal Demo\)](https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY) | 3:42 | 2023-07-28 |  |
+| [There is a King \- Live Rehearsal Demo](https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [There is a King \(Live Rehearsal Demo\)](https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY) | 3:42 | 2023-07-28 | 2024-02-07 |
 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 | 2023-07-28 |  |
 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 | 2018-02-14 |  |
 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 | 2023-07-28 |  |
@@ -153,6 +153,7 @@
 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 | 2023-07-28 |  |
 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 | 2018-02-14 |  |
 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 | 2018-02-14 |  |
+| [Wonder](https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes of Wonder](https://open.spotify.com/album/631P6GXP6qudIq8lrqRLtV) | 2:30 | 2023-07-28 |  |
 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 | 2018-02-14 | 2024-02-02 |
 | [Wrecked.](https://open.spotify.com/track/20gqFSQr6WkufncmJ1uz2z) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/5BfCBoffca0UNKpgDnyD4m) | 2:47 | 2018-07-07 | 2022-10-20 |
 | [Wrecked.](https://open.spotify.com/track/7IL9XWhxEXJQsCpO1dgYkW) | [HXLY KXSS](https://open.spotify.com/artist/7yCFIIPxCy84VS0y2TUazj) | [Wrecked.](https://open.spotify.com/album/6UximDnjqOzwJ77MQNniVo) | 2:47 | 2018-07-07 | 2023-07-29 |

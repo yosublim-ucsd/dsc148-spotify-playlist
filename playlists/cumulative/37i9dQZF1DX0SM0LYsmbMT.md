@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,987 songs - 6 day 8 hr 28 min
+3,988 songs - 6 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [Day Blessing](https://open.spotify.com/track/7sOWaCTLMXgeic0njcAdGN) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Day Blessing](https://open.spotify.com/album/4BUPHOTT0bRM7rcsuaHwUV) | 2:00 | 2023-07-27 | 2023-10-20 |
 | [Day One](https://open.spotify.com/track/63cbElHfVa2IewIu8mhDq5) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Day One](https://open.spotify.com/album/67FJXm7DQw0XeJJCy1zEgN) | 2:32 | 2021-10-08 | 2021-11-12 |
 | [Daybed](https://open.spotify.com/track/2PD9AssRuwARlWkJIurSaI) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Daybed](https://open.spotify.com/album/6oA5t3W5fNpK7GZ26rLT4p) | 1:50 | 2023-07-27 | 2023-10-20 |
+| [Daybreak](https://open.spotify.com/track/0p5bY6p9ov0Fn8Ipys1XSF) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Daybreak](https://open.spotify.com/album/0sqxx4qXvQpiwVFmZUNUXJ) | 1:59 | 2024-01-26 |  |
 | [Daybreak](https://open.spotify.com/track/1qCDrlj87fYTurdtXLqSvU) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Daybreak](https://open.spotify.com/album/3iLglOQSk2RfT28Abtjm4A) | 2:33 | 2021-10-01 | 2021-11-11 |
 | [Daydate](https://open.spotify.com/track/4jyrGwcxKWtjyrAGsRh3xW) | [Dezi\-Belle](https://open.spotify.com/artist/7kiiO7qyA1Qe3WXJnc4eCy), [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Circles III](https://open.spotify.com/album/58NclrDgCZ3z0fM90ottAK) | 1:36 | 2022-07-28 | 2022-12-06 |
 | [Daydate](https://open.spotify.com/track/1Q5NtNlNWlXglBiBBX4QHM) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1), [Dezi\-Belle](https://open.spotify.com/artist/7kiiO7qyA1Qe3WXJnc4eCy) | [Daydate](https://open.spotify.com/album/5yc1635WqWZmTjZlJznhkk) | 1:36 | 2021-04-19 | 2022-07-29 |
@@ -3006,7 +3007,7 @@
 | [Shorebreak](https://open.spotify.com/track/7nOB52izsr8QCUP6IdvMZF) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Shorebreak](https://open.spotify.com/album/04cnaZIcMfSDc5EKbqOOdE) | 1:21 | 2022-08-04 | 2022-09-23 |
 | [Short Nap](https://open.spotify.com/track/3wpsrPokpTVnWF96tKhiVz) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Short Nap](https://open.spotify.com/album/6vMhkwv9W0OQ3CJidAJ0Ks) | 2:00 | 2023-10-19 |  |
 | [Show Me Happiness](https://open.spotify.com/track/36IEUB6k3V3XmZpbdm2Jwk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Show Me Happiness](https://open.spotify.com/album/0bfsCbaYNQFljzk2fJ92hF) | 2:11 | 2021-08-14 | 2021-11-26 |
-| [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 |  |
+| [Sidewalk Serenade](https://open.spotify.com/track/3uR0aMn2F74InlapOBKtIi) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Sidewalk Serenade](https://open.spotify.com/album/0zzKLjkFoAbmcycEXRRQPT) | 2:23 | 2024-01-11 | 2024-02-07 |
 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-22 | 2023-04-07 |
 | [Signal](https://open.spotify.com/track/5lJ5yLyU2tpN7Y2fvEgN3a) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Signal](https://open.spotify.com/album/6MbqxLIUE4O6SMpRXWX1dw) | 2:36 | 2021-03-27 | 2021-08-27 |
 | [Signals](https://open.spotify.com/track/2IAYcLJNhjzsJu0MZeyk0i) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [Signals](https://open.spotify.com/album/07biVYYbzHvfepB2KXxBLk) | 4:36 | 2019-06-22 | 2019-10-25 |

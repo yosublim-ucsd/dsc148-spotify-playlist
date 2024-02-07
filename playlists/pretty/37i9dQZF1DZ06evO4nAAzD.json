@@ -1,15 +1,15 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3187,
+  "num_followers": 3196,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0NTIyMzEsMDAwMDAwMDBhNTFhNjhhNWI1N2ZjODc2Nzk0YjRlMWU2MDVkYzE1Yg==",
+  "snapshot_id": "Mjg0NTM2OTAsMDAwMDAwMDAyMTQ2OThmYmM1NzBlNGUxNmVlYWU4NWM0ZTFlYjA4Zg==",
   "tracks": [
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Meu Nome N\u00e3o \u00e9 Igor %",
         "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Seu Desejo",
         "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6NXRalvBaumJsaCzq4Q2aE"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Xeque-Mate (feat. Paiva Prod)",
         "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
@@ -121,7 +121,27 @@
       "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
+      "album": {
+        "name": "Gelo No Copo",
+        "url": "https://open.spotify.com/album/6HuGJQeZsgM8d7rho2MBEO"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        }
+      ],
+      "duration_ms": 299690,
+      "name": "Gelo No Copo",
+      "url": "https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO"
+    },
+    {
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Tira as Crian\u00e7as da Sala",
         "url": "https://open.spotify.com/album/37LLdoWsXVDA8oH54l2DGZ"
@@ -145,27 +165,7 @@
       "url": "https://open.spotify.com/track/5L5bJ9Wkheu7ixAW7SdOSB"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
-      "album": {
-        "name": "Gelo No Copo",
-        "url": "https://open.spotify.com/album/6HuGJQeZsgM8d7rho2MBEO"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        }
-      ],
-      "duration_ms": 299690,
-      "name": "Gelo No Copo",
-      "url": "https://open.spotify.com/track/3M2GmNwZ3VLr8zFTjKJJnO"
-    },
-    {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "S\u00f3 por Essa Noite",
         "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "V\u00caNUS\u2260netuno",
         "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Clima Diferente",
         "url": "https://open.spotify.com/album/6U49HmBuI0HTotwONu75ig"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1COJdoqBNXXwEOkrO55517"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Surtou",
         "url": "https://open.spotify.com/album/2yZb13O8WdkBnsA4VMNNoW"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/3Rn06bf6UmHALTqa2S5dXW"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Set Dj Br da Tijuca 2",
         "url": "https://open.spotify.com/album/3J6S6wPIgYQU4y7DfG7uBJ"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1UEknJ3tmxgeQI6CoXvDHx"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Set Dj Gm 3.0",
         "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Reca\u00edda",
         "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Baby o Que C\u00ea Quer de Mim?",
         "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Set Dj Br da Tijuca",
         "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/7vGHlTrWDz06KyvxGOZaOg"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Enquanto",
         "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Faixa Anjo",
         "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Ta Bom",
         "url": "https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Pouco Assunto",
         "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "ECL\u00c9TICO",
         "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
@@ -749,31 +749,7 @@
       "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
-      "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
-      },
-      "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
-    },
-    {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Por Que Isso?",
         "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
@@ -797,7 +773,31 @@
       "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
+      "album": {
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+    },
+    {
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Na Onda do Boldo",
         "url": "https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Momento (feat. Luccas Carlos)",
         "url": "https://open.spotify.com/album/7w1FWmH0xbFko0el1LP7tr"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/2ia5PzDqdzgJ6EGLItWzCL"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Set Dj Br da Tijuca 4",
         "url": "https://open.spotify.com/album/2FJgFYjUd550Kd2UqMA5pH"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3xvHrndua7QATZiN34fiD5"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Poc Poc",
         "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Bailean",
         "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Tipo Trem Bala",
         "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Quer Ibope",
         "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "SET DJ BR DA TIJUCA 5",
         "url": "https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "O Que Vai Ser De Mim",
         "url": "https://open.spotify.com/album/0RF7AQDptSuhkg2Z711xaQ"
@@ -1301,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2RkTX1WTeUS5VLCF20zAos"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Lambo",
         "url": "https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/06nllqzWyfgQXMrLBHUJk4"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Set Dj Br da Tijuca 3",
         "url": "https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im"
     },
     {
-      "added_at": "2024-02-05 11:51:02",
+      "added_at": "2024-02-06 12:10:41",
       "album": {
         "name": "Time dos Sonhos",
         "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"

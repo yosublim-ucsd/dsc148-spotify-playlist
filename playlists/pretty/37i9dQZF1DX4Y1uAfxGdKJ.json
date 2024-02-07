@@ -1,12 +1,12 @@
 {
   "description": "Driving electronic grooves for improved motivation and performance.",
-  "num_followers": 141904,
+  "num_followers": 141951,
   "original_name": "Electronic Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2E5NzNjZjBjZTQ4Y2EwNDg2MWNmMjEyOGQ1ZDdkNTc3NGNiY2Jl",
+  "snapshot_id": "MCxiNTU1MTZhZTFmYjA5MDViNGUyYTM0NGRiNjZkYzkwODMzMjY3MTk2",
   "tracks": [
     {
       "added_at": "2024-02-05 03:18:23",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-02-05 03:18:23",
       "album": {
-        "name": "A-Team",
-        "url": "https://open.spotify.com/album/3eH46tY5DCKyb22dsonj2K"
-      },
-      "artists": [
-        {
-          "name": "Hallman",
-          "url": "https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "A-Team",
-      "url": "https://open.spotify.com/track/0gh0JYCZCFCPwujERZ9bF4"
-    },
-    {
-      "added_at": "2024-02-05 03:18:23",
-      "album": {
         "name": "Relinquish",
         "url": "https://open.spotify.com/album/3oF2fUFYl6QQCGif3ttzT1"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 168305,
       "name": "Figures",
       "url": "https://open.spotify.com/track/3gW3k4nrod4POzhmV742rt"
-    },
-    {
-      "added_at": "2024-02-05 03:18:23",
-      "album": {
-        "name": "Over 'n Out",
-        "url": "https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL"
-      },
-      "artists": [
-        {
-          "name": "Trice",
-          "url": "https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO"
-        }
-      ],
-      "duration_ms": 231224,
-      "name": "Over 'n Out",
-      "url": "https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN"
     },
     {
       "added_at": "2024-02-05 03:18:23",
@@ -803,6 +771,22 @@
     {
       "added_at": "2024-02-05 03:18:23",
       "album": {
+        "name": "Over 'n Out",
+        "url": "https://open.spotify.com/album/2LMieSCexYmXR7Go2MPSAL"
+      },
+      "artists": [
+        {
+          "name": "Trice",
+          "url": "https://open.spotify.com/artist/5x9EQMZVmCycN7qdNjiGfO"
+        }
+      ],
+      "duration_ms": 231224,
+      "name": "Over 'n Out",
+      "url": "https://open.spotify.com/track/0AtdACyYQi5vFaMRYAINWN"
+    },
+    {
+      "added_at": "2024-02-05 03:18:23",
+      "album": {
         "name": "If I Tried",
         "url": "https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 153000,
       "name": "If I Tried",
       "url": "https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV"
+    },
+    {
+      "added_at": "2024-02-05 03:18:23",
+      "album": {
+        "name": "A-Team",
+        "url": "https://open.spotify.com/album/3eH46tY5DCKyb22dsonj2K"
+      },
+      "artists": [
+        {
+          "name": "Hallman",
+          "url": "https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "A-Team",
+      "url": "https://open.spotify.com/track/0gh0JYCZCFCPwujERZ9bF4"
     },
     {
       "added_at": "2024-02-05 03:18:23",

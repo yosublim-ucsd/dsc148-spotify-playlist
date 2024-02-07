@@ -4,7 +4,7 @@
 
 > Celebrity wedding planner Mindy Weiss brings you her essential songs for wedding season.
 
-35 songs - 2 hr 7 min
+36 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Best Part \(Piano Arrangement\)](https://open.spotify.com/track/16S49G9Wdj9SUB292NCyIK) | [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [Piano Covers, Vol\. 10](https://open.spotify.com/album/4kWG86wkg629XZQwlZZcoO) | 3:57 | 2022-05-31 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-05-31 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2022-05-31 |  |
-| [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-05-31 |  |
+| [Can't Help Falling in Love](https://open.spotify.com/track/3dqUv6E7L24BDImpGJWYGL) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/3Q2vDJ86mDQYcvOcd5sWwn) | 2:53 | 2022-05-31 |  |
+| [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 | 2022-05-31 | 2024-02-07 |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-05-31 |  |
 | [Diamonds](https://open.spotify.com/track/6M4CKv0mfBDXKg8uIphjG0) | [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f), [Joe Rodwell](https://open.spotify.com/artist/08v2ze9Khd6JwFPdgDoDRR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 1:56 | 2022-05-31 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/7zaiLgzejyT5M7fTsmqZ18) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [The Von Trapps](https://open.spotify.com/artist/2Mu6EXEvZgJedsm8fCrkiD) | [Dream a Little Dream](https://open.spotify.com/album/45VdrnQMcb43uBQyocSKqo) | 3:53 | 2022-05-31 |  |

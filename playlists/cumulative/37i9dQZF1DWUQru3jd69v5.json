@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 122630,
       "name": "BARACK OBAMA",
       "url": "https://open.spotify.com/track/7b3n858pamY9dX0nYhlIC8"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 179392,
       "name": "Bicrave",
       "url": "https://open.spotify.com/track/57NOAYZEQVxUcQvAYL6pwd"
@@ -10986,7 +10986,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 141474,
       "name": "Mediaset",
       "url": "https://open.spotify.com/track/1WTvu7hnPnWayJfg6qB5V8"
@@ -13349,6 +13349,24 @@
     },
     {
       "album": {
+        "name": "Parano",
+        "url": "https://open.spotify.com/album/4xnjv739wdqiq3RaXhw1E6"
+      },
+      "artists": [
+        {
+          "name": "Ndr",
+          "url": "https://open.spotify.com/artist/4wq1oHHk0ED410nQ0j8b85"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168990,
+      "name": "Parano",
+      "url": "https://open.spotify.com/track/7ly9Z69O3UgtkrmeD2zchQ"
+    },
+    {
+      "album": {
         "name": "Pararara",
         "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
       },
@@ -15146,7 +15164,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 118802,
       "name": "Rockefeller",
       "url": "https://open.spotify.com/track/5fWVgHHwRdHZTmyxGoqeXq"
@@ -17218,7 +17236,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-07",
       "duration_ms": 168019,
       "name": "Talento Sprecato",
       "url": "https://open.spotify.com/track/6EXLapjgbPbRwrafmfmR4C"

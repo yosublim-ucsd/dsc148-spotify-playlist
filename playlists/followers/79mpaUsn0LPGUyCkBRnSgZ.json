@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 1,
+  "2024-02-07": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -9475,6 +9475,24 @@
       "duration_ms": 277200,
       "name": "Velocity Girl",
       "url": "https://open.spotify.com/track/1sfI921cOH7r6HXGcJ7FnJ"
+    },
+    {
+      "album": {
+        "name": "Velvet Portraits",
+        "url": "https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93546,
+      "name": "Velvet Portraits",
+      "url": "https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb"
     },
     {
       "album": {

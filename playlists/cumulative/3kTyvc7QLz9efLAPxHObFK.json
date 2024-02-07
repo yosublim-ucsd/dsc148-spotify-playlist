@@ -8149,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "Gas Pedal",
+        "url": "https://open.spotify.com/album/2AmYeQfTduEWM1WQWNJQpA"
+      },
+      "artists": [
+        {
+          "name": "EQUAL2",
+          "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        },
+        {
+          "name": "Chromaxx",
+          "url": "https://open.spotify.com/artist/1jx8LgkLFjkIIDpyoIo2DA"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210195,
+      "name": "Gas Pedal",
+      "url": "https://open.spotify.com/track/6KQeQ48fGW7KwHJzQDKr08"
+    },
+    {
+      "album": {
         "name": "Gehenna 2023",
         "url": "https://open.spotify.com/album/4iuFdsTmvHwtfKtVykNHOK"
       },

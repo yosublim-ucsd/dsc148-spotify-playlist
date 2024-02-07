@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Cover: I Segreti
 
-743 songs - 1 day 17 hr 17 min
+744 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 | 2023-10-05 | 2023-11-17 |
 | [ho sentito il tuo cuore](https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier) | [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3) | [i mostri col cazzo che si nascondono sotto alle lenzuola](https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ) | 2:11 | 2023-03-02 | 2023-03-31 |
 | [Holobiont](https://open.spotify.com/track/06ZetzKuRbym6iYX0uPcKI) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Windows of My House \(Pastimes Vol\. III\)](https://open.spotify.com/album/5ZULctCGzLPmsTUFXtwC4T) | 2:02 | 2022-09-05 | 2022-09-16 |
-| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-08-31 |  |
+| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-08-31 | 2024-02-07 |
 | [Horror](https://open.spotify.com/track/6fPGBlx8wsAxhoDn7BwiAH) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 3:39 | 2022-05-09 | 2022-07-01 |
 | [How](https://open.spotify.com/track/000HoCMkO5w5BuqgU6TXUD) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [How](https://open.spotify.com/album/4RZjiV7GU686KQEVt1bvdt) | 2:39 | 2023-02-16 | 2023-04-14 |
 | [Hunters Of Hope](https://open.spotify.com/track/4cl1EbCu1f5nZnFoxegWib) | [Miss Chain & the Broken Heels](https://open.spotify.com/artist/1BrYRk30V2dJbQdFR4WSPi) | [Hunters Of Hope](https://open.spotify.com/album/3gWzsaXdytzGgQu3teTX7Y) | 3:26 | 2023-11-16 | 2023-12-15 |
@@ -496,6 +496,7 @@
 | [Particles](https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Particles](https://open.spotify.com/album/6dXLAeNNrUzFC8GxZvLeih) | 3:14 | 2022-05-09 | 2022-05-13 |
 | [Paura del buio \(feat\. Ibisco\)](https://open.spotify.com/track/5vGkxbfYamYEXYy4xbqTFP) | [APICE](https://open.spotify.com/artist/6XjatCpy0Nga62z2NWuVHd), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [RUMORE BIANCO](https://open.spotify.com/album/7F8ogWOLuMzYh2FIikjR2a) | 5:12 | 2024-01-25 |  |
 | [Pavlov](https://open.spotify.com/track/1SowNdMmeZqbvkYdR142Zt) | [Soft Boys Club](https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ) | [Pavlov](https://open.spotify.com/album/6Z05RE2ys7N0patRu7h8Sr) | 3:50 | 2024-01-11 |  |
+| [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-02-07 |  |
 | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/track/406l3Gfz3GUdmbrOBhA5DH) | [Andreotti](https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ) | [Pem Pem \(Io sono Elettra e faccio\)](https://open.spotify.com/album/6kN7YHy1mqESjJ64D8YQFD) | 6:17 | 2022-12-15 | 2023-01-20 |
 | [Pensieri dal sottoscala](https://open.spotify.com/track/21CXSmO5srLQaqNGpomeRQ) | [Livido](https://open.spotify.com/artist/6ETNsyRbs4DOmry3DxAQTC) | [Pensieri dal sottoscala](https://open.spotify.com/album/1WzIKkcurHq3U8Pl4c01gH) | 3:04 | 2023-05-25 | 2023-07-14 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |

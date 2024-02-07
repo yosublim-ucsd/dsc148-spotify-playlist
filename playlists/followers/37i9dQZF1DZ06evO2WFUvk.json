@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 3136,
+  "2024-02-07": 3135,
   "date_first_scraped": "2023-01-14",
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
   "name": "This Is Rodrigo Gonzalez",
@@ -183,6 +183,24 @@
       "duration_ms": 137573,
       "name": "Diva Francesa",
       "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "El Campeon",
+      "url": "https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t"
     },
     {
       "album": {
@@ -519,7 +537,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 188173,
       "name": "Vieja Ciudad De Hierro",
       "url": "https://open.spotify.com/track/7pQiufMiF96UFnhmqB43Lo"

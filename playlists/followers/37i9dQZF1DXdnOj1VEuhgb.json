@@ -1,5 +1,5 @@
 {
-  "2024-02-06": 1327818,
+  "2024-02-07": 1328145,
   "date_first_scraped": "2023-01-11",
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Lvbel C5",
   "name": "NKVT",
@@ -11,8 +11,8 @@
       },
       "artists": [
         {
-          "name": "dehainc",
-          "url": "https://open.spotify.com/artist/7Hz6CNU0L0sdoXL7EWLvhn"
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
         },
         {
           "name": "\u015eehin\u015fah",
@@ -4330,6 +4330,24 @@
     },
     {
       "album": {
+        "name": "RXCKSTAR",
+        "url": "https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY"
+      },
+      "artists": [
+        {
+          "name": "DEHA INC.",
+          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73441,
+      "name": "RXCKSTAR",
+      "url": "https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd"
+    },
+    {
+      "album": {
         "name": "Sahibinden",
         "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
       },
@@ -4931,7 +4949,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-02-06",
       "duration_ms": 121884,
       "name": "Trip att\u0131m",
       "url": "https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu"
